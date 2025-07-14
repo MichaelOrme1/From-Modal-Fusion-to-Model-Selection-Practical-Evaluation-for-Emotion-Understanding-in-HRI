@@ -10,3 +10,5 @@ To run the framework, you will need to obtain the data from the datasets and obt
 The framework has an autoencoder function that can encode the features for you, or use the included encoder models. The text modality will need to encoded as this was not included. 
 
 Once the autoencoders are set up, the framework can be used to test any numbers of combinations of modalities and classifiers.
+
+The full data can be found at: https://www.dropbox.com/scl/fi/yhdrhnlhyhgqlk8e0n6vx/IEMOCAP-AFFWILD.csv?rlkey=zf0yjyy2wuq8t6677d88akkim&st=kov9awt6&dl=0
