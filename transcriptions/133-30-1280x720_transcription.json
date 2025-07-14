@@ -1,0 +1,434 @@
+[
+    {
+        "start": 0.429,
+        "end": 8.957,
+        "text": " How long did you guys know each other",
+        "words": [
+            {
+                "word": "How",
+                "start": 0.429,
+                "end": 0.87,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 0.97,
+                "end": 1.13,
+                "score": 0.335,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did",
+                "start": 1.49,
+                "end": 1.871,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 1.951,
+                "end": 2.171,
+                "score": 0.514,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "guys",
+                "start": 2.251,
+                "end": 2.771,
+                "score": 0.58,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 3.012,
+                "end": 3.292,
+                "score": 0.588,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "each",
+                "start": 3.913,
+                "end": 4.653,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 4.713,
+                "end": 8.957,
+                "score": 0.569,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.36,
+        "end": 30.223,
+        "text": " Congrats, I hate that movie!",
+        "words": [
+            {
+                "word": "Congrats,",
+                "start": 26.36,
+                "end": 27.961,
+                "score": 0.775,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 28.162,
+                "end": 28.302,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hate",
+                "start": 28.382,
+                "end": 28.642,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 28.702,
+                "end": 29.202,
+                "score": 0.607,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "movie!",
+                "start": 29.263,
+                "end": 30.223,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.685,
+        "end": 37.329,
+        "text": "It's not funny!",
+        "words": [
+            {
+                "word": "It's",
+                "start": 31.685,
+                "end": 32.405,
+                "score": 0.548,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 32.485,
+                "end": 32.685,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "funny!",
+                "start": 32.726,
+                "end": 37.329,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 38.15,
+        "end": 43.415,
+        "text": "You're right, it's not funny.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 38.15,
+                "end": 39.992,
+                "score": 0.543,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "right,",
+                "start": 40.252,
+                "end": 42.214,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it's",
+                "start": 42.514,
+                "end": 42.694,
+                "score": 0.406,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 42.754,
+                "end": 43.034,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "funny.",
+                "start": 43.054,
+                "end": 43.415,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 43.675,
+        "end": 49.44,
+        "text": "They're so mean!",
+        "words": [
+            {
+                "word": "They're",
+                "start": 43.675,
+                "end": 44.976,
+                "score": 0.57,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 45.056,
+                "end": 45.296,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mean!",
+                "start": 48.819,
+                "end": 49.44,
+                "score": 0.646,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.52,
+        "end": 53.724,
+        "text": "Why would they make a movie like that?",
+        "words": [
+            {
+                "word": "Why",
+                "start": 49.52,
+                "end": 49.88,
+                "score": 0.545,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "would",
+                "start": 49.94,
+                "end": 51.302,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 51.342,
+                "end": 51.582,
+                "score": 0.524,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "make",
+                "start": 51.622,
+                "end": 51.842,
+                "score": 0.683,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 51.982,
+                "end": 52.082,
+                "score": 0.693,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "movie",
+                "start": 52.122,
+                "end": 52.683,
+                "score": 0.679,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 52.743,
+                "end": 53.063,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 53.163,
+                "end": 53.724,
+                "score": 0.548,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 56.37,
+        "end": 57.591,
+        "text": " It's not nice.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 56.37,
+                "end": 56.53,
+                "score": 0.456,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 56.63,
+                "end": 57.03,
+                "score": 0.717,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nice.",
+                "start": 57.11,
+                "end": 57.591,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.751,
+        "end": 62.496,
+        "text": "It's not funny why are you guys laughing?",
+        "words": [
+            {
+                "word": "It's",
+                "start": 57.751,
+                "end": 57.871,
+                "score": 0.162,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 57.951,
+                "end": 58.172,
+                "score": 0.652
+            },
+            {
+                "word": "funny",
+                "start": 58.492,
+                "end": 58.692,
+                "score": 0.349
+            },
+            {
+                "word": "why",
+                "start": 58.832,
+                "end": 59.072,
+                "score": 0.526
+            },
+            {
+                "word": "are",
+                "start": 59.092,
+                "end": 59.673,
+                "score": 0.817
+            },
+            {
+                "word": "you",
+                "start": 59.713,
+                "end": 60.033,
+                "score": 0.654
+            },
+            {
+                "word": "guys",
+                "start": 60.234,
+                "end": 61.415,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "laughing?",
+                "start": 61.475,
+                "end": 62.496,
+                "score": 0.645,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.596,
+        "end": 63.737,
+        "text": "This is sad.",
+        "words": [
+            {
+                "word": "This",
+                "start": 62.596,
+                "end": 62.936,
+                "score": 0.417,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 63.116,
+                "end": 63.236,
+                "score": 0.355,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sad.",
+                "start": 63.377,
+                "end": 63.737,
+                "score": 0.558,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 64.097,
+        "end": 66.46,
+        "text": "I don't like that movie.",
+        "words": [
+            {
+                "word": "I",
+                "start": 64.097,
+                "end": 64.217,
+                "score": 0.759,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 64.317,
+                "end": 64.598,
+                "score": 0.209,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 64.638,
+                "end": 64.878,
+                "score": 0.46,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 64.958,
+                "end": 65.399,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "movie.",
+                "start": 65.639,
+                "end": 66.46,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

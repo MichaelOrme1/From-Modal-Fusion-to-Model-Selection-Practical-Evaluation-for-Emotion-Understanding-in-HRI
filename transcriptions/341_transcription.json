@@ -1,0 +1,1443 @@
+[
+    {
+        "start": 0.109,
+        "end": 0.73,
+        "text": " Parody.",
+        "words": [
+            {
+                "word": "Parody.",
+                "start": 0.109,
+                "end": 0.73,
+                "score": 0.817,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 1.49,
+        "end": 5.393,
+        "text": "Let's check this out.",
+        "words": [
+            {
+                "word": "Let's",
+                "start": 1.49,
+                "end": 1.65,
+                "score": 0.152,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "check",
+                "start": 1.71,
+                "end": 1.93,
+                "score": 0.615,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 1.95,
+                "end": 2.091,
+                "score": 0.144,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "out.",
+                "start": 5.213,
+                "end": 5.393,
+                "score": 0.469,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 5.433,
+        "end": 10.477,
+        "text": "The CNN is uniquely trained and partially motivated.",
+        "words": [
+            {
+                "word": "The",
+                "start": 5.433,
+                "end": 5.513,
+                "score": 0.976,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "CNN",
+                "start": 5.553,
+                "end": 5.733,
+                "score": 0.522,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 5.793,
+                "end": 5.933,
+                "score": 0.678,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "uniquely",
+                "start": 6.013,
+                "end": 6.374,
+                "score": 0.291,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "trained",
+                "start": 6.394,
+                "end": 7.014,
+                "score": 0.695,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 7.134,
+                "end": 7.194,
+                "score": 0.522,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "partially",
+                "start": 7.234,
+                "end": 8.115,
+                "score": 0.512,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "motivated.",
+                "start": 8.155,
+                "end": 10.477,
+                "score": 0.522,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 10.497,
+        "end": 13.259,
+        "text": "Journalists without equal immune to anything newsworthy.",
+        "words": [
+            {
+                "word": "Journalists",
+                "start": 10.497,
+                "end": 11.017,
+                "score": 0.598,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "without",
+                "start": 11.077,
+                "end": 11.337,
+                "score": 0.891,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "equal",
+                "start": 11.397,
+                "end": 11.658,
+                "score": 0.943,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "immune",
+                "start": 11.738,
+                "end": 12.118,
+                "score": 0.464,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 12.158,
+                "end": 12.298,
+                "score": 0.644,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "anything",
+                "start": 12.318,
+                "end": 12.638,
+                "score": 0.468,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "newsworthy.",
+                "start": 12.698,
+                "end": 13.259,
+                "score": 0.652,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 14.059,
+        "end": 16.321,
+        "text": "But it is an agency of tweeting.",
+        "words": [
+            {
+                "word": "But",
+                "start": 14.059,
+                "end": 14.259,
+                "score": 0.815,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 14.279,
+                "end": 14.32,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 14.56,
+                "end": 14.62,
+                "score": 0.512,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "an",
+                "start": 14.66,
+                "end": 14.72,
+                "score": 0.641,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "agency",
+                "start": 14.76,
+                "end": 15.2,
+                "score": 0.6,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 15.26,
+                "end": 15.34,
+                "score": 0.434,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "tweeting.",
+                "start": 15.38,
+                "end": 16.321,
+                "score": 0.618,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 16.701,
+        "end": 18.643,
+        "text": "The time has come to disconnect the CNN.",
+        "words": [
+            {
+                "word": "The",
+                "start": 16.701,
+                "end": 16.881,
+                "score": 0.322,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "time",
+                "start": 16.901,
+                "end": 17.122,
+                "score": 0.828,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "has",
+                "start": 17.162,
+                "end": 17.282,
+                "score": 0.87,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "come",
+                "start": 17.342,
+                "end": 17.542,
+                "score": 0.828,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 17.622,
+                "end": 17.722,
+                "score": 0.917,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "disconnect",
+                "start": 17.762,
+                "end": 18.162,
+                "score": 0.555,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 18.202,
+                "end": 18.302,
+                "score": 0.748,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "CNN.",
+                "start": 18.322,
+                "end": 18.643,
+                "score": 0.657,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 19.083,
+        "end": 21.445,
+        "text": "Now I want you to choose your next words very carefully.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 19.083,
+                "end": 19.183,
+                "score": 0.628,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 19.203,
+                "end": 19.263,
+                "score": 0.511,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "want",
+                "start": 19.283,
+                "end": 19.423,
+                "score": 0.246,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 19.463,
+                "end": 19.563,
+                "score": 0.655,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 19.583,
+                "end": 19.623,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "choose",
+                "start": 19.643,
+                "end": 19.864,
+                "score": 0.845,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "your",
+                "start": 19.904,
+                "end": 20.024,
+                "score": 0.423,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "next",
+                "start": 20.044,
+                "end": 20.164,
+                "score": 0.628,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "words",
+                "start": 20.204,
+                "end": 20.404,
+                "score": 0.719,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "very",
+                "start": 20.424,
+                "end": 20.644,
+                "score": 0.5,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "carefully.",
+                "start": 20.664,
+                "end": 21.445,
+                "score": 0.644,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 22.425,
+        "end": 23.166,
+        "text": "Where is Cruz?",
+        "words": [
+            {
+                "word": "Where",
+                "start": 22.425,
+                "end": 22.566,
+                "score": 0.465,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 22.626,
+                "end": 22.706,
+                "score": 0.744,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Cruz?",
+                "start": 22.806,
+                "end": 23.166,
+                "score": 0.665,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 24.087,
+        "end": 25.928,
+        "text": "Last I heard he was leading Scientology.",
+        "words": [
+            {
+                "word": "Last",
+                "start": 24.087,
+                "end": 24.867,
+                "score": 0.643,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 24.907,
+                "end": 24.947,
+                "score": 0.95,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "heard",
+                "start": 24.987,
+                "end": 25.107,
+                "score": 0.943,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he",
+                "start": 25.127,
+                "end": 25.167,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 25.187,
+                "end": 25.248,
+                "score": 0.312,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "leading",
+                "start": 25.268,
+                "end": 25.428,
+                "score": 0.213,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Scientology.",
+                "start": 25.448,
+                "end": 25.928,
+                "score": 0.428,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 26.128,
+        "end": 29.991,
+        "text": "What kind of information does the CNN have on this science?",
+        "words": [
+            {
+                "word": "What",
+                "start": 26.128,
+                "end": 27.469,
+                "score": 0.5,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "kind",
+                "start": 27.489,
+                "end": 27.649,
+                "score": 0.359,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 27.669,
+                "end": 27.709,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "information",
+                "start": 27.769,
+                "end": 28.19,
+                "score": 0.375,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "does",
+                "start": 28.21,
+                "end": 28.37,
+                "score": 0.384,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 28.39,
+                "end": 28.45,
+                "score": 0.189,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "CNN",
+                "start": 28.47,
+                "end": 28.95,
+                "score": 0.63,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "have",
+                "start": 28.99,
+                "end": 29.311,
+                "score": 0.559,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "on",
+                "start": 29.331,
+                "end": 29.371,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 29.571,
+                "end": 29.751,
+                "score": 0.707,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "science?",
+                "start": 29.811,
+                "end": 29.991,
+                "score": 0.239,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 35.868,
+        "end": 39.65,
+        "text": " You're not a suppressive person, right?",
+        "words": [
+            {
+                "word": "You're",
+                "start": 35.868,
+                "end": 37.429,
+                "score": 0.681
+            },
+            {
+                "word": "not",
+                "start": 38.409,
+                "end": 38.589,
+                "score": 0.607,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 38.629,
+                "end": 38.65,
+                "score": 0.046,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "suppressive",
+                "start": 38.67,
+                "end": 39.13,
+                "score": 0.525,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "person,",
+                "start": 39.15,
+                "end": 39.45,
+                "score": 0.588,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "right?",
+                "start": 39.47,
+                "end": 39.65,
+                "score": 0.179,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 40.01,
+        "end": 40.45,
+        "text": "Not at all.",
+        "words": [
+            {
+                "word": "Not",
+                "start": 40.01,
+                "end": 40.19,
+                "score": 0.946,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "at",
+                "start": 40.21,
+                "end": 40.25,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "all.",
+                "start": 40.31,
+                "end": 40.45,
+                "score": 0.71,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 40.791,
+        "end": 45.553,
+        "text": "I think she's impressed.",
+        "words": [
+            {
+                "word": "I",
+                "start": 40.791,
+                "end": 41.111,
+                "score": 0.811
+            },
+            {
+                "word": "think",
+                "start": 42.631,
+                "end": 44.532,
+                "score": 0.801
+            },
+            {
+                "word": "she's",
+                "start": 44.612,
+                "end": 44.913,
+                "score": 0.343,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "impressed.",
+                "start": 44.973,
+                "end": 45.553,
+                "score": 0.38,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 45.633,
+        "end": 47.714,
+        "text": "Enough of this crude Scientology is real.",
+        "words": [
+            {
+                "word": "Enough",
+                "start": 45.633,
+                "end": 45.873,
+                "score": 0.439,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 45.913,
+                "end": 45.973,
+                "score": 0.438,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 46.013,
+                "end": 46.113,
+                "score": 0.507,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "crude",
+                "start": 46.153,
+                "end": 46.313,
+                "score": 0.437,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Scientology",
+                "start": 46.333,
+                "end": 46.914,
+                "score": 0.546,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 46.974,
+                "end": 47.034,
+                "score": 0.275,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "real.",
+                "start": 47.094,
+                "end": 47.714,
+                "score": 0.609,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 47.754,
+        "end": 49.835,
+        "text": "Reasonably priced religion and major TV.",
+        "words": [
+            {
+                "word": "Reasonably",
+                "start": 47.754,
+                "end": 48.174,
+                "score": 0.563,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "priced",
+                "start": 48.194,
+                "end": 48.454,
+                "score": 0.458,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "religion",
+                "start": 48.514,
+                "end": 49.295,
+                "score": 0.558,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 49.355,
+                "end": 49.415,
+                "score": 0.06,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "major",
+                "start": 49.435,
+                "end": 49.695,
+                "score": 0.394,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "TV.",
+                "start": 49.735,
+                "end": 49.835,
+                "score": 0.372,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 49.855,
+        "end": 50.875,
+        "text": "Burn her until I see her.",
+        "words": [
+            {
+                "word": "Burn",
+                "start": 49.855,
+                "end": 49.995,
+                "score": 0.272,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "her",
+                "start": 50.035,
+                "end": 50.135,
+                "score": 0.326,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "until",
+                "start": 50.195,
+                "end": 50.395,
+                "score": 0.301,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 50.455,
+                "end": 50.515,
+                "score": 0.585,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "see",
+                "start": 50.535,
+                "end": 50.755,
+                "score": 0.575,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "her.",
+                "start": 50.815,
+                "end": 50.875,
+                "score": 0.05
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 51.336,
+        "end": 54.757,
+        "text": "You're suing all of us for everything.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 51.336,
+                "end": 53.577,
+                "score": 0.741,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "suing",
+                "start": 53.597,
+                "end": 53.797,
+                "score": 0.525,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "all",
+                "start": 53.937,
+                "end": 54.057,
+                "score": 0.587,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 54.077,
+                "end": 54.117,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "us",
+                "start": 54.137,
+                "end": 54.197,
+                "score": 0.688,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "for",
+                "start": 54.217,
+                "end": 54.277,
+                "score": 0.029,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "everything.",
+                "start": 54.297,
+                "end": 54.757,
+                "score": 0.59,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 54.837,
+        "end": 55.358,
+        "text": "Say what?",
+        "words": [
+            {
+                "word": "Say",
+                "start": 54.837,
+                "end": 55.017,
+                "score": 0.375
+            },
+            {
+                "word": "what?",
+                "start": 55.118,
+                "end": 55.358,
+                "score": 0.4,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 63.317,
+        "end": 63.797,
+        "text": " presentation.",
+        "words": [
+            {
+                "word": "presentation.",
+                "start": 63.317,
+                "end": 63.797,
+                "score": 0.411,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 64.117,
+        "end": 69.799,
+        "text": "You want to bring down Scientology?",
+        "words": [
+            {
+                "word": "You",
+                "start": 64.117,
+                "end": 65.138,
+                "score": 0.62,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "want",
+                "start": 65.778,
+                "end": 66.098,
+                "score": 0.696,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 66.138,
+                "end": 66.278,
+                "score": 0.659,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "bring",
+                "start": 66.298,
+                "end": 66.458,
+                "score": 0.325,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "down",
+                "start": 66.478,
+                "end": 66.938,
+                "score": 0.656,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Scientology?",
+                "start": 66.958,
+                "end": 69.799,
+                "score": 0.587,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 70.019,
+        "end": 72.04,
+        "text": "It's impossible.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 70.019,
+                "end": 70.139,
+                "score": 0.503,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "impossible.",
+                "start": 70.159,
+                "end": 72.04,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 72.62,
+        "end": 79.242,
+        "text": "That's right.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 72.62,
+                "end": 76.821,
+                "score": 0.606
+            },
+            {
+                "word": "right.",
+                "start": 78.121,
+                "end": 79.242,
+                "score": 0.793,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 79.322,
+        "end": 86.064,
+        "text": "Who do we expose the church to?",
+        "words": [
+            {
+                "word": "Who",
+                "start": 79.322,
+                "end": 79.562,
+                "score": 0.513,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "do",
+                "start": 84.423,
+                "end": 85.084,
+                "score": 0.918
+            },
+            {
+                "word": "we",
+                "start": 85.124,
+                "end": 85.244,
+                "score": 0.574,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "expose",
+                "start": 85.324,
+                "end": 85.584,
+                "score": 0.418,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 85.604,
+                "end": 85.664,
+                "score": 0.138,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "church",
+                "start": 85.684,
+                "end": 85.904,
+                "score": 0.55,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to?",
+                "start": 85.924,
+                "end": 86.064,
+                "score": 0.52,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 86.784,
+        "end": 93.026,
+        "text": "New York Times, Orion, National, People, Empire, Entertainment.",
+        "words": [
+            {
+                "word": "New",
+                "start": 86.784,
+                "end": 87.244,
+                "score": 0.849
+            },
+            {
+                "word": "York",
+                "start": 88.705,
+                "end": 88.865,
+                "score": 0.399,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Times,",
+                "start": 88.885,
+                "end": 89.225,
+                "score": 0.51,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Orion,",
+                "start": 89.545,
+                "end": 90.165,
+                "score": 0.45,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "National,",
+                "start": 90.185,
+                "end": 90.565,
+                "score": 0.316,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "People,",
+                "start": 90.765,
+                "end": 91.566,
+                "score": 0.549,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Empire,",
+                "start": 91.766,
+                "end": 92.426,
+                "score": 0.621,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Entertainment.",
+                "start": 92.586,
+                "end": 93.026,
+                "score": 0.168
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 93.513,
+        "end": 93.673,
+        "text": " Hey.",
+        "words": [
+            {
+                "word": "Hey.",
+                "start": 93.513,
+                "end": 93.673,
+                "score": 0.486,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 93.733,
+        "end": 94.154,
+        "text": "Hey, yo.",
+        "words": [
+            {
+                "word": "Hey,",
+                "start": 93.733,
+                "end": 93.973,
+                "score": 0.502,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yo.",
+                "start": 94.054,
+                "end": 94.154,
+                "score": 0.686,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 119.326,
+        "end": 123.433,
+        "text": " Everybody in here sounded like who they were supposed to sound like.",
+        "words": [
+            {
+                "word": "Everybody",
+                "start": 119.326,
+                "end": 119.947,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 120.127,
+                "end": 120.248,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "here",
+                "start": 120.328,
+                "end": 120.628,
+                "score": 0.518,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sounded",
+                "start": 121.309,
+                "end": 121.75,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 121.81,
+                "end": 122.05,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 122.131,
+                "end": 122.271,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 122.291,
+                "end": 122.391,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "were",
+                "start": 122.411,
+                "end": 122.531,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "supposed",
+                "start": 122.551,
+                "end": 122.872,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 122.892,
+                "end": 122.972,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sound",
+                "start": 122.992,
+                "end": 123.232,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like.",
+                "start": 123.252,
+                "end": 123.433,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 123.773,
+        "end": 124.374,
+        "text": "That was good.",
+        "words": [
+            {
+                "word": "That",
+                "start": 123.773,
+                "end": 123.953,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 123.973,
+                "end": 124.094,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "good.",
+                "start": 124.134,
+                "end": 124.374,
+                "score": 0.805,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 124.394,
+        "end": 131.425,
+        "text": "It was funny because I started when I was listening, I was like, wait a minute, they did a damn good job.",
+        "words": [
+            {
+                "word": "It",
+                "start": 124.394,
+                "end": 124.434,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 126.557,
+                "end": 126.658,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "funny",
+                "start": 126.698,
+                "end": 126.938,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 126.978,
+                "end": 127.238,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 127.259,
+                "end": 127.279,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "started",
+                "start": 127.659,
+                "end": 127.94,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 128.02,
+                "end": 128.14,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 128.16,
+                "end": 128.2,
+                "score": 0.599,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 128.24,
+                "end": 128.32,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "listening,",
+                "start": 128.38,
+                "end": 128.701,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 128.721,
+                "end": 128.761,
+                "score": 0.181,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 128.781,
+                "end": 128.881,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like,",
+                "start": 128.901,
+                "end": 129.021,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wait",
+                "start": 129.041,
+                "end": 129.161,
+                "score": 0.279,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 129.202,
+                "end": 129.222,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "minute,",
+                "start": 129.242,
+                "end": 129.462,
+                "score": 0.332,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 130.423,
+                "end": 130.584,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did",
+                "start": 130.624,
+                "end": 130.744,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 130.804,
+                "end": 130.844,
+                "score": 0.256,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "damn",
+                "start": 130.864,
+                "end": 131.125,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "good",
+                "start": 131.145,
+                "end": 131.345,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "job.",
+                "start": 131.365,
+                "end": 131.425,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

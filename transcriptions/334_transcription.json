@@ -1,0 +1,1023 @@
+[
+    {
+        "start": 0.009,
+        "end": 5.911,
+        "text": " Come on, nigga!",
+        "words": [
+            {
+                "word": "Come",
+                "start": 0.009,
+                "end": 0.389,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on,",
+                "start": 5.531,
+                "end": 5.611,
+                "score": 0.509,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nigga!",
+                "start": 5.631,
+                "end": 5.911,
+                "score": 0.304,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.912,
+        "end": 18.015,
+        "text": "For the hero, the only true conclusion is death.",
+        "words": [
+            {
+                "word": "For",
+                "start": 9.912,
+                "end": 10.052,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 10.092,
+                "end": 10.233,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hero,",
+                "start": 10.293,
+                "end": 10.873,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 13.074,
+                "end": 13.174,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "only",
+                "start": 13.274,
+                "end": 13.494,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "true",
+                "start": 13.594,
+                "end": 13.854,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "conclusion",
+                "start": 13.914,
+                "end": 14.574,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 17.575,
+                "end": 17.655,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "death.",
+                "start": 17.715,
+                "end": 18.015,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 18.435,
+        "end": 28.699,
+        "text": "The hero does not cower to death, for that would belittle life.",
+        "words": [
+            {
+                "word": "The",
+                "start": 18.435,
+                "end": 23.137,
+                "score": 0.603,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hero",
+                "start": 23.217,
+                "end": 23.557,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 23.617,
+                "end": 23.817,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 23.977,
+                "end": 24.237,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cower",
+                "start": 24.397,
+                "end": 24.838,
+                "score": 0.805,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 24.878,
+                "end": 24.998,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "death,",
+                "start": 25.078,
+                "end": 25.458,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 27.258,
+                "end": 27.398,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 27.459,
+                "end": 27.639,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "would",
+                "start": 27.679,
+                "end": 27.859,
+                "score": 0.716,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "belittle",
+                "start": 27.879,
+                "end": 28.359,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "life.",
+                "start": 28.459,
+                "end": 28.699,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.277,
+        "end": 36.301,
+        "text": " The hero knows he cannot defeat danger but for a moment he can free others from fear.",
+        "words": [
+            {
+                "word": "The",
+                "start": 31.277,
+                "end": 31.357,
+                "score": 0.741
+            },
+            {
+                "word": "hero",
+                "start": 31.397,
+                "end": 31.657,
+                "score": 0.551
+            },
+            {
+                "word": "knows",
+                "start": 31.677,
+                "end": 31.878,
+                "score": 0.812
+            },
+            {
+                "word": "he",
+                "start": 31.918,
+                "end": 31.998,
+                "score": 0.92
+            },
+            {
+                "word": "cannot",
+                "start": 32.038,
+                "end": 32.318,
+                "score": 0.926
+            },
+            {
+                "word": "defeat",
+                "start": 32.358,
+                "end": 32.778,
+                "score": 0.833
+            },
+            {
+                "word": "danger",
+                "start": 32.898,
+                "end": 33.279,
+                "score": 0.799
+            },
+            {
+                "word": "but",
+                "start": 33.299,
+                "end": 33.439,
+                "score": 0.985
+            },
+            {
+                "word": "for",
+                "start": 33.479,
+                "end": 33.639,
+                "score": 0.794
+            },
+            {
+                "word": "a",
+                "start": 33.679,
+                "end": 33.719,
+                "score": 0.499
+            },
+            {
+                "word": "moment",
+                "start": 33.799,
+                "end": 34.16,
+                "score": 0.966
+            },
+            {
+                "word": "he",
+                "start": 34.64,
+                "end": 34.74,
+                "score": 0.98
+            },
+            {
+                "word": "can",
+                "start": 34.78,
+                "end": 34.94,
+                "score": 0.992
+            },
+            {
+                "word": "free",
+                "start": 35.04,
+                "end": 35.261,
+                "score": 0.84
+            },
+            {
+                "word": "others",
+                "start": 35.341,
+                "end": 35.601,
+                "score": 0.754
+            },
+            {
+                "word": "from",
+                "start": 35.641,
+                "end": 35.861,
+                "score": 0.835
+            },
+            {
+                "word": "fear.",
+                "start": 36.001,
+                "end": 36.301,
+                "score": 0.913
+            }
+        ]
+    },
+    {
+        "start": 39.244,
+        "end": 42.587,
+        "text": "Let those left behind find hope in his sacrifice.",
+        "words": [
+            {
+                "word": "Let",
+                "start": 39.244,
+                "end": 39.444,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 39.504,
+                "end": 39.764,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "left",
+                "start": 39.845,
+                "end": 40.085,
+                "score": 0.449,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "behind",
+                "start": 40.165,
+                "end": 40.605,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "find",
+                "start": 40.705,
+                "end": 41.006,
+                "score": 0.621,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hope",
+                "start": 41.126,
+                "end": 41.386,
+                "score": 0.724,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 41.446,
+                "end": 41.566,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 41.626,
+                "end": 41.786,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sacrifice.",
+                "start": 41.866,
+                "end": 42.587,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.669,
+        "end": 53.436,
+        "text": "Let those who knew him well speak of his fierce loyalty, unwavering convictions and when the time came, his ultimate willingness to give all.",
+        "words": [
+            {
+                "word": "Let",
+                "start": 44.669,
+                "end": 44.849,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 44.929,
+                "end": 45.189,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 45.249,
+                "end": 45.409,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knew",
+                "start": 45.489,
+                "end": 45.71,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him",
+                "start": 45.77,
+                "end": 45.93,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "well",
+                "start": 46.01,
+                "end": 46.39,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "speak",
+                "start": 46.53,
+                "end": 46.831,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 46.891,
+                "end": 46.971,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 47.051,
+                "end": 47.191,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fierce",
+                "start": 47.291,
+                "end": 47.651,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "loyalty,",
+                "start": 47.771,
+                "end": 48.372,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unwavering",
+                "start": 48.652,
+                "end": 49.293,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "convictions",
+                "start": 49.353,
+                "end": 49.853,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 49.933,
+                "end": 49.993,
+                "score": 0.199,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 50.013,
+                "end": 50.114,
+                "score": 0.222,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 50.154,
+                "end": 50.254,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time",
+                "start": 50.294,
+                "end": 50.594,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "came,",
+                "start": 50.694,
+                "end": 50.994,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 51.255,
+                "end": 51.475,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ultimate",
+                "start": 51.635,
+                "end": 52.095,
+                "score": 0.465,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "willingness",
+                "start": 52.215,
+                "end": 52.656,
+                "score": 0.409,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 52.696,
+                "end": 52.856,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "give",
+                "start": 52.896,
+                "end": 53.076,
+                "score": 0.439,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all.",
+                "start": 53.156,
+                "end": 53.436,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 56.359,
+        "end": 57.24,
+        "text": "Legends live on.",
+        "words": [
+            {
+                "word": "Legends",
+                "start": 56.359,
+                "end": 56.739,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "live",
+                "start": 56.819,
+                "end": 57.02,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on.",
+                "start": 57.18,
+                "end": 57.24,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.143,
+        "end": 62.424,
+        "text": " Only man comes to an end.",
+        "words": [
+            {
+                "word": "Only",
+                "start": 60.143,
+                "end": 60.403,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "man",
+                "start": 60.483,
+                "end": 60.803,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "comes",
+                "start": 60.903,
+                "end": 61.163,
+                "score": 0.39,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 61.223,
+                "end": 61.404,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 61.564,
+                "end": 61.684,
+                "score": 0.403,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "end.",
+                "start": 62.264,
+                "end": 62.424,
+                "score": 0.465
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.444,
+        "end": 63.504,
+        "text": "I like that.",
+        "words": [
+            {
+                "word": "I",
+                "start": 62.444,
+                "end": 62.464,
+                "score": 0.001
+            },
+            {
+                "word": "like",
+                "start": 62.544,
+                "end": 62.784,
+                "score": 0.56,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that.",
+                "start": 63.304,
+                "end": 63.504,
+                "score": 0.614,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 63.604,
+        "end": 67.766,
+        "text": "Don't like the music though.",
+        "words": [
+            {
+                "word": "Don't",
+                "start": 63.604,
+                "end": 63.804,
+                "score": 0.343,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 63.885,
+                "end": 64.085,
+                "score": 0.505,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 64.145,
+                "end": 64.345,
+                "score": 0.514
+            },
+            {
+                "word": "music",
+                "start": 64.425,
+                "end": 66.185,
+                "score": 0.672,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "though.",
+                "start": 66.245,
+                "end": 67.766,
+                "score": 0.636,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 67.886,
+        "end": 69.647,
+        "text": "Again.",
+        "words": [
+            {
+                "word": "Again.",
+                "start": 67.886,
+                "end": 69.647,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.687,
+        "end": 76.269,
+        "text": "That was a hard hit.",
+        "words": [
+            {
+                "word": "That",
+                "start": 69.687,
+                "end": 70.967,
+                "score": 0.424,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 71.087,
+                "end": 71.848,
+                "score": 0.609,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 74.909,
+                "end": 75.349,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hard",
+                "start": 75.449,
+                "end": 75.849,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hit.",
+                "start": 76.069,
+                "end": 76.269,
+                "score": 0.623,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 76.329,
+        "end": 78.33,
+        "text": "TF5 Demon throwing.",
+        "words": [
+            {
+                "word": "TF5",
+                "start": 76.329,
+                "end": 76.37,
+                "score": 0.094,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Demon",
+                "start": 76.39,
+                "end": 77.09,
+                "score": 0.765,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "throwing.",
+                "start": 77.87,
+                "end": 78.33,
+                "score": 0.445,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 91.237,
+        "end": 91.557,
+        "text": " Woo!",
+        "words": [
+            {
+                "word": "Woo!",
+                "start": 91.237,
+                "end": 91.557,
+                "score": 0.735,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 92.177,
+        "end": 102.441,
+        "text": "So long as you can!",
+        "words": [
+            {
+                "word": "So",
+                "start": 92.177,
+                "end": 92.718,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 92.778,
+                "end": 93.038,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 93.218,
+                "end": 93.458,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 100.12,
+                "end": 100.561,
+                "score": 0.591,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can!",
+                "start": 100.881,
+                "end": 102.441,
+                "score": 0.688,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 102.681,
+        "end": 106.203,
+        "text": "Arkham Knight, pick yours up tomorrow.",
+        "words": [
+            {
+                "word": "Arkham",
+                "start": 102.681,
+                "end": 103.082,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Knight,",
+                "start": 103.182,
+                "end": 103.642,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pick",
+                "start": 104.402,
+                "end": 104.622,
+                "score": 0.549,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yours",
+                "start": 104.662,
+                "end": 105.042,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 105.182,
+                "end": 105.302,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tomorrow.",
+                "start": 105.723,
+                "end": 106.203,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 106.223,
+        "end": 107.003,
+        "text": "This is how it happened.",
+        "words": [
+            {
+                "word": "This",
+                "start": 106.223,
+                "end": 106.343,
+                "score": 0.158,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 106.363,
+                "end": 106.403,
+                "score": 0.222,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 106.423,
+                "end": 106.623,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 106.643,
+                "end": 106.703,
+                "score": 0.214,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happened.",
+                "start": 106.763,
+                "end": 107.003,
+                "score": 0.218,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 109.384,
+        "end": 111.005,
+        "text": "This is how the Batman died.",
+        "words": [
+            {
+                "word": "This",
+                "start": 109.384,
+                "end": 109.564,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 109.644,
+                "end": 109.704,
+                "score": 0.757,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 109.744,
+                "end": 109.884,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 109.924,
+                "end": 110.024,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Batman",
+                "start": 110.064,
+                "end": 110.584,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "died.",
+                "start": 110.664,
+                "end": 111.005,
+                "score": 0.556,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 112.045,
+        "end": 112.385,
+        "text": "Ha.",
+        "words": [
+            {
+                "word": "Ha.",
+                "start": 112.045,
+                "end": 112.385,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 115.606,
+        "end": 116.987,
+        "text": "Pre-order now.",
+        "words": [
+            {
+                "word": "Pre-order",
+                "start": 115.606,
+                "end": 116.387,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now.",
+                "start": 116.627,
+                "end": 116.987,
+                "score": 0.979,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

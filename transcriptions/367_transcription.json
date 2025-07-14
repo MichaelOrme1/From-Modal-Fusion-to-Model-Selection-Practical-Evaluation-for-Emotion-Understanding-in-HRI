@@ -1,0 +1,586 @@
+[
+    {
+        "start": 27.21,
+        "end": 55.436,
+        "text": " One day I'll remember Remember everything that happened The good, the bad Those who survived And those that did not Home is behind The world ahead",
+        "words": [
+            {
+                "word": "One",
+                "start": 27.21,
+                "end": 36.792,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "day",
+                "start": 36.832,
+                "end": 36.912,
+                "score": 0.297,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'll",
+                "start": 36.932,
+                "end": 37.072,
+                "score": 0.076,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remember",
+                "start": 37.092,
+                "end": 37.512,
+                "score": 0.045,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Remember",
+                "start": 37.532,
+                "end": 39.212,
+                "score": 0.032,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everything",
+                "start": 39.232,
+                "end": 40.633,
+                "score": 0.049,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 40.653,
+                "end": 40.773,
+                "score": 0.121
+            },
+            {
+                "word": "happened",
+                "start": 40.793,
+                "end": 41.053,
+                "score": 0.027
+            },
+            {
+                "word": "The",
+                "start": 41.073,
+                "end": 41.593,
+                "score": 0.035
+            },
+            {
+                "word": "good,",
+                "start": 41.613,
+                "end": 41.913,
+                "score": 0.005
+            },
+            {
+                "word": "the",
+                "start": 41.933,
+                "end": 45.574,
+                "score": 0.014
+            },
+            {
+                "word": "bad",
+                "start": 45.614,
+                "end": 45.754,
+                "score": 0.041,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Those",
+                "start": 45.774,
+                "end": 45.934,
+                "score": 0.01,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 45.974,
+                "end": 46.074,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "survived",
+                "start": 46.094,
+                "end": 48.274,
+                "score": 0.013,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "And",
+                "start": 48.314,
+                "end": 48.414,
+                "score": 0.256,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 48.434,
+                "end": 48.654,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 48.714,
+                "end": 48.894,
+                "score": 0.096,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did",
+                "start": 48.914,
+                "end": 49.094,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 49.114,
+                "end": 50.315,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Home",
+                "start": 51.275,
+                "end": 52.055,
+                "score": 0.094,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 52.075,
+                "end": 52.415,
+                "score": 0.126,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "behind",
+                "start": 52.435,
+                "end": 54.796,
+                "score": 0.012,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "The",
+                "start": 54.816,
+                "end": 55.016,
+                "score": 0.053,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 55.056,
+                "end": 55.296,
+                "score": 0.033,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ahead",
+                "start": 55.316,
+                "end": 55.436,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.026,
+        "end": 83.945,
+        "text": " There are many paths to tread Through shadow To the edge of night Until the stars are all alight Mist and shadow",
+        "words": [
+            {
+                "word": "There",
+                "start": 60.026,
+                "end": 60.466,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 60.566,
+                "end": 60.867,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 60.887,
+                "end": 61.988,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "paths",
+                "start": 62.008,
+                "end": 63.489,
+                "score": 0.043,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 63.509,
+                "end": 66.211,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tread",
+                "start": 66.251,
+                "end": 66.751,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Through",
+                "start": 66.771,
+                "end": 69.333,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shadow",
+                "start": 69.433,
+                "end": 69.694,
+                "score": 0.07,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "To",
+                "start": 69.714,
+                "end": 70.074,
+                "score": 0.01,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 70.094,
+                "end": 70.234,
+                "score": 0.095,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "edge",
+                "start": 70.354,
+                "end": 70.594,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 70.634,
+                "end": 71.035,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "night",
+                "start": 71.055,
+                "end": 71.655,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Until",
+                "start": 72.195,
+                "end": 74.557,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 74.597,
+                "end": 75.418,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stars",
+                "start": 75.478,
+                "end": 76.539,
+                "score": 0.093,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 76.639,
+                "end": 76.999,
+                "score": 0.097,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 77.079,
+                "end": 78.6,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "alight",
+                "start": 78.681,
+                "end": 81.082,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Mist",
+                "start": 82.403,
+                "end": 82.864,
+                "score": 0.038,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 82.904,
+                "end": 83.324,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shadow",
+                "start": 83.404,
+                "end": 83.945,
+                "score": 0.08,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 92.671,
+        "end": 95.553,
+        "text": " Will you have peace or war?",
+        "words": [
+            {
+                "word": "Will",
+                "start": 92.671,
+                "end": 92.751,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 92.771,
+                "end": 92.851,
+                "score": 0.306,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 92.871,
+                "end": 93.031,
+                "score": 0.134,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "peace",
+                "start": 93.071,
+                "end": 93.752,
+                "score": 0.037,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 93.832,
+                "end": 94.052,
+                "score": 0.084,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "war?",
+                "start": 94.072,
+                "end": 95.553,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 95.593,
+        "end": 97.995,
+        "text": "I will have war.",
+        "words": [
+            {
+                "word": "I",
+                "start": 95.593,
+                "end": 95.633,
+                "score": 0.037,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 95.673,
+                "end": 97.534,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 97.574,
+                "end": 97.835,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "war.",
+                "start": 97.875,
+                "end": 97.995,
+                "score": 0.165,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 98.075,
+        "end": 116.047,
+        "text": "This is gonna be the most epic thing ever!",
+        "words": [
+            {
+                "word": "This",
+                "start": 98.075,
+                "end": 112.365,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 112.425,
+                "end": 112.505,
+                "score": 0.021,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 112.525,
+                "end": 112.845,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 112.885,
+                "end": 113.005,
+                "score": 0.114,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 113.025,
+                "end": 113.185,
+                "score": 0.076,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "most",
+                "start": 113.205,
+                "end": 113.546,
+                "score": 0.115,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "epic",
+                "start": 113.606,
+                "end": 113.966,
+                "score": 0.146,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "thing",
+                "start": 113.986,
+                "end": 114.226,
+                "score": 0.105,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ever!",
+                "start": 114.306,
+                "end": 116.047,
+                "score": 0.132,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 116.087,
+        "end": 120.27,
+        "text": "Will you follow me?",
+        "words": [
+            {
+                "word": "Will",
+                "start": 116.087,
+                "end": 116.368,
+                "score": 0.018,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 116.388,
+                "end": 116.448,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "follow",
+                "start": 116.468,
+                "end": 116.608,
+                "score": 0.04,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me?",
+                "start": 116.628,
+                "end": 120.27,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 120.33,
+        "end": 120.951,
+        "text": "One last time.",
+        "words": [
+            {
+                "word": "One",
+                "start": 120.33,
+                "end": 120.45,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "last",
+                "start": 120.47,
+                "end": 120.731,
+                "score": 0.206,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time.",
+                "start": 120.751,
+                "end": 120.951,
+                "score": 0.117,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 132.961,
+        "end": 133.309,
+        "text": " AAAAAAAH!",
+        "words": [
+            {
+                "word": "AAAAAAAH!",
+                "start": 132.961,
+                "end": 133.309,
+                "score": 0.024,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

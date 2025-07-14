@@ -1,0 +1,901 @@
+[
+    {
+        "start": 0.503,
+        "end": 6.907,
+        "text": " Helo fyddwn i wedi bod yma heddiw gyda fideo gweithredu.",
+        "words": [
+            {
+                "word": "Helo",
+                "start": 0.503,
+                "end": 1.704,
+                "score": 0.131,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fyddwn",
+                "start": 1.904,
+                "end": 2.164,
+                "score": 0.148,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 2.184,
+                "end": 2.204,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 2.244,
+                "end": 2.584,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 2.604,
+                "end": 2.664,
+                "score": 0.323,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yma",
+                "start": 2.684,
+                "end": 2.965,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "heddiw",
+                "start": 3.005,
+                "end": 3.265,
+                "score": 0.091,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyda",
+                "start": 3.325,
+                "end": 5.586,
+                "score": 0.025,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fideo",
+                "start": 5.626,
+                "end": 5.886,
+                "score": 0.089,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gweithredu.",
+                "start": 5.906,
+                "end": 6.907,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.947,
+        "end": 11.25,
+        "text": "Nid yw hyn unrhyw beth i'w wneud gyda'r Transformers neu unrhyw beth.",
+        "words": [
+            {
+                "word": "Nid",
+                "start": 6.947,
+                "end": 7.067,
+                "score": 0.341,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw",
+                "start": 7.107,
+                "end": 8.488,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hyn",
+                "start": 8.508,
+                "end": 8.668,
+                "score": 0.152,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unrhyw",
+                "start": 8.768,
+                "end": 9.048,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beth",
+                "start": 9.068,
+                "end": 9.409,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 9.449,
+                "end": 9.609,
+                "score": 0.161,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 9.629,
+                "end": 9.729,
+                "score": 0.182,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyda'r",
+                "start": 9.749,
+                "end": 9.989,
+                "score": 0.054,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Transformers",
+                "start": 10.009,
+                "end": 10.589,
+                "score": 0.262,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "neu",
+                "start": 10.649,
+                "end": 10.91,
+                "score": 0.043,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unrhyw",
+                "start": 10.95,
+                "end": 11.07,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beth.",
+                "start": 11.09,
+                "end": 11.25,
+                "score": 0.04,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.27,
+        "end": 16.353,
+        "text": "Dyma'r newydd trailer Avengers ar gyfer newydd Age of Ultron.",
+        "words": [
+            {
+                "word": "Dyma'r",
+                "start": 11.27,
+                "end": 11.77,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "newydd",
+                "start": 11.81,
+                "end": 12.951,
+                "score": 0.05,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trailer",
+                "start": 12.971,
+                "end": 13.791,
+                "score": 0.127,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Avengers",
+                "start": 13.811,
+                "end": 14.832,
+                "score": 0.07,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 14.912,
+                "end": 15.112,
+                "score": 0.235,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyfer",
+                "start": 15.132,
+                "end": 15.693,
+                "score": 0.023,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "newydd",
+                "start": 15.713,
+                "end": 15.933,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Age",
+                "start": 15.973,
+                "end": 16.033,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 16.053,
+                "end": 16.093,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ultron.",
+                "start": 16.193,
+                "end": 16.353,
+                "score": 0.077,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 16.373,
+        "end": 19.655,
+        "text": "Felly ie, dwi ddim wedi gwneud un o'r rhain o'r blaen.",
+        "words": [
+            {
+                "word": "Felly",
+                "start": 16.373,
+                "end": 16.633,
+                "score": 0.24,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ie,",
+                "start": 16.653,
+                "end": 16.693,
+                "score": 0.089,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dwi",
+                "start": 16.793,
+                "end": 17.114,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddim",
+                "start": 17.134,
+                "end": 18.214,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 18.394,
+                "end": 18.995,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwneud",
+                "start": 19.015,
+                "end": 19.175,
+                "score": 0.252,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "un",
+                "start": 19.195,
+                "end": 19.235,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 19.255,
+                "end": 19.315,
+                "score": 0.343,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhain",
+                "start": 19.335,
+                "end": 19.435,
+                "score": 0.019,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 19.455,
+                "end": 19.515,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blaen.",
+                "start": 19.535,
+                "end": 19.655,
+                "score": 0.147,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.305,
+        "end": 33.291,
+        "text": " i'r Avengers, felly roeddwn i'n meddwl beth fyddwn i'n gwneud, rydw i'n gwneud ymateb i hyn, mae'n unig 41 munud, felly rwy'n meddwl ei fod yn fwy fawr nag unrhyw ail trailer, ond yn unrhyw fath, gadewch i ni ei wylio.",
+        "words": [
+            {
+                "word": "i'r",
+                "start": 21.305,
+                "end": 21.405,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Avengers,",
+                "start": 21.445,
+                "end": 22.526,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "felly",
+                "start": 22.546,
+                "end": 22.686,
+                "score": 0.209,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "roeddwn",
+                "start": 22.726,
+                "end": 22.946,
+                "score": 0.086,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'n",
+                "start": 23.006,
+                "end": 23.086,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "meddwl",
+                "start": 23.106,
+                "end": 24.246,
+                "score": 0.334,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beth",
+                "start": 24.286,
+                "end": 24.627,
+                "score": 0.202,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fyddwn",
+                "start": 24.707,
+                "end": 25.087,
+                "score": 0.3,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'n",
+                "start": 25.187,
+                "end": 25.307,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwneud,",
+                "start": 25.327,
+                "end": 25.607,
+                "score": 0.184,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydw",
+                "start": 25.627,
+                "end": 26.007,
+                "score": 0.068,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'n",
+                "start": 26.287,
+                "end": 26.367,
+                "score": 0.393,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwneud",
+                "start": 26.427,
+                "end": 26.708,
+                "score": 0.142,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymateb",
+                "start": 26.768,
+                "end": 27.228,
+                "score": 0.019,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 27.268,
+                "end": 27.328,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hyn,",
+                "start": 27.348,
+                "end": 27.448,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mae'n",
+                "start": 27.468,
+                "end": 27.568,
+                "score": 0.185,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unig",
+                "start": 27.588,
+                "end": 27.788,
+                "score": 0.114,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "41"
+            },
+            {
+                "word": "munud,",
+                "start": 27.828,
+                "end": 28.088,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "felly",
+                "start": 28.108,
+                "end": 28.248,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rwy'n",
+                "start": 28.268,
+                "end": 28.368,
+                "score": 0.373,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "meddwl",
+                "start": 28.388,
+                "end": 29.229,
+                "score": 0.011,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 29.249,
+                "end": 29.289,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fod",
+                "start": 29.309,
+                "end": 29.489,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 29.549,
+                "end": 29.629,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fwy",
+                "start": 29.649,
+                "end": 29.889,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fawr",
+                "start": 29.909,
+                "end": 30.009,
+                "score": 0.114,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nag",
+                "start": 30.029,
+                "end": 30.089,
+                "score": 0.364,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unrhyw",
+                "start": 30.109,
+                "end": 30.79,
+                "score": 0.092,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ail",
+                "start": 30.81,
+                "end": 30.95,
+                "score": 0.067,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trailer,",
+                "start": 30.97,
+                "end": 31.15,
+                "score": 0.136,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ond",
+                "start": 31.17,
+                "end": 31.23,
+                "score": 0.013,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 31.25,
+                "end": 31.29,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unrhyw",
+                "start": 31.31,
+                "end": 31.43,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fath,",
+                "start": 31.45,
+                "end": 32.49,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gadewch",
+                "start": 32.51,
+                "end": 32.971,
+                "score": 0.158,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 32.991,
+                "end": 33.011,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 33.031,
+                "end": 33.091,
+                "score": 0.147,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 33.111,
+                "end": 33.171,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wylio.",
+                "start": 33.191,
+                "end": 33.291,
+                "score": 0.186,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.64,
+        "end": 61.922,
+        "text": " Ultron yn y bywyd.",
+        "words": [
+            {
+                "word": "Ultron",
+                "start": 60.64,
+                "end": 60.9,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 60.94,
+                "end": 61.361,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 61.461,
+                "end": 61.501,
+                "score": 0.0
+            },
+            {
+                "word": "bywyd.",
+                "start": 61.601,
+                "end": 61.922,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.142,
+        "end": 69.21,
+        "text": "Yn rhan o beth sy'n gyflawni neu'n llwyr, mae'r broblem bob amser yn dod ymlaen.",
+        "words": [
+            {
+                "word": "Yn",
+                "start": 62.142,
+                "end": 62.302,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhan",
+                "start": 62.402,
+                "end": 63.283,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 63.423,
+                "end": 63.443,
+                "score": 0.0
+            },
+            {
+                "word": "beth",
+                "start": 63.483,
+                "end": 63.764,
+                "score": 0.0
+            },
+            {
+                "word": "sy'n",
+                "start": 63.864,
+                "end": 64.224,
+                "score": 0.0
+            },
+            {
+                "word": "gyflawni",
+                "start": 64.244,
+                "end": 64.445,
+                "score": 0.0
+            },
+            {
+                "word": "neu'n",
+                "start": 64.485,
+                "end": 64.725,
+                "score": 0.0
+            },
+            {
+                "word": "llwyr,",
+                "start": 64.865,
+                "end": 65.065,
+                "score": 0.0
+            },
+            {
+                "word": "mae'r",
+                "start": 65.125,
+                "end": 65.546,
+                "score": 0.0
+            },
+            {
+                "word": "broblem",
+                "start": 65.606,
+                "end": 66.527,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bob",
+                "start": 66.887,
+                "end": 67.028,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amser",
+                "start": 67.088,
+                "end": 67.468,
+                "score": 0.0
+            },
+            {
+                "word": "yn",
+                "start": 67.488,
+                "end": 67.548,
+                "score": 0.0
+            },
+            {
+                "word": "dod",
+                "start": 67.768,
+                "end": 67.989,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymlaen.",
+                "start": 68.449,
+                "end": 69.21,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.511,
+        "end": 75.698,
+        "text": "Rydych chi'n meddwl am rywbeth rydych chi ddim yn deall.",
+        "words": [
+            {
+                "word": "Rydych",
+                "start": 69.511,
+                "end": 71.293,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi'n",
+                "start": 71.373,
+                "end": 71.773,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "meddwl",
+                "start": 71.813,
+                "end": 72.394,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 72.494,
+                "end": 72.754,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rywbeth",
+                "start": 72.774,
+                "end": 73.535,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydych",
+                "start": 73.716,
+                "end": 74.056,
+                "score": 0.0
+            },
+            {
+                "word": "chi",
+                "start": 74.076,
+                "end": 74.236,
+                "score": 0.0
+            },
+            {
+                "word": "ddim",
+                "start": 74.276,
+                "end": 74.637,
+                "score": 0.0
+            },
+            {
+                "word": "yn",
+                "start": 74.737,
+                "end": 74.777,
+                "score": 0.0
+            },
+            {
+                "word": "deall.",
+                "start": 75.297,
+                "end": 75.698,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 75.878,
+        "end": 77.5,
+        "text": "Dydyn ni ddim yn y bywyd.",
+        "words": [
+            {
+                "word": "Dydyn",
+                "start": 75.878,
+                "end": 76.098,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 76.118,
+                "end": 76.198,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddim",
+                "start": 76.399,
+                "end": 76.959,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 77.039,
+                "end": 77.08,
+                "score": 0.0
+            },
+            {
+                "word": "y",
+                "start": 77.18,
+                "end": 77.22,
+                "score": 0.0
+            },
+            {
+                "word": "bywyd.",
+                "start": 77.26,
+                "end": 77.5,
+                "score": 0.0
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 128.285,
+        "end": 128.592,
+        "text": " Hwn.",
+        "words": [
+            {
+                "word": "Hwn.",
+                "start": 128.285,
+                "end": 128.592,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

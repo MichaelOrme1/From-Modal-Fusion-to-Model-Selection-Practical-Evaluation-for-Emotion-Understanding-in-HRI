@@ -1,0 +1,423 @@
+[
+    {
+        "start": 1.796,
+        "end": 2.877,
+        "text": " Oh, where is this?",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 1.796,
+                "end": 1.896,
+                "score": 0.817,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "where",
+                "start": 2.517,
+                "end": 2.637,
+                "score": 0.46,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "is",
+                "start": 2.677,
+                "end": 2.717,
+                "score": 0.0,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "this?",
+                "start": 2.737,
+                "end": 2.877,
+                "score": 0.474,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 4.238,
+        "end": 5.7,
+        "text": "Freddy, what are you doing?",
+        "words": [
+            {
+                "word": "Freddy,",
+                "start": 4.238,
+                "end": 4.659,
+                "score": 0.834,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "what",
+                "start": 5.059,
+                "end": 5.159,
+                "score": 0.997,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "are",
+                "start": 5.199,
+                "end": 5.259,
+                "score": 0.686,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "you",
+                "start": 5.279,
+                "end": 5.379,
+                "score": 0.74,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "doing?",
+                "start": 5.399,
+                "end": 5.7,
+                "score": 0.878,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 9.323,
+        "end": 10.003,
+        "text": "Oh, shit!",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 9.323,
+                "end": 9.543,
+                "score": 0.786,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "shit!",
+                "start": 9.723,
+                "end": 10.003,
+                "score": 0.728,
+                "speaker": "SPEAKER_05"
+            }
+        ],
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 10.724,
+        "end": 12.385,
+        "text": "Damn it, the volume is too high!",
+        "words": [
+            {
+                "word": "Damn",
+                "start": 10.724,
+                "end": 11.164,
+                "score": 0.768,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "it,",
+                "start": 11.184,
+                "end": 11.224,
+                "score": 0.001,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "the",
+                "start": 11.344,
+                "end": 11.444,
+                "score": 0.902,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "volume",
+                "start": 11.464,
+                "end": 11.745,
+                "score": 0.553,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "is",
+                "start": 11.765,
+                "end": 11.865,
+                "score": 0.448,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "too",
+                "start": 11.885,
+                "end": 12.025,
+                "score": 0.508,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "high!",
+                "start": 12.065,
+                "end": 12.385,
+                "score": 0.684,
+                "speaker": "SPEAKER_05"
+            }
+        ],
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 13.786,
+        "end": 14.847,
+        "text": "Whoa, my heart.",
+        "words": [
+            {
+                "word": "Whoa,",
+                "start": 13.786,
+                "end": 14.167,
+                "score": 0.648,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "my",
+                "start": 14.347,
+                "end": 14.487,
+                "score": 0.993,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "heart.",
+                "start": 14.527,
+                "end": 14.847,
+                "score": 0.795,
+                "speaker": "SPEAKER_05"
+            }
+        ],
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 16.949,
+        "end": 18.851,
+        "text": "What are you doing, Springy?",
+        "words": [
+            {
+                "word": "What",
+                "start": 16.949,
+                "end": 17.089,
+                "score": 0.872,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "are",
+                "start": 17.109,
+                "end": 17.209,
+                "score": 0.598,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "you",
+                "start": 17.229,
+                "end": 17.329,
+                "score": 0.738,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "doing,",
+                "start": 17.369,
+                "end": 17.79,
+                "score": 0.784,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "Springy?",
+                "start": 17.83,
+                "end": 18.851,
+                "score": 0.839,
+                "speaker": "SPEAKER_05"
+            }
+        ],
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 20.832,
+        "end": 21.373,
+        "text": "Fuck off.",
+        "words": [
+            {
+                "word": "Fuck",
+                "start": 20.832,
+                "end": 21.072,
+                "score": 0.658,
+                "speaker": "SPEAKER_05"
+            },
+            {
+                "word": "off.",
+                "start": 21.212,
+                "end": 21.373,
+                "score": 0.596,
+                "speaker": "SPEAKER_05"
+            }
+        ],
+        "speaker": "SPEAKER_05"
+    },
+    {
+        "start": 27.778,
+        "end": 28.659,
+        "text": "I don't like this.",
+        "words": [
+            {
+                "word": "I",
+                "start": 27.778,
+                "end": 27.798,
+                "score": 0.124,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "don't",
+                "start": 27.838,
+                "end": 28.038,
+                "score": 0.17,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "like",
+                "start": 28.078,
+                "end": 28.278,
+                "score": 0.608,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "this.",
+                "start": 28.318,
+                "end": 28.659,
+                "score": 0.618,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 30.652,
+        "end": 31.513,
+        "text": " So well made!",
+        "words": [
+            {
+                "word": "So",
+                "start": 30.652,
+                "end": 30.912,
+                "score": 0.982,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "well",
+                "start": 30.972,
+                "end": 31.193,
+                "score": 0.974,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "made!",
+                "start": 31.233,
+                "end": 31.513,
+                "score": 0.939,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 31.533,
+        "end": 31.593,
+        "text": "Wow!",
+        "words": [
+            {
+                "word": "Wow!",
+                "start": 31.533,
+                "end": 31.593,
+                "score": 0.001,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 31.693,
+        "end": 32.934,
+        "text": "Look at that!",
+        "words": [
+            {
+                "word": "Look",
+                "start": 31.693,
+                "end": 31.993,
+                "score": 0.561,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "at",
+                "start": 32.013,
+                "end": 32.153,
+                "score": 0.334,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "that!",
+                "start": 32.314,
+                "end": 32.934,
+                "score": 0.622,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 33.234,
+        "end": 36.557,
+        "text": "Get hyped!",
+        "words": [
+            {
+                "word": "Get",
+                "start": 33.234,
+                "end": 33.635,
+                "score": 0.738
+            },
+            {
+                "word": "hyped!",
+                "start": 35.837,
+                "end": 36.557,
+                "score": 0.701
+            }
+        ]
+    },
+    {
+        "start": 36.577,
+        "end": 37.458,
+        "text": "That face!",
+        "words": [
+            {
+                "word": "That",
+                "start": 36.577,
+                "end": 37.038,
+                "score": 0.658
+            },
+            {
+                "word": "face!",
+                "start": 37.078,
+                "end": 37.458,
+                "score": 0.375
+            }
+        ]
+    },
+    {
+        "start": 85.128,
+        "end": 85.879,
+        "text": " Oh shit.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 85.128,
+                "end": 85.493,
+                "score": 0.784,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "shit.",
+                "start": 85.594,
+                "end": 85.879,
+                "score": 0.637,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    }
+]

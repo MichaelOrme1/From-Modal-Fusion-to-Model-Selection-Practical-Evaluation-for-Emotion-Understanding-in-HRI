@@ -1,0 +1,389 @@
+[
+    {
+        "start": 2.449,
+        "end": 8.232,
+        "text": " Come on, nigga!",
+        "words": [
+            {
+                "word": "Come",
+                "start": 2.449,
+                "end": 2.869,
+                "score": 0.68,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "on,",
+                "start": 3.43,
+                "end": 3.49,
+                "score": 0.279
+            },
+            {
+                "word": "nigga!",
+                "start": 5.291,
+                "end": 8.232,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 8.612,
+        "end": 11.594,
+        "text": "Oh, shit.",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 8.612,
+                "end": 10.633,
+                "score": 0.924
+            },
+            {
+                "word": "shit.",
+                "start": 11.234,
+                "end": 11.594,
+                "score": 0.56,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.614,
+        "end": 21.88,
+        "text": "That is Aki-san.",
+        "words": [
+            {
+                "word": "That",
+                "start": 11.614,
+                "end": 12.054,
+                "score": 0.607,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 12.134,
+                "end": 13.455,
+                "score": 0.55,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Aki-san.",
+                "start": 16.377,
+                "end": 21.88,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.98,
+        "end": 28.623,
+        "text": "That is a savage style.",
+        "words": [
+            {
+                "word": "That",
+                "start": 21.98,
+                "end": 22.24,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 22.28,
+                "end": 22.38,
+                "score": 0.372,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 22.4,
+                "end": 22.42,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "savage",
+                "start": 22.44,
+                "end": 22.9,
+                "score": 0.555,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "style.",
+                "start": 23.38,
+                "end": 28.623,
+                "score": 0.683,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 29.224,
+        "end": 29.404,
+        "text": "Damn.",
+        "words": [
+            {
+                "word": "Damn.",
+                "start": 29.224,
+                "end": 29.404,
+                "score": 0.228,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 35.215,
+        "end": 36.997,
+        "text": " Oh, shit!",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 35.215,
+                "end": 35.395,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shit!",
+                "start": 36.216,
+                "end": 36.997,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 37.757,
+        "end": 39.919,
+        "text": "Yo-ho-ho-ho-ho!",
+        "words": [
+            {
+                "word": "Yo-ho-ho-ho-ho!",
+                "start": 37.757,
+                "end": 39.919,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.302,
+        "end": 46.423,
+        "text": "And now he looks like Blanky with that hair almost.",
+        "words": [
+            {
+                "word": "And",
+                "start": 44.302,
+                "end": 44.402,
+                "score": 0.483,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now",
+                "start": 44.442,
+                "end": 44.562,
+                "score": 0.399,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 44.602,
+                "end": 44.662,
+                "score": 0.22,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "looks",
+                "start": 44.682,
+                "end": 44.822,
+                "score": 0.199,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 44.862,
+                "end": 45.042,
+                "score": 0.326,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Blanky",
+                "start": 45.102,
+                "end": 45.363,
+                "score": 0.554,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 45.383,
+                "end": 45.523,
+                "score": 0.478,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 45.543,
+                "end": 45.743,
+                "score": 0.604,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hair",
+                "start": 45.783,
+                "end": 46.063,
+                "score": 0.662,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "almost.",
+                "start": 46.083,
+                "end": 46.423,
+                "score": 0.38,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 47.504,
+        "end": 57.952,
+        "text": "Jesus Christ!",
+        "words": [
+            {
+                "word": "Jesus",
+                "start": 47.504,
+                "end": 48.125,
+                "score": 0.704,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Christ!",
+                "start": 48.305,
+                "end": 57.952,
+                "score": 0.536,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 58.672,
+        "end": 60.413,
+        "text": "Yo-ho-ho-ho-ho-ho!",
+        "words": [
+            {
+                "word": "Yo-ho-ho-ho-ho-ho!",
+                "start": 58.672,
+                "end": 60.413,
+                "score": 0.713,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 69.404,
+        "end": 80.33,
+        "text": " yo he was shredding king to ribbons in the corner did y'all see",
+        "words": [
+            {
+                "word": "yo",
+                "start": 69.404,
+                "end": 71.645,
+                "score": 0.459,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he",
+                "start": 74.967,
+                "end": 75.187,
+                "score": 0.824,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 75.267,
+                "end": 75.447,
+                "score": 0.955,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "shredding",
+                "start": 75.627,
+                "end": 76.268,
+                "score": 0.777,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "king",
+                "start": 76.328,
+                "end": 76.708,
+                "score": 0.916,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 77.368,
+                "end": 77.528,
+                "score": 0.985,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ribbons",
+                "start": 77.628,
+                "end": 78.169,
+                "score": 0.841,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 78.469,
+                "end": 78.569,
+                "score": 0.84,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 78.609,
+                "end": 78.709,
+                "score": 0.674,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "corner",
+                "start": 78.749,
+                "end": 79.189,
+                "score": 0.792,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "did",
+                "start": 79.73,
+                "end": 79.91,
+                "score": 0.985,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "y'all",
+                "start": 79.95,
+                "end": 80.23,
+                "score": 0.779,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "see",
+                "start": 80.25,
+                "end": 80.33,
+                "score": 0.23,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

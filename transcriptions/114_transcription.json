@@ -1,0 +1,472 @@
+[
+    {
+        "start": 0.309,
+        "end": 2.731,
+        "text": " Hell, giant naked folks.",
+        "words": [
+            {
+                "word": "Hell,",
+                "start": 0.309,
+                "end": 0.77,
+                "score": 0.796,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "giant",
+                "start": 1.25,
+                "end": 2.07,
+                "score": 0.527,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "naked",
+                "start": 2.09,
+                "end": 2.371,
+                "score": 0.566,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "folks.",
+                "start": 2.431,
+                "end": 2.731,
+                "score": 0.754,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 2.831,
+        "end": 3.792,
+        "text": "Oh shit.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 2.831,
+                "end": 2.931,
+                "score": 0.628
+            },
+            {
+                "word": "shit.",
+                "start": 3.651,
+                "end": 3.792,
+                "score": 0.403
+            }
+        ]
+    },
+    {
+        "start": 3.832,
+        "end": 4.272,
+        "text": "Ha ha ha.",
+        "words": [
+            {
+                "word": "Ha",
+                "start": 3.832,
+                "end": 3.972,
+                "score": 0.542
+            },
+            {
+                "word": "ha",
+                "start": 4.032,
+                "end": 4.172,
+                "score": 0.504,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ha.",
+                "start": 4.212,
+                "end": 4.272,
+                "score": 0.436,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 37.196,
+        "end": 42.2,
+        "text": " They gonna eat him?",
+        "words": [
+            {
+                "word": "They",
+                "start": 37.196,
+                "end": 37.416,
+                "score": 0.413,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "gonna",
+                "start": 37.456,
+                "end": 40.859,
+                "score": 0.875,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "eat",
+                "start": 41.039,
+                "end": 41.7,
+                "score": 0.756,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "him?",
+                "start": 42.06,
+                "end": 42.2,
+                "score": 0.498,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 42.32,
+        "end": 43.401,
+        "text": "All bunch of naked folk.",
+        "words": [
+            {
+                "word": "All",
+                "start": 42.32,
+                "end": 42.48,
+                "score": 0.829,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "bunch",
+                "start": 42.54,
+                "end": 42.721,
+                "score": 0.328,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "of",
+                "start": 42.801,
+                "end": 42.881,
+                "score": 0.376,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "naked",
+                "start": 42.901,
+                "end": 43.161,
+                "score": 0.506,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "folk.",
+                "start": 43.201,
+                "end": 43.401,
+                "score": 0.686,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 44.182,
+        "end": 44.882,
+        "text": "Big as hell.",
+        "words": [
+            {
+                "word": "Big",
+                "start": 44.182,
+                "end": 44.382,
+                "score": 0.804,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "as",
+                "start": 44.422,
+                "end": 44.502,
+                "score": 0.576,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "hell.",
+                "start": 44.642,
+                "end": 44.882,
+                "score": 0.618,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 46.604,
+        "end": 52.669,
+        "text": "Oh my god.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 46.604,
+                "end": 49.646,
+                "score": 0.892,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 49.666,
+                "end": 50.347,
+                "score": 0.854,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "god.",
+                "start": 50.387,
+                "end": 52.669,
+                "score": 0.535,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 57.613,
+        "end": 60.855,
+        "text": "I'll check this out.",
+        "words": [
+            {
+                "word": "I'll",
+                "start": 57.613,
+                "end": 60.155,
+                "score": 0.515,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "check",
+                "start": 60.195,
+                "end": 60.375,
+                "score": 0.285,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 60.415,
+                "end": 60.595,
+                "score": 0.554,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "out.",
+                "start": 60.715,
+                "end": 60.855,
+                "score": 0.524,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 60.895,
+        "end": 62.297,
+        "text": "Trail ain't even over.",
+        "words": [
+            {
+                "word": "Trail",
+                "start": 60.895,
+                "end": 61.716,
+                "score": 0.642,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ain't",
+                "start": 61.836,
+                "end": 61.976,
+                "score": 0.241,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "even",
+                "start": 62.036,
+                "end": 62.137,
+                "score": 0.179,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "over.",
+                "start": 62.157,
+                "end": 62.297,
+                "score": 0.274,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 62.377,
+        "end": 63.337,
+        "text": "I would check this out.",
+        "words": [
+            {
+                "word": "I",
+                "start": 62.377,
+                "end": 62.457,
+                "score": 0.648,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "would",
+                "start": 62.477,
+                "end": 62.737,
+                "score": 0.528,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "check",
+                "start": 62.757,
+                "end": 62.957,
+                "score": 0.423,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 62.977,
+                "end": 63.117,
+                "score": 0.404,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "out.",
+                "start": 63.237,
+                "end": 63.337,
+                "score": 0.393,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 68.949,
+        "end": 70.913,
+        "text": " Is this the end of the world?",
+        "words": [
+            {
+                "word": "Is",
+                "start": 68.949,
+                "end": 69.11,
+                "score": 0.592,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 69.19,
+                "end": 69.591,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 69.711,
+                "end": 69.931,
+                "score": 0.512,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "end",
+                "start": 70.052,
+                "end": 70.152,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 70.272,
+                "end": 70.352,
+                "score": 0.323,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 70.432,
+                "end": 70.653,
+                "score": 0.501,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world?",
+                "start": 70.713,
+                "end": 70.913,
+                "score": 0.279,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 70.933,
+        "end": 73.078,
+        "text": "Attack on Titan.",
+        "words": [
+            {
+                "word": "Attack",
+                "start": 70.933,
+                "end": 71.314,
+                "score": 0.432,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 71.555,
+                "end": 71.695,
+                "score": 0.599
+            },
+            {
+                "word": "Titan.",
+                "start": 71.855,
+                "end": 73.078,
+                "score": 0.759,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 73.218,
+        "end": 77.166,
+        "text": "If we fail, humanity will end.",
+        "words": [
+            {
+                "word": "If",
+                "start": 73.218,
+                "end": 73.519,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 73.599,
+                "end": 74.34,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fail,",
+                "start": 74.941,
+                "end": 75.763,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "humanity",
+                "start": 76.124,
+                "end": 76.565,
+                "score": 0.462,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 76.605,
+                "end": 76.805,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "end.",
+                "start": 77.006,
+                "end": 77.166,
+                "score": 0.435,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

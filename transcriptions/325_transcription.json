@@ -1,0 +1,826 @@
+[
+    {
+        "start": 0.339,
+        "end": 6.281,
+        "text": " I've been a Star Wars Battlefront fan since day one, and then I played Star Wars Battlefront 2.",
+        "words": [
+            {
+                "word": "I've",
+                "start": 0.339,
+                "end": 0.499,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "been",
+                "start": 0.519,
+                "end": 0.739,
+                "score": 0.672,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 0.839,
+                "end": 0.899,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Star",
+                "start": 0.979,
+                "end": 1.219,
+                "score": 0.737,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Wars",
+                "start": 1.239,
+                "end": 1.519,
+                "score": 0.574,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Battlefront",
+                "start": 1.56,
+                "end": 2.12,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fan",
+                "start": 2.16,
+                "end": 2.5,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "since",
+                "start": 2.7,
+                "end": 2.98,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "day",
+                "start": 3.22,
+                "end": 3.5,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one,",
+                "start": 3.88,
+                "end": 4.04,
+                "score": 0.483,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 4.521,
+                "end": 4.601,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 4.621,
+                "end": 4.741,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 4.781,
+                "end": 4.861,
+                "score": 0.522,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "played",
+                "start": 4.881,
+                "end": 5.101,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Star",
+                "start": 5.121,
+                "end": 5.261,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Wars",
+                "start": 5.281,
+                "end": 5.501,
+                "score": 0.528,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Battlefront",
+                "start": 5.521,
+                "end": 6.281,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "2."
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.561,
+        "end": 9.423,
+        "text": "It really changed the way I look at Star Wars video games.",
+        "words": [
+            {
+                "word": "It",
+                "start": 6.561,
+                "end": 6.622,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really",
+                "start": 6.662,
+                "end": 6.962,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "changed",
+                "start": 7.102,
+                "end": 7.402,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 7.422,
+                "end": 7.522,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "way",
+                "start": 7.542,
+                "end": 7.742,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 7.842,
+                "end": 7.902,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look",
+                "start": 7.942,
+                "end": 8.122,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 8.162,
+                "end": 8.222,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Star",
+                "start": 8.282,
+                "end": 8.482,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Wars",
+                "start": 8.502,
+                "end": 8.722,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "video",
+                "start": 8.762,
+                "end": 9.103,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "games.",
+                "start": 9.123,
+                "end": 9.423,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.623,
+        "end": 13.904,
+        "text": "I also collect Star Wars PC games, so I have a ton of those.",
+        "words": [
+            {
+                "word": "I",
+                "start": 9.623,
+                "end": 9.703,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "also",
+                "start": 9.823,
+                "end": 10.183,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collect",
+                "start": 10.563,
+                "end": 10.983,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Star",
+                "start": 11.343,
+                "end": 11.543,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Wars",
+                "start": 11.563,
+                "end": 11.824,
+                "score": 0.506,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "PC",
+                "start": 11.844,
+                "end": 12.204,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "games,",
+                "start": 12.244,
+                "end": 12.504,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 12.524,
+                "end": 12.624,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 12.644,
+                "end": 12.664,
+                "score": 0.458,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 12.724,
+                "end": 12.864,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 12.924,
+                "end": 12.964,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ton",
+                "start": 13.024,
+                "end": 13.364,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 13.404,
+                "end": 13.484,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those.",
+                "start": 13.584,
+                "end": 13.904,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 14.745,
+        "end": 18.766,
+        "text": "I'm gonna look at the trailer, and this is my live reaction, first time watching.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 14.745,
+                "end": 14.845,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 14.865,
+                "end": 15.005,
+                "score": 0.453,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look",
+                "start": 15.025,
+                "end": 15.145,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 15.185,
+                "end": 15.225,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 15.245,
+                "end": 15.325,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trailer,",
+                "start": 15.365,
+                "end": 15.765,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 16.145,
+                "end": 16.265,
+                "score": 0.795,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 16.325,
+                "end": 16.465,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 16.525,
+                "end": 16.605,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 16.666,
+                "end": 16.866,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "live",
+                "start": 17.066,
+                "end": 17.246,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reaction,",
+                "start": 17.286,
+                "end": 17.706,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "first",
+                "start": 17.886,
+                "end": 18.106,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time",
+                "start": 18.146,
+                "end": 18.326,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "watching.",
+                "start": 18.366,
+                "end": 18.766,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 19.167,
+        "end": 19.647,
+        "text": "Let's do it.",
+        "words": [
+            {
+                "word": "Let's",
+                "start": 19.167,
+                "end": 19.367,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 19.407,
+                "end": 19.547,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 19.587,
+                "end": 19.647,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.149,
+        "end": 27.71,
+        "text": "Whoa!",
+        "words": [
+            {
+                "word": "Whoa!",
+                "start": 26.149,
+                "end": 27.71,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.567,
+        "end": 35.79,
+        "text": " I'm like shaking right now",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 33.567,
+                "end": 34.028,
+                "score": 0.462,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 34.048,
+                "end": 34.569,
+                "score": 0.606,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shaking",
+                "start": 35.069,
+                "end": 35.37,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "right",
+                "start": 35.45,
+                "end": 35.61,
+                "score": 0.265,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now",
+                "start": 35.65,
+                "end": 35.79,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 76.636,
+        "end": 78.748,
+        "text": " This is amazing!",
+        "words": [
+            {
+                "word": "This",
+                "start": 76.636,
+                "end": 76.837,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 76.978,
+                "end": 77.099,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amazing!",
+                "start": 77.964,
+                "end": 78.748,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 111.82,
+        "end": 121.187,
+        "text": " Darth Vader Boba Fett Boba Fett",
+        "words": [
+            {
+                "word": "Darth",
+                "start": 111.82,
+                "end": 112.06,
+                "score": 0.473,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Vader",
+                "start": 112.08,
+                "end": 112.4,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Boba",
+                "start": 119.866,
+                "end": 120.127,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Fett",
+                "start": 120.147,
+                "end": 120.427,
+                "score": 0.653,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Boba",
+                "start": 120.587,
+                "end": 120.887,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Fett",
+                "start": 120.927,
+                "end": 121.187,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 126.013,
+        "end": 128.176,
+        "text": " Maybe space battles in the air?",
+        "words": [
+            {
+                "word": "Maybe",
+                "start": 126.013,
+                "end": 126.254,
+                "score": 0.458,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "space",
+                "start": 126.274,
+                "end": 126.534,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "battles",
+                "start": 126.594,
+                "end": 126.935,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 127.716,
+                "end": 127.776,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 127.816,
+                "end": 127.916,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "air?",
+                "start": 127.996,
+                "end": 128.176,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 128.196,
+        "end": 130.56,
+        "text": "Oh my god!",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 128.196,
+                "end": 129.018,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 129.038,
+                "end": 129.158,
+                "score": 0.716,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "god!",
+                "start": 129.318,
+                "end": 130.56,
+                "score": 0.739,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 131.061,
+        "end": 131.882,
+        "text": "It looks amazing!",
+        "words": [
+            {
+                "word": "It",
+                "start": 131.061,
+                "end": 131.121,
+                "score": 0.313,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "looks",
+                "start": 131.141,
+                "end": 131.401,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amazing!",
+                "start": 131.441,
+                "end": 131.882,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 132.223,
+        "end": 134.626,
+        "text": "It looks amazing!",
+        "words": [
+            {
+                "word": "It",
+                "start": 132.223,
+                "end": 132.263,
+                "score": 0.454,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "looks",
+                "start": 132.303,
+                "end": 132.503,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amazing!",
+                "start": 133.144,
+                "end": 134.626,
+                "score": 0.632,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 134.746,
+        "end": 138.372,
+        "text": "I can't wait!",
+        "words": [
+            {
+                "word": "I",
+                "start": 134.746,
+                "end": 134.887,
+                "score": 0.671,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 135.848,
+                "end": 137.39,
+                "score": 0.591,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wait!",
+                "start": 137.731,
+                "end": 138.372,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 139.053,
+        "end": 139.894,
+        "text": "Come back baby!",
+        "words": [
+            {
+                "word": "Come",
+                "start": 139.053,
+                "end": 139.233,
+                "score": 0.529,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 139.253,
+                "end": 139.493,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "baby!",
+                "start": 139.554,
+                "end": 139.894,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 140.335,
+        "end": 140.836,
+        "text": "Let's go!",
+        "words": [
+            {
+                "word": "Let's",
+                "start": 140.335,
+                "end": 140.575,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go!",
+                "start": 140.655,
+                "end": 140.836,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

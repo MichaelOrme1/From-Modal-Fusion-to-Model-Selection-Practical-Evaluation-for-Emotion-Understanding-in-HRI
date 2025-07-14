@@ -1,0 +1,437 @@
+[
+    {
+        "start": 0.692,
+        "end": 6.658,
+        "text": " that you fight against it, it is you who will bleed.",
+        "words": [
+            {
+                "word": "that",
+                "start": 0.692,
+                "end": 0.892,
+                "score": 0.441
+            },
+            {
+                "word": "you",
+                "start": 0.912,
+                "end": 1.012,
+                "score": 0.277
+            },
+            {
+                "word": "fight",
+                "start": 1.072,
+                "end": 1.233,
+                "score": 0.139
+            },
+            {
+                "word": "against",
+                "start": 1.253,
+                "end": 1.533,
+                "score": 0.265
+            },
+            {
+                "word": "it,",
+                "start": 1.573,
+                "end": 1.713,
+                "score": 0.601
+            },
+            {
+                "word": "it",
+                "start": 2.714,
+                "end": 2.914,
+                "score": 0.442
+            },
+            {
+                "word": "is",
+                "start": 2.954,
+                "end": 2.994,
+                "score": 0.03
+            },
+            {
+                "word": "you",
+                "start": 3.014,
+                "end": 3.214,
+                "score": 0.499
+            },
+            {
+                "word": "who",
+                "start": 5.757,
+                "end": 5.937,
+                "score": 0.439
+            },
+            {
+                "word": "will",
+                "start": 6.057,
+                "end": 6.177,
+                "score": 0.166
+            },
+            {
+                "word": "bleed.",
+                "start": 6.478,
+                "end": 6.658,
+                "score": 0.326
+            }
+        ]
+    },
+    {
+        "start": 6.698,
+        "end": 12.043,
+        "text": "I know you will stand with me when lots of us, together, as one.",
+        "words": [
+            {
+                "word": "I",
+                "start": 6.698,
+                "end": 6.738,
+                "score": 0.445
+            },
+            {
+                "word": "know",
+                "start": 6.758,
+                "end": 6.878,
+                "score": 0.227
+            },
+            {
+                "word": "you",
+                "start": 7.378,
+                "end": 7.619,
+                "score": 0.507,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "will",
+                "start": 7.659,
+                "end": 7.799,
+                "score": 0.363,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "stand",
+                "start": 7.819,
+                "end": 7.979,
+                "score": 0.33,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "with",
+                "start": 8.059,
+                "end": 8.339,
+                "score": 0.348,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "me",
+                "start": 8.359,
+                "end": 8.419,
+                "score": 0.226
+            },
+            {
+                "word": "when",
+                "start": 8.459,
+                "end": 8.58,
+                "score": 0.194
+            },
+            {
+                "word": "lots",
+                "start": 9.621,
+                "end": 9.741,
+                "score": 0.25
+            },
+            {
+                "word": "of",
+                "start": 9.781,
+                "end": 9.821,
+                "score": 0.008
+            },
+            {
+                "word": "us,",
+                "start": 9.841,
+                "end": 9.901,
+                "score": 0.24
+            },
+            {
+                "word": "together,",
+                "start": 9.941,
+                "end": 11.682,
+                "score": 0.514
+            },
+            {
+                "word": "as",
+                "start": 11.703,
+                "end": 11.743,
+                "score": 0.06
+            },
+            {
+                "word": "one.",
+                "start": 11.923,
+                "end": 12.043,
+                "score": 0.436
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 14.065,
+        "end": 20.211,
+        "text": "I am today, and I am tomorrow, and I am forever.",
+        "words": [
+            {
+                "word": "I",
+                "start": 14.065,
+                "end": 14.145,
+                "score": 0.668,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "am",
+                "start": 14.205,
+                "end": 14.265,
+                "score": 0.322,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "today,",
+                "start": 14.285,
+                "end": 14.585,
+                "score": 0.347,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 14.665,
+                "end": 14.865,
+                "score": 0.487,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 14.886,
+                "end": 14.926,
+                "score": 0.488,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "am",
+                "start": 15.006,
+                "end": 15.126,
+                "score": 0.406,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "tomorrow,",
+                "start": 16.027,
+                "end": 16.547,
+                "score": 0.447,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 17.028,
+                "end": 17.228,
+                "score": 0.48,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 18.049,
+                "end": 18.109,
+                "score": 0.667
+            },
+            {
+                "word": "am",
+                "start": 18.509,
+                "end": 18.589,
+                "score": 0.385
+            },
+            {
+                "word": "forever.",
+                "start": 18.609,
+                "end": 20.211,
+                "score": 0.648
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 23.866,
+        "end": 26.109,
+        "text": " So is the entire trailer going to be like that?",
+        "words": [
+            {
+                "word": "So",
+                "start": 23.866,
+                "end": 24.026,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 24.126,
+                "end": 24.207,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 24.247,
+                "end": 24.327,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "entire",
+                "start": 24.407,
+                "end": 24.807,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trailer",
+                "start": 24.867,
+                "end": 25.208,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 25.248,
+                "end": 25.368,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 25.388,
+                "end": 25.468,
+                "score": 0.648,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 25.508,
+                "end": 25.668,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 25.708,
+                "end": 25.868,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 25.909,
+                "end": 26.109,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.129,
+        "end": 31.435,
+        "text": "Because I don't want to hear President Snow talk about Panem for three minutes.",
+        "words": [
+            {
+                "word": "Because",
+                "start": 26.129,
+                "end": 26.369,
+                "score": 0.586,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 26.429,
+                "end": 26.469,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 26.509,
+                "end": 26.649,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "want",
+                "start": 26.669,
+                "end": 26.79,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 26.81,
+                "end": 26.89,
+                "score": 0.493,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hear",
+                "start": 26.93,
+                "end": 27.17,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "President",
+                "start": 27.25,
+                "end": 27.711,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Snow",
+                "start": 27.751,
+                "end": 28.171,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "talk",
+                "start": 28.251,
+                "end": 28.572,
+                "score": 0.969,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 28.632,
+                "end": 28.932,
+                "score": 0.949,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Panem",
+                "start": 29.012,
+                "end": 29.533,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 29.633,
+                "end": 29.953,
+                "score": 0.193,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "three",
+                "start": 30.794,
+                "end": 31.035,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "minutes.",
+                "start": 31.095,
+                "end": 31.435,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

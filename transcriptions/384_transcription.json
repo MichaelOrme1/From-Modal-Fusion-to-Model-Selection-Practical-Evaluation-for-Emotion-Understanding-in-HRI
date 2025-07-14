@@ -1,0 +1,617 @@
+[
+    {
+        "start": 0.149,
+        "end": 1.05,
+        "text": " And... oh.",
+        "words": [
+            {
+                "word": "And...",
+                "start": 0.149,
+                "end": 0.389,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "oh.",
+                "start": 0.909,
+                "end": 1.05,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 2.15,
+        "end": 2.63,
+        "text": "I'm sorry.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 2.15,
+                "end": 2.29,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sorry.",
+                "start": 2.35,
+                "end": 2.63,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 2.971,
+        "end": 4.011,
+        "text": "That's an advertisement.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 2.971,
+                "end": 3.171,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 3.211,
+                "end": 3.291,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "advertisement.",
+                "start": 3.351,
+                "end": 4.011,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 4.031,
+        "end": 6.332,
+        "text": "Alright, here we go.",
+        "words": [
+            {
+                "word": "Alright,",
+                "start": 4.031,
+                "end": 5.772,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "here",
+                "start": 5.812,
+                "end": 5.932,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 5.972,
+                "end": 6.072,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go.",
+                "start": 6.092,
+                "end": 6.332,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 8.313,
+        "end": 9.074,
+        "text": "I apologize.",
+        "words": [
+            {
+                "word": "I",
+                "start": 8.313,
+                "end": 8.393,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "apologize.",
+                "start": 8.434,
+                "end": 9.074,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 10.335,
+        "end": 10.515,
+        "text": "Alright.",
+        "words": [
+            {
+                "word": "Alright.",
+                "start": 10.335,
+                "end": 10.515,
+                "score": 0.266,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.475,
+        "end": 14.597,
+        "text": "Hopefully it'll be scary and I can get a good reaction.",
+        "words": [
+            {
+                "word": "Hopefully",
+                "start": 11.475,
+                "end": 11.815,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it'll",
+                "start": 11.835,
+                "end": 12.015,
+                "score": 0.568,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 12.035,
+                "end": 12.156,
+                "score": 0.759,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "scary",
+                "start": 12.216,
+                "end": 12.616,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 12.656,
+                "end": 12.736,
+                "score": 0.643,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 12.756,
+                "end": 12.776,
+                "score": 0.109,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 12.796,
+                "end": 12.896,
+                "score": 0.221,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 12.936,
+                "end": 13.156,
+                "score": 0.732,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 13.176,
+                "end": 13.196,
+                "score": 0.01,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "good",
+                "start": 13.596,
+                "end": 13.876,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reaction.",
+                "start": 14.077,
+                "end": 14.597,
+                "score": 0.982,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 71.002,
+        "end": 83.945,
+        "text": " oh my god oh that almost made me throw up",
+        "words": [
+            {
+                "word": "oh",
+                "start": 71.002,
+                "end": 71.162,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 72.062,
+                "end": 72.282,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "god",
+                "start": 72.302,
+                "end": 77.204,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "oh",
+                "start": 80.164,
+                "end": 80.304,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 81.405,
+                "end": 82.185,
+                "score": 0.799
+            },
+            {
+                "word": "almost",
+                "start": 82.705,
+                "end": 83.045,
+                "score": 0.411,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "made",
+                "start": 83.085,
+                "end": 83.185,
+                "score": 0.309,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 83.205,
+                "end": 83.345,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "throw",
+                "start": 83.425,
+                "end": 83.765,
+                "score": 0.492,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 83.865,
+                "end": 83.945,
+                "score": 0.632,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 102.995,
+        "end": 104.416,
+        "text": " You're all going to die tonight.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 102.995,
+                "end": 103.195,
+                "score": 0.563,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 103.255,
+                "end": 103.395,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 103.435,
+                "end": 103.655,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 103.676,
+                "end": 103.756,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "die",
+                "start": 103.796,
+                "end": 104.016,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tonight.",
+                "start": 104.056,
+                "end": 104.416,
+                "score": 0.516
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 107.398,
+        "end": 107.538,
+        "text": "Ugh!",
+        "words": [
+            {
+                "word": "Ugh!",
+                "start": 107.398,
+                "end": 107.538,
+                "score": 0.402
+            }
+        ]
+    },
+    {
+        "start": 108.179,
+        "end": 108.279,
+        "text": "Ugh!",
+        "words": [
+            {
+                "word": "Ugh!",
+                "start": 108.179,
+                "end": 108.279,
+                "score": 0.312,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 108.899,
+        "end": 109.12,
+        "text": "What?",
+        "words": [
+            {
+                "word": "What?",
+                "start": 108.899,
+                "end": 109.12,
+                "score": 0.392
+            }
+        ]
+    },
+    {
+        "start": 109.5,
+        "end": 113.623,
+        "text": "We're gonna get you.",
+        "words": [
+            {
+                "word": "We're",
+                "start": 109.5,
+                "end": 110.04,
+                "score": 0.555,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 110.501,
+                "end": 110.941,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 110.961,
+                "end": 111.101,
+                "score": 0.428,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 113.303,
+                "end": 113.623,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 121.028,
+        "end": 131.676,
+        "text": "Not another creepy time to go to prison.",
+        "words": [
+            {
+                "word": "Not",
+                "start": 121.028,
+                "end": 121.989,
+                "score": 0.706
+            },
+            {
+                "word": "another",
+                "start": 122.129,
+                "end": 123.37,
+                "score": 0.775
+            },
+            {
+                "word": "creepy",
+                "start": 123.43,
+                "end": 125.292,
+                "score": 0.801
+            },
+            {
+                "word": "time",
+                "start": 125.912,
+                "end": 129.375,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 129.475,
+                "end": 129.595,
+                "score": 0.609,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 129.635,
+                "end": 130.215,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 130.275,
+                "end": 130.896,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "prison.",
+                "start": 131.356,
+                "end": 131.676,
+                "score": 0.437,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 143.189,
+        "end": 161.829,
+        "text": " oh my oh my gosh that was really uh disturbingly terrifying uh the evil dead can",
+        "words": [
+            {
+                "word": "oh",
+                "start": 143.189,
+                "end": 143.269,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 143.309,
+                "end": 143.59,
+                "score": 0.652,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "oh",
+                "start": 144.671,
+                "end": 144.771,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 144.811,
+                "end": 144.931,
+                "score": 0.689,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gosh",
+                "start": 144.971,
+                "end": 145.512,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 152.839,
+                "end": 153.0,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 153.02,
+                "end": 153.14,
+                "score": 0.428,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really",
+                "start": 153.18,
+                "end": 153.5,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "uh",
+                "start": 153.52,
+                "end": 153.56,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "disturbingly",
+                "start": 156.043,
+                "end": 157.164,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "terrifying",
+                "start": 157.685,
+                "end": 158.365,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "uh",
+                "start": 160.608,
+                "end": 160.748,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 161.008,
+                "end": 161.108,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "evil",
+                "start": 161.188,
+                "end": 161.388,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dead",
+                "start": 161.429,
+                "end": 161.689,
+                "score": 0.982,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 161.709,
+                "end": 161.829,
+                "score": 0.345,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

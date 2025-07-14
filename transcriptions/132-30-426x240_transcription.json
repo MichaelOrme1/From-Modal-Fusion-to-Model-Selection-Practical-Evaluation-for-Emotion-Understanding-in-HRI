@@ -1,0 +1,174 @@
+[
+    {
+        "start": 0.323,
+        "end": 2.024,
+        "text": " What happened, Asia?",
+        "words": [
+            {
+                "word": "What",
+                "start": 0.323,
+                "end": 0.763,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happened,",
+                "start": 1.284,
+                "end": 1.744,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Asia?",
+                "start": 1.764,
+                "end": 2.024,
+                "score": 0.552,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 2.044,
+        "end": 3.065,
+        "text": "Asia, what happened?",
+        "words": [
+            {
+                "word": "Asia,",
+                "start": 2.044,
+                "end": 2.345,
+                "score": 0.373,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "what",
+                "start": 2.465,
+                "end": 2.645,
+                "score": 0.526,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happened?",
+                "start": 2.665,
+                "end": 3.065,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 3.085,
+        "end": 5.307,
+        "text": "Asia, what happened?",
+        "words": [
+            {
+                "word": "Asia,",
+                "start": 3.085,
+                "end": 3.285,
+                "score": 0.433,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 4.886,
+                "end": 5.026,
+                "score": 0.396,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happened?",
+                "start": 5.086,
+                "end": 5.307,
+                "score": 0.299,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 5.327,
+        "end": 7.388,
+        "text": "I love you, Asia.",
+        "words": [
+            {
+                "word": "I",
+                "start": 5.327,
+                "end": 5.347,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "love",
+                "start": 5.367,
+                "end": 5.667,
+                "score": 0.548,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you,",
+                "start": 5.687,
+                "end": 5.747,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Asia.",
+                "start": 7.248,
+                "end": 7.388,
+                "score": 0.23,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 7.408,
+        "end": 7.848,
+        "text": "What happened?",
+        "words": [
+            {
+                "word": "What",
+                "start": 7.408,
+                "end": 7.548,
+                "score": 0.521,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happened?",
+                "start": 7.588,
+                "end": 7.848,
+                "score": 0.442,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.268,
+        "end": 28.513,
+        "text": " I don't know.",
+        "words": [
+            {
+                "word": "I",
+                "start": 26.268,
+                "end": 26.348,
+                "score": 0.662
+            },
+            {
+                "word": "don't",
+                "start": 26.368,
+                "end": 28.232,
+                "score": 0.588
+            },
+            {
+                "word": "know.",
+                "start": 28.312,
+                "end": 28.513,
+                "score": 0.281,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

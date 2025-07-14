@@ -1,0 +1,828 @@
+[
+    {
+        "start": 1.304,
+        "end": 1.844,
+        "text": " Oh, man.",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 1.304,
+                "end": 1.444,
+                "score": 0.79,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "man.",
+                "start": 1.484,
+                "end": 1.844,
+                "score": 0.867,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 3.905,
+        "end": 7.446,
+        "text": "The seventh Hokage and his son, Bolt.",
+        "words": [
+            {
+                "word": "The",
+                "start": 3.905,
+                "end": 4.045,
+                "score": 0.93,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "seventh",
+                "start": 4.085,
+                "end": 4.425,
+                "score": 0.864,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Hokage",
+                "start": 4.465,
+                "end": 5.205,
+                "score": 0.896,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 6.185,
+                "end": 6.285,
+                "score": 0.797,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "his",
+                "start": 6.345,
+                "end": 6.465,
+                "score": 0.797,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "son,",
+                "start": 6.545,
+                "end": 6.805,
+                "score": 0.938,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Bolt.",
+                "start": 6.865,
+                "end": 7.446,
+                "score": 0.819,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 10.646,
+        "end": 12.447,
+        "text": "And he's using Kage Buns, yo!",
+        "words": [
+            {
+                "word": "And",
+                "start": 10.646,
+                "end": 10.726,
+                "score": 0.829,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he's",
+                "start": 10.766,
+                "end": 10.886,
+                "score": 0.803,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "using",
+                "start": 10.947,
+                "end": 11.167,
+                "score": 0.955,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Kage",
+                "start": 11.227,
+                "end": 11.607,
+                "score": 0.884,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Buns,",
+                "start": 11.647,
+                "end": 12.027,
+                "score": 0.818,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yo!",
+                "start": 12.067,
+                "end": 12.447,
+                "score": 0.871,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 15.788,
+        "end": 16.548,
+        "text": "Sasuke!",
+        "words": [
+            {
+                "word": "Sasuke!",
+                "start": 15.788,
+                "end": 16.548,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.189,
+        "end": 22.69,
+        "text": "Yo, Sarada!",
+        "words": [
+            {
+                "word": "Yo,",
+                "start": 21.189,
+                "end": 21.869,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Sarada!",
+                "start": 21.969,
+                "end": 22.69,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 23.59,
+        "end": 24.29,
+        "text": "And little Lee!",
+        "words": [
+            {
+                "word": "And",
+                "start": 23.59,
+                "end": 23.71,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 23.77,
+                "end": 24.05,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Lee!",
+                "start": 24.15,
+                "end": 24.29,
+                "score": 0.653,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.087,
+        "end": 33.508,
+        "text": " Yo, okay, yeah, those are the two, yeah, I forgot about those.",
+        "words": [
+            {
+                "word": "Yo,",
+                "start": 31.087,
+                "end": 31.427,
+                "score": 0.778,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "okay,",
+                "start": 31.647,
+                "end": 32.047,
+                "score": 0.728,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yeah,",
+                "start": 32.067,
+                "end": 32.207,
+                "score": 0.286,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "those",
+                "start": 32.227,
+                "end": 32.347,
+                "score": 0.816,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "are",
+                "start": 32.367,
+                "end": 32.447,
+                "score": 0.077,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 32.467,
+                "end": 32.527,
+                "score": 0.39,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "two,",
+                "start": 32.547,
+                "end": 32.627,
+                "score": 0.167,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yeah,",
+                "start": 32.687,
+                "end": 32.767,
+                "score": 0.02,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 32.807,
+                "end": 32.868,
+                "score": 0.633,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "forgot",
+                "start": 32.888,
+                "end": 33.088,
+                "score": 0.835,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "about",
+                "start": 33.128,
+                "end": 33.268,
+                "score": 0.894,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "those.",
+                "start": 33.308,
+                "end": 33.508,
+                "score": 0.823,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 33.528,
+        "end": 34.808,
+        "text": "Those are the two Utsukis.",
+        "words": [
+            {
+                "word": "Those",
+                "start": 33.528,
+                "end": 33.628,
+                "score": 0.102,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "are",
+                "start": 33.648,
+                "end": 33.708,
+                "score": 0.299,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 33.748,
+                "end": 33.908,
+                "score": 0.8,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "two",
+                "start": 33.928,
+                "end": 34.108,
+                "score": 0.406,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Utsukis.",
+                "start": 34.168,
+                "end": 34.808,
+                "score": 0.717,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 39.409,
+        "end": 42.31,
+        "text": "And Sasuke, I can't believe Sasuke's training Boruto, man.",
+        "words": [
+            {
+                "word": "And",
+                "start": 39.409,
+                "end": 39.549,
+                "score": 0.742,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Sasuke,",
+                "start": 39.629,
+                "end": 39.929,
+                "score": 0.582,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 39.989,
+                "end": 40.049,
+                "score": 0.626,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "can't",
+                "start": 40.09,
+                "end": 40.27,
+                "score": 0.441,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "believe",
+                "start": 40.29,
+                "end": 40.49,
+                "score": 0.335,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Sasuke's",
+                "start": 40.53,
+                "end": 41.03,
+                "score": 0.59,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "training",
+                "start": 41.11,
+                "end": 41.49,
+                "score": 0.9,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Boruto,",
+                "start": 41.53,
+                "end": 42.03,
+                "score": 0.717,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "man.",
+                "start": 42.05,
+                "end": 42.31,
+                "score": 0.801,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 45.071,
+        "end": 46.531,
+        "text": "And Sasuke comes in for the save.",
+        "words": [
+            {
+                "word": "And",
+                "start": 45.071,
+                "end": 45.191,
+                "score": 0.685,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Sasuke",
+                "start": 45.251,
+                "end": 45.591,
+                "score": 0.596,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "comes",
+                "start": 45.631,
+                "end": 45.811,
+                "score": 0.856,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 45.831,
+                "end": 45.911,
+                "score": 0.884,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "for",
+                "start": 45.951,
+                "end": 46.051,
+                "score": 0.986,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 46.091,
+                "end": 46.191,
+                "score": 0.876,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "save.",
+                "start": 46.211,
+                "end": 46.531,
+                "score": 0.928,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 49.852,
+        "end": 50.873,
+        "text": "Fist bump like always.",
+        "words": [
+            {
+                "word": "Fist",
+                "start": 49.852,
+                "end": 50.032,
+                "score": 0.322,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "bump",
+                "start": 50.112,
+                "end": 50.292,
+                "score": 0.598,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "like",
+                "start": 50.312,
+                "end": 50.472,
+                "score": 0.851,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "always.",
+                "start": 50.512,
+                "end": 50.873,
+                "score": 0.757,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 58.555,
+        "end": 59.395,
+        "text": "Let's get it, ooh!",
+        "words": [
+            {
+                "word": "Let's",
+                "start": 58.555,
+                "end": 58.735,
+                "score": 0.438,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "get",
+                "start": 58.795,
+                "end": 59.035,
+                "score": 0.797,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it,",
+                "start": 59.095,
+                "end": 59.175,
+                "score": 0.382,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ooh!",
+                "start": 59.315,
+                "end": 59.395,
+                "score": 0.262,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 60.814,
+        "end": 87.186,
+        "text": " yes people oh shikamaru just looks super badass dude oh my goodness oh dude i can't wait for that fight dude and borto's wearing sasuke's old yo this this movie and he's using",
+        "words": [
+            {
+                "word": "yes",
+                "start": 60.814,
+                "end": 61.234,
+                "score": 0.857,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "people",
+                "start": 61.334,
+                "end": 61.714,
+                "score": 0.882,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "oh",
+                "start": 65.116,
+                "end": 65.236,
+                "score": 0.746,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "shikamaru",
+                "start": 65.276,
+                "end": 65.936,
+                "score": 0.751,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "just",
+                "start": 65.976,
+                "end": 66.116,
+                "score": 0.741,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "looks",
+                "start": 66.136,
+                "end": 66.377,
+                "score": 0.745,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "super",
+                "start": 66.617,
+                "end": 67.237,
+                "score": 0.841,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "badass",
+                "start": 67.837,
+                "end": 68.477,
+                "score": 0.838,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "dude",
+                "start": 68.517,
+                "end": 68.718,
+                "score": 0.429,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "oh",
+                "start": 68.798,
+                "end": 68.918,
+                "score": 0.38,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 68.938,
+                "end": 69.058,
+                "score": 0.825,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "goodness",
+                "start": 69.078,
+                "end": 69.458,
+                "score": 0.833,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "oh",
+                "start": 71.739,
+                "end": 71.899,
+                "score": 0.846,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "dude",
+                "start": 71.939,
+                "end": 72.079,
+                "score": 0.369,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "i",
+                "start": 72.139,
+                "end": 72.219,
+                "score": 0.541,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "can't",
+                "start": 72.239,
+                "end": 72.379,
+                "score": 0.744,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "wait",
+                "start": 72.419,
+                "end": 72.519,
+                "score": 0.909,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "for",
+                "start": 72.539,
+                "end": 72.619,
+                "score": 0.985,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 72.659,
+                "end": 72.799,
+                "score": 0.875,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "fight",
+                "start": 72.839,
+                "end": 73.08,
+                "score": 0.834,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "dude",
+                "start": 73.12,
+                "end": 73.38,
+                "score": 0.696,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 79.983,
+                "end": 80.083,
+                "score": 0.961,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "borto's",
+                "start": 80.143,
+                "end": 80.683,
+                "score": 0.732,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "wearing",
+                "start": 80.723,
+                "end": 81.043,
+                "score": 0.931,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "sasuke's",
+                "start": 81.123,
+                "end": 81.703,
+                "score": 0.659,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "old",
+                "start": 81.903,
+                "end": 82.084,
+                "score": 0.769,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yo",
+                "start": 83.424,
+                "end": 83.784,
+                "score": 0.86,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 83.824,
+                "end": 84.044,
+                "score": 0.843,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 84.104,
+                "end": 84.285,
+                "score": 0.791,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "movie",
+                "start": 84.325,
+                "end": 84.805,
+                "score": 0.547,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 86.566,
+                "end": 86.666,
+                "score": 0.76,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he's",
+                "start": 86.706,
+                "end": 86.886,
+                "score": 0.855,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "using",
+                "start": 86.966,
+                "end": 87.186,
+                "score": 0.901,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 88.393,
+        "end": 91.296,
+        "text": " He's using both Chidori and Rasengan people.",
+        "words": [
+            {
+                "word": "He's",
+                "start": 88.393,
+                "end": 88.553,
+                "score": 0.899,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "using",
+                "start": 88.653,
+                "end": 88.913,
+                "score": 0.796,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "both",
+                "start": 88.954,
+                "end": 89.214,
+                "score": 0.785,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Chidori",
+                "start": 89.234,
+                "end": 89.894,
+                "score": 0.67,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 90.095,
+                "end": 90.215,
+                "score": 0.889,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Rasengan",
+                "start": 90.275,
+                "end": 90.955,
+                "score": 0.87,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "people.",
+                "start": 90.995,
+                "end": 91.296,
+                "score": 0.933,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

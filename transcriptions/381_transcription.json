@@ -1,0 +1,48 @@
+[
+    {
+        "start": 6.38,
+        "end": 7.26,
+        "text": " oh oh no",
+        "words": [
+            {
+                "word": "oh",
+                "start": 6.38,
+                "end": 6.64,
+                "score": 0.756,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "oh",
+                "start": 6.8,
+                "end": 7.16,
+                "score": 0.824
+            },
+            {
+                "word": "no",
+                "start": 7.18,
+                "end": 7.26,
+                "score": 0.322
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 37.251,
+        "end": 37.831,
+        "text": " I feel",
+        "words": [
+            {
+                "word": "I",
+                "start": 37.251,
+                "end": 37.631,
+                "score": 0.859
+            },
+            {
+                "word": "feel",
+                "start": 37.691,
+                "end": 37.831,
+                "score": 0.218
+            }
+        ]
+    }
+]

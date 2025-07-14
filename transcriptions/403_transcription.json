@@ -1,0 +1,627 @@
+[
+    {
+        "start": 12.705,
+        "end": 13.906,
+        "text": " I never wanted any of this.",
+        "words": [
+            {
+                "word": "I",
+                "start": 12.705,
+                "end": 12.785,
+                "score": 0.505,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "never",
+                "start": 12.825,
+                "end": 13.005,
+                "score": 0.848,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "wanted",
+                "start": 13.045,
+                "end": 13.305,
+                "score": 0.786,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "any",
+                "start": 13.405,
+                "end": 13.545,
+                "score": 0.836,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "of",
+                "start": 13.585,
+                "end": 13.645,
+                "score": 0.734,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "this.",
+                "start": 13.685,
+                "end": 13.906,
+                "score": 0.796,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 14.026,
+        "end": 16.747,
+        "text": "I never wanted to be in the games.",
+        "words": [
+            {
+                "word": "I",
+                "start": 14.026,
+                "end": 15.466,
+                "score": 0.893,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "never",
+                "start": 15.506,
+                "end": 15.666,
+                "score": 0.794,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "wanted",
+                "start": 15.706,
+                "end": 15.906,
+                "score": 0.838,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "to",
+                "start": 15.926,
+                "end": 15.966,
+                "score": 0.845,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "be",
+                "start": 15.986,
+                "end": 16.087,
+                "score": 0.699,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "in",
+                "start": 16.127,
+                "end": 16.187,
+                "score": 0.717,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "the",
+                "start": 16.207,
+                "end": 16.287,
+                "score": 0.822,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "games.",
+                "start": 16.327,
+                "end": 16.747,
+                "score": 0.615,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 16.767,
+        "end": 20.829,
+        "text": "I just wanted to save my sister and keep Peeta alive.",
+        "words": [
+            {
+                "word": "I",
+                "start": 16.767,
+                "end": 16.787,
+                "score": 0.015,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "just",
+                "start": 17.487,
+                "end": 17.687,
+                "score": 0.64,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "wanted",
+                "start": 17.727,
+                "end": 17.947,
+                "score": 0.857,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "to",
+                "start": 17.967,
+                "end": 18.027,
+                "score": 0.731,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "save",
+                "start": 18.087,
+                "end": 18.328,
+                "score": 0.917,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "my",
+                "start": 18.388,
+                "end": 18.488,
+                "score": 0.956,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "sister",
+                "start": 18.548,
+                "end": 18.908,
+                "score": 0.87,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "and",
+                "start": 18.928,
+                "end": 18.988,
+                "score": 0.019,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "keep",
+                "start": 19.848,
+                "end": 20.028,
+                "score": 0.57,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "Peeta",
+                "start": 20.048,
+                "end": 20.388,
+                "score": 0.817,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "alive.",
+                "start": 20.408,
+                "end": 20.829,
+                "score": 0.627,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 21.009,
+        "end": 27.972,
+        "text": "Miss Everdeen, it's the things we love most that destroy us.",
+        "words": [
+            {
+                "word": "Miss",
+                "start": 21.009,
+                "end": 21.189,
+                "score": 0.544,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "Everdeen,",
+                "start": 21.229,
+                "end": 21.849,
+                "score": 0.578,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "it's",
+                "start": 23.03,
+                "end": 23.19,
+                "score": 0.47,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "the",
+                "start": 23.23,
+                "end": 23.41,
+                "score": 0.6,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "things",
+                "start": 23.45,
+                "end": 23.77,
+                "score": 0.594,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "we",
+                "start": 23.81,
+                "end": 23.99,
+                "score": 0.766,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "love",
+                "start": 24.05,
+                "end": 24.35,
+                "score": 0.73,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "most",
+                "start": 24.67,
+                "end": 26.011,
+                "score": 0.599
+            },
+            {
+                "word": "that",
+                "start": 27.151,
+                "end": 27.271,
+                "score": 0.29
+            },
+            {
+                "word": "destroy",
+                "start": 27.291,
+                "end": 27.852,
+                "score": 0.685
+            },
+            {
+                "word": "us.",
+                "start": 27.912,
+                "end": 27.972,
+                "score": 0.764
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 49.005,
+        "end": 54.692,
+        "text": " I want everyone who's watching to lay down their weapons now.",
+        "words": [
+            {
+                "word": "I",
+                "start": 49.005,
+                "end": 49.125,
+                "score": 0.702,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "want",
+                "start": 49.165,
+                "end": 49.406,
+                "score": 0.528,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "everyone",
+                "start": 49.606,
+                "end": 50.187,
+                "score": 0.504,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "who's",
+                "start": 50.227,
+                "end": 50.407,
+                "score": 0.239,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "watching",
+                "start": 50.767,
+                "end": 51.288,
+                "score": 0.345,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 51.308,
+                "end": 51.468,
+                "score": 0.634,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lay",
+                "start": 51.488,
+                "end": 51.628,
+                "score": 0.361,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "down",
+                "start": 51.668,
+                "end": 51.909,
+                "score": 0.446,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "their",
+                "start": 51.929,
+                "end": 52.209,
+                "score": 0.482,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "weapons",
+                "start": 52.269,
+                "end": 53.671,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now.",
+                "start": 53.791,
+                "end": 54.692,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 54.772,
+        "end": 55.694,
+        "text": "You're alive.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 54.772,
+                "end": 55.213,
+                "score": 0.259
+            },
+            {
+                "word": "alive.",
+                "start": 55.313,
+                "end": 55.694,
+                "score": 0.506
+            }
+        ]
+    },
+    {
+        "start": 55.754,
+        "end": 57.856,
+        "text": "PETA is the capital's weapon.",
+        "words": [
+            {
+                "word": "PETA",
+                "start": 55.754,
+                "end": 56.054,
+                "score": 0.578,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "is",
+                "start": 56.214,
+                "end": 56.314,
+                "score": 0.474,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "the",
+                "start": 56.334,
+                "end": 56.475,
+                "score": 0.48,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "capital's",
+                "start": 56.515,
+                "end": 57.436,
+                "score": 0.557,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "weapon.",
+                "start": 57.476,
+                "end": 57.856,
+                "score": 0.485,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 57.896,
+        "end": 60.76,
+        "text": "The same way you're ours.",
+        "words": [
+            {
+                "word": "The",
+                "start": 57.896,
+                "end": 58.197,
+                "score": 0.654,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "same",
+                "start": 58.217,
+                "end": 58.738,
+                "score": 0.565,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "way",
+                "start": 58.778,
+                "end": 58.878,
+                "score": 0.31,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "you're",
+                "start": 58.918,
+                "end": 60.44,
+                "score": 0.51,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "ours.",
+                "start": 60.52,
+                "end": 60.76,
+                "score": 0.309,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 60.84,
+        "end": 65.707,
+        "text": "You will rescue PETA at the earliest opportunity, or you will find another Mockingjay.",
+        "words": [
+            {
+                "word": "You",
+                "start": 60.84,
+                "end": 60.94,
+                "score": 0.198,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "will",
+                "start": 60.96,
+                "end": 61.201,
+                "score": 0.418,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "rescue",
+                "start": 61.221,
+                "end": 61.621,
+                "score": 0.466,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "PETA",
+                "start": 61.661,
+                "end": 61.962,
+                "score": 0.513,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "at",
+                "start": 61.982,
+                "end": 62.102,
+                "score": 0.352,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "the",
+                "start": 62.122,
+                "end": 62.242,
+                "score": 0.401,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "earliest",
+                "start": 62.282,
+                "end": 62.583,
+                "score": 0.248,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "opportunity,",
+                "start": 62.663,
+                "end": 63.444,
+                "score": 0.471,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "or",
+                "start": 63.524,
+                "end": 63.604,
+                "score": 0.303,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "you",
+                "start": 63.624,
+                "end": 63.864,
+                "score": 0.509,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "will",
+                "start": 63.964,
+                "end": 64.165,
+                "score": 0.361,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "find",
+                "start": 64.185,
+                "end": 64.305,
+                "score": 0.25,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "another",
+                "start": 64.425,
+                "end": 65.006,
+                "score": 0.561,
+                "speaker": "SPEAKER_04"
+            },
+            {
+                "word": "Mockingjay.",
+                "start": 65.066,
+                "end": 65.707,
+                "score": 0.409,
+                "speaker": "SPEAKER_04"
+            }
+        ],
+        "speaker": "SPEAKER_04"
+    },
+    {
+        "start": 78.951,
+        "end": 82.313,
+        "text": " November 21st I'm still gonna watch this",
+        "words": [
+            {
+                "word": "November",
+                "start": 78.951,
+                "end": 79.351,
+                "score": 0.392
+            },
+            {
+                "word": "21st",
+                "start": 79.371,
+                "end": 79.411,
+                "score": 0.002
+            },
+            {
+                "word": "I'm",
+                "start": 79.431,
+                "end": 79.491,
+                "score": 0.003
+            },
+            {
+                "word": "still",
+                "start": 79.511,
+                "end": 79.791,
+                "score": 0.402
+            },
+            {
+                "word": "gonna",
+                "start": 79.811,
+                "end": 80.332,
+                "score": 0.733
+            },
+            {
+                "word": "watch",
+                "start": 80.432,
+                "end": 82.113,
+                "score": 0.797
+            },
+            {
+                "word": "this",
+                "start": 82.133,
+                "end": 82.313,
+                "score": 0.443
+            }
+        ]
+    }
+]

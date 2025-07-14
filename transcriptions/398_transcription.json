@@ -1,0 +1,1159 @@
+[
+    {
+        "start": 4.631,
+        "end": 6.191,
+        "text": " What is this, a screen for ants?",
+        "words": [
+            {
+                "word": "What",
+                "start": 4.631,
+                "end": 4.771,
+                "score": 0.514,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 4.831,
+                "end": 4.891,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this,",
+                "start": 4.911,
+                "end": 5.051,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 5.131,
+                "end": 5.191,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "screen",
+                "start": 5.231,
+                "end": 5.571,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 5.591,
+                "end": 5.711,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ants?",
+                "start": 5.951,
+                "end": 6.191,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.891,
+        "end": 9.032,
+        "text": "In the beginning, there was nothing.",
+        "words": [
+            {
+                "word": "In",
+                "start": 6.891,
+                "end": 6.951,
+                "score": 0.802,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 6.991,
+                "end": 7.151,
+                "score": 0.569,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "beginning,",
+                "start": 7.191,
+                "end": 7.672,
+                "score": 0.785,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "there",
+                "start": 8.172,
+                "end": 8.372,
+                "score": 0.753,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 8.412,
+                "end": 8.572,
+                "score": 0.849,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "nothing.",
+                "start": 8.672,
+                "end": 9.032,
+                "score": 0.855,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 9.832,
+        "end": 10.953,
+        "text": "An infinite void.",
+        "words": [
+            {
+                "word": "An",
+                "start": 9.832,
+                "end": 9.952,
+                "score": 0.765,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "infinite",
+                "start": 10.052,
+                "end": 10.493,
+                "score": 0.664,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "void.",
+                "start": 10.553,
+                "end": 10.953,
+                "score": 0.854,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 12.273,
+        "end": 17.175,
+        "text": "Then, in an instant, everything known to man came into being.",
+        "words": [
+            {
+                "word": "Then,",
+                "start": 12.273,
+                "end": 12.533,
+                "score": 0.94,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 12.873,
+                "end": 12.973,
+                "score": 0.854,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "an",
+                "start": 13.053,
+                "end": 13.133,
+                "score": 0.848,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "instant,",
+                "start": 13.233,
+                "end": 13.654,
+                "score": 0.794,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "everything",
+                "start": 14.594,
+                "end": 15.094,
+                "score": 0.836,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "known",
+                "start": 15.154,
+                "end": 15.394,
+                "score": 0.655,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 15.434,
+                "end": 15.554,
+                "score": 0.641,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "man",
+                "start": 15.594,
+                "end": 15.934,
+                "score": 0.864,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "came",
+                "start": 16.114,
+                "end": 16.455,
+                "score": 0.725,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "into",
+                "start": 16.555,
+                "end": 16.815,
+                "score": 0.768,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "being.",
+                "start": 16.855,
+                "end": 17.175,
+                "score": 0.828,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 20.456,
+        "end": 21.296,
+        "text": "The Big Bang.",
+        "words": [
+            {
+                "word": "The",
+                "start": 20.456,
+                "end": 20.616,
+                "score": 0.46,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Big",
+                "start": 20.656,
+                "end": 20.916,
+                "score": 0.848,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Bang.",
+                "start": 20.956,
+                "end": 21.296,
+                "score": 0.794,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 22.196,
+        "end": 23.577,
+        "text": "The birth of time itself.",
+        "words": [
+            {
+                "word": "The",
+                "start": 22.196,
+                "end": 22.337,
+                "score": 0.93,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "birth",
+                "start": 22.357,
+                "end": 22.637,
+                "score": 0.737,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 22.697,
+                "end": 22.777,
+                "score": 0.956,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "time",
+                "start": 22.837,
+                "end": 23.077,
+                "score": 0.823,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "itself.",
+                "start": 23.117,
+                "end": 23.577,
+                "score": 0.681,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 23.597,
+        "end": 25.558,
+        "text": "Chaos and beauty.",
+        "words": [
+            {
+                "word": "Chaos",
+                "start": 23.597,
+                "end": 24.737,
+                "score": 0.757,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 24.877,
+                "end": 25.017,
+                "score": 0.794,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "beauty.",
+                "start": 25.097,
+                "end": 25.558,
+                "score": 0.808,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 26.718,
+        "end": 29.319,
+        "text": "A beauty that created infinite galaxies.",
+        "words": [
+            {
+                "word": "A",
+                "start": 26.718,
+                "end": 26.798,
+                "score": 0.461,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "beauty",
+                "start": 26.838,
+                "end": 27.218,
+                "score": 0.801,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 27.258,
+                "end": 27.438,
+                "score": 0.568,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "created",
+                "start": 27.558,
+                "end": 28.038,
+                "score": 0.787,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "infinite",
+                "start": 28.098,
+                "end": 28.599,
+                "score": 0.487,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "galaxies.",
+                "start": 28.639,
+                "end": 29.319,
+                "score": 0.627,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 30.376,
+        "end": 33.759,
+        "text": " Galaxies that would one day create the unimaginable.",
+        "words": [
+            {
+                "word": "Galaxies",
+                "start": 30.376,
+                "end": 31.057,
+                "score": 0.655,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 31.117,
+                "end": 31.277,
+                "score": 0.923,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "would",
+                "start": 31.337,
+                "end": 31.497,
+                "score": 0.316,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "one",
+                "start": 31.637,
+                "end": 31.717,
+                "score": 0.269,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "day",
+                "start": 31.737,
+                "end": 31.977,
+                "score": 0.866,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "create",
+                "start": 32.017,
+                "end": 32.438,
+                "score": 0.625,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 32.478,
+                "end": 32.598,
+                "score": 0.772,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "unimaginable.",
+                "start": 32.718,
+                "end": 33.759,
+                "score": 0.703,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 33.899,
+        "end": 35.66,
+        "text": "Life.",
+        "words": [
+            {
+                "word": "Life.",
+                "start": 33.899,
+                "end": 35.66,
+                "score": 0.425,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 36.561,
+        "end": 38.182,
+        "text": "But even more incredible.",
+        "words": [
+            {
+                "word": "But",
+                "start": 36.561,
+                "end": 36.721,
+                "score": 0.859,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "even",
+                "start": 36.881,
+                "end": 37.182,
+                "score": 0.894,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "more",
+                "start": 37.282,
+                "end": 37.462,
+                "score": 0.785,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "incredible.",
+                "start": 37.522,
+                "end": 38.182,
+                "score": 0.773,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 40.084,
+        "end": 41.025,
+        "text": "The human brain.",
+        "words": [
+            {
+                "word": "The",
+                "start": 40.084,
+                "end": 40.224,
+                "score": 0.945,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "human",
+                "start": 40.264,
+                "end": 40.644,
+                "score": 0.919,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "brain.",
+                "start": 40.684,
+                "end": 41.025,
+                "score": 0.732,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 43.607,
+        "end": 46.729,
+        "text": "The pinnacle of billions of years of evolution.",
+        "words": [
+            {
+                "word": "The",
+                "start": 43.607,
+                "end": 43.747,
+                "score": 0.839,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "pinnacle",
+                "start": 43.807,
+                "end": 44.327,
+                "score": 0.691,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 44.407,
+                "end": 44.468,
+                "score": 0.724,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "billions",
+                "start": 44.568,
+                "end": 45.008,
+                "score": 0.574,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 45.128,
+                "end": 45.228,
+                "score": 0.853,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "years",
+                "start": 45.268,
+                "end": 45.628,
+                "score": 0.777,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 45.749,
+                "end": 45.849,
+                "score": 0.878,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "evolution.",
+                "start": 45.969,
+                "end": 46.729,
+                "score": 0.799,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 48.391,
+        "end": 50.793,
+        "text": "A brain that possesses the power of reason.",
+        "words": [
+            {
+                "word": "A",
+                "start": 48.391,
+                "end": 48.431,
+                "score": 0.37,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "brain",
+                "start": 48.471,
+                "end": 48.731,
+                "score": 0.645,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 48.771,
+                "end": 48.931,
+                "score": 0.87,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "possesses",
+                "start": 48.991,
+                "end": 49.592,
+                "score": 0.795,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 49.652,
+                "end": 49.752,
+                "score": 0.946,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "power",
+                "start": 49.792,
+                "end": 50.152,
+                "score": 0.778,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 50.212,
+                "end": 50.272,
+                "score": 0.799,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "reason.",
+                "start": 50.372,
+                "end": 50.793,
+                "score": 0.824,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 52.274,
+        "end": 55.857,
+        "text": "And the ability to ponder life's most ancient riddles.",
+        "words": [
+            {
+                "word": "And",
+                "start": 52.274,
+                "end": 52.374,
+                "score": 0.489,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 52.414,
+                "end": 52.574,
+                "score": 0.803,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ability",
+                "start": 52.634,
+                "end": 53.134,
+                "score": 0.929,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 53.175,
+                "end": 53.295,
+                "score": 0.92,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ponder",
+                "start": 53.375,
+                "end": 53.875,
+                "score": 0.851,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "life's",
+                "start": 53.975,
+                "end": 54.416,
+                "score": 0.701,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "most",
+                "start": 54.496,
+                "end": 54.696,
+                "score": 0.851,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ancient",
+                "start": 54.956,
+                "end": 55.336,
+                "score": 0.568,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "riddles.",
+                "start": 55.396,
+                "end": 55.857,
+                "score": 0.656,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 57.105,
+        "end": 58.265,
+        "text": " Why are we here?",
+        "words": [
+            {
+                "word": "Why",
+                "start": 57.105,
+                "end": 57.405,
+                "score": 0.914,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "are",
+                "start": 57.425,
+                "end": 57.685,
+                "score": 0.724,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "we",
+                "start": 57.725,
+                "end": 57.905,
+                "score": 0.766,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "here?",
+                "start": 57.965,
+                "end": 58.265,
+                "score": 0.543,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 58.386,
+        "end": 63.487,
+        "text": "Is there an intelligent life beyond our galaxy?",
+        "words": [
+            {
+                "word": "Is",
+                "start": 58.386,
+                "end": 58.466,
+                "score": 0.348,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "there",
+                "start": 58.506,
+                "end": 59.066,
+                "score": 0.558,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "an",
+                "start": 59.186,
+                "end": 59.486,
+                "score": 0.672,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "intelligent",
+                "start": 59.606,
+                "end": 61.147,
+                "score": 0.534,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "life",
+                "start": 61.167,
+                "end": 61.727,
+                "score": 0.64,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "beyond",
+                "start": 61.807,
+                "end": 62.487,
+                "score": 0.495,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "our",
+                "start": 62.587,
+                "end": 62.847,
+                "score": 0.411,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "galaxy?",
+                "start": 62.887,
+                "end": 63.487,
+                "score": 0.486,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 63.968,
+        "end": 71.23,
+        "text": "There is one question that has puzzled mankind since the beginning of time.",
+        "words": [
+            {
+                "word": "There",
+                "start": 63.968,
+                "end": 64.188,
+                "score": 0.412,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 64.288,
+                "end": 64.368,
+                "score": 0.296,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "one",
+                "start": 64.448,
+                "end": 66.709,
+                "score": 0.541,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "question",
+                "start": 66.769,
+                "end": 67.329,
+                "score": 0.901,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 67.689,
+                "end": 67.869,
+                "score": 0.821,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "has",
+                "start": 67.929,
+                "end": 68.149,
+                "score": 0.675,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "puzzled",
+                "start": 68.229,
+                "end": 68.609,
+                "score": 0.865,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "mankind",
+                "start": 68.669,
+                "end": 69.33,
+                "score": 0.895,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "since",
+                "start": 69.81,
+                "end": 70.05,
+                "score": 0.89,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 70.09,
+                "end": 70.21,
+                "score": 0.898,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "beginning",
+                "start": 70.25,
+                "end": 70.69,
+                "score": 0.954,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 70.75,
+                "end": 70.85,
+                "score": 0.744,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "time.",
+                "start": 70.93,
+                "end": 71.23,
+                "score": 0.95,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 75.632,
+        "end": 78.213,
+        "text": "If God exists, then why did he make ugly people?",
+        "words": [
+            {
+                "word": "If",
+                "start": 75.632,
+                "end": 75.732,
+                "score": 0.973,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "God",
+                "start": 75.812,
+                "end": 76.012,
+                "score": 0.983,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "exists,",
+                "start": 76.072,
+                "end": 76.552,
+                "score": 0.879,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "then",
+                "start": 77.193,
+                "end": 77.393,
+                "score": 0.463,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "why",
+                "start": 77.413,
+                "end": 77.513,
+                "score": 0.661,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "did",
+                "start": 77.533,
+                "end": 77.593,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he",
+                "start": 77.633,
+                "end": 77.753,
+                "score": 0.892,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "make",
+                "start": 77.773,
+                "end": 77.913,
+                "score": 0.467,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ugly",
+                "start": 77.933,
+                "end": 78.053,
+                "score": 0.253,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "people?",
+                "start": 78.073,
+                "end": 78.213,
+                "score": 0.232,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 84.155,
+        "end": 86.255,
+        "text": " Yes, yes, yes, yes, yes, yes",
+        "words": [
+            {
+                "word": "Yes,",
+                "start": 84.155,
+                "end": 84.335,
+                "score": 0.613,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes,",
+                "start": 84.375,
+                "end": 84.455,
+                "score": 0.411,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes,",
+                "start": 84.835,
+                "end": 85.135,
+                "score": 0.71,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes,",
+                "start": 85.175,
+                "end": 85.335,
+                "score": 0.58,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes,",
+                "start": 85.355,
+                "end": 85.615,
+                "score": 0.664,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes",
+                "start": 86.115,
+                "end": 86.255,
+                "score": 0.443,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 114.275,
+        "end": 116.058,
+        "text": " Yes, Two Lander.",
+        "words": [
+            {
+                "word": "Yes,",
+                "start": 114.275,
+                "end": 114.616,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Two",
+                "start": 115.377,
+                "end": 115.577,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Lander.",
+                "start": 115.618,
+                "end": 116.058,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 117.701,
+        "end": 118.202,
+        "text": "I'm about it.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 117.701,
+                "end": 117.821,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 117.861,
+                "end": 118.122,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 118.162,
+                "end": 118.202,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 119.624,
+        "end": 121.047,
+        "text": "I don't know when the actual trailer...",
+        "words": [
+            {
+                "word": "I",
+                "start": 119.624,
+                "end": 119.685,
+                "score": 0.659,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 119.725,
+                "end": 119.845,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 119.885,
+                "end": 120.005,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 120.025,
+                "end": 120.145,
+                "score": 0.102,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 120.226,
+                "end": 120.286,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "actual",
+                "start": 120.526,
+                "end": 120.787,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trailer...",
+                "start": 120.807,
+                "end": 121.047,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

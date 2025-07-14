@@ -1,0 +1,706 @@
+[
+    {
+        "start": 10.336,
+        "end": 11.417,
+        "text": " Oh my god, really?",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 10.336,
+                "end": 10.576,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 10.636,
+                "end": 10.856,
+                "score": 0.592,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "god,",
+                "start": 10.876,
+                "end": 11.016,
+                "score": 0.399,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really?",
+                "start": 11.076,
+                "end": 11.417,
+                "score": 0.415,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 38.72,
+        "end": 42.085,
+        "text": " He's suffered fourth-degree burns over 80% of his body.",
+        "words": [
+            {
+                "word": "He's",
+                "start": 38.72,
+                "end": 38.86,
+                "score": 0.325,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "suffered",
+                "start": 38.96,
+                "end": 39.341,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fourth-degree",
+                "start": 39.541,
+                "end": 40.222,
+                "score": 0.643,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "burns",
+                "start": 40.262,
+                "end": 40.623,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "over",
+                "start": 40.743,
+                "end": 41.144,
+                "score": 0.515,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80%"
+            },
+            {
+                "word": "of",
+                "start": 41.504,
+                "end": 41.544,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 41.584,
+                "end": 41.704,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 41.764,
+                "end": 42.085,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 43.106,
+        "end": 47.733,
+        "text": "If he survives, he'll be paralyzed from the waist down, confined to a wheelchair.",
+        "words": [
+            {
+                "word": "If",
+                "start": 43.106,
+                "end": 43.227,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 43.707,
+                "end": 43.847,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "survives,",
+                "start": 43.868,
+                "end": 44.408,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he'll",
+                "start": 44.729,
+                "end": 44.849,
+                "score": 0.102,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 44.869,
+                "end": 45.009,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "paralyzed",
+                "start": 45.049,
+                "end": 45.55,
+                "score": 0.38,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 45.59,
+                "end": 45.77,
+                "score": 0.506,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 45.79,
+                "end": 45.87,
+                "score": 0.431,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "waist",
+                "start": 45.91,
+                "end": 46.131,
+                "score": 0.451,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down,",
+                "start": 46.191,
+                "end": 46.391,
+                "score": 0.593,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "confined",
+                "start": 46.411,
+                "end": 46.932,
+                "score": 0.508,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 46.972,
+                "end": 47.092,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 47.112,
+                "end": 47.172,
+                "score": 0.618,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wheelchair.",
+                "start": 47.192,
+                "end": 47.733,
+                "score": 0.44,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 48.174,
+        "end": 51.759,
+        "text": "You say you can save him, but what does that mean?",
+        "words": [
+            {
+                "word": "You",
+                "start": 48.174,
+                "end": 48.394,
+                "score": 0.432,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 48.414,
+                "end": 48.634,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 48.654,
+                "end": 48.735,
+                "score": 0.148,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 48.775,
+                "end": 48.935,
+                "score": 0.425,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "save",
+                "start": 48.975,
+                "end": 49.195,
+                "score": 0.558,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him,",
+                "start": 49.235,
+                "end": 49.335,
+                "score": 0.331,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "but",
+                "start": 49.416,
+                "end": 49.576,
+                "score": 0.261,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 49.596,
+                "end": 49.756,
+                "score": 0.428,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 49.776,
+                "end": 50.036,
+                "score": 0.366,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 50.076,
+                "end": 50.177,
+                "score": 0.183,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mean?",
+                "start": 51.458,
+                "end": 51.759,
+                "score": 0.392
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 51.779,
+        "end": 52.5,
+        "text": "What kind of life?",
+        "words": [
+            {
+                "word": "What",
+                "start": 51.779,
+                "end": 51.859,
+                "score": 0.055
+            },
+            {
+                "word": "kind",
+                "start": 51.919,
+                "end": 52.119,
+                "score": 0.552
+            },
+            {
+                "word": "of",
+                "start": 52.16,
+                "end": 52.24,
+                "score": 0.484
+            },
+            {
+                "word": "life?",
+                "start": 52.3,
+                "end": 52.5,
+                "score": 0.685
+            }
+        ]
+    },
+    {
+        "start": 64.093,
+        "end": 65.234,
+        "text": " What's with the wig?",
+        "words": [
+            {
+                "word": "What's",
+                "start": 64.093,
+                "end": 64.393,
+                "score": 0.332,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 64.473,
+                "end": 64.673,
+                "score": 0.47,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 64.934,
+                "end": 65.014,
+                "score": 0.475,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wig?",
+                "start": 65.074,
+                "end": 65.234,
+                "score": 0.425,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 94.181,
+        "end": 96.563,
+        "text": " You need to speak to yourself.",
+        "words": [
+            {
+                "word": "You",
+                "start": 94.181,
+                "end": 94.321,
+                "score": 0.555
+            },
+            {
+                "word": "need",
+                "start": 94.361,
+                "end": 94.501,
+                "score": 0.397,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 94.541,
+                "end": 94.621,
+                "score": 0.328,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "speak",
+                "start": 94.741,
+                "end": 95.122,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 95.582,
+                "end": 95.742,
+                "score": 0.564,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yourself.",
+                "start": 95.782,
+                "end": 96.563,
+                "score": 0.608,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 96.603,
+        "end": 97.323,
+        "text": "Hello.",
+        "words": [
+            {
+                "word": "Hello.",
+                "start": 96.603,
+                "end": 97.323,
+                "score": 0.65,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 107.189,
+        "end": 110.071,
+        "text": "Somehow, he's overriding the system's priorities.",
+        "words": [
+            {
+                "word": "Somehow,",
+                "start": 107.189,
+                "end": 107.769,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he's",
+                "start": 108.07,
+                "end": 108.27,
+                "score": 0.603,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "overriding",
+                "start": 108.51,
+                "end": 109.05,
+                "score": 0.39,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 109.09,
+                "end": 109.35,
+                "score": 0.442,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "system's",
+                "start": 109.43,
+                "end": 109.631,
+                "score": 0.15,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "priorities.",
+                "start": 109.711,
+                "end": 110.071,
+                "score": 0.298,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 110.331,
+        "end": 112.472,
+        "text": "The human element will always be present.",
+        "words": [
+            {
+                "word": "The",
+                "start": 110.331,
+                "end": 111.051,
+                "score": 0.348,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "human",
+                "start": 111.072,
+                "end": 111.172,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "element",
+                "start": 111.192,
+                "end": 111.392,
+                "score": 0.17,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 111.432,
+                "end": 111.612,
+                "score": 0.375,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "always",
+                "start": 111.632,
+                "end": 111.772,
+                "score": 0.164,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 111.792,
+                "end": 111.952,
+                "score": 0.411,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "present.",
+                "start": 112.032,
+                "end": 112.472,
+                "score": 0.51,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 112.492,
+        "end": 114.153,
+        "text": "Compassion, fear, instinct.",
+        "words": [
+            {
+                "word": "Compassion,",
+                "start": 112.492,
+                "end": 113.253,
+                "score": 0.63,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fear,",
+                "start": 113.333,
+                "end": 113.673,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "instinct.",
+                "start": 113.773,
+                "end": 114.153,
+                "score": 0.308,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 114.233,
+        "end": 116.035,
+        "text": "They will always interfere with the system.",
+        "words": [
+            {
+                "word": "They",
+                "start": 114.233,
+                "end": 114.374,
+                "score": 0.487,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 114.394,
+                "end": 114.534,
+                "score": 0.38,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "always",
+                "start": 114.554,
+                "end": 114.734,
+                "score": 0.287,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "interfere",
+                "start": 114.794,
+                "end": 115.294,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 115.314,
+                "end": 115.454,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 115.474,
+                "end": 115.574,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "system.",
+                "start": 115.634,
+                "end": 116.035,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 130.68,
+        "end": 133.664,
+        "text": " Holy Jesus, what the fuck was that?",
+        "words": [
+            {
+                "word": "Holy",
+                "start": 130.68,
+                "end": 131.04,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Jesus,",
+                "start": 131.121,
+                "end": 131.581,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 132.322,
+                "end": 132.502,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 132.542,
+                "end": 132.662,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 132.883,
+                "end": 133.183,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 133.223,
+                "end": 133.343,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 133.383,
+                "end": 133.664,
+                "score": 0.606,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 136.507,
+        "end": 136.787,
+        "text": "Really?",
+        "words": [
+            {
+                "word": "Really?",
+                "start": 136.507,
+                "end": 136.787,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 139.571,
+        "end": 139.911,
+        "text": "Really.",
+        "words": [
+            {
+                "word": "Really.",
+                "start": 139.571,
+                "end": 139.911,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

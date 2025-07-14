@@ -1,0 +1,641 @@
+[
+    {
+        "start": 2.466,
+        "end": 3.366,
+        "text": " Peggy 16.",
+        "words": [
+            {
+                "word": "Peggy",
+                "start": 2.466,
+                "end": 3.366,
+                "score": 0.667,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "16."
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 14.07,
+        "end": 14.61,
+        "text": "What do we know?",
+        "words": [
+            {
+                "word": "What",
+                "start": 14.07,
+                "end": 14.15,
+                "score": 0.359,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "do",
+                "start": 14.17,
+                "end": 14.23,
+                "score": 0.133,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "we",
+                "start": 14.25,
+                "end": 14.33,
+                "score": 0.973,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "know?",
+                "start": 14.37,
+                "end": 14.61,
+                "score": 0.882,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 15.43,
+        "end": 18.131,
+        "text": "There was an explosion at Blackgate about six hours ago.",
+        "words": [
+            {
+                "word": "There",
+                "start": 15.43,
+                "end": 15.57,
+                "score": 0.871,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "was",
+                "start": 15.61,
+                "end": 15.69,
+                "score": 0.801,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "an",
+                "start": 15.77,
+                "end": 15.83,
+                "score": 0.113,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "explosion",
+                "start": 15.85,
+                "end": 16.43,
+                "score": 0.677,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "at",
+                "start": 16.45,
+                "end": 16.49,
+                "score": 0.224,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "Blackgate",
+                "start": 16.55,
+                "end": 16.931,
+                "score": 0.501,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "about",
+                "start": 16.991,
+                "end": 17.211,
+                "score": 0.856,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "six",
+                "start": 17.291,
+                "end": 17.491,
+                "score": 0.94,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "hours",
+                "start": 17.531,
+                "end": 17.791,
+                "score": 0.804,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "ago.",
+                "start": 17.871,
+                "end": 18.131,
+                "score": 0.942,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 18.191,
+        "end": 21.232,
+        "text": "They think maybe an escape attempt went bad.",
+        "words": [
+            {
+                "word": "They",
+                "start": 18.191,
+                "end": 19.431,
+                "score": 0.686,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "think",
+                "start": 19.471,
+                "end": 19.631,
+                "score": 0.281,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "maybe",
+                "start": 19.671,
+                "end": 19.911,
+                "score": 0.508,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "an",
+                "start": 19.931,
+                "end": 19.991,
+                "score": 0.356,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "escape",
+                "start": 20.051,
+                "end": 20.452,
+                "score": 0.643,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "attempt",
+                "start": 20.512,
+                "end": 20.772,
+                "score": 0.402,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "went",
+                "start": 20.832,
+                "end": 20.992,
+                "score": 0.592,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "bad.",
+                "start": 21.052,
+                "end": 21.232,
+                "score": 0.352,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 22.538,
+        "end": 23.399,
+        "text": " How many hostages?",
+        "words": [
+            {
+                "word": "How",
+                "start": 22.538,
+                "end": 22.618,
+                "score": 0.399,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "many",
+                "start": 22.638,
+                "end": 22.798,
+                "score": 0.667,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "hostages?",
+                "start": 22.838,
+                "end": 23.399,
+                "score": 0.696,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 23.419,
+        "end": 26.301,
+        "text": "The entire prison staff.",
+        "words": [
+            {
+                "word": "The",
+                "start": 23.419,
+                "end": 24.74,
+                "score": 0.775,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "entire",
+                "start": 24.84,
+                "end": 25.38,
+                "score": 0.437,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "prison",
+                "start": 25.42,
+                "end": 25.841,
+                "score": 0.499,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "staff.",
+                "start": 25.881,
+                "end": 26.301,
+                "score": 0.687,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 27.902,
+        "end": 29.743,
+        "text": "Batman, they're all in there.",
+        "words": [
+            {
+                "word": "Batman,",
+                "start": 27.902,
+                "end": 28.823,
+                "score": 0.668,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "they're",
+                "start": 28.863,
+                "end": 29.043,
+                "score": 0.216,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "all",
+                "start": 29.123,
+                "end": 29.283,
+                "score": 0.83,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "in",
+                "start": 29.363,
+                "end": 29.443,
+                "score": 0.436,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "there.",
+                "start": 29.483,
+                "end": 29.743,
+                "score": 0.542,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 30.044,
+        "end": 32.245,
+        "text": "The petty thieves to the worst of the worst.",
+        "words": [
+            {
+                "word": "The",
+                "start": 30.044,
+                "end": 30.244,
+                "score": 0.498,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "petty",
+                "start": 30.304,
+                "end": 30.664,
+                "score": 0.591,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "thieves",
+                "start": 30.704,
+                "end": 31.024,
+                "score": 0.409,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "to",
+                "start": 31.044,
+                "end": 31.204,
+                "score": 0.653,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "the",
+                "start": 31.224,
+                "end": 31.345,
+                "score": 0.589,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "worst",
+                "start": 31.405,
+                "end": 31.665,
+                "score": 0.768,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "of",
+                "start": 31.765,
+                "end": 31.805,
+                "score": 0.332,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "the",
+                "start": 31.825,
+                "end": 31.885,
+                "score": 0.162,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "worst.",
+                "start": 31.965,
+                "end": 32.245,
+                "score": 0.716,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 33.886,
+        "end": 36.528,
+        "text": "And almost every one of them has their grudge against you.",
+        "words": [
+            {
+                "word": "And",
+                "start": 33.886,
+                "end": 34.026,
+                "score": 0.392,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "almost",
+                "start": 34.127,
+                "end": 34.407,
+                "score": 0.569,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "every",
+                "start": 34.427,
+                "end": 34.667,
+                "score": 0.483,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "one",
+                "start": 34.747,
+                "end": 34.827,
+                "score": 0.964,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "of",
+                "start": 34.867,
+                "end": 34.907,
+                "score": 0.938,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "them",
+                "start": 34.967,
+                "end": 35.047,
+                "score": 0.528,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "has",
+                "start": 35.087,
+                "end": 35.287,
+                "score": 0.723,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "their",
+                "start": 35.307,
+                "end": 35.428,
+                "score": 0.221,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "grudge",
+                "start": 35.488,
+                "end": 35.788,
+                "score": 0.59,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "against",
+                "start": 35.828,
+                "end": 36.108,
+                "score": 0.921,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "you.",
+                "start": 36.148,
+                "end": 36.528,
+                "score": 0.517,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 36.628,
+        "end": 43.814,
+        "text": "And they're about to get their shot.",
+        "words": [
+            {
+                "word": "And",
+                "start": 36.628,
+                "end": 42.273,
+                "score": 0.673,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "they're",
+                "start": 42.313,
+                "end": 42.493,
+                "score": 0.45,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 42.513,
+                "end": 42.733,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 42.753,
+                "end": 42.913,
+                "score": 0.596,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 42.953,
+                "end": 43.113,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 43.153,
+                "end": 43.373,
+                "score": 0.518,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shot.",
+                "start": 43.413,
+                "end": 43.814,
+                "score": 0.742,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.134,
+        "end": 46.015,
+        "text": "Hello, valued guest.",
+        "words": [
+            {
+                "word": "Hello,",
+                "start": 44.134,
+                "end": 44.914,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "valued",
+                "start": 44.954,
+                "end": 45.595,
+                "score": 0.569,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "guest.",
+                "start": 45.675,
+                "end": 46.015,
+                "score": 0.421,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 82.001,
+        "end": 82.984,
+        "text": " up to be a long night.",
+        "words": [
+            {
+                "word": "up",
+                "start": 82.001,
+                "end": 82.081,
+                "score": 0.329,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 82.101,
+                "end": 82.181,
+                "score": 0.59,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "be",
+                "start": 82.222,
+                "end": 82.342,
+                "score": 0.941,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 82.362,
+                "end": 82.382,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "long",
+                "start": 82.402,
+                "end": 82.663,
+                "score": 0.583,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "night.",
+                "start": 82.723,
+                "end": 82.984,
+                "score": 0.859,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 83.004,
+        "end": 85.052,
+        "text": "So let's spend it together.",
+        "words": [
+            {
+                "word": "So",
+                "start": 83.004,
+                "end": 83.044,
+                "score": 0.016,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "let's",
+                "start": 83.426,
+                "end": 84.128,
+                "score": 0.576,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "spend",
+                "start": 84.148,
+                "end": 84.349,
+                "score": 0.47,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 84.43,
+                "end": 84.51,
+                "score": 0.382,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "together.",
+                "start": 84.55,
+                "end": 85.052,
+                "score": 0.459,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

@@ -1,0 +1,425 @@
+[
+    {
+        "start": 12.566,
+        "end": 15.327,
+        "text": " Come on, show me a grab, boy.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 12.566,
+                "end": 12.886,
+                "score": 0.712
+            },
+            {
+                "word": "on,",
+                "start": 12.906,
+                "end": 13.026,
+                "score": 0.436
+            },
+            {
+                "word": "show",
+                "start": 13.066,
+                "end": 13.286,
+                "score": 0.545
+            },
+            {
+                "word": "me",
+                "start": 13.326,
+                "end": 13.506,
+                "score": 0.622
+            },
+            {
+                "word": "a",
+                "start": 13.546,
+                "end": 13.566,
+                "score": 0.008
+            },
+            {
+                "word": "grab,",
+                "start": 13.646,
+                "end": 14.266,
+                "score": 0.692
+            },
+            {
+                "word": "boy.",
+                "start": 14.926,
+                "end": 15.327,
+                "score": 0.508
+            }
+        ]
+    },
+    {
+        "start": 15.527,
+        "end": 16.827,
+        "text": "Come on.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 15.527,
+                "end": 16.647,
+                "score": 0.727
+            },
+            {
+                "word": "on.",
+                "start": 16.787,
+                "end": 16.827,
+                "score": 0.059
+            }
+        ]
+    },
+    {
+        "start": 45.902,
+        "end": 47.183,
+        "text": " What the fuck was that thing at the end?",
+        "words": [
+            {
+                "word": "What",
+                "start": 45.902,
+                "end": 46.002,
+                "score": 0.864,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 46.022,
+                "end": 46.122,
+                "score": 0.723,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "fuck",
+                "start": 46.162,
+                "end": 46.362,
+                "score": 0.962,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 46.382,
+                "end": 46.483,
+                "score": 0.733,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 46.523,
+                "end": 46.623,
+                "score": 0.857,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "thing",
+                "start": 46.643,
+                "end": 46.783,
+                "score": 0.902,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "at",
+                "start": 46.823,
+                "end": 46.883,
+                "score": 0.742,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 46.903,
+                "end": 47.003,
+                "score": 0.706,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "end?",
+                "start": 47.043,
+                "end": 47.183,
+                "score": 0.776,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 51.046,
+        "end": 51.807,
+        "text": "It looked like... what?",
+        "words": [
+            {
+                "word": "It",
+                "start": 51.046,
+                "end": 51.106,
+                "score": 0.735,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "looked",
+                "start": 51.126,
+                "end": 51.286,
+                "score": 0.746,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "like...",
+                "start": 51.306,
+                "end": 51.467,
+                "score": 0.855,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "what?",
+                "start": 51.647,
+                "end": 51.807,
+                "score": 0.963,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 56.631,
+        "end": 59.793,
+        "text": "Okay, so... What the hell was that?",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 56.631,
+                "end": 56.911,
+                "score": 0.699,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "so...",
+                "start": 57.271,
+                "end": 57.531,
+                "score": 0.899,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "What",
+                "start": 59.173,
+                "end": 59.293,
+                "score": 0.844,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 59.313,
+                "end": 59.373,
+                "score": 0.04,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hell",
+                "start": 59.413,
+                "end": 59.513,
+                "score": 0.144,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 59.553,
+                "end": 59.633,
+                "score": 0.792,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that?",
+                "start": 59.653,
+                "end": 59.793,
+                "score": 0.886,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 59.813,
+        "end": 63.696,
+        "text": "It was like a cross between an ass blaster and a... shrieker?",
+        "words": [
+            {
+                "word": "It",
+                "start": 59.813,
+                "end": 59.853,
+                "score": 0.016,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 59.873,
+                "end": 59.953,
+                "score": 0.816,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "like",
+                "start": 59.973,
+                "end": 60.074,
+                "score": 0.973,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 60.114,
+                "end": 60.154,
+                "score": 0.494,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "cross",
+                "start": 60.214,
+                "end": 60.434,
+                "score": 0.913,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "between",
+                "start": 60.474,
+                "end": 60.714,
+                "score": 0.836,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "an",
+                "start": 60.734,
+                "end": 60.794,
+                "score": 0.733,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ass",
+                "start": 60.894,
+                "end": 61.074,
+                "score": 0.903,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "blaster",
+                "start": 61.114,
+                "end": 61.475,
+                "score": 0.816,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 61.495,
+                "end": 61.575,
+                "score": 0.761,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a...",
+                "start": 61.595,
+                "end": 61.655,
+                "score": 0.304,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "shrieker?",
+                "start": 63.316,
+                "end": 63.696,
+                "score": 0.864,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 67.299,
+        "end": 69.081,
+        "text": "That actually looks a lot better than I thought it was gonna be.",
+        "words": [
+            {
+                "word": "That",
+                "start": 67.299,
+                "end": 67.48,
+                "score": 0.772,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "actually",
+                "start": 67.52,
+                "end": 67.72,
+                "score": 0.354,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "looks",
+                "start": 67.74,
+                "end": 67.88,
+                "score": 0.924,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 67.9,
+                "end": 67.92,
+                "score": 0.852,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lot",
+                "start": 67.94,
+                "end": 68.1,
+                "score": 0.397,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "better",
+                "start": 68.12,
+                "end": 68.26,
+                "score": 0.925,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "than",
+                "start": 68.28,
+                "end": 68.36,
+                "score": 0.224,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 68.38,
+                "end": 68.42,
+                "score": 0.464,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "thought",
+                "start": 68.46,
+                "end": 68.641,
+                "score": 0.859,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 68.661,
+                "end": 68.701,
+                "score": 0.735,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 68.721,
+                "end": 68.801,
+                "score": 0.843,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "gonna",
+                "start": 68.821,
+                "end": 69.001,
+                "score": 0.39,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "be.",
+                "start": 69.041,
+                "end": 69.081,
+                "score": 0.595,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

@@ -1,0 +1,1072 @@
+[
+    {
+        "start": 12.665,
+        "end": 15.687,
+        "text": " Lord Commander, it's one of the wildlings you brought back.",
+        "words": [
+            {
+                "word": "Lord",
+                "start": 12.665,
+                "end": 12.845,
+                "score": 0.477,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Commander,",
+                "start": 12.865,
+                "end": 13.225,
+                "score": 0.395,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it's",
+                "start": 14.406,
+                "end": 14.506,
+                "score": 0.975,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 14.566,
+                "end": 14.626,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 14.666,
+                "end": 14.706,
+                "score": 0.95,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 14.726,
+                "end": 14.786,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wildlings",
+                "start": 14.826,
+                "end": 15.186,
+                "score": 0.589,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 15.206,
+                "end": 15.266,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brought",
+                "start": 15.286,
+                "end": 15.467,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back.",
+                "start": 15.507,
+                "end": 15.687,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.967,
+        "end": 17.187,
+        "text": "Says he knows your Uncle Benjen.",
+        "words": [
+            {
+                "word": "Says",
+                "start": 15.967,
+                "end": 16.107,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 16.147,
+                "end": 16.227,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knows",
+                "start": 16.267,
+                "end": 16.447,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 16.467,
+                "end": 16.587,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Uncle",
+                "start": 16.607,
+                "end": 16.807,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Benjen.",
+                "start": 16.847,
+                "end": 17.187,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.828,
+        "end": 18.728,
+        "text": "Says he's still alive.",
+        "words": [
+            {
+                "word": "Says",
+                "start": 17.828,
+                "end": 17.988,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he's",
+                "start": 18.008,
+                "end": 18.148,
+                "score": 0.592,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "still",
+                "start": 18.168,
+                "end": 18.368,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "alive.",
+                "start": 18.408,
+                "end": 18.728,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 18.748,
+        "end": 22.87,
+        "text": "Are you sure he's talking about Benjen?",
+        "words": [
+            {
+                "word": "Are",
+                "start": 18.748,
+                "end": 21.35,
+                "score": 0.645,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 21.37,
+                "end": 21.43,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sure",
+                "start": 21.53,
+                "end": 21.77,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he's",
+                "start": 21.79,
+                "end": 21.87,
+                "score": 0.021,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "talking",
+                "start": 21.89,
+                "end": 22.21,
+                "score": 0.422,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 22.23,
+                "end": 22.47,
+                "score": 0.566,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Benjen?",
+                "start": 22.49,
+                "end": 22.87,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 23.351,
+        "end": 24.351,
+        "text": "Said he was First Ranger.",
+        "words": [
+            {
+                "word": "Said",
+                "start": 23.351,
+                "end": 23.511,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 23.531,
+                "end": 23.591,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 23.611,
+                "end": 23.711,
+                "score": 0.664,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "First",
+                "start": 23.731,
+                "end": 23.971,
+                "score": 0.345,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ranger.",
+                "start": 24.011,
+                "end": 24.351,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 27.153,
+        "end": 28.533,
+        "text": "Said he knows where to find him.",
+        "words": [
+            {
+                "word": "Said",
+                "start": 27.153,
+                "end": 27.313,
+                "score": 0.374,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 27.353,
+                "end": 27.413,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knows",
+                "start": 27.453,
+                "end": 27.693,
+                "score": 0.739,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "where",
+                "start": 27.713,
+                "end": 27.833,
+                "score": 0.354,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 27.853,
+                "end": 27.973,
+                "score": 0.585,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "find",
+                "start": 27.993,
+                "end": 28.193,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him.",
+                "start": 28.233,
+                "end": 28.533,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 28.613,
+        "end": 30.194,
+        "text": "Wait, who?",
+        "words": [
+            {
+                "word": "Wait,",
+                "start": 28.613,
+                "end": 29.434,
+                "score": 0.598
+            },
+            {
+                "word": "who?",
+                "start": 30.014,
+                "end": 30.194,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 35.609,
+        "end": 39.853,
+        "text": " The man says he saw your uncle at Harrod on the last full moon.",
+        "words": [
+            {
+                "word": "The",
+                "start": 35.609,
+                "end": 35.809,
+                "score": 0.553,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "man",
+                "start": 35.829,
+                "end": 35.909,
+                "score": 0.153,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "says",
+                "start": 35.929,
+                "end": 36.09,
+                "score": 0.53,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 36.13,
+                "end": 36.21,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "saw",
+                "start": 36.27,
+                "end": 36.47,
+                "score": 0.964,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 36.51,
+                "end": 36.65,
+                "score": 0.768,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "uncle",
+                "start": 36.73,
+                "end": 36.91,
+                "score": 0.286,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 37.01,
+                "end": 37.11,
+                "score": 0.411,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Harrod",
+                "start": 37.13,
+                "end": 37.491,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 37.551,
+                "end": 37.611,
+                "score": 0.247,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 37.651,
+                "end": 37.751,
+                "score": 0.217,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "last",
+                "start": 37.791,
+                "end": 38.071,
+                "score": 0.644,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "full",
+                "start": 38.091,
+                "end": 38.752,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "moon.",
+                "start": 39.212,
+                "end": 39.853,
+                "score": 0.555,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 39.873,
+        "end": 41.214,
+        "text": "Could be lying, couldn't be.",
+        "words": [
+            {
+                "word": "Could",
+                "start": 39.873,
+                "end": 40.013,
+                "score": 0.239,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 40.033,
+                "end": 40.153,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lying,",
+                "start": 40.333,
+                "end": 40.473,
+                "score": 0.216,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "couldn't",
+                "start": 40.593,
+                "end": 41.034,
+                "score": 0.385,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be.",
+                "start": 41.074,
+                "end": 41.214,
+                "score": 0.678
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 41.354,
+        "end": 42.455,
+        "text": "One way is to find out.",
+        "words": [
+            {
+                "word": "One",
+                "start": 41.354,
+                "end": 41.534,
+                "score": 0.421,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "way",
+                "start": 41.714,
+                "end": 41.834,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 41.874,
+                "end": 41.934,
+                "score": 0.276,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 41.954,
+                "end": 41.994,
+                "score": 0.058,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "find",
+                "start": 42.094,
+                "end": 42.355,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 42.395,
+                "end": 42.455,
+                "score": 0.069,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.495,
+        "end": 43.215,
+        "text": "Where is he?",
+        "words": [
+            {
+                "word": "Where",
+                "start": 42.495,
+                "end": 42.955,
+                "score": 0.53,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 43.015,
+                "end": 43.095,
+                "score": 0.653
+            },
+            {
+                "word": "he?",
+                "start": 43.135,
+                "end": 43.215,
+                "score": 0.385
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 43.315,
+        "end": 43.596,
+        "text": "Over there.",
+        "words": [
+            {
+                "word": "Over",
+                "start": 43.315,
+                "end": 43.415,
+                "score": 0.135
+            },
+            {
+                "word": "there.",
+                "start": 43.455,
+                "end": 43.596,
+                "score": 0.171
+            }
+        ]
+    },
+    {
+        "start": 43.776,
+        "end": 44.196,
+        "text": "It's red.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 43.776,
+                "end": 43.876,
+                "score": 0.084,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "red.",
+                "start": 43.936,
+                "end": 44.196,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.376,
+        "end": 44.516,
+        "text": "Oh!",
+        "words": [
+            {
+                "word": "Oh!",
+                "start": 44.376,
+                "end": 44.516,
+                "score": 0.55
+            }
+        ]
+    },
+    {
+        "start": 44.616,
+        "end": 45.957,
+        "text": "Another one.",
+        "words": [
+            {
+                "word": "Another",
+                "start": 44.616,
+                "end": 45.557,
+                "score": 0.568
+            },
+            {
+                "word": "one.",
+                "start": 45.717,
+                "end": 45.957,
+                "score": 0.316
+            }
+        ]
+    },
+    {
+        "start": 66.358,
+        "end": 66.578,
+        "text": " Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 66.358,
+                "end": 66.578,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 68.439,
+        "end": 68.559,
+        "text": "Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 68.439,
+                "end": 68.559,
+                "score": 0.379,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 68.779,
+        "end": 68.959,
+        "text": "Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 68.779,
+                "end": 68.959,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 98.103,
+        "end": 98.803,
+        "text": " Not you, boy.",
+        "words": [
+            {
+                "word": "Not",
+                "start": 98.103,
+                "end": 98.323,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you,",
+                "start": 98.363,
+                "end": 98.483,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boy.",
+                "start": 98.523,
+                "end": 98.803,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 99.143,
+        "end": 100.704,
+        "text": "Not you, boy.",
+        "words": [
+            {
+                "word": "Not",
+                "start": 99.143,
+                "end": 99.884,
+                "score": 0.572
+            },
+            {
+                "word": "you,",
+                "start": 100.044,
+                "end": 100.284,
+                "score": 0.482
+            },
+            {
+                "word": "boy.",
+                "start": 100.384,
+                "end": 100.704,
+                "score": 0.71
+            }
+        ]
+    },
+    {
+        "start": 100.824,
+        "end": 100.964,
+        "text": "Oi.",
+        "words": [
+            {
+                "word": "Oi.",
+                "start": 100.824,
+                "end": 100.964,
+                "score": 0.45
+            }
+        ]
+    },
+    {
+        "start": 130.797,
+        "end": 130.937,
+        "text": " Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 130.797,
+                "end": 130.937,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 134.841,
+        "end": 135.342,
+        "text": "For the wash.",
+        "words": [
+            {
+                "word": "For",
+                "start": 134.841,
+                "end": 134.982,
+                "score": 0.294,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 135.002,
+                "end": 135.062,
+                "score": 0.068,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wash.",
+                "start": 135.102,
+                "end": 135.342,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 139.747,
+        "end": 139.807,
+        "text": "Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 139.747,
+                "end": 139.807,
+                "score": 0.574,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 159.517,
+        "end": 159.697,
+        "text": " Oh man.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 159.517,
+                "end": 159.557,
+                "score": 0.018
+            },
+            {
+                "word": "man.",
+                "start": 159.577,
+                "end": 159.697,
+                "score": 0.303
+            }
+        ]
+    },
+    {
+        "start": 208.781,
+        "end": 209.321,
+        "text": " Damn it.",
+        "words": [
+            {
+                "word": "Damn",
+                "start": 208.781,
+                "end": 209.081,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 209.181,
+                "end": 209.321,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 211.562,
+        "end": 212.142,
+        "text": "Damn it.",
+        "words": [
+            {
+                "word": "Damn",
+                "start": 211.562,
+                "end": 211.942,
+                "score": 0.69,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 212.022,
+                "end": 212.142,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 212.162,
+        "end": 215.524,
+        "text": "That's the end of season 5.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 212.162,
+                "end": 215.063,
+                "score": 0.353,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 215.083,
+                "end": 215.183,
+                "score": 0.4,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "end",
+                "start": 215.223,
+                "end": 215.283,
+                "score": 0.214,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 215.323,
+                "end": 215.363,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "season",
+                "start": 215.383,
+                "end": 215.524,
+                "score": 0.382,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "5."
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 215.624,
+        "end": 215.904,
+        "text": "Oh man.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 215.624,
+                "end": 215.704,
+                "score": 0.282,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "man.",
+                "start": 215.764,
+                "end": 215.904,
+                "score": 0.555,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 228.277,
+        "end": 230.819,
+        "text": " Well, he's not the Iron Throne, I guess it's not for him.",
+        "words": [
+            {
+                "word": "Well,",
+                "start": 228.277,
+                "end": 228.497,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he's",
+                "start": 228.717,
+                "end": 228.898,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 228.938,
+                "end": 229.058,
+                "score": 0.945,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 229.098,
+                "end": 229.178,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Iron",
+                "start": 229.238,
+                "end": 229.438,
+                "score": 0.524,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Throne,",
+                "start": 229.458,
+                "end": 229.778,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 229.858,
+                "end": 229.938,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "guess",
+                "start": 229.958,
+                "end": 230.098,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it's",
+                "start": 230.138,
+                "end": 230.239,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 230.279,
+                "end": 230.459,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 230.499,
+                "end": 230.639,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him.",
+                "start": 230.679,
+                "end": 230.819,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 233.481,
+        "end": 234.402,
+        "text": "All hope is lost.",
+        "words": [
+            {
+                "word": "All",
+                "start": 233.481,
+                "end": 233.681,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hope",
+                "start": 233.741,
+                "end": 233.941,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 234.022,
+                "end": 234.142,
+                "score": 0.646,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lost.",
+                "start": 234.222,
+                "end": 234.402,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]
