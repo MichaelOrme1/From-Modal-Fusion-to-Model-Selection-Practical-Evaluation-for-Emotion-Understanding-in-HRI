@@ -1,9 +1,9 @@
 # From-Modal-Fusion-to-Model-Selection-Practical-Evaluation-for-Emotion-Understanding-in-HRI
 
-This is the repository gor the paper:
+This is the repository for the paper:
 From Modal Fusion to Model Selection: Practical Evaluation for Emotion Understanding in HRI
 
-Results can be found in the results folder, sperated into folders based on their contents.
+Results can be found in the results folder, seperated into folders based on their contents.
 
 To run the framework, you will need to obtain the data from the datasets and obtain the features(face,body,gaze and audio). Then these can be combined with the transcripts to use for testing. 
 
