@@ -1,0 +1,389 @@
+[
+    {
+        "start": 1.215,
+        "end": 4.192,
+        "text": " My reaction of evil death.",
+        "words": [
+            {
+                "word": "My",
+                "start": 1.215,
+                "end": 1.417,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reaction",
+                "start": 1.517,
+                "end": 2.322,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 2.342,
+                "end": 2.583,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "evil",
+                "start": 3.649,
+                "end": 3.911,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "death.",
+                "start": 3.951,
+                "end": 4.192,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 53.332,
+        "end": 61.079,
+        "text": " I realized something from that book.",
+        "words": [
+            {
+                "word": "I",
+                "start": 53.332,
+                "end": 53.512,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "realized",
+                "start": 54.153,
+                "end": 54.994,
+                "score": 0.574
+            },
+            {
+                "word": "something",
+                "start": 55.074,
+                "end": 57.676,
+                "score": 0.566
+            },
+            {
+                "word": "from",
+                "start": 57.996,
+                "end": 58.717,
+                "score": 0.593
+            },
+            {
+                "word": "that",
+                "start": 59.778,
+                "end": 59.938,
+                "score": 0.302
+            },
+            {
+                "word": "book.",
+                "start": 59.978,
+                "end": 61.079,
+                "score": 0.811
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.26,
+        "end": 65.763,
+        "text": "Something evil.",
+        "words": [
+            {
+                "word": "Something",
+                "start": 62.26,
+                "end": 64.962,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "evil.",
+                "start": 65.082,
+                "end": 65.763,
+                "score": 0.786
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 65.923,
+        "end": 69.807,
+        "text": "This thing is attached to me as salt.",
+        "words": [
+            {
+                "word": "This",
+                "start": 65.923,
+                "end": 66.444,
+                "score": 0.603,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "thing",
+                "start": 66.644,
+                "end": 66.864,
+                "score": 0.478,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 66.884,
+                "end": 66.964,
+                "score": 0.546,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "attached",
+                "start": 67.144,
+                "end": 68.766,
+                "score": 0.51,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 68.866,
+                "end": 69.006,
+                "score": 0.685,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 69.026,
+                "end": 69.106,
+                "score": 0.372,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "as",
+                "start": 69.146,
+                "end": 69.446,
+                "score": 0.82,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "salt.",
+                "start": 69.546,
+                "end": 69.807,
+                "score": 0.577,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 88.934,
+        "end": 90.375,
+        "text": " You're all going to die tonight.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 88.934,
+                "end": 89.154,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 89.194,
+                "end": 89.334,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 89.394,
+                "end": 89.575,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 89.615,
+                "end": 89.695,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "die",
+                "start": 89.735,
+                "end": 89.995,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tonight.",
+                "start": 90.015,
+                "end": 90.375,
+                "score": 0.609,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 93.197,
+        "end": 97.64,
+        "text": "We're coming to get you.",
+        "words": [
+            {
+                "word": "We're",
+                "start": 93.197,
+                "end": 93.738,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "coming",
+                "start": 94.638,
+                "end": 94.998,
+                "score": 0.513
+            },
+            {
+                "word": "to",
+                "start": 95.058,
+                "end": 95.099,
+                "score": 0.188
+            },
+            {
+                "word": "get",
+                "start": 95.199,
+                "end": 97.0,
+                "score": 0.645
+            },
+            {
+                "word": "you.",
+                "start": 97.2,
+                "end": 97.64,
+                "score": 0.672
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 98.141,
+        "end": 102.304,
+        "text": "You're not alone.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 98.141,
+                "end": 99.101,
+                "score": 0.609
+            },
+            {
+                "word": "not",
+                "start": 99.161,
+                "end": 99.382,
+                "score": 0.644
+            },
+            {
+                "word": "alone.",
+                "start": 101.623,
+                "end": 102.304,
+                "score": 0.711
+            }
+        ]
+    },
+    {
+        "start": 103.124,
+        "end": 110.81,
+        "text": "We're coming to get you.",
+        "words": [
+            {
+                "word": "We're",
+                "start": 103.124,
+                "end": 104.285,
+                "score": 0.467
+            },
+            {
+                "word": "coming",
+                "start": 107.007,
+                "end": 109.309,
+                "score": 0.678
+            },
+            {
+                "word": "to",
+                "start": 109.369,
+                "end": 109.989,
+                "score": 0.833
+            },
+            {
+                "word": "get",
+                "start": 110.109,
+                "end": 110.209,
+                "score": 0.33
+            },
+            {
+                "word": "you.",
+                "start": 110.269,
+                "end": 110.81,
+                "score": 0.693,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 110.85,
+        "end": 117.775,
+        "text": "Time to go away.",
+        "words": [
+            {
+                "word": "Time",
+                "start": 110.85,
+                "end": 115.513,
+                "score": 0.908,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 115.613,
+                "end": 116.154,
+                "score": 0.844,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "go",
+                "start": 117.274,
+                "end": 117.475,
+                "score": 0.746
+            },
+            {
+                "word": "away.",
+                "start": 117.495,
+                "end": 117.775,
+                "score": 0.335
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 125.301,
+        "end": 127.549,
+        "text": " Oh, that's good.",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 125.301,
+                "end": 125.542,
+                "score": 0.679,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that's",
+                "start": 125.903,
+                "end": 127.107,
+                "score": 0.68
+            },
+            {
+                "word": "good.",
+                "start": 127.147,
+                "end": 127.549,
+                "score": 0.556
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

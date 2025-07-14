@@ -1,0 +1,50 @@
+[
+    {
+        "start": 10.953,
+        "end": 12.946,
+        "text": " He's made my stomach feel weird.",
+        "words": [
+            {
+                "word": "He's",
+                "start": 10.953,
+                "end": 11.356,
+                "score": 0.578,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "made",
+                "start": 11.396,
+                "end": 11.577,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 11.597,
+                "end": 11.718,
+                "score": 0.528,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stomach",
+                "start": 11.738,
+                "end": 12.12,
+                "score": 0.39,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "feel",
+                "start": 12.241,
+                "end": 12.684,
+                "score": 0.592
+            },
+            {
+                "word": "weird.",
+                "start": 12.805,
+                "end": 12.946,
+                "score": 0.254
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

@@ -1,0 +1,748 @@
+[
+    {
+        "start": 0.089,
+        "end": 4.272,
+        "text": " Thirst, T-H-I-R-S.",
+        "words": [
+            {
+                "word": "Thirst,",
+                "start": 0.089,
+                "end": 0.509,
+                "score": 0.767,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "T-H-I-R-S.",
+                "start": 0.91,
+                "end": 4.272,
+                "score": 0.78,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 4.932,
+        "end": 5.712,
+        "text": "Thirst tweets.",
+        "words": [
+            {
+                "word": "Thirst",
+                "start": 4.932,
+                "end": 5.272,
+                "score": 0.789,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "tweets.",
+                "start": 5.392,
+                "end": 5.712,
+                "score": 0.689,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 6.193,
+        "end": 6.613,
+        "text": "Daddy!",
+        "words": [
+            {
+                "word": "Daddy!",
+                "start": 6.193,
+                "end": 6.613,
+                "score": 0.878,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 7.714,
+        "end": 12.056,
+        "text": "Exclamation point, exclamation point, exclamation point, exclamation point, exclamation point.",
+        "words": [
+            {
+                "word": "Exclamation",
+                "start": 7.714,
+                "end": 8.254,
+                "score": 0.888,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "point,",
+                "start": 8.314,
+                "end": 8.554,
+                "score": 0.623,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "exclamation",
+                "start": 8.654,
+                "end": 9.174,
+                "score": 0.922,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "point,",
+                "start": 9.214,
+                "end": 9.415,
+                "score": 0.865,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "exclamation",
+                "start": 9.495,
+                "end": 10.015,
+                "score": 0.959,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "point,",
+                "start": 10.055,
+                "end": 10.295,
+                "score": 0.603,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "exclamation",
+                "start": 10.395,
+                "end": 10.915,
+                "score": 0.966,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "point,",
+                "start": 10.955,
+                "end": 11.156,
+                "score": 0.623,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "exclamation",
+                "start": 11.256,
+                "end": 11.816,
+                "score": 0.923,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "point.",
+                "start": 11.856,
+                "end": 12.056,
+                "score": 0.828,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 12.616,
+        "end": 18.18,
+        "text": "Use my face as your... Trampoline.",
+        "words": [
+            {
+                "word": "Use",
+                "start": 12.616,
+                "end": 12.797,
+                "score": 0.847,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "my",
+                "start": 12.877,
+                "end": 13.057,
+                "score": 0.872,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "face",
+                "start": 13.137,
+                "end": 13.477,
+                "score": 0.923,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "as",
+                "start": 13.617,
+                "end": 13.717,
+                "score": 0.869,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "your...",
+                "start": 13.737,
+                "end": 16.739,
+                "score": 0.49,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "Trampoline.",
+                "start": 17.419,
+                "end": 18.18,
+                "score": 0.851,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 22.142,
+        "end": 22.482,
+        "text": "Thanks?",
+        "words": [
+            {
+                "word": "Thanks?",
+                "start": 22.142,
+                "end": 22.482,
+                "score": 0.887,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 24.386,
+        "end": 24.866,
+        "text": " Thank you.",
+        "words": [
+            {
+                "word": "Thank",
+                "start": 24.386,
+                "end": 24.646,
+                "score": 0.819,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you.",
+                "start": 24.686,
+                "end": 24.866,
+                "score": 0.885,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 26.167,
+        "end": 30.669,
+        "text": "I just remembered how sexy Mark Ruffalo is and now I need to lie down.",
+        "words": [
+            {
+                "word": "I",
+                "start": 26.167,
+                "end": 26.387,
+                "score": 0.683,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "just",
+                "start": 26.527,
+                "end": 26.767,
+                "score": 0.727,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "remembered",
+                "start": 26.807,
+                "end": 27.167,
+                "score": 0.829,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "how",
+                "start": 27.208,
+                "end": 27.328,
+                "score": 0.929,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "sexy",
+                "start": 27.408,
+                "end": 27.888,
+                "score": 0.916,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Mark",
+                "start": 27.948,
+                "end": 28.188,
+                "score": 0.879,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Ruffalo",
+                "start": 28.228,
+                "end": 28.668,
+                "score": 0.808,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 28.768,
+                "end": 28.868,
+                "score": 0.702,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 29.048,
+                "end": 29.149,
+                "score": 0.834,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "now",
+                "start": 29.209,
+                "end": 29.429,
+                "score": 0.839,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 29.489,
+                "end": 29.529,
+                "score": 0.528,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "need",
+                "start": 29.589,
+                "end": 29.769,
+                "score": 0.776,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 29.809,
+                "end": 29.869,
+                "score": 0.988,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lie",
+                "start": 29.929,
+                "end": 30.189,
+                "score": 0.723,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "down.",
+                "start": 30.269,
+                "end": 30.669,
+                "score": 0.792,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 31.65,
+        "end": 33.591,
+        "text": "Take a little extra time for yourself.",
+        "words": [
+            {
+                "word": "Take",
+                "start": 31.65,
+                "end": 31.89,
+                "score": 0.856,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 31.93,
+                "end": 31.95,
+                "score": 0.994,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "little",
+                "start": 31.99,
+                "end": 32.21,
+                "score": 0.772,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "extra",
+                "start": 32.29,
+                "end": 32.59,
+                "score": 0.763,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "time",
+                "start": 32.63,
+                "end": 32.931,
+                "score": 0.738,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "for",
+                "start": 32.991,
+                "end": 33.111,
+                "score": 0.703,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yourself.",
+                "start": 33.151,
+                "end": 33.591,
+                "score": 0.898,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 35.492,
+        "end": 35.932,
+        "text": "One more.",
+        "words": [
+            {
+                "word": "One",
+                "start": 35.492,
+                "end": 35.592,
+                "score": 0.557,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "more.",
+                "start": 35.632,
+                "end": 35.932,
+                "score": 0.705,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 37.813,
+        "end": 46.198,
+        "text": "I hope destiny allows me to one day call Mark Ruffalo daddy as a cigarette loosely hangs from my lips.",
+        "words": [
+            {
+                "word": "I",
+                "start": 37.813,
+                "end": 37.873,
+                "score": 0.994,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hope",
+                "start": 37.913,
+                "end": 38.113,
+                "score": 0.856,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "destiny",
+                "start": 38.173,
+                "end": 38.654,
+                "score": 0.93,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "allows",
+                "start": 38.714,
+                "end": 39.054,
+                "score": 0.881,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 39.154,
+                "end": 39.354,
+                "score": 0.969,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 39.474,
+                "end": 39.754,
+                "score": 0.678,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "one",
+                "start": 40.094,
+                "end": 40.234,
+                "score": 0.624,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "day",
+                "start": 40.274,
+                "end": 40.555,
+                "score": 0.794,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "call",
+                "start": 41.035,
+                "end": 41.355,
+                "score": 0.932,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Mark",
+                "start": 41.395,
+                "end": 41.655,
+                "score": 0.868,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Ruffalo",
+                "start": 41.715,
+                "end": 42.235,
+                "score": 0.851,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "daddy",
+                "start": 42.856,
+                "end": 43.316,
+                "score": 0.901,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "as",
+                "start": 43.716,
+                "end": 43.816,
+                "score": 0.705,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 43.876,
+                "end": 43.916,
+                "score": 0.498,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "cigarette",
+                "start": 43.976,
+                "end": 44.397,
+                "score": 0.827,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "loosely",
+                "start": 44.417,
+                "end": 44.957,
+                "score": 0.904,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hangs",
+                "start": 44.997,
+                "end": 45.277,
+                "score": 0.886,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "from",
+                "start": 45.297,
+                "end": 45.457,
+                "score": 0.897,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 45.477,
+                "end": 45.517,
+                "score": 0.082,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lips.",
+                "start": 45.737,
+                "end": 46.198,
+                "score": 0.752,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 48.499,
+        "end": 48.579,
+        "text": "Ugh.",
+        "words": [
+            {
+                "word": "Ugh.",
+                "start": 48.499,
+                "end": 48.579,
+                "score": 0.22,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 52.816,
+        "end": 55.098,
+        "text": " I'm just, I'm flattered.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 52.816,
+                "end": 53.036,
+                "score": 0.29,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just,",
+                "start": 53.817,
+                "end": 54.097,
+                "score": 0.377,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 54.498,
+                "end": 54.598,
+                "score": 0.229,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flattered.",
+                "start": 54.638,
+                "end": 55.098,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 55.679,
+        "end": 56.319,
+        "text": "What can I say?",
+        "words": [
+            {
+                "word": "What",
+                "start": 55.679,
+                "end": 55.879,
+                "score": 0.366,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 55.899,
+                "end": 56.019,
+                "score": 0.544,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 56.039,
+                "end": 56.059,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say?",
+                "start": 56.079,
+                "end": 56.319,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 56.459,
+        "end": 57.04,
+        "text": "I'm flattered.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 56.459,
+                "end": 56.559,
+                "score": 0.31,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flattered.",
+                "start": 56.619,
+                "end": 57.04,
+                "score": 0.717,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.881,
+        "end": 58.341,
+        "text": "Thank you.",
+        "words": [
+            {
+                "word": "Thank",
+                "start": 57.881,
+                "end": 58.161,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 58.181,
+                "end": 58.341,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 59.562,
+        "end": 60.103,
+        "text": "Thanks for that.",
+        "words": [
+            {
+                "word": "Thanks",
+                "start": 59.562,
+                "end": 59.802,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 59.842,
+                "end": 59.962,
+                "score": 0.602,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that.",
+                "start": 59.982,
+                "end": 60.103,
+                "score": 0.202,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.963,
+        "end": 61.324,
+        "text": "Thank you.",
+        "words": [
+            {
+                "word": "Thank",
+                "start": 60.963,
+                "end": 61.184,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 61.224,
+                "end": 61.324,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

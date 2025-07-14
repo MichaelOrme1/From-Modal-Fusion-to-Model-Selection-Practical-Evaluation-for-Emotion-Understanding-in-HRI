@@ -1,0 +1,139 @@
+[
+    {
+        "start": 21.067,
+        "end": 34.512,
+        "text": " Isabel, Mrs Buster.",
+        "words": [
+            {
+                "word": "Isabel,",
+                "start": 21.067,
+                "end": 22.528,
+                "score": 0.013,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "Mrs",
+                "start": 22.628,
+                "end": 22.828,
+                "score": 0.054,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "Buster.",
+                "start": 22.928,
+                "end": 34.512,
+                "score": 0.078,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 36.673,
+        "end": 42.215,
+        "text": "Do you like him?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 36.673,
+                "end": 36.773,
+                "score": 0.126,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 36.793,
+                "end": 36.973,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 37.033,
+                "end": 37.293,
+                "score": 0.054,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him?",
+                "start": 37.533,
+                "end": 42.215,
+                "score": 0.003,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.255,
+        "end": 42.975,
+        "text": "How cute is he?",
+        "words": [
+            {
+                "word": "How",
+                "start": 42.255,
+                "end": 42.435,
+                "score": 0.009,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "cute",
+                "start": 42.475,
+                "end": 42.715,
+                "score": 0.04,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "is",
+                "start": 42.735,
+                "end": 42.815,
+                "score": 0.196,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "he?",
+                "start": 42.835,
+                "end": 42.975,
+                "score": 0.447,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 48.524,
+        "end": 49.609,
+        "text": " Ysgrifennwch ar y cymraeg.",
+        "words": [
+            {
+                "word": "Ysgrifennwch",
+                "start": 48.524,
+                "end": 49.167,
+                "score": 0.056,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "ar",
+                "start": 49.187,
+                "end": 49.267,
+                "score": 0.41,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "y",
+                "start": 49.287,
+                "end": 49.307,
+                "score": 0.0,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "cymraeg.",
+                "start": 49.328,
+                "end": 49.609,
+                "score": 0.211,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    }
+]

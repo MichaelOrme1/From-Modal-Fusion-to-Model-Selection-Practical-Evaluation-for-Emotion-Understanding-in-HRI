@@ -1,0 +1,614 @@
+[
+    {
+        "start": 15.194,
+        "end": 18.897,
+        "text": " And that was from the movie with Ryan Reynolds.",
+        "words": [
+            {
+                "word": "And",
+                "start": 15.194,
+                "end": 15.274,
+                "score": 0.815,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 15.314,
+                "end": 15.454,
+                "score": 0.496,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 15.474,
+                "end": 15.574,
+                "score": 0.111,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "from",
+                "start": 15.594,
+                "end": 15.755,
+                "score": 0.804,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 15.795,
+                "end": 15.875,
+                "score": 0.824,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "movie",
+                "start": 15.915,
+                "end": 16.255,
+                "score": 0.726,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "with",
+                "start": 17.836,
+                "end": 18.057,
+                "score": 0.665,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Ryan",
+                "start": 18.117,
+                "end": 18.477,
+                "score": 0.708,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Reynolds.",
+                "start": 18.517,
+                "end": 18.897,
+                "score": 0.687,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 21.159,
+        "end": 28.966,
+        "text": "He did tell me that he made this video before Chris Prine was cast as Trevor.",
+        "words": [
+            {
+                "word": "He",
+                "start": 21.159,
+                "end": 21.26,
+                "score": 0.775,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "did",
+                "start": 21.3,
+                "end": 21.46,
+                "score": 0.885,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "tell",
+                "start": 21.52,
+                "end": 21.72,
+                "score": 0.814,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 21.76,
+                "end": 21.84,
+                "score": 0.806,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 21.9,
+                "end": 22.06,
+                "score": 0.918,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he",
+                "start": 22.14,
+                "end": 22.26,
+                "score": 0.861,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "made",
+                "start": 22.32,
+                "end": 22.461,
+                "score": 0.943,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 22.501,
+                "end": 22.621,
+                "score": 0.85,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "video",
+                "start": 22.661,
+                "end": 22.981,
+                "score": 0.86,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "before",
+                "start": 23.001,
+                "end": 23.321,
+                "score": 0.897,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Chris",
+                "start": 23.401,
+                "end": 23.722,
+                "score": 0.755,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Prine",
+                "start": 23.982,
+                "end": 24.322,
+                "score": 0.903,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 24.422,
+                "end": 24.723,
+                "score": 0.865,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "cast",
+                "start": 25.123,
+                "end": 25.523,
+                "score": 0.91,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "as",
+                "start": 26.644,
+                "end": 27.045,
+                "score": 0.865,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Trevor.",
+                "start": 28.506,
+                "end": 28.966,
+                "score": 0.876,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 29.727,
+        "end": 31.729,
+        "text": "So we know he's not going to be Hal Jordan.",
+        "words": [
+            {
+                "word": "So",
+                "start": 29.727,
+                "end": 29.947,
+                "score": 0.964,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "we",
+                "start": 29.987,
+                "end": 30.087,
+                "score": 0.898,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know",
+                "start": 30.107,
+                "end": 30.248,
+                "score": 0.824,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "he's",
+                "start": 30.268,
+                "end": 30.388,
+                "score": 0.911,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "not",
+                "start": 30.428,
+                "end": 30.548,
+                "score": 0.804,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "going",
+                "start": 30.588,
+                "end": 30.708,
+                "score": 0.521,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 30.728,
+                "end": 30.768,
+                "score": 0.921,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "be",
+                "start": 30.808,
+                "end": 30.948,
+                "score": 0.847,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Hal",
+                "start": 31.228,
+                "end": 31.409,
+                "score": 0.538,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Jordan.",
+                "start": 31.449,
+                "end": 31.729,
+                "score": 0.88,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 50.965,
+        "end": 62.067,
+        "text": " I like the Fantastic Four music.",
+        "words": [
+            {
+                "word": "I",
+                "start": 50.965,
+                "end": 51.065,
+                "score": 0.724,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 51.165,
+                "end": 51.445,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 51.745,
+                "end": 53.586,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Fantastic",
+                "start": 53.786,
+                "end": 55.066,
+                "score": 0.625,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Four",
+                "start": 55.166,
+                "end": 57.926,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "music.",
+                "start": 61.567,
+                "end": 62.067,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.247,
+        "end": 63.327,
+        "text": "It really fits.",
+        "words": [
+            {
+                "word": "It",
+                "start": 62.247,
+                "end": 62.327,
+                "score": 0.478,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really",
+                "start": 62.367,
+                "end": 62.727,
+                "score": 0.519,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fits.",
+                "start": 62.967,
+                "end": 63.327,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 79.825,
+        "end": 90.707,
+        "text": " I don't know if Tyreese is supposed to be Jon Stewart or not.",
+        "words": [
+            {
+                "word": "I",
+                "start": 79.825,
+                "end": 79.965,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 80.305,
+                "end": 81.485,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 81.525,
+                "end": 83.426,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "if",
+                "start": 83.546,
+                "end": 83.646,
+                "score": 0.388,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Tyreese",
+                "start": 83.686,
+                "end": 84.466,
+                "score": 0.61,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 84.626,
+                "end": 84.766,
+                "score": 0.428,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "supposed",
+                "start": 84.786,
+                "end": 85.806,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 85.886,
+                "end": 87.627,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 87.667,
+                "end": 87.927,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Jon",
+                "start": 87.987,
+                "end": 88.147,
+                "score": 0.401,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Stewart",
+                "start": 88.187,
+                "end": 89.307,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 89.967,
+                "end": 90.227,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not.",
+                "start": 90.307,
+                "end": 90.707,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 122.808,
+        "end": 136.647,
+        "text": " three lantern core 2020 that was nice that was really good i liked that a lot well done my friend good job y'all",
+        "words": [
+            {
+                "word": "three",
+                "start": 122.808,
+                "end": 123.269,
+                "score": 0.654,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lantern",
+                "start": 123.509,
+                "end": 124.13,
+                "score": 0.732,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "core",
+                "start": 124.25,
+                "end": 127.935,
+                "score": 0.804,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "2020"
+            },
+            {
+                "word": "that",
+                "start": 128.015,
+                "end": 128.336,
+                "score": 0.627,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 130.659,
+                "end": 130.759,
+                "score": 0.882,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "nice",
+                "start": 130.819,
+                "end": 131.059,
+                "score": 0.907,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 131.14,
+                "end": 131.24,
+                "score": 0.821,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "was",
+                "start": 131.28,
+                "end": 131.38,
+                "score": 0.832,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "really",
+                "start": 131.42,
+                "end": 131.62,
+                "score": 0.89,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "good",
+                "start": 131.66,
+                "end": 131.84,
+                "score": 0.816,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "i",
+                "start": 132.141,
+                "end": 132.241,
+                "score": 0.799,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "liked",
+                "start": 132.261,
+                "end": 132.401,
+                "score": 0.752,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 132.421,
+                "end": 132.581,
+                "score": 0.882,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 132.601,
+                "end": 132.622,
+                "score": 0.897,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lot",
+                "start": 132.662,
+                "end": 132.862,
+                "score": 0.986,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "well",
+                "start": 134.304,
+                "end": 134.464,
+                "score": 0.882,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "done",
+                "start": 134.484,
+                "end": 134.644,
+                "score": 0.874,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 134.684,
+                "end": 134.804,
+                "score": 0.833,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "friend",
+                "start": 134.845,
+                "end": 135.105,
+                "score": 0.699,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "good",
+                "start": 136.186,
+                "end": 136.327,
+                "score": 0.902,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "job",
+                "start": 136.347,
+                "end": 136.527,
+                "score": 0.862,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "y'all",
+                "start": 136.547,
+                "end": 136.647,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

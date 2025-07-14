@@ -1,0 +1,881 @@
+[
+    {
+        "start": 3.361,
+        "end": 7.163,
+        "text": " I got my best friend and my boyfriend.",
+        "words": [
+            {
+                "word": "I",
+                "start": 3.361,
+                "end": 3.501,
+                "score": 0.622,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 3.821,
+                "end": 4.242,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 4.882,
+                "end": 5.062,
+                "score": 0.797,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "best",
+                "start": 5.102,
+                "end": 5.322,
+                "score": 0.615,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friend",
+                "start": 5.362,
+                "end": 5.682,
+                "score": 0.587,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 6.323,
+                "end": 6.423,
+                "score": 0.55,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 6.463,
+                "end": 6.643,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 6.683,
+                "end": 7.163,
+                "score": 0.524,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 8.224,
+        "end": 9.045,
+        "text": "Who's your boyfriend?",
+        "words": [
+            {
+                "word": "Who's",
+                "start": 8.224,
+                "end": 8.404,
+                "score": 0.415,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 8.444,
+                "end": 8.564,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend?",
+                "start": 8.584,
+                "end": 9.045,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.065,
+        "end": 11.886,
+        "text": "Her imagination.",
+        "words": [
+            {
+                "word": "Her",
+                "start": 9.065,
+                "end": 11.066,
+                "score": 0.543,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "imagination.",
+                "start": 11.106,
+                "end": 11.886,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 13.948,
+        "end": 15.469,
+        "text": "Daddy said you don't have a boyfriend.",
+        "words": [
+            {
+                "word": "Daddy",
+                "start": 13.948,
+                "end": 14.268,
+                "score": 0.579,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said",
+                "start": 14.308,
+                "end": 14.448,
+                "score": 0.519,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 14.468,
+                "end": 14.568,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 14.588,
+                "end": 14.728,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 14.748,
+                "end": 14.888,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 14.908,
+                "end": 14.928,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 15.008,
+                "end": 15.469,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 16.409,
+        "end": 17.09,
+        "text": "You're not allowed.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 16.409,
+                "end": 16.549,
+                "score": 0.304,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 16.569,
+                "end": 16.709,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allowed.",
+                "start": 16.749,
+                "end": 17.09,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.11,
+        "end": 19.791,
+        "text": "I already do.",
+        "words": [
+            {
+                "word": "I",
+                "start": 17.11,
+                "end": 17.13,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "already",
+                "start": 17.15,
+                "end": 19.451,
+                "score": 0.508,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do.",
+                "start": 19.491,
+                "end": 19.791,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.192,
+        "end": 20.492,
+        "text": "No.",
+        "words": [
+            {
+                "word": "No.",
+                "start": 20.192,
+                "end": 20.492,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.512,
+        "end": 22.273,
+        "text": "Daddy, what do you think about that?",
+        "words": [
+            {
+                "word": "Daddy,",
+                "start": 20.512,
+                "end": 21.392,
+                "score": 0.649,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 21.412,
+                "end": 21.492,
+                "score": 0.461,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 21.512,
+                "end": 21.552,
+                "score": 0.074,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 21.572,
+                "end": 21.672,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "think",
+                "start": 21.692,
+                "end": 21.833,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 21.873,
+                "end": 22.053,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 22.093,
+                "end": 22.273,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 22.293,
+        "end": 22.393,
+        "text": "Death.",
+        "words": [
+            {
+                "word": "Death.",
+                "start": 22.293,
+                "end": 22.393,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 23.253,
+        "end": 27.036,
+        "text": "You don't have a boyfriend.",
+        "words": [
+            {
+                "word": "You",
+                "start": 23.253,
+                "end": 23.814,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 24.354,
+                "end": 25.435,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 25.895,
+                "end": 26.435,
+                "score": 0.433,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 26.495,
+                "end": 26.535,
+                "score": 0.492,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 26.596,
+                "end": 27.036,
+                "score": 0.594,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 28.497,
+        "end": 29.117,
+        "text": "No boyfriends.",
+        "words": [
+            {
+                "word": "No",
+                "start": 28.497,
+                "end": 28.637,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriends.",
+                "start": 28.677,
+                "end": 29.117,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.137,
+        "end": 29.677,
+        "text": "You're too little.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 29.137,
+                "end": 29.297,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "too",
+                "start": 29.317,
+                "end": 29.437,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little.",
+                "start": 29.477,
+                "end": 29.677,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.784,
+        "end": 33.025,
+        "text": " But I'm too little.",
+        "words": [
+            {
+                "word": "But",
+                "start": 31.784,
+                "end": 31.964,
+                "score": 0.452,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 32.084,
+                "end": 32.445,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "too",
+                "start": 32.485,
+                "end": 32.645,
+                "score": 0.471,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little.",
+                "start": 32.665,
+                "end": 33.025,
+                "score": 0.491,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.706,
+        "end": 34.787,
+        "text": "What?",
+        "words": [
+            {
+                "word": "What?",
+                "start": 33.706,
+                "end": 34.787,
+                "score": 0.578,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 35.267,
+        "end": 38.81,
+        "text": "She said you're too little to have one.",
+        "words": [
+            {
+                "word": "She",
+                "start": 35.267,
+                "end": 35.447,
+                "score": 0.343,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said",
+                "start": 35.487,
+                "end": 35.707,
+                "score": 0.649,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 35.727,
+                "end": 36.028,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "too",
+                "start": 36.068,
+                "end": 36.208,
+                "score": 0.246,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 36.248,
+                "end": 36.548,
+                "score": 0.469,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 36.568,
+                "end": 36.628,
+                "score": 0.27,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 36.668,
+                "end": 37.188,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one.",
+                "start": 38.029,
+                "end": 38.81,
+                "score": 0.788,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 38.91,
+        "end": 39.49,
+        "text": "No boyfriend.",
+        "words": [
+            {
+                "word": "No",
+                "start": 38.91,
+                "end": 39.03,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 39.07,
+                "end": 39.49,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 39.53,
+        "end": 40.111,
+        "text": "Who's your friend?",
+        "words": [
+            {
+                "word": "Who's",
+                "start": 39.53,
+                "end": 39.71,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 39.751,
+                "end": 39.871,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friend?",
+                "start": 39.891,
+                "end": 40.111,
+                "score": 0.725,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 40.131,
+        "end": 41.492,
+        "text": "Who's your best friend?",
+        "words": [
+            {
+                "word": "Who's",
+                "start": 40.131,
+                "end": 40.971,
+                "score": 0.445,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 40.992,
+                "end": 41.092,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "best",
+                "start": 41.112,
+                "end": 41.252,
+                "score": 0.947,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friend?",
+                "start": 41.292,
+                "end": 41.492,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 41.512,
+        "end": 43.253,
+        "text": "Harmony.",
+        "words": [
+            {
+                "word": "Harmony.",
+                "start": 41.512,
+                "end": 43.253,
+                "score": 0.588,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 43.514,
+        "end": 44.234,
+        "text": "Harmony.",
+        "words": [
+            {
+                "word": "Harmony.",
+                "start": 43.514,
+                "end": 44.234,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 45.295,
+        "end": 46.656,
+        "text": "What's your boyfriend then?",
+        "words": [
+            {
+                "word": "What's",
+                "start": 45.295,
+                "end": 45.495,
+                "score": 0.544,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 45.515,
+                "end": 45.655,
+                "score": 0.347,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend",
+                "start": 45.735,
+                "end": 46.276,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then?",
+                "start": 46.336,
+                "end": 46.656,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 47.116,
+        "end": 48.437,
+        "text": "She doesn't have a boyfriend.",
+        "words": [
+            {
+                "word": "She",
+                "start": 47.116,
+                "end": 47.217,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "doesn't",
+                "start": 47.257,
+                "end": 47.497,
+                "score": 0.178,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 47.517,
+                "end": 47.757,
+                "score": 0.708,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 47.777,
+                "end": 47.797,
+                "score": 0.041,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 47.817,
+                "end": 48.437,
+                "score": 0.478,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.258,
+        "end": 49.558,
+        "text": "Tyrese.",
+        "words": [
+            {
+                "word": "Tyrese.",
+                "start": 49.258,
+                "end": 49.558,
+                "score": 0.441,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.598,
+        "end": 50.839,
+        "text": "You're not allowed to have a boyfriend.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 49.598,
+                "end": 49.739,
+                "score": 0.576,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 49.759,
+                "end": 49.859,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allowed",
+                "start": 49.879,
+                "end": 50.099,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 50.119,
+                "end": 50.159,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 50.199,
+                "end": 50.319,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 50.359,
+                "end": 50.399,
+                "score": 0.556,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boyfriend.",
+                "start": 50.419,
+                "end": 50.839,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 51.8,
+        "end": 52.241,
+        "text": "Tyrese.",
+        "words": [
+            {
+                "word": "Tyrese.",
+                "start": 51.8,
+                "end": 52.241,
+                "score": 0.432,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.781,
+        "end": 53.001,
+        "text": "Wow!",
+        "words": [
+            {
+                "word": "Wow!",
+                "start": 52.781,
+                "end": 53.001,
+                "score": 0.574,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 53.281,
+        "end": 57.865,
+        "text": "I see a lot of Tyrese tomorrow.",
+        "words": [
+            {
+                "word": "I",
+                "start": 53.281,
+                "end": 53.361,
+                "score": 0.661
+            },
+            {
+                "word": "see",
+                "start": 53.401,
+                "end": 54.382,
+                "score": 0.839
+            },
+            {
+                "word": "a",
+                "start": 54.502,
+                "end": 54.582,
+                "score": 0.679,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lot",
+                "start": 55.083,
+                "end": 55.403,
+                "score": 0.508,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 55.803,
+                "end": 55.964,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Tyrese",
+                "start": 55.984,
+                "end": 56.904,
+                "score": 0.486,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tomorrow.",
+                "start": 56.964,
+                "end": 57.865,
+                "score": 0.535,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

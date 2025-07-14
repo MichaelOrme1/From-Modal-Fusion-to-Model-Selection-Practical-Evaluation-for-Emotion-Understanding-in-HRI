@@ -1,0 +1,74 @@
+[
+    {
+        "start": 0.39,
+        "end": 1.532,
+        "text": " Show me your mad face.",
+        "words": [
+            {
+                "word": "Show",
+                "start": 0.39,
+                "end": 0.57,
+                "score": 0.982,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 0.59,
+                "end": 0.69,
+                "score": 0.486,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "your",
+                "start": 0.71,
+                "end": 0.85,
+                "score": 0.896,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "mad",
+                "start": 0.87,
+                "end": 1.171,
+                "score": 0.668,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "face.",
+                "start": 1.211,
+                "end": 1.532,
+                "score": 0.876,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 8.924,
+        "end": 9.685,
+        "text": "Show me again.",
+        "words": [
+            {
+                "word": "Show",
+                "start": 8.924,
+                "end": 9.144,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 9.184,
+                "end": 9.325,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "again.",
+                "start": 9.385,
+                "end": 9.685,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

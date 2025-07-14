@@ -1,0 +1,66 @@
+[
+    {
+        "start": 8.1,
+        "end": 9.798,
+        "text": " I just saw my hand and said, oof.",
+        "words": [
+            {
+                "word": "I",
+                "start": 8.1,
+                "end": 8.12,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 8.363,
+                "end": 8.565,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "saw",
+                "start": 8.605,
+                "end": 8.747,
+                "score": 0.443,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 8.807,
+                "end": 8.969,
+                "score": 0.358,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 9.01,
+                "end": 9.111,
+                "score": 0.121,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 9.191,
+                "end": 9.292,
+                "score": 0.305,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said,",
+                "start": 9.353,
+                "end": 9.616,
+                "score": 0.486,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "oof.",
+                "start": 9.737,
+                "end": 9.798,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

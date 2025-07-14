@@ -1,0 +1,287 @@
+[
+    {
+        "start": 11.432,
+        "end": 14.615,
+        "text": " And I heard, as it were, the noise of thunder.",
+        "words": [
+            {
+                "word": "And",
+                "start": 11.432,
+                "end": 11.532,
+                "score": 0.607,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "I",
+                "start": 11.632,
+                "end": 11.732,
+                "score": 0.929,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "heard,",
+                "start": 11.812,
+                "end": 12.212,
+                "score": 0.708,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "as",
+                "start": 12.493,
+                "end": 12.593,
+                "score": 0.848,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "it",
+                "start": 12.673,
+                "end": 12.733,
+                "score": 0.312,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "were,",
+                "start": 12.853,
+                "end": 13.233,
+                "score": 0.633,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "the",
+                "start": 13.474,
+                "end": 13.594,
+                "score": 0.669,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "noise",
+                "start": 13.634,
+                "end": 13.954,
+                "score": 0.55,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "of",
+                "start": 14.014,
+                "end": 14.074,
+                "score": 0.776,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "thunder.",
+                "start": 14.114,
+                "end": 14.615,
+                "score": 0.629,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 14.955,
+        "end": 19.139,
+        "text": "And on up, and behold, was death.",
+        "words": [
+            {
+                "word": "And",
+                "start": 14.955,
+                "end": 16.616,
+                "score": 0.796,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "on",
+                "start": 17.057,
+                "end": 17.217,
+                "score": 0.39,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "up,",
+                "start": 17.317,
+                "end": 17.457,
+                "score": 0.475,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "and",
+                "start": 17.597,
+                "end": 17.677,
+                "score": 0.367,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "behold,",
+                "start": 17.697,
+                "end": 18.378,
+                "score": 0.723,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "was",
+                "start": 18.538,
+                "end": 18.819,
+                "score": 0.652,
+                "speaker": "SPEAKER_03"
+            },
+            {
+                "word": "death.",
+                "start": 18.859,
+                "end": 19.139,
+                "score": 0.565,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 19.199,
+        "end": 20.38,
+        "text": "To sing, come and see.",
+        "words": [
+            {
+                "word": "To",
+                "start": 19.199,
+                "end": 19.339,
+                "score": 0.711,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "sing,",
+                "start": 19.419,
+                "end": 19.659,
+                "score": 0.467,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "come",
+                "start": 19.679,
+                "end": 20.1,
+                "score": 0.634,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "and",
+                "start": 20.18,
+                "end": 20.26,
+                "score": 0.203,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "see.",
+                "start": 20.28,
+                "end": 20.38,
+                "score": 0.299,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 42.694,
+        "end": 44.315,
+        "text": " What the fuck is this shit?",
+        "words": [
+            {
+                "word": "What",
+                "start": 42.694,
+                "end": 42.895,
+                "score": 0.611,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 42.955,
+                "end": 43.135,
+                "score": 0.717,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 43.335,
+                "end": 43.575,
+                "score": 0.558,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 43.635,
+                "end": 43.715,
+                "score": 0.523,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 43.735,
+                "end": 43.935,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shit?",
+                "start": 44.015,
+                "end": 44.315,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 86.849,
+        "end": 89.091,
+        "text": " God, I'm going to shoot myself now.",
+        "words": [
+            {
+                "word": "God,",
+                "start": 86.849,
+                "end": 87.169,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 87.97,
+                "end": 88.11,
+                "score": 0.395,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 88.17,
+                "end": 88.29,
+                "score": 0.213,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 88.35,
+                "end": 88.39,
+                "score": 0.313,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shoot",
+                "start": 88.41,
+                "end": 88.55,
+                "score": 0.487,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "myself",
+                "start": 88.59,
+                "end": 88.91,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now.",
+                "start": 88.97,
+                "end": 89.091,
+                "score": 0.975,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]
