@@ -1,0 +1,2404 @@
+[
+    {
+        "start": 0.329,
+        "end": 0.549,
+        "text": " Ready?",
+        "words": [
+            {
+                "word": "Ready?",
+                "start": 0.329,
+                "end": 0.549,
+                "score": 0.584,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 0.569,
+        "end": 2.99,
+        "text": "Are you ready?",
+        "words": [
+            {
+                "word": "Are",
+                "start": 0.569,
+                "end": 0.689,
+                "score": 0.36,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 2.629,
+                "end": 2.73,
+                "score": 0.58,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ready?",
+                "start": 2.75,
+                "end": 2.99,
+                "score": 0.511,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 3.25,
+        "end": 4.13,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 3.25,
+                "end": 4.13,
+                "score": 0.837,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 4.15,
+        "end": 5.09,
+        "text": "30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 4.17,
+                "end": 4.45,
+                "score": 0.954,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 4.51,
+                "end": 4.59,
+                "score": 0.714,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 4.61,
+                "end": 4.65,
+                "score": 0.551,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field.",
+                "start": 4.71,
+                "end": 5.09,
+                "score": 0.825,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 5.61,
+        "end": 6.27,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 5.61,
+                "end": 6.27,
+                "score": 0.694,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 6.29,
+        "end": 7.07,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 6.53,
+                "end": 7.07,
+                "score": 0.785,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 8.071,
+        "end": 9.031,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 8.071,
+                "end": 8.211,
+                "score": 0.945,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 8.231,
+                "end": 8.431,
+                "score": 0.773,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 8.471,
+                "end": 9.031,
+                "score": 0.684,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 10.171,
+        "end": 11.491,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 10.171,
+                "end": 10.291,
+                "score": 0.553,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 10.331,
+                "end": 10.491,
+                "score": 0.449,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't?",
+                "start": 11.091,
+                "end": 11.491,
+                "score": 0.724,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 12.471,
+        "end": 16.252,
+        "text": "How many didn't what?",
+        "words": [
+            {
+                "word": "How",
+                "start": 12.471,
+                "end": 12.611,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 12.631,
+                "end": 12.751,
+                "score": 0.277,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't",
+                "start": 12.771,
+                "end": 13.272,
+                "score": 0.514,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what?",
+                "start": 15.912,
+                "end": 16.252,
+                "score": 0.59,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 16.272,
+        "end": 17.672,
+        "text": "30 cows in a... Stop her please.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 16.312,
+                "end": 16.672,
+                "score": 0.823,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 16.712,
+                "end": 16.792,
+                "score": 0.833,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a...",
+                "start": 16.832,
+                "end": 16.872,
+                "score": 0.487,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Stop",
+                "start": 16.912,
+                "end": 17.132,
+                "score": 0.802,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "her",
+                "start": 17.172,
+                "end": 17.292,
+                "score": 0.619,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "please.",
+                "start": 17.352,
+                "end": 17.672,
+                "score": 0.447,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 17.692,
+        "end": 20.493,
+        "text": "30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 19.573,
+                "end": 19.853,
+                "score": 0.89,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 19.893,
+                "end": 19.973,
+                "score": 0.718,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 19.993,
+                "end": 20.013,
+                "score": 0.934,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field.",
+                "start": 20.073,
+                "end": 20.493,
+                "score": 0.753,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 20.513,
+        "end": 20.593,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 20.513,
+                "end": 20.593,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 20.613,
+        "end": 20.993,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 20.633,
+                "end": 20.993,
+                "score": 0.292,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 21.373,
+        "end": 23.013,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 21.373,
+                "end": 21.693,
+                "score": 0.816,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "many",
+                "start": 21.793,
+                "end": 22.113,
+                "score": 0.575,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 22.253,
+                "end": 23.013,
+                "score": 0.406,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 23.694,
+        "end": 25.754,
+        "text": "How many didn't what?",
+        "words": [
+            {
+                "word": "How",
+                "start": 23.694,
+                "end": 23.874,
+                "score": 0.867,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 23.914,
+                "end": 24.154,
+                "score": 0.805,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't",
+                "start": 24.214,
+                "end": 24.654,
+                "score": 0.641,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "what?",
+                "start": 25.514,
+                "end": 25.754,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 33.1,
+        "end": 34.421,
+        "text": " Do you want me to say it again?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 33.1,
+                "end": 33.2,
+                "score": 0.564,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 33.22,
+                "end": 33.36,
+                "score": 0.22,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "want",
+                "start": 33.38,
+                "end": 33.62,
+                "score": 0.486,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 33.66,
+                "end": 33.74,
+                "score": 0.41,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 33.76,
+                "end": 33.821,
+                "score": 0.242,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "say",
+                "start": 33.861,
+                "end": 34.001,
+                "score": 0.592,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 34.021,
+                "end": 34.061,
+                "score": 0.016,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "again?",
+                "start": 34.141,
+                "end": 34.421,
+                "score": 0.387,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 34.441,
+        "end": 36.042,
+        "text": "Do you want me to say it slower?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 34.441,
+                "end": 34.581,
+                "score": 0.57
+            },
+            {
+                "word": "you",
+                "start": 34.661,
+                "end": 34.801,
+                "score": 0.348
+            },
+            {
+                "word": "want",
+                "start": 34.821,
+                "end": 34.901,
+                "score": 0.059
+            },
+            {
+                "word": "me",
+                "start": 34.921,
+                "end": 35.061,
+                "score": 0.599
+            },
+            {
+                "word": "to",
+                "start": 35.141,
+                "end": 35.222,
+                "score": 0.807,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "say",
+                "start": 35.242,
+                "end": 35.422,
+                "score": 0.668,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 35.482,
+                "end": 35.642,
+                "score": 0.731,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "slower?",
+                "start": 35.662,
+                "end": 36.042,
+                "score": 0.799,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 36.382,
+        "end": 38.344,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 36.382,
+                "end": 38.344,
+                "score": 0.799,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 38.364,
+        "end": 39.945,
+        "text": "30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 38.464,
+                "end": 39.084,
+                "score": 0.852,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 39.264,
+                "end": 39.345,
+                "score": 0.837,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 39.385,
+                "end": 39.405,
+                "score": 0.965,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field.",
+                "start": 39.505,
+                "end": 39.945,
+                "score": 0.781,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 39.965,
+        "end": 43.448,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 42.747,
+                "end": 43.448,
+                "score": 0.86,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 44.088,
+        "end": 45.069,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 44.088,
+                "end": 44.288,
+                "score": 0.963,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 44.328,
+                "end": 44.568,
+                "score": 0.859,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 44.648,
+                "end": 45.069,
+                "score": 0.731,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 45.129,
+        "end": 45.489,
+        "text": "Two.",
+        "words": [
+            {
+                "word": "Two.",
+                "start": 45.129,
+                "end": 45.489,
+                "score": 0.872,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 49.152,
+        "end": 50.533,
+        "text": "How many didn't what?",
+        "words": [
+            {
+                "word": "How",
+                "start": 49.152,
+                "end": 49.412,
+                "score": 0.65,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 49.432,
+                "end": 49.672,
+                "score": 0.453,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't",
+                "start": 49.712,
+                "end": 50.092,
+                "score": 0.379,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what?",
+                "start": 50.312,
+                "end": 50.533,
+                "score": 0.392,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 50.673,
+        "end": 51.934,
+        "text": "I don't get it.",
+        "words": [
+            {
+                "word": "I",
+                "start": 50.673,
+                "end": 50.773,
+                "score": 0.747,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 51.273,
+                "end": 51.393,
+                "score": 0.114
+            },
+            {
+                "word": "get",
+                "start": 51.413,
+                "end": 51.533,
+                "score": 0.479
+            },
+            {
+                "word": "it.",
+                "start": 51.814,
+                "end": 51.934,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 51.994,
+        "end": 54.556,
+        "text": "How many didn't what?",
+        "words": [
+            {
+                "word": "How",
+                "start": 51.994,
+                "end": 52.094,
+                "score": 0.384,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 52.114,
+                "end": 52.254,
+                "score": 0.285,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't",
+                "start": 52.294,
+                "end": 52.694,
+                "score": 0.573,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what?",
+                "start": 54.335,
+                "end": 54.556,
+                "score": 0.554,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 61.316,
+        "end": 63.158,
+        "text": " 30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 61.416,
+                "end": 62.117,
+                "score": 0.839,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 62.317,
+                "end": 62.417,
+                "score": 0.861,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 62.437,
+                "end": 62.457,
+                "score": 0.975,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field.",
+                "start": 62.577,
+                "end": 63.158,
+                "score": 0.789,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 63.178,
+        "end": 63.698,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 63.178,
+                "end": 63.698,
+                "score": 0.362,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 64.939,
+        "end": 66.34,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 65.639,
+                "end": 66.34,
+                "score": 0.752,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 67.341,
+        "end": 68.161,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 67.341,
+                "end": 67.521,
+                "score": 0.954,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 67.561,
+                "end": 67.801,
+                "score": 0.738,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 67.861,
+                "end": 68.161,
+                "score": 0.633,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 68.261,
+        "end": 68.662,
+        "text": "Stay there.",
+        "words": [
+            {
+                "word": "Stay",
+                "start": 68.261,
+                "end": 68.361,
+                "score": 0.137,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "there.",
+                "start": 68.521,
+                "end": 68.662,
+                "score": 0.335
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 68.682,
+        "end": 69.302,
+        "text": "I don't get it.",
+        "words": [
+            {
+                "word": "I",
+                "start": 68.682,
+                "end": 68.702,
+                "score": 0.0
+            },
+            {
+                "word": "don't",
+                "start": 68.742,
+                "end": 68.982,
+                "score": 0.381
+            },
+            {
+                "word": "get",
+                "start": 69.042,
+                "end": 69.242,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 69.262,
+                "end": 69.302,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.322,
+        "end": 73.605,
+        "text": "You're not asking me a question.",
+        "words": [
+            {
+                "word": "You're",
+                "start": 69.322,
+                "end": 69.963,
+                "score": 0.433,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 69.983,
+                "end": 71.283,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "asking",
+                "start": 71.303,
+                "end": 71.564,
+                "score": 0.418,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 71.704,
+                "end": 71.764,
+                "score": 0.28,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 71.784,
+                "end": 71.804,
+                "score": 0.003,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "question.",
+                "start": 73.325,
+                "end": 73.605,
+                "score": 0.221,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 73.625,
+        "end": 74.746,
+        "text": "30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 73.645,
+                "end": 73.825,
+                "score": 0.35,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 73.985,
+                "end": 74.105,
+                "score": 0.629,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 74.125,
+                "end": 74.145,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "field.",
+                "start": 74.606,
+                "end": 74.746,
+                "score": 0.138,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 74.786,
+        "end": 74.946,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 74.786,
+                "end": 74.946,
+                "score": 0.385,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 74.966,
+        "end": 75.186,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 74.986,
+                "end": 75.186,
+                "score": 0.196,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 75.206,
+        "end": 75.747,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 75.206,
+                "end": 75.306,
+                "score": 0.234,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 75.326,
+                "end": 75.426,
+                "score": 0.617,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't?",
+                "start": 75.446,
+                "end": 75.747,
+                "score": 0.475,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 92.521,
+        "end": 98.487,
+        "text": " How many did you get?",
+        "words": [
+            {
+                "word": "How",
+                "start": 92.521,
+                "end": 95.884,
+                "score": 0.825,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "many",
+                "start": 95.924,
+                "end": 96.024,
+                "score": 0.154,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did",
+                "start": 96.084,
+                "end": 96.485,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 97.466,
+                "end": 97.806,
+                "score": 0.634
+            },
+            {
+                "word": "get?",
+                "start": 97.866,
+                "end": 98.487,
+                "score": 0.777
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 98.587,
+        "end": 99.067,
+        "text": "No, 58.",
+        "words": [
+            {
+                "word": "No,",
+                "start": 98.587,
+                "end": 99.067,
+                "score": 0.824
+            },
+            {
+                "word": "58."
+            }
+        ]
+    },
+    {
+        "start": 99.127,
+        "end": 99.688,
+        "text": "What?",
+        "words": [
+            {
+                "word": "What?",
+                "start": 99.127,
+                "end": 99.688,
+                "score": 0.408
+            }
+        ]
+    },
+    {
+        "start": 102.37,
+        "end": 104.212,
+        "text": "Come on Becky, you've got brains.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 102.37,
+                "end": 102.57,
+                "score": 0.874,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "on",
+                "start": 102.65,
+                "end": 102.75,
+                "score": 0.891,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Becky,",
+                "start": 102.79,
+                "end": 103.071,
+                "score": 0.458,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you've",
+                "start": 103.091,
+                "end": 103.371,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 103.411,
+                "end": 103.571,
+                "score": 0.436,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brains.",
+                "start": 103.611,
+                "end": 104.212,
+                "score": 0.506,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 104.232,
+        "end": 108.455,
+        "text": "I did a what?",
+        "words": [
+            {
+                "word": "I",
+                "start": 104.232,
+                "end": 104.252,
+                "score": 0.004,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "did",
+                "start": 105.092,
+                "end": 105.413,
+                "score": 0.666,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 105.773,
+                "end": 106.053,
+                "score": 0.794,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "what?",
+                "start": 107.955,
+                "end": 108.455,
+                "score": 0.56,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 108.475,
+        "end": 110.017,
+        "text": "30 cows in a field, 28 chickens.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 108.515,
+                "end": 108.916,
+                "score": 0.98,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 108.976,
+                "end": 109.056,
+                "score": 0.644,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 109.116,
+                "end": 109.156,
+                "score": 0.668,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field,",
+                "start": 109.216,
+                "end": 109.777,
+                "score": 0.809,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 109.817,
+                "end": 110.017,
+                "score": 0.109,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 110.037,
+        "end": 110.797,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 110.037,
+                "end": 110.097,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 110.117,
+                "end": 110.237,
+                "score": 0.248
+            },
+            {
+                "word": "didn't?",
+                "start": 110.257,
+                "end": 110.797,
+                "score": 0.459,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 126.98,
+        "end": 127.74,
+        "text": " How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 126.98,
+                "end": 127.08,
+                "score": 0.287,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 127.1,
+                "end": 127.26,
+                "score": 0.529,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't?",
+                "start": 127.3,
+                "end": 127.74,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 131.421,
+        "end": 132.262,
+        "text": "Come on, think.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 131.421,
+                "end": 131.642,
+                "score": 0.336,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "on,",
+                "start": 131.702,
+                "end": 131.882,
+                "score": 0.466,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "think.",
+                "start": 131.922,
+                "end": 132.262,
+                "score": 0.885,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 133.762,
+        "end": 134.062,
+        "text": "Didn't.",
+        "words": [
+            {
+                "word": "Didn't.",
+                "start": 133.762,
+                "end": 134.062,
+                "score": 0.327,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 134.182,
+        "end": 136.063,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 134.182,
+                "end": 134.542,
+                "score": 0.653,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "many",
+                "start": 135.223,
+                "end": 135.763,
+                "score": 0.706,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "didn't?",
+                "start": 135.823,
+                "end": 136.063,
+                "score": 0.28,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 136.663,
+        "end": 139.724,
+        "text": "I don't know.",
+        "words": [
+            {
+                "word": "I",
+                "start": 136.663,
+                "end": 136.823,
+                "score": 0.757,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "don't",
+                "start": 139.024,
+                "end": 139.184,
+                "score": 0.246,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "know.",
+                "start": 139.204,
+                "end": 139.724,
+                "score": 0.556,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 140.084,
+        "end": 141.865,
+        "text": "Shall I slow it right down?",
+        "words": [
+            {
+                "word": "Shall",
+                "start": 140.084,
+                "end": 140.264,
+                "score": 0.564,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 140.284,
+                "end": 140.304,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "slow",
+                "start": 140.324,
+                "end": 140.424,
+                "score": 0.469,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 140.444,
+                "end": 140.584,
+                "score": 0.656,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "right",
+                "start": 140.644,
+                "end": 140.844,
+                "score": 0.576,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "down?",
+                "start": 140.864,
+                "end": 141.865,
+                "score": 0.595,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 141.885,
+        "end": 141.925,
+        "text": "No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 141.885,
+                "end": 141.925,
+                "score": 0.002,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 142.445,
+        "end": 145.346,
+        "text": "It's not helping.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 142.445,
+                "end": 142.565,
+                "score": 0.821,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "not",
+                "start": 142.765,
+                "end": 142.865,
+                "score": 0.39,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "helping.",
+                "start": 142.905,
+                "end": 145.346,
+                "score": 0.774,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 145.366,
+        "end": 149.367,
+        "text": "30 cows in a field.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 145.506,
+                "end": 146.166,
+                "score": 0.873,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 146.426,
+                "end": 146.506,
+                "score": 0.965,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 146.566,
+                "end": 146.606,
+                "score": 0.523,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field.",
+                "start": 146.686,
+                "end": 149.367,
+                "score": 0.88,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 149.387,
+        "end": 151.848,
+        "text": "28 chickens.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 151.048,
+                "end": 151.848,
+                "score": 0.762,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 152.228,
+        "end": 152.668,
+        "text": "Where?",
+        "words": [
+            {
+                "word": "Where?",
+                "start": 152.228,
+                "end": 152.668,
+                "score": 0.696,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 152.748,
+        "end": 153.348,
+        "text": "In the field?",
+        "words": [
+            {
+                "word": "In",
+                "start": 152.748,
+                "end": 152.808,
+                "score": 0.982,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 152.828,
+                "end": 152.908,
+                "score": 0.55,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "field?",
+                "start": 152.948,
+                "end": 153.348,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 153.729,
+        "end": 154.729,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 153.729,
+                "end": 153.949,
+                "score": 0.96,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 153.989,
+                "end": 154.229,
+                "score": 0.819,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 154.289,
+                "end": 154.729,
+                "score": 0.813,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 162.15,
+        "end": 165.931,
+        "text": " What is it?",
+        "words": [
+            {
+                "word": "What",
+                "start": 162.15,
+                "end": 162.39,
+                "score": 0.406,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 162.49,
+                "end": 162.81,
+                "score": 0.717,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it?",
+                "start": 165.791,
+                "end": 165.931,
+                "score": 0.405,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 166.071,
+        "end": 166.691,
+        "text": "Do you get it?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 166.071,
+                "end": 166.191,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 166.211,
+                "end": 166.291,
+                "score": 0.209,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 166.311,
+                "end": 166.491,
+                "score": 0.63,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it?",
+                "start": 166.551,
+                "end": 166.691,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 167.532,
+        "end": 170.753,
+        "text": "I don't know.",
+        "words": [
+            {
+                "word": "I",
+                "start": 167.532,
+                "end": 167.692,
+                "score": 0.737,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "don't",
+                "start": 168.012,
+                "end": 170.332,
+                "score": 0.85,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "know.",
+                "start": 170.352,
+                "end": 170.753,
+                "score": 0.31,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 170.773,
+        "end": 172.213,
+        "text": "Come on, use your brain now.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 170.773,
+                "end": 170.913,
+                "score": 0.404,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "on,",
+                "start": 170.993,
+                "end": 171.073,
+                "score": 0.906,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "use",
+                "start": 171.173,
+                "end": 171.233,
+                "score": 0.101,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "your",
+                "start": 171.273,
+                "end": 171.393,
+                "score": 0.349,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "brain",
+                "start": 171.413,
+                "end": 171.713,
+                "score": 0.574,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "now.",
+                "start": 171.733,
+                "end": 172.213,
+                "score": 0.819,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 172.233,
+        "end": 172.833,
+        "text": "28 didn't.",
+        "words": [
+            {
+                "word": "28"
+            },
+            {
+                "word": "didn't.",
+                "start": 172.293,
+                "end": 172.833,
+                "score": 0.528,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 172.873,
+        "end": 173.373,
+        "text": "Didn't what?",
+        "words": [
+            {
+                "word": "Didn't",
+                "start": 172.873,
+                "end": 173.093,
+                "score": 0.336,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "what?",
+                "start": 173.113,
+                "end": 173.373,
+                "score": 0.53,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 173.453,
+        "end": 176.054,
+        "text": "I didn't say 28 didn't.",
+        "words": [
+            {
+                "word": "I",
+                "start": 173.453,
+                "end": 173.533,
+                "score": 0.921,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't",
+                "start": 173.573,
+                "end": 173.973,
+                "score": 0.841,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "say",
+                "start": 175.274,
+                "end": 175.574,
+                "score": 0.626,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "28"
+            },
+            {
+                "word": "didn't.",
+                "start": 175.634,
+                "end": 176.054,
+                "score": 0.252,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 176.074,
+        "end": 176.934,
+        "text": "30 cows in a field, 28 chickens.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 176.234,
+                "end": 176.374,
+                "score": 0.425,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 176.394,
+                "end": 176.434,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 176.474,
+                "end": 176.494,
+                "score": 0.027,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field,",
+                "start": 176.534,
+                "end": 176.634,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 176.694,
+                "end": 176.934,
+                "score": 0.256,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 176.954,
+        "end": 177.434,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 176.954,
+                "end": 177.014,
+                "score": 0.015,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 177.034,
+                "end": 177.174,
+                "score": 0.281,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 177.214,
+                "end": 177.434,
+                "score": 0.661,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 188.951,
+        "end": 191.092,
+        "text": " Right, one more time.",
+        "words": [
+            {
+                "word": "Right,",
+                "start": 188.951,
+                "end": 189.511,
+                "score": 0.682,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "one",
+                "start": 189.811,
+                "end": 190.031,
+                "score": 0.5
+            },
+            {
+                "word": "more",
+                "start": 190.111,
+                "end": 190.431,
+                "score": 0.596
+            },
+            {
+                "word": "time.",
+                "start": 190.691,
+                "end": 191.092,
+                "score": 0.706,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 191.272,
+        "end": 196.373,
+        "text": "There are 30 cows in a field.",
+        "words": [
+            {
+                "word": "There",
+                "start": 191.272,
+                "end": 191.552,
+                "score": 0.406,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "are",
+                "start": 191.932,
+                "end": 192.172,
+                "score": 0.607,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 194.872,
+                "end": 195.333,
+                "score": 0.671,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "in",
+                "start": 195.353,
+                "end": 195.613,
+                "score": 0.882,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "a",
+                "start": 195.673,
+                "end": 195.853,
+                "score": 0.78,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "field.",
+                "start": 195.953,
+                "end": 196.373,
+                "score": 0.584,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 220.539,
+        "end": 222.141,
+        "text": " 20 ate chickens.",
+        "words": [
+            {
+                "word": "20"
+            },
+            {
+                "word": "ate",
+                "start": 220.82,
+                "end": 221.1,
+                "score": 0.745,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chickens.",
+                "start": 221.38,
+                "end": 222.141,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 223.242,
+        "end": 225.244,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 223.242,
+                "end": 223.482,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "many",
+                "start": 223.502,
+                "end": 223.783,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "didn't?",
+                "start": 223.823,
+                "end": 225.244,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 225.264,
+        "end": 226.706,
+        "text": "20 of the cows ate chickens.",
+        "words": [
+            {
+                "word": "20"
+            },
+            {
+                "word": "of",
+                "start": 225.364,
+                "end": 225.464,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 225.484,
+                "end": 225.584,
+                "score": 0.441,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cows",
+                "start": 225.624,
+                "end": 225.905,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ate",
+                "start": 226.045,
+                "end": 226.145,
+                "score": 0.242,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chickens.",
+                "start": 226.185,
+                "end": 226.706,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 227.326,
+        "end": 229.749,
+        "text": "Okay, 12 didn't.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 227.326,
+                "end": 227.947,
+                "score": 0.586,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "12"
+            },
+            {
+                "word": "didn't.",
+                "start": 228.067,
+                "end": 229.749,
+                "score": 0.617,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 229.789,
+        "end": 232.932,
+        "text": "You still got it wrong!",
+        "words": [
+            {
+                "word": "You",
+                "start": 229.789,
+                "end": 229.909,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "still",
+                "start": 229.969,
+                "end": 230.349,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 230.409,
+                "end": 230.529,
+                "score": 0.414,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 230.589,
+                "end": 230.649,
+                "score": 0.276,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wrong!",
+                "start": 231.03,
+                "end": 232.932,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 233.292,
+        "end": 232.932,
+        "text": "22?",
+        "words": [
+            {
+                "word": "22?"
+            }
+        ]
+    },
+    {
+        "start": 233.312,
+        "end": 237.556,
+        "text": "2, Beth.",
+        "words": [
+            {
+                "word": "2,"
+            },
+            {
+                "word": "Beth.",
+                "start": 234.093,
+                "end": 237.556,
+                "score": 0.862,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 237.596,
+        "end": 237.917,
+        "text": "No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 237.596,
+                "end": 237.917,
+                "score": 0.719,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 237.937,
+        "end": 241.34,
+        "text": "30 cows in a field, 28 chickens.",
+        "words": [
+            {
+                "word": "30"
+            },
+            {
+                "word": "cows",
+                "start": 237.977,
+                "end": 238.337,
+                "score": 0.873,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 238.377,
+                "end": 238.437,
+                "score": 0.556,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 238.497,
+                "end": 238.557,
+                "score": 0.281,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "field,",
+                "start": 238.617,
+                "end": 240.219,
+                "score": 0.869,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "28"
+            },
+            {
+                "word": "chickens.",
+                "start": 240.759,
+                "end": 241.34,
+                "score": 0.729,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 241.46,
+        "end": 242.501,
+        "text": "How many didn't?",
+        "words": [
+            {
+                "word": "How",
+                "start": 241.46,
+                "end": 241.64,
+                "score": 0.994,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "many",
+                "start": 241.68,
+                "end": 241.861,
+                "score": 0.907,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "didn't?",
+                "start": 241.901,
+                "end": 242.501,
+                "score": 0.585,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 242.521,
+        "end": 242.501,
+        "text": "15!",
+        "words": [
+            {
+                "word": "15!"
+            }
+        ]
+    },
+    {
+        "start": 242.842,
+        "end": 243.522,
+        "text": "Yay!",
+        "words": [
+            {
+                "word": "Yay!",
+                "start": 242.842,
+                "end": 243.522,
+                "score": 0.775,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 243.602,
+        "end": 246.325,
+        "text": "Hallelujah!",
+        "words": [
+            {
+                "word": "Hallelujah!",
+                "start": 243.602,
+                "end": 246.325,
+                "score": 0.504,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 246.505,
+        "end": 247.166,
+        "text": "That's my pizza.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 246.505,
+                "end": 246.705,
+                "score": 0.341,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 246.745,
+                "end": 246.846,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pizza.",
+                "start": 246.866,
+                "end": 247.166,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

@@ -1,0 +1,24 @@
+[
+    {
+        "start": 1.633,
+        "end": 2.544,
+        "text": " Disgusted look.",
+        "words": [
+            {
+                "word": "Disgusted",
+                "start": 1.633,
+                "end": 2.301,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look.",
+                "start": 2.362,
+                "end": 2.544,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

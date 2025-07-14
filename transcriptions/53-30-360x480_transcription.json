@@ -1,0 +1,493 @@
+[
+    {
+        "start": 0.743,
+        "end": 1.604,
+        "text": " So what did you say?",
+        "words": [
+            {
+                "word": "So",
+                "start": 0.743,
+                "end": 0.903,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 0.943,
+                "end": 1.063,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did",
+                "start": 1.103,
+                "end": 1.204,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 1.244,
+                "end": 1.344,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say?",
+                "start": 1.384,
+                "end": 1.604,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1.624,
+        "end": 5.407,
+        "text": "Does my face look happy right now?",
+        "words": [
+            {
+                "word": "Does",
+                "start": 1.624,
+                "end": 3.165,
+                "score": 0.594,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 3.245,
+                "end": 3.485,
+                "score": 0.989,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "face",
+                "start": 3.605,
+                "end": 3.885,
+                "score": 0.521,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "look",
+                "start": 3.926,
+                "end": 4.166,
+                "score": 0.516,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "happy",
+                "start": 4.206,
+                "end": 4.746,
+                "score": 0.662,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "right",
+                "start": 4.786,
+                "end": 5.006,
+                "score": 0.419,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "now?",
+                "start": 5.066,
+                "end": 5.407,
+                "score": 0.867,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 8.189,
+        "end": 12.652,
+        "text": "Cause you talked to my sister Kevin nicely.",
+        "words": [
+            {
+                "word": "Cause",
+                "start": 8.189,
+                "end": 8.489,
+                "score": 0.67,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 8.549,
+                "end": 8.789,
+                "score": 0.683,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "talked",
+                "start": 8.849,
+                "end": 9.61,
+                "score": 0.624,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 10.17,
+                "end": 10.43,
+                "score": 0.819,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 10.49,
+                "end": 10.71,
+                "score": 0.992,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "sister",
+                "start": 10.791,
+                "end": 11.311,
+                "score": 0.901,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Kevin",
+                "start": 11.371,
+                "end": 11.811,
+                "score": 0.605,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "nicely.",
+                "start": 11.871,
+                "end": 12.652,
+                "score": 0.796,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 14.673,
+        "end": 19.637,
+        "text": "Did you talk to my sister Kevin nicely dad?",
+        "words": [
+            {
+                "word": "Did",
+                "start": 14.673,
+                "end": 14.874,
+                "score": 0.595,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "you",
+                "start": 14.934,
+                "end": 16.495,
+                "score": 0.588,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "talk",
+                "start": 16.595,
+                "end": 16.895,
+                "score": 0.619,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 17.035,
+                "end": 17.175,
+                "score": 0.834,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 17.235,
+                "end": 17.415,
+                "score": 0.968,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "sister",
+                "start": 17.475,
+                "end": 17.956,
+                "score": 0.761,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Kevin",
+                "start": 17.976,
+                "end": 18.436,
+                "score": 0.638,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "nicely",
+                "start": 18.516,
+                "end": 19.097,
+                "score": 0.813,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "dad?",
+                "start": 19.157,
+                "end": 19.637,
+                "score": 0.55,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 19.917,
+        "end": 20.738,
+        "text": "I thought I did.",
+        "words": [
+            {
+                "word": "I",
+                "start": 19.917,
+                "end": 19.997,
+                "score": 0.976,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "thought",
+                "start": 20.097,
+                "end": 20.378,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 20.458,
+                "end": 20.538,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "did.",
+                "start": 20.578,
+                "end": 20.738,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 22.688,
+        "end": 24.513,
+        "text": " and you taught bad words.",
+        "words": [
+            {
+                "word": "and",
+                "start": 22.688,
+                "end": 22.809,
+                "score": 0.76,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 22.869,
+                "end": 23.069,
+                "score": 0.809,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "taught",
+                "start": 23.109,
+                "end": 23.37,
+                "score": 0.615,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "bad",
+                "start": 23.691,
+                "end": 24.092,
+                "score": 0.95,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "words.",
+                "start": 24.192,
+                "end": 24.513,
+                "score": 0.935,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 25.094,
+        "end": 28.041,
+        "text": "Look at my face, it's now not happy.",
+        "words": [
+            {
+                "word": "Look",
+                "start": 25.094,
+                "end": 25.254,
+                "score": 0.378,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "at",
+                "start": 25.274,
+                "end": 25.314,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 25.395,
+                "end": 25.615,
+                "score": 0.972,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "face,",
+                "start": 25.715,
+                "end": 26.036,
+                "score": 0.95,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it's",
+                "start": 26.116,
+                "end": 26.297,
+                "score": 0.473,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "now",
+                "start": 26.497,
+                "end": 26.878,
+                "score": 0.911,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "not",
+                "start": 27.099,
+                "end": 27.419,
+                "score": 0.829,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "happy.",
+                "start": 27.58,
+                "end": 28.041,
+                "score": 0.97,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 28.562,
+        "end": 34.977,
+        "text": "It's mad because you've been a kid who my sister can't learn a bad word.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 28.562,
+                "end": 28.702,
+                "score": 0.663,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "mad",
+                "start": 28.963,
+                "end": 29.203,
+                "score": 0.831,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "because",
+                "start": 29.223,
+                "end": 29.524,
+                "score": 0.419,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you've",
+                "start": 29.604,
+                "end": 29.925,
+                "score": 0.511,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "been",
+                "start": 29.945,
+                "end": 30.246,
+                "score": 0.597,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 30.667,
+                "end": 30.747,
+                "score": 0.738,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "kid",
+                "start": 30.887,
+                "end": 31.348,
+                "score": 0.784,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "who",
+                "start": 31.769,
+                "end": 32.07,
+                "score": 0.611,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 32.15,
+                "end": 32.371,
+                "score": 0.922,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "sister",
+                "start": 32.571,
+                "end": 33.112,
+                "score": 0.802,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "can't",
+                "start": 33.213,
+                "end": 33.634,
+                "score": 0.474,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "learn",
+                "start": 33.694,
+                "end": 33.914,
+                "score": 0.434,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 33.994,
+                "end": 34.075,
+                "score": 0.737,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "bad",
+                "start": 34.255,
+                "end": 34.616,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "word.",
+                "start": 34.636,
+                "end": 34.977,
+                "score": 0.486,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

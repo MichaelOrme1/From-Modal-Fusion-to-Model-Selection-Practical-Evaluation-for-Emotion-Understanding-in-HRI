@@ -1,0 +1,1300 @@
+[
+    {
+        "start": 0.652,
+        "end": 3.254,
+        "text": " Barack Obama is the Nickelback of Presidents.",
+        "words": [
+            {
+                "word": "Barack",
+                "start": 0.652,
+                "end": 0.892,
+                "score": 0.48,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama",
+                "start": 0.952,
+                "end": 1.333,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 1.513,
+                "end": 1.613,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 1.653,
+                "end": 1.813,
+                "score": 0.725,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Nickelback",
+                "start": 2.073,
+                "end": 2.634,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 2.674,
+                "end": 2.734,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Presidents.",
+                "start": 2.794,
+                "end": 3.254,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 5.376,
+        "end": 11.082,
+        "text": "Obama couldn't negotiate getting a Whopper without pickles at Woodstock Dave.",
+        "words": [
+            {
+                "word": "Obama",
+                "start": 5.376,
+                "end": 5.857,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "couldn't",
+                "start": 6.177,
+                "end": 6.477,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "negotiate",
+                "start": 6.517,
+                "end": 7.078,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "getting",
+                "start": 7.138,
+                "end": 7.418,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 7.558,
+                "end": 7.618,
+                "score": 0.516,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Whopper",
+                "start": 7.718,
+                "end": 8.099,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "without",
+                "start": 8.299,
+                "end": 8.619,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pickles",
+                "start": 8.699,
+                "end": 9.08,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 10.101,
+                "end": 10.241,
+                "score": 0.945,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Woodstock",
+                "start": 10.301,
+                "end": 10.801,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Dave.",
+                "start": 10.821,
+                "end": 11.082,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.702,
+        "end": 12.563,
+        "text": "Thanks, Dave.",
+        "words": [
+            {
+                "word": "Thanks,",
+                "start": 11.702,
+                "end": 11.982,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Dave.",
+                "start": 12.283,
+                "end": 12.563,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 14.364,
+        "end": 20.17,
+        "text": "I bet Obama likes mustard on his hot dogs because he's gross at Duck Punks.",
+        "words": [
+            {
+                "word": "I",
+                "start": 14.364,
+                "end": 14.465,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bet",
+                "start": 14.485,
+                "end": 14.605,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama",
+                "start": 14.645,
+                "end": 15.065,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "likes",
+                "start": 15.205,
+                "end": 15.445,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mustard",
+                "start": 15.526,
+                "end": 15.946,
+                "score": 0.757,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 16.066,
+                "end": 16.126,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 16.166,
+                "end": 16.266,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hot",
+                "start": 16.306,
+                "end": 16.486,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dogs",
+                "start": 16.506,
+                "end": 16.767,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 16.847,
+                "end": 17.247,
+                "score": 0.759,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he's",
+                "start": 17.407,
+                "end": 17.607,
+                "score": 0.775,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gross",
+                "start": 17.667,
+                "end": 18.048,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 18.949,
+                "end": 19.109,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Duck",
+                "start": 19.409,
+                "end": 19.609,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Punks.",
+                "start": 19.849,
+                "end": 20.17,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 22.372,
+        "end": 25.495,
+        "text": "Just found out my daughter shares a birthday with Obama.",
+        "words": [
+            {
+                "word": "Just",
+                "start": 22.372,
+                "end": 22.572,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "found",
+                "start": 22.612,
+                "end": 22.852,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 22.952,
+                "end": 23.072,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 23.273,
+                "end": 23.413,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "daughter",
+                "start": 23.453,
+                "end": 23.733,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shares",
+                "start": 23.793,
+                "end": 24.133,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 24.153,
+                "end": 24.173,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "birthday",
+                "start": 24.434,
+                "end": 24.854,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 24.914,
+                "end": 25.054,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama.",
+                "start": 25.114,
+                "end": 25.495,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.435,
+        "end": 26.736,
+        "text": "Puke.",
+        "words": [
+            {
+                "word": "Puke.",
+                "start": 26.435,
+                "end": 26.736,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 28.126,
+        "end": 31.627,
+        "text": " in cats at Mom of Four Munchkins.",
+        "words": [
+            {
+                "word": "in",
+                "start": 28.126,
+                "end": 28.246,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cats",
+                "start": 28.626,
+                "end": 28.966,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 30.006,
+                "end": 30.146,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Mom",
+                "start": 30.326,
+                "end": 30.646,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 30.826,
+                "end": 30.906,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Four",
+                "start": 30.987,
+                "end": 31.167,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Munchkins.",
+                "start": 31.207,
+                "end": 31.627,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.447,
+        "end": 36.147,
+        "text": "Barack Obama dances like how his jeans look.",
+        "words": [
+            {
+                "word": "Barack",
+                "start": 33.447,
+                "end": 33.707,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama",
+                "start": 33.727,
+                "end": 34.107,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dances",
+                "start": 34.167,
+                "end": 34.607,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 34.787,
+                "end": 34.967,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 35.007,
+                "end": 35.227,
+                "score": 0.817,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "his",
+                "start": 35.287,
+                "end": 35.447,
+                "score": 0.698,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "jeans",
+                "start": 35.507,
+                "end": 35.847,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look.",
+                "start": 35.927,
+                "end": 36.147,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 37.748,
+        "end": 41.468,
+        "text": "You know, this jeans thing, this is so old.",
+        "words": [
+            {
+                "word": "You",
+                "start": 37.748,
+                "end": 37.848,
+                "score": 0.749,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know,",
+                "start": 37.868,
+                "end": 38.068,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 38.448,
+                "end": 38.628,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "jeans",
+                "start": 38.688,
+                "end": 38.988,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "thing,",
+                "start": 39.028,
+                "end": 39.228,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 39.488,
+                "end": 39.648,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 39.728,
+                "end": 39.808,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 39.848,
+                "end": 40.128,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "old.",
+                "start": 41.288,
+                "end": 41.468,
+                "score": 0.795,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 41.928,
+        "end": 43.069,
+        "text": "This was years ago, come on.",
+        "words": [
+            {
+                "word": "This",
+                "start": 41.928,
+                "end": 42.028,
+                "score": 0.181,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 42.048,
+                "end": 42.248,
+                "score": 0.248,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "years",
+                "start": 42.268,
+                "end": 42.468,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ago,",
+                "start": 42.508,
+                "end": 42.709,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "come",
+                "start": 42.749,
+                "end": 42.889,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on.",
+                "start": 42.949,
+                "end": 43.069,
+                "score": 0.74,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.629,
+        "end": 47.569,
+        "text": "My mom bought new conditioner and it sucks.",
+        "words": [
+            {
+                "word": "My",
+                "start": 44.629,
+                "end": 44.769,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mom",
+                "start": 44.829,
+                "end": 45.169,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bought",
+                "start": 45.629,
+                "end": 45.909,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "new",
+                "start": 46.069,
+                "end": 46.229,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "conditioner",
+                "start": 46.249,
+                "end": 46.769,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 46.949,
+                "end": 47.049,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 47.089,
+                "end": 47.189,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sucks.",
+                "start": 47.249,
+                "end": 47.569,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 47.709,
+        "end": 49.43,
+        "text": "It isn't even conditioning my hair.",
+        "words": [
+            {
+                "word": "It",
+                "start": 47.709,
+                "end": 47.789,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "isn't",
+                "start": 47.909,
+                "end": 48.149,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "even",
+                "start": 48.289,
+                "end": 48.51,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "conditioning",
+                "start": 48.55,
+                "end": 49.01,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 49.05,
+                "end": 49.19,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hair.",
+                "start": 49.23,
+                "end": 49.43,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.61,
+        "end": 51.11,
+        "text": "I blame Obama.",
+        "words": [
+            {
+                "word": "I",
+                "start": 49.61,
+                "end": 49.71,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blame",
+                "start": 49.75,
+                "end": 50.13,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama.",
+                "start": 50.65,
+                "end": 51.11,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 53.45,
+        "end": 54.091,
+        "text": "Barack Obama.",
+        "words": [
+            {
+                "word": "Barack",
+                "start": 53.45,
+                "end": 53.69,
+                "score": 0.621,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama.",
+                "start": 53.75,
+                "end": 54.091,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 55.291,
+        "end": 56.771,
+        "text": "Bro, do you even lift?",
+        "words": [
+            {
+                "word": "Bro,",
+                "start": 55.291,
+                "end": 55.471,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 55.511,
+                "end": 55.591,
+                "score": 0.278,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 56.191,
+                "end": 56.271,
+                "score": 0.299,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "even",
+                "start": 56.331,
+                "end": 56.531,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lift?",
+                "start": 56.571,
+                "end": 56.771,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 58.837,
+        "end": 60.958,
+        "text": " Well, I lifted the ban on Cuban cigars.",
+        "words": [
+            {
+                "word": "Well,",
+                "start": 58.837,
+                "end": 59.037,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 59.117,
+                "end": 59.217,
+                "score": 0.957,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lifted",
+                "start": 59.657,
+                "end": 59.917,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 59.957,
+                "end": 60.017,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ban",
+                "start": 60.057,
+                "end": 60.237,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 60.277,
+                "end": 60.337,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Cuban",
+                "start": 60.357,
+                "end": 60.618,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cigars.",
+                "start": 60.638,
+                "end": 60.958,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.978,
+        "end": 65.499,
+        "text": "That's worth something.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 60.978,
+                "end": 61.118,
+                "score": 0.239,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "worth",
+                "start": 61.158,
+                "end": 61.538,
+                "score": 0.435,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "something.",
+                "start": 64.058,
+                "end": 65.499,
+                "score": 0.521,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 66.859,
+        "end": 70.28,
+        "text": "Barack Obama is the sharknado of presidents.",
+        "words": [
+            {
+                "word": "Barack",
+                "start": 66.859,
+                "end": 67.199,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama",
+                "start": 67.239,
+                "end": 67.66,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 67.82,
+                "end": 67.92,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 67.98,
+                "end": 68.12,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sharknado",
+                "start": 68.7,
+                "end": 69.48,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 69.62,
+                "end": 69.68,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "presidents.",
+                "start": 69.78,
+                "end": 70.28,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 70.56,
+        "end": 72.281,
+        "text": "Loud, stupid, and overhyped.",
+        "words": [
+            {
+                "word": "Loud,",
+                "start": 70.56,
+                "end": 70.9,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stupid,",
+                "start": 71.08,
+                "end": 71.461,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 71.581,
+                "end": 71.681,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "overhyped.",
+                "start": 71.821,
+                "end": 72.281,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 73.081,
+        "end": 75.442,
+        "text": "Hashtag sharknado4.",
+        "words": [
+            {
+                "word": "Hashtag",
+                "start": 73.081,
+                "end": 73.721,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sharknado4.",
+                "start": 74.301,
+                "end": 75.442,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 78.242,
+        "end": 83.164,
+        "text": "President Obama will go down as perhaps the worst president in the history of the United States!",
+        "words": [
+            {
+                "word": "President",
+                "start": 78.242,
+                "end": 78.603,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Obama",
+                "start": 78.683,
+                "end": 79.063,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 79.103,
+                "end": 79.283,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 79.323,
+                "end": 79.443,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down",
+                "start": 79.483,
+                "end": 79.703,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 79.923,
+                "end": 80.003,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "perhaps",
+                "start": 80.063,
+                "end": 80.383,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 80.563,
+                "end": 80.643,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "worst",
+                "start": 80.683,
+                "end": 80.883,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "president",
+                "start": 80.943,
+                "end": 81.403,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 81.623,
+                "end": 81.703,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 81.723,
+                "end": 81.803,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "history",
+                "start": 81.864,
+                "end": 82.204,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 82.224,
+                "end": 82.284,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 82.324,
+                "end": 82.384,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "United",
+                "start": 82.444,
+                "end": 82.764,
+                "score": 0.739,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "States!",
+                "start": 82.824,
+                "end": 83.164,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 83.764,
+        "end": 86.845,
+        "text": "At real Donald Trump.",
+        "words": [
+            {
+                "word": "At",
+                "start": 83.764,
+                "end": 85.585,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "real",
+                "start": 85.925,
+                "end": 86.185,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Donald",
+                "start": 86.265,
+                "end": 86.585,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Trump.",
+                "start": 86.625,
+                "end": 86.845,
+                "score": 0.977,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 89.031,
+        "end": 90.215,
+        "text": " at real Donald Trump.",
+        "words": [
+            {
+                "word": "at",
+                "start": 89.031,
+                "end": 89.272,
+                "score": 0.238,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "real",
+                "start": 89.352,
+                "end": 89.613,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Donald",
+                "start": 89.633,
+                "end": 89.914,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Trump.",
+                "start": 89.934,
+                "end": 90.215,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 91.439,
+        "end": 94.008,
+        "text": "At least I will go down as a president.",
+        "words": [
+            {
+                "word": "At",
+                "start": 91.439,
+                "end": 91.5,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "least",
+                "start": 91.54,
+                "end": 91.74,
+                "score": 0.739,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 91.841,
+                "end": 91.881,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 91.921,
+                "end": 92.082,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 92.122,
+                "end": 92.222,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down",
+                "start": 92.262,
+                "end": 92.503,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 92.824,
+                "end": 92.925,
+                "score": 0.568,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 93.125,
+                "end": 93.185,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "president.",
+                "start": 93.527,
+                "end": 94.008,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

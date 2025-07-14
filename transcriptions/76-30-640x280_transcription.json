@@ -1,0 +1,699 @@
+[
+    {
+        "start": 0.948,
+        "end": 4.63,
+        "text": " We've got years of messages stored, Cooper.",
+        "words": [
+            {
+                "word": "We've",
+                "start": 0.948,
+                "end": 1.088,
+                "score": 0.6,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 1.128,
+                "end": 1.388,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "years",
+                "start": 1.428,
+                "end": 1.709,
+                "score": 0.586,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 1.989,
+                "end": 2.089,
+                "score": 0.597,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "messages",
+                "start": 2.129,
+                "end": 2.609,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stored,",
+                "start": 2.649,
+                "end": 3.029,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Cooper.",
+                "start": 4.21,
+                "end": 4.63,
+                "score": 0.615
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 5.531,
+        "end": 7.212,
+        "text": "Messages span 23 years.",
+        "words": [
+            {
+                "word": "Messages",
+                "start": 5.531,
+                "end": 6.091,
+                "score": 0.646,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "span",
+                "start": 6.111,
+                "end": 6.512,
+                "score": 0.846,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "23"
+            },
+            {
+                "word": "years.",
+                "start": 6.852,
+                "end": 7.212,
+                "score": 0.589,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 7.292,
+        "end": 11.575,
+        "text": "You can't play in front of the gang.",
+        "words": [
+            {
+                "word": "You",
+                "start": 7.292,
+                "end": 7.652,
+                "score": 0.539,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "can't",
+                "start": 7.672,
+                "end": 10.694,
+                "score": 0.199,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 10.734,
+                "end": 10.834,
+                "score": 0.143,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 10.875,
+                "end": 10.915,
+                "score": 0.01,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 10.935,
+                "end": 11.075,
+                "score": 0.097,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 11.135,
+                "end": 11.195,
+                "score": 0.117,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 11.215,
+                "end": 11.275,
+                "score": 0.055,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gang.",
+                "start": 11.295,
+                "end": 11.575,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.277,
+        "end": 15.738,
+        "text": "Hey, Dad.",
+        "words": [
+            {
+                "word": "Hey,",
+                "start": 15.277,
+                "end": 15.397,
+                "score": 0.236,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Dad.",
+                "start": 15.417,
+                "end": 15.738,
+                "score": 0.66,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 17.839,
+        "end": 18.179,
+        "text": "Checking in.",
+        "words": [
+            {
+                "word": "Checking",
+                "start": 17.839,
+                "end": 18.119,
+                "score": 0.497,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in.",
+                "start": 18.139,
+                "end": 18.179,
+                "score": 0.003,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 18.219,
+        "end": 24.023,
+        "text": "It's me and I. Um... I finished second in school.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 18.219,
+                "end": 18.359,
+                "score": 0.297,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 19.02,
+                "end": 19.1,
+                "score": 0.484,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 19.12,
+                "end": 19.24,
+                "score": 0.815,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I.",
+                "start": 19.38,
+                "end": 19.48,
+                "score": 0.963,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Um...",
+                "start": 21.842,
+                "end": 22.062,
+                "score": 0.733,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 23.002,
+                "end": 23.062,
+                "score": 0.613,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "finished",
+                "start": 23.102,
+                "end": 23.303,
+                "score": 0.081,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "second",
+                "start": 23.323,
+                "end": 23.583,
+                "score": 0.942,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 23.603,
+                "end": 23.643,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "school.",
+                "start": 23.663,
+                "end": 24.023,
+                "score": 0.682,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 26.405,
+        "end": 27.966,
+        "text": "Security's still giving me Cs, so...",
+        "words": [
+            {
+                "word": "Security's",
+                "start": 26.405,
+                "end": 26.805,
+                "score": 0.386,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "still",
+                "start": 26.825,
+                "end": 27.005,
+                "score": 0.275,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "giving",
+                "start": 27.025,
+                "end": 27.205,
+                "score": 0.416,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 27.245,
+                "end": 27.345,
+                "score": 0.978,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Cs,",
+                "start": 27.405,
+                "end": 27.725,
+                "score": 0.404,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "so...",
+                "start": 27.805,
+                "end": 27.966,
+                "score": 0.953,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 29.073,
+        "end": 31.054,
+        "text": " Pulled me down, but the second's not bad.",
+        "words": [
+            {
+                "word": "Pulled",
+                "start": 29.073,
+                "end": 29.253,
+                "score": 0.557,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 29.293,
+                "end": 29.373,
+                "score": 0.949,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "down,",
+                "start": 29.413,
+                "end": 29.633,
+                "score": 0.911,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "but",
+                "start": 29.693,
+                "end": 29.873,
+                "score": 0.941,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 30.094,
+                "end": 30.294,
+                "score": 0.257,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "second's",
+                "start": 30.314,
+                "end": 30.574,
+                "score": 0.304,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "not",
+                "start": 30.614,
+                "end": 30.754,
+                "score": 0.94,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "bad.",
+                "start": 30.794,
+                "end": 31.054,
+                "score": 0.736,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 33.035,
+        "end": 37.577,
+        "text": "Grandpa attended the ceremony.",
+        "words": [
+            {
+                "word": "Grandpa",
+                "start": 33.035,
+                "end": 33.295,
+                "score": 0.467,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "attended",
+                "start": 33.375,
+                "end": 33.615,
+                "score": 0.485,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 33.695,
+                "end": 33.755,
+                "score": 0.287,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ceremony.",
+                "start": 33.775,
+                "end": 37.577,
+                "score": 0.909,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 38.097,
+        "end": 40.919,
+        "text": "Oh, I met another girl, Dad.",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 38.097,
+                "end": 38.237,
+                "score": 0.848,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 39.918,
+                "end": 39.978,
+                "score": 0.46,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "met",
+                "start": 39.998,
+                "end": 40.098,
+                "score": 0.679,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "another",
+                "start": 40.118,
+                "end": 40.338,
+                "score": 0.614,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "girl,",
+                "start": 40.358,
+                "end": 40.559,
+                "score": 0.848,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Dad.",
+                "start": 40.579,
+                "end": 40.919,
+                "score": 0.752,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 40.939,
+        "end": 45.541,
+        "text": "I don't really think this is the one.",
+        "words": [
+            {
+                "word": "I",
+                "start": 40.939,
+                "end": 40.959,
+                "score": 0.02,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 41.879,
+                "end": 44.44,
+                "score": 0.594,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "really",
+                "start": 44.48,
+                "end": 44.661,
+                "score": 0.612,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "think",
+                "start": 44.701,
+                "end": 44.821,
+                "score": 0.42,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 44.861,
+                "end": 44.961,
+                "score": 0.741,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 45.021,
+                "end": 45.101,
+                "score": 0.753,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 45.141,
+                "end": 45.221,
+                "score": 0.798,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "one.",
+                "start": 45.361,
+                "end": 45.541,
+                "score": 0.846,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 47.442,
+        "end": 48.242,
+        "text": "Her name's Lois.",
+        "words": [
+            {
+                "word": "Her",
+                "start": 47.442,
+                "end": 47.522,
+                "score": 0.334,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "name's",
+                "start": 47.562,
+                "end": 47.782,
+                "score": 0.797,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Lois.",
+                "start": 47.822,
+                "end": 48.242,
+                "score": 0.753,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 48.282,
+        "end": 49.523,
+        "text": "That's her right there.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 48.282,
+                "end": 48.763,
+                "score": 0.406,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "her",
+                "start": 48.803,
+                "end": 48.923,
+                "score": 0.467,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "right",
+                "start": 48.983,
+                "end": 49.143,
+                "score": 0.368,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "there.",
+                "start": 49.183,
+                "end": 49.523,
+                "score": 0.894,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 53.225,
+        "end": 54.405,
+        "text": "Murphy stole Grandpa's car.",
+        "words": [
+            {
+                "word": "Murphy",
+                "start": 53.225,
+                "end": 53.505,
+                "score": 0.862,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "stole",
+                "start": 53.525,
+                "end": 53.705,
+                "score": 0.746,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Grandpa's",
+                "start": 53.745,
+                "end": 54.025,
+                "score": 0.476,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "car.",
+                "start": 54.085,
+                "end": 54.405,
+                "score": 0.804,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 55.906,
+        "end": 56.546,
+        "text": "She crashed it.",
+        "words": [
+            {
+                "word": "She",
+                "start": 55.906,
+                "end": 56.026,
+                "score": 0.302,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "crashed",
+                "start": 56.046,
+                "end": 56.346,
+                "score": 0.704,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it.",
+                "start": 56.406,
+                "end": 56.546,
+                "score": 0.79,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 56.566,
+        "end": 57.827,
+        "text": "She's okay, though.",
+        "words": [
+            {
+                "word": "She's",
+                "start": 56.566,
+                "end": 57.287,
+                "score": 0.49,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "okay,",
+                "start": 57.387,
+                "end": 57.627,
+                "score": 0.488,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "though.",
+                "start": 57.647,
+                "end": 57.827,
+                "score": 0.305,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

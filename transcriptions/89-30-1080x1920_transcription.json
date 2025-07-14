@@ -1,0 +1,325 @@
+[
+    {
+        "start": 0.967,
+        "end": 1.467,
+        "text": " Hi Ethan.",
+        "words": [
+            {
+                "word": "Hi",
+                "start": 0.967,
+                "end": 1.107,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ethan.",
+                "start": 1.167,
+                "end": 1.467,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1.487,
+        "end": 3.809,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 1.487,
+                "end": 3.809,
+                "score": 0.881,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 4.069,
+        "end": 4.99,
+        "text": "I have a question for you.",
+        "words": [
+            {
+                "word": "I",
+                "start": 4.069,
+                "end": 4.149,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 4.169,
+                "end": 4.29,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 4.31,
+                "end": 4.35,
+                "score": 0.496,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "question",
+                "start": 4.39,
+                "end": 4.71,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 4.75,
+                "end": 4.85,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 4.89,
+                "end": 4.99,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 5.01,
+        "end": 5.591,
+        "text": "What?",
+        "words": [
+            {
+                "word": "What?",
+                "start": 5.01,
+                "end": 5.591,
+                "score": 0.619,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 6.811,
+        "end": 13.497,
+        "text": "If you travel at 80 miles per hour, how long does it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "If",
+                "start": 6.811,
+                "end": 6.932,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 7.312,
+                "end": 7.512,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "travel",
+                "start": 7.572,
+                "end": 7.972,
+                "score": 0.821,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 8.052,
+                "end": 8.132,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 8.533,
+                "end": 8.873,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 8.953,
+                "end": 9.113,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour,",
+                "start": 9.173,
+                "end": 9.754,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 10.114,
+                "end": 10.374,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 10.454,
+                "end": 10.875,
+                "score": 0.732,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 11.235,
+                "end": 11.395,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 11.455,
+                "end": 11.515,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 11.555,
+                "end": 11.775,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 11.795,
+                "end": 11.915,
+                "score": 0.983,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 11.975,
+                "end": 12.075,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 12.115,
+                "end": 12.416,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 13.016,
+                "end": 13.497,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.778,
+        "end": 16.118,
+        "text": "One hour.",
+        "words": [
+            {
+                "word": "One",
+                "start": 15.778,
+                "end": 15.838,
+                "score": 0.005,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "hour.",
+                "start": 15.878,
+                "end": 16.118,
+                "score": 0.493,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 16.979,
+        "end": 17.319,
+        "text": "You sure?",
+        "words": [
+            {
+                "word": "You",
+                "start": 16.979,
+                "end": 17.099,
+                "score": 0.659,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sure?",
+                "start": 17.139,
+                "end": 17.319,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.339,
+        "end": 18.901,
+        "text": "One hour.",
+        "words": [
+            {
+                "word": "One",
+                "start": 17.339,
+                "end": 17.399,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour.",
+                "start": 18.46,
+                "end": 18.901,
+                "score": 0.589,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 19.761,
+        "end": 20.482,
+        "text": "Awesome, thank you.",
+        "words": [
+            {
+                "word": "Awesome,",
+                "start": 19.761,
+                "end": 20.102,
+                "score": 0.425,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "thank",
+                "start": 20.142,
+                "end": 20.362,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 20.382,
+                "end": 20.482,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

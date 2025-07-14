@@ -1,0 +1,2081 @@
+[
+    {
+        "start": 0.629,
+        "end": 2.73,
+        "text": " Noel, do you like nursery?",
+        "words": [
+            {
+                "word": "Noel,",
+                "start": 0.629,
+                "end": 0.989,
+                "score": 0.641,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 1.009,
+                "end": 1.049,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 1.87,
+                "end": 1.99,
+                "score": 0.564,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 2.03,
+                "end": 2.17,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nursery?",
+                "start": 2.23,
+                "end": 2.73,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 3.05,
+        "end": 3.47,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 3.05,
+                "end": 3.47,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 3.65,
+        "end": 4.731,
+        "text": "And what do you do at nursery?",
+        "words": [
+            {
+                "word": "And",
+                "start": 3.65,
+                "end": 3.75,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 3.79,
+                "end": 3.91,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 3.95,
+                "end": 3.99,
+                "score": 0.07,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 4.01,
+                "end": 4.07,
+                "score": 0.08,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 4.09,
+                "end": 4.211,
+                "score": 0.644,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 4.231,
+                "end": 4.271,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nursery?",
+                "start": 4.291,
+                "end": 4.731,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.231,
+        "end": 7.432,
+        "text": "Play with my friends.",
+        "words": [
+            {
+                "word": "Play",
+                "start": 6.231,
+                "end": 6.491,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 6.511,
+                "end": 6.592,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 6.652,
+                "end": 6.852,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friends.",
+                "start": 6.912,
+                "end": 7.432,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 7.752,
+        "end": 8.632,
+        "text": "You play with your friends?",
+        "words": [
+            {
+                "word": "You",
+                "start": 7.752,
+                "end": 7.872,
+                "score": 0.979,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 7.892,
+                "end": 8.052,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 8.072,
+                "end": 8.152,
+                "score": 0.091,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 8.172,
+                "end": 8.292,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friends?",
+                "start": 8.332,
+                "end": 8.632,
+                "score": 0.703,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 8.672,
+        "end": 9.273,
+        "text": "What do you play?",
+        "words": [
+            {
+                "word": "What",
+                "start": 8.672,
+                "end": 8.772,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 8.792,
+                "end": 8.832,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 8.852,
+                "end": 8.973,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play?",
+                "start": 8.993,
+                "end": 9.273,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.293,
+        "end": 12.694,
+        "text": "Dinosaur games.",
+        "words": [
+            {
+                "word": "Dinosaur",
+                "start": 9.293,
+                "end": 12.274,
+                "score": 0.393,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "games.",
+                "start": 12.314,
+                "end": 12.694,
+                "score": 0.683,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 13.034,
+        "end": 13.855,
+        "text": "Dinosaur games?",
+        "words": [
+            {
+                "word": "Dinosaur",
+                "start": 13.034,
+                "end": 13.534,
+                "score": 0.425,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "games?",
+                "start": 13.554,
+                "end": 13.855,
+                "score": 0.715,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 13.895,
+        "end": 15.155,
+        "text": "How do you play the dinosaur game?",
+        "words": [
+            {
+                "word": "How",
+                "start": 13.895,
+                "end": 13.955,
+                "score": 0.043,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 13.995,
+                "end": 14.055,
+                "score": 0.33,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 14.075,
+                "end": 14.175,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 14.195,
+                "end": 14.355,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 14.375,
+                "end": 14.455,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dinosaur",
+                "start": 14.475,
+                "end": 14.915,
+                "score": 0.56,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "game?",
+                "start": 14.955,
+                "end": 15.155,
+                "score": 0.771,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.175,
+        "end": 20.457,
+        "text": "You like knock a volcano over.",
+        "words": [
+            {
+                "word": "You",
+                "start": 15.175,
+                "end": 17.116,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 17.176,
+                "end": 17.956,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knock",
+                "start": 18.056,
+                "end": 18.396,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 19.037,
+                "end": 19.097,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "volcano",
+                "start": 19.137,
+                "end": 19.717,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "over.",
+                "start": 19.977,
+                "end": 20.457,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.477,
+        "end": 21.618,
+        "text": "A volcano?",
+        "words": [
+            {
+                "word": "A",
+                "start": 20.477,
+                "end": 20.497,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "volcano?",
+                "start": 21.018,
+                "end": 21.618,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.638,
+        "end": 25.299,
+        "text": "You like knock it over.",
+        "words": [
+            {
+                "word": "You",
+                "start": 21.638,
+                "end": 21.698,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 22.858,
+                "end": 23.579,
+                "score": 0.69,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knock",
+                "start": 23.859,
+                "end": 24.539,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 24.599,
+                "end": 24.679,
+                "score": 0.302,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "over.",
+                "start": 24.859,
+                "end": 25.299,
+                "score": 0.708,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 25.72,
+        "end": 26.84,
+        "text": "And what dinosaur are you?",
+        "words": [
+            {
+                "word": "And",
+                "start": 25.72,
+                "end": 25.78,
+                "score": 0.169,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 25.82,
+                "end": 25.96,
+                "score": 0.509,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dinosaur",
+                "start": 25.98,
+                "end": 26.46,
+                "score": 0.556,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 26.5,
+                "end": 26.58,
+                "score": 0.274,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you?",
+                "start": 26.6,
+                "end": 26.84,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 27.24,
+        "end": 28.281,
+        "text": "A T-Rex.",
+        "words": [
+            {
+                "word": "A",
+                "start": 27.24,
+                "end": 27.28,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "T-Rex.",
+                "start": 27.34,
+                "end": 28.281,
+                "score": 0.773,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 28.501,
+        "end": 28.821,
+        "text": "A T-Rex.",
+        "words": [
+            {
+                "word": "A",
+                "start": 28.501,
+                "end": 28.561,
+                "score": 0.441,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "T-Rex.",
+                "start": 28.581,
+                "end": 28.821,
+                "score": 0.545,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.599,
+        "end": 30.759,
+        "text": " And do you play anything else?",
+        "words": [
+            {
+                "word": "And",
+                "start": 29.599,
+                "end": 29.679,
+                "score": 0.131,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 29.699,
+                "end": 29.739,
+                "score": 0.295,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 29.759,
+                "end": 29.859,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 29.879,
+                "end": 30.039,
+                "score": 0.492,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "anything",
+                "start": 30.079,
+                "end": 30.379,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "else?",
+                "start": 30.539,
+                "end": 30.759,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 32.0,
+        "end": 33.8,
+        "text": "Yeah, Ghostbusters.",
+        "words": [
+            {
+                "word": "Yeah,",
+                "start": 32.0,
+                "end": 32.36,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ghostbusters.",
+                "start": 32.6,
+                "end": 33.8,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 34.12,
+        "end": 35.261,
+        "text": "How do you play Ghostbusters?",
+        "words": [
+            {
+                "word": "How",
+                "start": 34.12,
+                "end": 34.18,
+                "score": 0.057,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 34.2,
+                "end": 34.24,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 34.26,
+                "end": 34.42,
+                "score": 0.355,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 34.44,
+                "end": 34.58,
+                "score": 0.292,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ghostbusters?",
+                "start": 34.6,
+                "end": 35.261,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 35.661,
+        "end": 38.401,
+        "text": "We got to go after all the ghosts.",
+        "words": [
+            {
+                "word": "We",
+                "start": 35.661,
+                "end": 35.881,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 35.901,
+                "end": 36.201,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 36.641,
+                "end": 36.821,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 36.841,
+                "end": 37.021,
+                "score": 0.604,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "after",
+                "start": 37.221,
+                "end": 37.521,
+                "score": 0.733,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 37.681,
+                "end": 37.841,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 37.861,
+                "end": 37.941,
+                "score": 0.189,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ghosts.",
+                "start": 38.041,
+                "end": 38.401,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 38.862,
+        "end": 39.342,
+        "text": "Do you?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 38.862,
+                "end": 39.062,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you?",
+                "start": 39.102,
+                "end": 39.342,
+                "score": 0.628,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 39.562,
+        "end": 40.342,
+        "text": "And do you catch them?",
+        "words": [
+            {
+                "word": "And",
+                "start": 39.562,
+                "end": 39.622,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 39.642,
+                "end": 39.702,
+                "score": 0.575,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 39.722,
+                "end": 39.842,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "catch",
+                "start": 39.862,
+                "end": 40.122,
+                "score": 0.507,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them?",
+                "start": 40.182,
+                "end": 40.342,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 41.302,
+        "end": 45.864,
+        "text": "Yeah, but we got to open my trap and then we got to shoot them.",
+        "words": [
+            {
+                "word": "Yeah,",
+                "start": 41.302,
+                "end": 41.642,
+                "score": 0.64,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "but",
+                "start": 41.722,
+                "end": 41.902,
+                "score": 0.91,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "we",
+                "start": 42.142,
+                "end": 42.383,
+                "score": 0.623,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 42.423,
+                "end": 42.663,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 42.723,
+                "end": 42.983,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "open",
+                "start": 43.083,
+                "end": 43.523,
+                "score": 0.696,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 43.803,
+                "end": 43.983,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trap",
+                "start": 44.003,
+                "end": 44.283,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 44.363,
+                "end": 44.463,
+                "score": 0.551,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 44.503,
+                "end": 44.723,
+                "score": 0.421,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 44.743,
+                "end": 44.863,
+                "score": 0.514,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 44.883,
+                "end": 45.043,
+                "score": 0.46,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 45.083,
+                "end": 45.183,
+                "score": 0.371,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shoot",
+                "start": 45.243,
+                "end": 45.463,
+                "score": 0.411,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them.",
+                "start": 45.503,
+                "end": 45.864,
+                "score": 0.513,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 46.244,
+        "end": 47.424,
+        "text": "Open your trap and shoot them.",
+        "words": [
+            {
+                "word": "Open",
+                "start": 46.244,
+                "end": 46.444,
+                "score": 0.563,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 46.464,
+                "end": 46.604,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trap",
+                "start": 46.624,
+                "end": 46.824,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 46.884,
+                "end": 46.964,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shoot",
+                "start": 47.004,
+                "end": 47.204,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them.",
+                "start": 47.244,
+                "end": 47.424,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 48.404,
+        "end": 49.585,
+        "text": "Wow, that sounds like fun.",
+        "words": [
+            {
+                "word": "Wow,",
+                "start": 48.404,
+                "end": 48.564,
+                "score": 0.628,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 48.764,
+                "end": 48.944,
+                "score": 0.353,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sounds",
+                "start": 48.964,
+                "end": 49.144,
+                "score": 0.427,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 49.164,
+                "end": 49.304,
+                "score": 0.372,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fun.",
+                "start": 49.324,
+                "end": 49.585,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.605,
+        "end": 51.125,
+        "text": "Do you learn anything at nursery?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 49.605,
+                "end": 49.645,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 49.685,
+                "end": 49.825,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "learn",
+                "start": 49.845,
+                "end": 50.105,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "anything",
+                "start": 50.185,
+                "end": 50.505,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 50.545,
+                "end": 50.585,
+                "score": 0.268,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nursery?",
+                "start": 50.625,
+                "end": 51.125,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.605,
+        "end": 56.026,
+        "text": "We learn about transport.",
+        "words": [
+            {
+                "word": "We",
+                "start": 52.605,
+                "end": 53.005,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "learn",
+                "start": 53.025,
+                "end": 53.306,
+                "score": 0.358,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 53.406,
+                "end": 54.086,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "transport.",
+                "start": 54.686,
+                "end": 56.026,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 56.606,
+        "end": 57.447,
+        "text": "Transport.",
+        "words": [
+            {
+                "word": "Transport.",
+                "start": 56.606,
+                "end": 57.447,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.547,
+        "end": 58.207,
+        "text": "Anything else?",
+        "words": [
+            {
+                "word": "Anything",
+                "start": 57.547,
+                "end": 57.867,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "else?",
+                "start": 58.007,
+                "end": 58.207,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 58.717,
+        "end": 59.698,
+        "text": " Dragons.",
+        "words": [
+            {
+                "word": "Dragons.",
+                "start": 58.717,
+                "end": 59.698,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.018,
+        "end": 60.638,
+        "text": "Dragons?",
+        "words": [
+            {
+                "word": "Dragons?",
+                "start": 60.018,
+                "end": 60.638,
+                "score": 0.745,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 61.039,
+        "end": 61.799,
+        "text": "And knights.",
+        "words": [
+            {
+                "word": "And",
+                "start": 61.039,
+                "end": 61.159,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knights.",
+                "start": 61.259,
+                "end": 61.799,
+                "score": 0.576,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.019,
+        "end": 62.92,
+        "text": "What do dragons do?",
+        "words": [
+            {
+                "word": "What",
+                "start": 62.019,
+                "end": 62.159,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 62.179,
+                "end": 62.259,
+                "score": 0.512,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dragons",
+                "start": 62.299,
+                "end": 62.68,
+                "score": 0.605,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do?",
+                "start": 62.72,
+                "end": 62.92,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.94,
+        "end": 66.702,
+        "text": "It has something in their mouth.",
+        "words": [
+            {
+                "word": "It",
+                "start": 62.94,
+                "end": 64.301,
+                "score": 0.471,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "has",
+                "start": 64.341,
+                "end": 64.641,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "something",
+                "start": 65.141,
+                "end": 65.642,
+                "score": 0.571,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 65.942,
+                "end": 66.022,
+                "score": 0.581,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 66.042,
+                "end": 66.342,
+                "score": 0.477,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mouth.",
+                "start": 66.382,
+                "end": 66.702,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 67.843,
+        "end": 68.003,
+        "text": "Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 67.843,
+                "end": 68.003,
+                "score": 0.664,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 68.183,
+        "end": 68.844,
+        "text": "Fire, is it?",
+        "words": [
+            {
+                "word": "Fire,",
+                "start": 68.183,
+                "end": 68.543,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 68.583,
+                "end": 68.664,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it?",
+                "start": 68.744,
+                "end": 68.844,
+                "score": 0.46,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.124,
+        "end": 69.824,
+        "text": "Yeah, fire.",
+        "words": [
+            {
+                "word": "Yeah,",
+                "start": 69.124,
+                "end": 69.344,
+                "score": 0.565,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fire.",
+                "start": 69.384,
+                "end": 69.824,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.844,
+        "end": 71.185,
+        "text": "Wow.",
+        "words": [
+            {
+                "word": "Wow.",
+                "start": 69.844,
+                "end": 71.185,
+                "score": 0.617,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 72.206,
+        "end": 73.687,
+        "text": "And what else do you like about nursery?",
+        "words": [
+            {
+                "word": "And",
+                "start": 72.206,
+                "end": 72.286,
+                "score": 0.263,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 72.306,
+                "end": 72.446,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "else",
+                "start": 72.506,
+                "end": 72.606,
+                "score": 0.484,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 72.626,
+                "end": 72.666,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 72.686,
+                "end": 72.806,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 72.826,
+                "end": 72.966,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 73.006,
+                "end": 73.187,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nursery?",
+                "start": 73.227,
+                "end": 73.687,
+                "score": 0.668,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 73.707,
+        "end": 76.609,
+        "text": "The dinosaurs.",
+        "words": [
+            {
+                "word": "The",
+                "start": 73.707,
+                "end": 75.428,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dinosaurs.",
+                "start": 75.468,
+                "end": 76.609,
+                "score": 0.58,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 76.829,
+        "end": 78.33,
+        "text": "Do you play with the dinosaurs?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 76.829,
+                "end": 77.009,
+                "score": 0.532,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 77.109,
+                "end": 77.229,
+                "score": 0.42,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 77.269,
+                "end": 77.449,
+                "score": 0.62,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 77.469,
+                "end": 77.569,
+                "score": 0.38,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 77.589,
+                "end": 77.649,
+                "score": 0.735,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dinosaurs?",
+                "start": 77.669,
+                "end": 78.33,
+                "score": 0.559,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 78.53,
+        "end": 78.93,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 78.53,
+                "end": 78.93,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 79.21,
+        "end": 80.191,
+        "text": "Are your teachers nice?",
+        "words": [
+            {
+                "word": "Are",
+                "start": 79.21,
+                "end": 79.291,
+                "score": 0.153,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 79.311,
+                "end": 79.431,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teachers",
+                "start": 79.451,
+                "end": 79.831,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nice?",
+                "start": 79.891,
+                "end": 80.191,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 80.651,
+        "end": 80.872,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 80.651,
+                "end": 80.872,
+                "score": 0.655,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 81.272,
+        "end": 83.073,
+        "text": "Have you got lots of friends?",
+        "words": [
+            {
+                "word": "Have",
+                "start": 81.272,
+                "end": 81.432,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 81.452,
+                "end": 81.532,
+                "score": 0.984,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 81.572,
+                "end": 82.132,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lots",
+                "start": 82.433,
+                "end": 82.613,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 82.633,
+                "end": 82.673,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friends?",
+                "start": 82.733,
+                "end": 83.073,
+                "score": 0.589,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 83.713,
+        "end": 84.134,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 83.713,
+                "end": 84.134,
+                "score": 0.776,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 84.434,
+        "end": 85.875,
+        "text": "Have you got any friends that are girls?",
+        "words": [
+            {
+                "word": "Have",
+                "start": 84.434,
+                "end": 84.554,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 84.574,
+                "end": 84.654,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 84.694,
+                "end": 84.834,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "any",
+                "start": 84.894,
+                "end": 85.034,
+                "score": 0.963,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friends",
+                "start": 85.054,
+                "end": 85.274,
+                "score": 0.405,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 85.314,
+                "end": 85.395,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 85.435,
+                "end": 85.515,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "girls?",
+                "start": 85.535,
+                "end": 85.875,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 87.563,
+        "end": 89.865,
+        "text": " Mom, I don't have a girlfriend.",
+        "words": [
+            {
+                "word": "Mom,",
+                "start": 87.563,
+                "end": 88.003,
+                "score": 0.766,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 88.264,
+                "end": 88.324,
+                "score": 0.808,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 88.344,
+                "end": 88.604,
+                "score": 0.702,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "have",
+                "start": 88.644,
+                "end": 88.844,
+                "score": 0.742,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 88.924,
+                "end": 89.004,
+                "score": 0.787,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "girlfriend.",
+                "start": 89.044,
+                "end": 89.865,
+                "score": 0.77,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 90.485,
+        "end": 91.906,
+        "text": "No, but do you have friends that are girls?",
+        "words": [
+            {
+                "word": "No,",
+                "start": 90.485,
+                "end": 90.625,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "but",
+                "start": 90.645,
+                "end": 90.745,
+                "score": 0.221,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 90.765,
+                "end": 90.805,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 90.825,
+                "end": 90.925,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 90.945,
+                "end": 91.046,
+                "score": 0.268,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "friends",
+                "start": 91.086,
+                "end": 91.346,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 91.366,
+                "end": 91.526,
+                "score": 0.369,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 91.546,
+                "end": 91.606,
+                "score": 0.076,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "girls?",
+                "start": 91.626,
+                "end": 91.906,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 95.409,
+        "end": 96.029,
+        "text": "Or just boys?",
+        "words": [
+            {
+                "word": "Or",
+                "start": 95.409,
+                "end": 95.469,
+                "score": 0.442,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 95.489,
+                "end": 95.689,
+                "score": 0.344,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boys?",
+                "start": 95.709,
+                "end": 96.029,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 97.07,
+        "end": 97.77,
+        "text": "Just boys.",
+        "words": [
+            {
+                "word": "Just",
+                "start": 97.07,
+                "end": 97.29,
+                "score": 0.498,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "boys.",
+                "start": 97.37,
+                "end": 97.77,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 97.79,
+        "end": 98.911,
+        "text": "So you don't have a girlfriend?",
+        "words": [
+            {
+                "word": "So",
+                "start": 97.79,
+                "end": 97.83,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 97.91,
+                "end": 98.091,
+                "score": 0.364,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 98.111,
+                "end": 98.211,
+                "score": 0.045,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 98.231,
+                "end": 98.331,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 98.371,
+                "end": 98.431,
+                "score": 0.478,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "girlfriend?",
+                "start": 98.451,
+                "end": 98.911,
+                "score": 0.558,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 101.973,
+        "end": 102.234,
+        "text": "No?",
+        "words": [
+            {
+                "word": "No?",
+                "start": 101.973,
+                "end": 102.234,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 103.494,
+        "end": 106.497,
+        "text": "Well, we'll go get ready to go to Darcy tonight so you can play Dragons and Ghostbusters.",
+        "words": [
+            {
+                "word": "Well,",
+                "start": 103.494,
+                "end": 103.614,
+                "score": 0.775,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we'll",
+                "start": 103.635,
+                "end": 103.735,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 103.755,
+                "end": 103.875,
+                "score": 0.197,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 103.895,
+                "end": 103.995,
+                "score": 0.641,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ready",
+                "start": 104.015,
+                "end": 104.115,
+                "score": 0.096,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 104.135,
+                "end": 104.215,
+                "score": 0.524,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 104.235,
+                "end": 104.315,
+                "score": 0.536,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 104.335,
+                "end": 104.375,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Darcy",
+                "start": 104.395,
+                "end": 104.675,
+                "score": 0.421,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tonight",
+                "start": 104.695,
+                "end": 104.955,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 104.975,
+                "end": 105.015,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 105.036,
+                "end": 105.116,
+                "score": 0.257,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 105.136,
+                "end": 105.256,
+                "score": 0.457,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play",
+                "start": 105.276,
+                "end": 105.436,
+                "score": 0.589,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Dragons",
+                "start": 105.456,
+                "end": 105.776,
+                "score": 0.515,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 105.816,
+                "end": 105.876,
+                "score": 0.316,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ghostbusters.",
+                "start": 105.896,
+                "end": 106.497,
+                "score": 0.488,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 108.598,
+        "end": 108.838,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 108.598,
+                "end": 108.838,
+                "score": 0.58,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 109.439,
+        "end": 110.579,
+        "text": "Okay, say bye.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 109.439,
+                "end": 109.739,
+                "score": 0.46,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 109.999,
+                "end": 110.139,
+                "score": 0.392,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bye.",
+                "start": 110.159,
+                "end": 110.579,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 110.84,
+        "end": 111.18,
+        "text": "Bye.",
+        "words": [
+            {
+                "word": "Bye.",
+                "start": 110.84,
+                "end": 111.18,
+                "score": 0.607,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

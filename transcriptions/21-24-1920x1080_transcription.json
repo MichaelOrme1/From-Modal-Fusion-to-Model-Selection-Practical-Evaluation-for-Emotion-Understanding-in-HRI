@@ -1,0 +1,3772 @@
+[
+    {
+        "start": 1.269,
+        "end": 6.051,
+        "text": " Let me just say that I am a very beautiful person.",
+        "words": [
+            {
+                "word": "Let",
+                "start": 1.269,
+                "end": 1.489,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 1.569,
+                "end": 1.729,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 1.889,
+                "end": 2.129,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 2.249,
+                "end": 2.51,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 2.59,
+                "end": 2.73,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 3.05,
+                "end": 3.13,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 3.27,
+                "end": 3.37,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 3.39,
+                "end": 3.41,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "very",
+                "start": 3.93,
+                "end": 4.43,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beautiful",
+                "start": 4.85,
+                "end": 5.451,
+                "score": 0.688,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "person.",
+                "start": 5.571,
+                "end": 6.051,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.751,
+        "end": 11.713,
+        "text": "I'm sweet, and intelligent, and funny, and awkward.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 6.751,
+                "end": 6.911,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sweet,",
+                "start": 7.151,
+                "end": 7.612,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 8.072,
+                "end": 8.152,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "intelligent,",
+                "start": 8.212,
+                "end": 8.912,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 9.232,
+                "end": 9.372,
+                "score": 0.598,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "funny,",
+                "start": 9.512,
+                "end": 9.872,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 10.273,
+                "end": 10.433,
+                "score": 0.605,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "awkward.",
+                "start": 10.913,
+                "end": 11.713,
+                "score": 0.636,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 12.393,
+        "end": 21.397,
+        "text": "And I just had to say that, only because I'm a little tired of this stereotype about the angry black woman, whoop-de-doo, right?",
+        "words": [
+            {
+                "word": "And",
+                "start": 12.393,
+                "end": 12.493,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 12.553,
+                "end": 12.673,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 12.714,
+                "end": 12.874,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "had",
+                "start": 12.934,
+                "end": 13.114,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 13.154,
+                "end": 13.234,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 13.314,
+                "end": 13.494,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that,",
+                "start": 13.534,
+                "end": 13.714,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "only",
+                "start": 14.194,
+                "end": 14.394,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 14.434,
+                "end": 14.874,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 14.894,
+                "end": 15.094,
+                "score": 0.545,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 15.154,
+                "end": 15.174,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 15.234,
+                "end": 15.515,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tired",
+                "start": 15.615,
+                "end": 16.095,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 16.195,
+                "end": 16.275,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 16.335,
+                "end": 16.495,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stereotype",
+                "start": 16.555,
+                "end": 17.375,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 17.435,
+                "end": 17.655,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 17.695,
+                "end": 17.835,
+                "score": 0.706,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "angry",
+                "start": 18.376,
+                "end": 18.796,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 18.856,
+                "end": 19.256,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman,",
+                "start": 19.336,
+                "end": 19.836,
+                "score": 0.703,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoop-de-doo,",
+                "start": 19.916,
+                "end": 20.937,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "right?",
+                "start": 20.977,
+                "end": 21.397,
+                "score": 0.326,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 22.317,
+        "end": 29.26,
+        "text": "Because as you can see, I am black, and a woman, and I'm not angry at all.",
+        "words": [
+            {
+                "word": "Because",
+                "start": 22.317,
+                "end": 22.537,
+                "score": 0.679,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 22.757,
+                "end": 22.877,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 22.917,
+                "end": 23.058,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 23.098,
+                "end": 23.278,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see,",
+                "start": 23.398,
+                "end": 23.658,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 23.858,
+                "end": 23.938,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 24.198,
+                "end": 24.318,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black,",
+                "start": 24.438,
+                "end": 24.838,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 25.619,
+                "end": 25.799,
+                "score": 0.538,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 25.819,
+                "end": 25.839,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman,",
+                "start": 26.119,
+                "end": 26.519,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 27.079,
+                "end": 27.199,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 27.379,
+                "end": 27.519,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 27.599,
+                "end": 27.799,
+                "score": 0.979,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "angry",
+                "start": 28.079,
+                "end": 28.48,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 28.64,
+                "end": 28.72,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all.",
+                "start": 29.16,
+                "end": 29.26,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.371,
+        "end": 33.713,
+        "text": " Hell, I'm pissed the fuck off.",
+        "words": [
+            {
+                "word": "Hell,",
+                "start": 31.371,
+                "end": 31.671,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 31.811,
+                "end": 31.911,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 32.112,
+                "end": 32.512,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 32.912,
+                "end": 33.012,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 33.072,
+                "end": 33.332,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off.",
+                "start": 33.553,
+                "end": 33.713,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.793,
+        "end": 35.494,
+        "text": "I'm mad as hell.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 33.793,
+                "end": 33.953,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 34.053,
+                "end": 34.473,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 34.993,
+                "end": 35.174,
+                "score": 0.575,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hell.",
+                "start": 35.194,
+                "end": 35.494,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 35.634,
+        "end": 39.817,
+        "text": "I'm so mad, I'm getting ready to break my foot off in everybody's ass.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 35.634,
+                "end": 35.814,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 35.894,
+                "end": 36.114,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad,",
+                "start": 36.174,
+                "end": 36.494,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 36.715,
+                "end": 36.855,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "getting",
+                "start": 36.875,
+                "end": 37.095,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ready",
+                "start": 37.115,
+                "end": 37.335,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 37.375,
+                "end": 37.475,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "break",
+                "start": 37.515,
+                "end": 37.755,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 37.815,
+                "end": 37.955,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "foot",
+                "start": 38.035,
+                "end": 38.236,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 38.376,
+                "end": 38.496,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 38.556,
+                "end": 38.656,
+                "score": 0.322,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everybody's",
+                "start": 38.816,
+                "end": 39.436,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ass.",
+                "start": 39.637,
+                "end": 39.817,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 39.877,
+        "end": 44.34,
+        "text": "But pretend this is class so I can tell you why I'm mad at the education system.",
+        "words": [
+            {
+                "word": "But",
+                "start": 39.877,
+                "end": 40.017,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pretend",
+                "start": 40.317,
+                "end": 40.677,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 40.697,
+                "end": 40.837,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 40.877,
+                "end": 40.977,
+                "score": 0.304,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "class",
+                "start": 41.017,
+                "end": 41.318,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 41.358,
+                "end": 41.558,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 41.618,
+                "end": 41.698,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 41.738,
+                "end": 41.858,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tell",
+                "start": 41.898,
+                "end": 42.018,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 42.038,
+                "end": 42.138,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "why",
+                "start": 42.178,
+                "end": 42.338,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 42.398,
+                "end": 42.538,
+                "score": 0.74,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 42.598,
+                "end": 42.899,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 43.199,
+                "end": 43.279,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 43.319,
+                "end": 43.399,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "education",
+                "start": 43.459,
+                "end": 43.999,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "system.",
+                "start": 44.039,
+                "end": 44.34,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.64,
+        "end": 48.502,
+        "text": "Mad because education is the key, yet they keep the poor locked out.",
+        "words": [
+            {
+                "word": "Mad",
+                "start": 44.64,
+                "end": 44.9,
+                "score": 0.979,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 44.92,
+                "end": 45.16,
+                "score": 0.228,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "education",
+                "start": 45.26,
+                "end": 46.021,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 46.321,
+                "end": 46.421,
+                "score": 0.604,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 46.441,
+                "end": 46.541,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "key,",
+                "start": 46.581,
+                "end": 46.741,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yet",
+                "start": 46.761,
+                "end": 46.901,
+                "score": 0.603,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 46.921,
+                "end": 47.021,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "keep",
+                "start": 47.061,
+                "end": 47.222,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 47.262,
+                "end": 47.342,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "poor",
+                "start": 47.402,
+                "end": 47.762,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "locked",
+                "start": 48.042,
+                "end": 48.282,
+                "score": 0.736,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 48.382,
+                "end": 48.502,
+                "score": 0.581,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 48.522,
+        "end": 51.745,
+        "text": "They get hand-me-down books and hand-me-down chairs.",
+        "words": [
+            {
+                "word": "They",
+                "start": 48.522,
+                "end": 48.642,
+                "score": 0.255,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 48.662,
+                "end": 48.823,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand-me-down",
+                "start": 49.043,
+                "end": 49.803,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "books",
+                "start": 49.923,
+                "end": 50.244,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 50.304,
+                "end": 50.444,
+                "score": 0.392,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand-me-down",
+                "start": 50.664,
+                "end": 51.284,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chairs.",
+                "start": 51.384,
+                "end": 51.745,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.065,
+        "end": 54.606,
+        "text": "Hand-me-down teachers who give them hand-me-down stairs.",
+        "words": [
+            {
+                "word": "Hand-me-down",
+                "start": 52.065,
+                "end": 52.685,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teachers",
+                "start": 52.765,
+                "end": 53.065,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 53.085,
+                "end": 53.226,
+                "score": 0.431,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "give",
+                "start": 53.246,
+                "end": 53.366,
+                "score": 0.482,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 53.406,
+                "end": 53.526,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand-me-down",
+                "start": 53.586,
+                "end": 54.226,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stairs.",
+                "start": 54.286,
+                "end": 54.606,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 54.666,
+        "end": 56.668,
+        "text": "I'm pissed off at gentrification.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 54.666,
+                "end": 54.787,
+                "score": 0.903,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 54.847,
+                "end": 55.127,
+                "score": 0.532,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 55.287,
+                "end": 55.447,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 55.827,
+                "end": 55.887,
+                "score": 0.487,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gentrification.",
+                "start": 55.927,
+                "end": 56.668,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.028,
+        "end": 61.849,
+        "text": " Pissed that the rich be robbing hoods, and mad that robbing hood was just a motherfucking myth.",
+        "words": [
+            {
+                "word": "Pissed",
+                "start": 57.028,
+                "end": 57.268,
+                "score": 0.632,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 57.308,
+                "end": 57.428,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 57.468,
+                "end": 57.568,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rich",
+                "start": 57.688,
+                "end": 57.908,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 57.968,
+                "end": 58.108,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "robbing",
+                "start": 58.168,
+                "end": 58.528,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hoods,",
+                "start": 58.568,
+                "end": 59.309,
+                "score": 0.755,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 59.369,
+                "end": 59.469,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 59.529,
+                "end": 59.769,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 59.809,
+                "end": 59.929,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "robbing",
+                "start": 59.949,
+                "end": 60.209,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hood",
+                "start": 60.249,
+                "end": 60.489,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 60.729,
+                "end": 60.849,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 60.869,
+                "end": 61.009,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 61.089,
+                "end": 61.129,
+                "score": 0.539,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "motherfucking",
+                "start": 61.149,
+                "end": 61.649,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "myth.",
+                "start": 61.689,
+                "end": 61.849,
+                "score": 0.572,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 61.929,
+        "end": 65.03,
+        "text": "I'm mad because Barbie is a standard of beauty.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 61.929,
+                "end": 62.029,
+                "score": 0.255,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 62.089,
+                "end": 62.409,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 62.65,
+                "end": 62.89,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Barbie",
+                "start": 63.03,
+                "end": 63.53,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 63.75,
+                "end": 63.83,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 63.91,
+                "end": 63.95,
+                "score": 0.42,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "standard",
+                "start": 64.01,
+                "end": 64.45,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 64.53,
+                "end": 64.59,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beauty.",
+                "start": 64.69,
+                "end": 65.03,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 65.15,
+        "end": 71.712,
+        "text": "I hate that fruits and vegetables are so damn expensive, so how the poor gonna eat healthy off some damn tater chips?",
+        "words": [
+            {
+                "word": "I",
+                "start": 65.15,
+                "end": 65.23,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hate",
+                "start": 65.29,
+                "end": 65.53,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 65.81,
+                "end": 65.97,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fruits",
+                "start": 66.09,
+                "end": 66.411,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 66.471,
+                "end": 66.571,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "vegetables",
+                "start": 66.691,
+                "end": 67.271,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 67.371,
+                "end": 67.511,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 67.571,
+                "end": 67.771,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "damn",
+                "start": 67.831,
+                "end": 68.111,
+                "score": 0.773,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "expensive,",
+                "start": 68.151,
+                "end": 68.671,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 68.891,
+                "end": 69.011,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 69.031,
+                "end": 69.131,
+                "score": 0.393,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 69.151,
+                "end": 69.251,
+                "score": 0.211,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "poor",
+                "start": 69.291,
+                "end": 69.531,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 69.571,
+                "end": 69.731,
+                "score": 0.523,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eat",
+                "start": 69.831,
+                "end": 69.912,
+                "score": 0.426,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "healthy",
+                "start": 69.952,
+                "end": 70.352,
+                "score": 0.505,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 70.572,
+                "end": 70.692,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 70.712,
+                "end": 70.852,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "damn",
+                "start": 70.892,
+                "end": 71.212,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tater",
+                "start": 71.252,
+                "end": 71.492,
+                "score": 0.45,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chips?",
+                "start": 71.512,
+                "end": 71.712,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 71.812,
+        "end": 79.354,
+        "text": "I'm mad that the government and media are controlled by the same people, and those same people are the same people who control everything.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 71.812,
+                "end": 71.912,
+                "score": 0.367,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 71.992,
+                "end": 72.312,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 72.532,
+                "end": 72.652,
+                "score": 0.742,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 72.672,
+                "end": 72.752,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "government",
+                "start": 72.832,
+                "end": 73.292,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 73.512,
+                "end": 73.613,
+                "score": 0.676,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "media",
+                "start": 73.693,
+                "end": 74.073,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 74.273,
+                "end": 74.373,
+                "score": 0.455,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "controlled",
+                "start": 74.413,
+                "end": 74.853,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "by",
+                "start": 74.893,
+                "end": 75.013,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 75.033,
+                "end": 75.133,
+                "score": 0.749,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 75.193,
+                "end": 75.453,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "people,",
+                "start": 75.493,
+                "end": 75.793,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 75.813,
+                "end": 75.873,
+                "score": 0.151,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 75.913,
+                "end": 76.113,
+                "score": 0.33,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 76.173,
+                "end": 76.413,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "people",
+                "start": 76.453,
+                "end": 76.753,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 77.033,
+                "end": 77.113,
+                "score": 0.309,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 77.133,
+                "end": 77.233,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 77.274,
+                "end": 77.514,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "people",
+                "start": 77.574,
+                "end": 77.814,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 77.854,
+                "end": 77.974,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "control",
+                "start": 78.014,
+                "end": 78.454,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everything.",
+                "start": 78.754,
+                "end": 79.354,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 79.474,
+        "end": 80.975,
+        "text": "I'm mad women get raped.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 79.474,
+                "end": 79.574,
+                "score": 0.357,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 79.674,
+                "end": 79.974,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "women",
+                "start": 80.294,
+                "end": 80.534,
+                "score": 0.62,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 80.574,
+                "end": 80.714,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "raped.",
+                "start": 80.774,
+                "end": 80.975,
+                "score": 0.41,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 81.075,
+        "end": 85.416,
+        "text": "I hate that I only got three minutes to say this poem, and I got about 10 minutes worth of angry.",
+        "words": [
+            {
+                "word": "I",
+                "start": 81.075,
+                "end": 81.175,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hate",
+                "start": 81.215,
+                "end": 81.395,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 81.435,
+                "end": 81.515,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 81.535,
+                "end": 81.555,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "only",
+                "start": 81.575,
+                "end": 81.775,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 81.815,
+                "end": 81.935,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "three",
+                "start": 82.015,
+                "end": 82.275,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "minutes",
+                "start": 82.295,
+                "end": 82.495,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 82.515,
+                "end": 82.615,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 82.655,
+                "end": 82.775,
+                "score": 0.485,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 82.835,
+                "end": 82.915,
+                "score": 0.464,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "poem,",
+                "start": 82.975,
+                "end": 83.315,
+                "score": 0.696,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 83.535,
+                "end": 83.615,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 83.635,
+                "end": 83.675,
+                "score": 0.477,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 83.695,
+                "end": 83.795,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 83.835,
+                "end": 84.015,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "10"
+            },
+            {
+                "word": "minutes",
+                "start": 84.355,
+                "end": 84.595,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "worth",
+                "start": 84.636,
+                "end": 84.796,
+                "score": 0.459,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 84.836,
+                "end": 84.936,
+                "score": 0.771,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "angry.",
+                "start": 85.096,
+                "end": 85.416,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 85.696,
+        "end": 86.196,
+        "text": "I'm mad",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 85.696,
+                "end": 85.796,
+                "score": 0.256,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 85.876,
+                "end": 86.196,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 86.516,
+        "end": 91.563,
+        "text": " that I can't say that I am a socialist out loud.",
+        "words": [
+            {
+                "word": "that",
+                "start": 86.516,
+                "end": 86.656,
+                "score": 0.698,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 86.897,
+                "end": 86.977,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 87.037,
+                "end": 87.337,
+                "score": 0.735,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 87.477,
+                "end": 87.798,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 87.858,
+                "end": 88.038,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 88.359,
+                "end": 88.439,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 88.639,
+                "end": 88.739,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 89.08,
+                "end": 89.2,
+                "score": 0.552,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "socialist",
+                "start": 89.841,
+                "end": 90.622,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 91.002,
+                "end": 91.123,
+                "score": 0.357,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "loud.",
+                "start": 91.203,
+                "end": 91.563,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 91.643,
+        "end": 100.175,
+        "text": "Mad that the gay and lesbian can't be out loud and proud in the military and pissed off because only 28 states allow everyone to unite in holy matrimony.",
+        "words": [
+            {
+                "word": "Mad",
+                "start": 91.643,
+                "end": 91.864,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 91.904,
+                "end": 92.004,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 92.044,
+                "end": 92.124,
+                "score": 0.821,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gay",
+                "start": 92.164,
+                "end": 92.384,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 92.404,
+                "end": 92.484,
+                "score": 0.323,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lesbian",
+                "start": 92.505,
+                "end": 92.985,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 93.025,
+                "end": 93.246,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 93.306,
+                "end": 93.466,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 93.586,
+                "end": 93.706,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "loud",
+                "start": 93.786,
+                "end": 94.007,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 94.047,
+                "end": 94.107,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "proud",
+                "start": 94.147,
+                "end": 94.427,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 94.487,
+                "end": 94.547,
+                "score": 0.422,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 94.567,
+                "end": 94.628,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "military",
+                "start": 94.668,
+                "end": 95.148,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 95.168,
+                "end": 95.248,
+                "score": 0.348,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 95.288,
+                "end": 95.589,
+                "score": 0.689,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 95.729,
+                "end": 95.869,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 96.15,
+                "end": 96.31,
+                "score": 0.219,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "only",
+                "start": 96.35,
+                "end": 96.51,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "28"
+            },
+            {
+                "word": "states",
+                "start": 96.59,
+                "end": 97.492,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allow",
+                "start": 97.552,
+                "end": 97.812,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everyone",
+                "start": 97.912,
+                "end": 98.353,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 98.613,
+                "end": 98.733,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unite",
+                "start": 98.833,
+                "end": 99.134,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 99.174,
+                "end": 99.254,
+                "score": 0.328,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "holy",
+                "start": 99.314,
+                "end": 99.554,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "matrimony.",
+                "start": 99.615,
+                "end": 100.175,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 100.215,
+        "end": 102.078,
+        "text": "And while I appreciate civil unions,",
+        "words": [
+            {
+                "word": "And",
+                "start": 100.215,
+                "end": 100.276,
+                "score": 0.339,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "while",
+                "start": 100.296,
+                "end": 100.456,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 100.516,
+                "end": 100.576,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "appreciate",
+                "start": 100.636,
+                "end": 101.317,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "civil",
+                "start": 101.377,
+                "end": 101.657,
+                "score": 0.595,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unions,",
+                "start": 101.738,
+                "end": 102.078,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 102.859,
+        "end": 103.96,
+        "text": " Fuck civil unions.",
+        "words": [
+            {
+                "word": "Fuck",
+                "start": 102.859,
+                "end": 103.079,
+                "score": 0.638,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "civil",
+                "start": 103.359,
+                "end": 103.619,
+                "score": 0.35,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "unions.",
+                "start": 103.68,
+                "end": 103.96,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 104.22,
+        "end": 109.463,
+        "text": "If I move to another state, then the state of my civil union is at stake.",
+        "words": [
+            {
+                "word": "If",
+                "start": 104.22,
+                "end": 104.32,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 104.4,
+                "end": 105.621,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "move",
+                "start": 105.781,
+                "end": 106.181,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 106.221,
+                "end": 106.341,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 106.381,
+                "end": 106.641,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "state,",
+                "start": 106.741,
+                "end": 107.041,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 107.081,
+                "end": 107.181,
+                "score": 0.576,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 107.201,
+                "end": 107.301,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "state",
+                "start": 107.341,
+                "end": 107.622,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 107.662,
+                "end": 107.722,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 107.782,
+                "end": 107.922,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "civil",
+                "start": 107.962,
+                "end": 108.222,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "union",
+                "start": 108.322,
+                "end": 108.582,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 108.822,
+                "end": 108.902,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 109.002,
+                "end": 109.082,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stake.",
+                "start": 109.162,
+                "end": 109.463,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 109.483,
+        "end": 112.404,
+        "text": "So what good is that going to do for me in the state of Wyoming?",
+        "words": [
+            {
+                "word": "So",
+                "start": 109.483,
+                "end": 109.603,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 109.623,
+                "end": 109.763,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "good",
+                "start": 109.783,
+                "end": 109.923,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 109.963,
+                "end": 110.023,
+                "score": 0.431,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 110.043,
+                "end": 110.163,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 110.203,
+                "end": 110.323,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 110.343,
+                "end": 110.383,
+                "score": 0.264,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 110.403,
+                "end": 110.443,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 110.463,
+                "end": 110.603,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 110.623,
+                "end": 110.743,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 110.803,
+                "end": 110.883,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 110.903,
+                "end": 111.003,
+                "score": 0.034,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "state",
+                "start": 111.344,
+                "end": 111.584,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 111.624,
+                "end": 111.704,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Wyoming?",
+                "start": 111.764,
+                "end": 112.404,
+                "score": 0.556,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 112.424,
+        "end": 116.166,
+        "text": "And believe it or not, I'm still pissed the fuck off about slavery.",
+        "words": [
+            {
+                "word": "And",
+                "start": 112.424,
+                "end": 112.544,
+                "score": 0.497,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "believe",
+                "start": 112.864,
+                "end": 113.225,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 113.265,
+                "end": 113.325,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 113.365,
+                "end": 113.445,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not,",
+                "start": 113.505,
+                "end": 113.685,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 113.805,
+                "end": 113.945,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "still",
+                "start": 114.005,
+                "end": 114.245,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 114.345,
+                "end": 114.605,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 114.625,
+                "end": 114.725,
+                "score": 0.321,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 114.765,
+                "end": 115.006,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 115.146,
+                "end": 115.346,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 115.386,
+                "end": 115.666,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "slavery.",
+                "start": 115.726,
+                "end": 116.166,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 116.406,
+        "end": 116.947,
+        "text": "That's right.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 116.406,
+                "end": 116.667,
+                "score": 0.768,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "right.",
+                "start": 116.747,
+                "end": 116.947,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 117.067,
+        "end": 122.009,
+        "text": "I'm still mad because I still pick cotton off clothes racks and have racked up reparations.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 117.067,
+                "end": 117.227,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "still",
+                "start": 117.287,
+                "end": 117.527,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 117.587,
+                "end": 117.927,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 118.087,
+                "end": 118.287,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 118.347,
+                "end": 118.447,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "still",
+                "start": 118.467,
+                "end": 118.668,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pick",
+                "start": 118.728,
+                "end": 118.928,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cotton",
+                "start": 118.988,
+                "end": 119.348,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 119.608,
+                "end": 119.748,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clothes",
+                "start": 119.828,
+                "end": 120.168,
+                "score": 0.485,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racks",
+                "start": 120.248,
+                "end": 120.469,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 120.509,
+                "end": 120.589,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 120.609,
+                "end": 120.729,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racked",
+                "start": 120.849,
+                "end": 121.089,
+                "score": 0.672,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 121.189,
+                "end": 121.269,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reparations.",
+                "start": 121.369,
+                "end": 122.009,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 122.089,
+        "end": 124.811,
+        "text": "Mad because niggers call each other niggers and sick.",
+        "words": [
+            {
+                "word": "Mad",
+                "start": 122.089,
+                "end": 122.37,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 122.55,
+                "end": 122.79,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "niggers",
+                "start": 122.85,
+                "end": 123.19,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "call",
+                "start": 123.23,
+                "end": 123.41,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "each",
+                "start": 123.43,
+                "end": 123.53,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 123.57,
+                "end": 123.75,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "niggers",
+                "start": 123.77,
+                "end": 124.371,
+                "score": 0.506,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 124.431,
+                "end": 124.531,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sick.",
+                "start": 124.631,
+                "end": 124.811,
+                "score": 0.958,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 125.091,
+        "end": 141.723,
+        "text": " Cause any minute sister girl's gonna turn around and call me a bitch I'm mad at black men for reasons I don't have time to list I'm pissed off at hip hop I'm pissed off at black on black crime I'm pissed off that Ricky Ross got all a crack and we can't turn that shit back I'm pissed the fuck off I'm mad because above everything",
+        "words": [
+            {
+                "word": "Cause",
+                "start": 125.091,
+                "end": 125.211,
+                "score": 0.963,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "any",
+                "start": 125.291,
+                "end": 125.431,
+                "score": 0.416,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "minute",
+                "start": 125.471,
+                "end": 125.671,
+                "score": 0.509,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sister",
+                "start": 125.692,
+                "end": 125.952,
+                "score": 0.574,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "girl's",
+                "start": 125.972,
+                "end": 126.172,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 126.192,
+                "end": 126.392,
+                "score": 0.339,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 126.432,
+                "end": 126.592,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around",
+                "start": 126.632,
+                "end": 126.892,
+                "score": 0.69,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 126.912,
+                "end": 127.012,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "call",
+                "start": 127.052,
+                "end": 127.333,
+                "score": 0.947,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 127.373,
+                "end": 127.493,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 127.553,
+                "end": 127.593,
+                "score": 0.557,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bitch",
+                "start": 127.653,
+                "end": 127.873,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 127.953,
+                "end": 128.053,
+                "score": 0.178,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 128.113,
+                "end": 128.433,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 128.714,
+                "end": 128.794,
+                "score": 0.652,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 128.854,
+                "end": 129.074,
+                "score": 0.958,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "men",
+                "start": 129.134,
+                "end": 129.334,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 129.354,
+                "end": 129.454,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reasons",
+                "start": 129.494,
+                "end": 129.814,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 129.874,
+                "end": 129.935,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 129.955,
+                "end": 130.115,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 130.175,
+                "end": 130.295,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time",
+                "start": 130.375,
+                "end": 130.615,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 130.655,
+                "end": 130.755,
+                "score": 0.408,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "list",
+                "start": 130.795,
+                "end": 130.955,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 130.995,
+                "end": 131.115,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 131.175,
+                "end": 131.456,
+                "score": 0.608,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 131.556,
+                "end": 131.676,
+                "score": 0.958,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 132.136,
+                "end": 132.236,
+                "score": 0.507,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hip",
+                "start": 132.276,
+                "end": 132.396,
+                "score": 0.602,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hop",
+                "start": 132.456,
+                "end": 132.676,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 132.937,
+                "end": 133.037,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 133.077,
+                "end": 133.337,
+                "score": 0.686,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 133.457,
+                "end": 133.597,
+                "score": 0.97,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 133.877,
+                "end": 133.977,
+                "score": 0.667,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 134.017,
+                "end": 134.218,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 134.258,
+                "end": 134.358,
+                "score": 0.805,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 134.398,
+                "end": 134.578,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "crime",
+                "start": 134.638,
+                "end": 134.918,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 135.138,
+                "end": 135.218,
+                "score": 0.106,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 135.238,
+                "end": 135.499,
+                "score": 0.604,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 135.599,
+                "end": 135.719,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 135.759,
+                "end": 135.879,
+                "score": 0.551,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ricky",
+                "start": 135.899,
+                "end": 136.139,
+                "score": 0.598,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ross",
+                "start": 136.179,
+                "end": 136.399,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "got",
+                "start": 136.439,
+                "end": 136.539,
+                "score": 0.521,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 136.559,
+                "end": 136.679,
+                "score": 0.525,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 136.719,
+                "end": 136.739,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "crack",
+                "start": 136.799,
+                "end": 137.02,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 137.08,
+                "end": 137.16,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 137.18,
+                "end": 137.26,
+                "score": 0.986,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 137.3,
+                "end": 137.46,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 137.52,
+                "end": 137.82,
+                "score": 0.648,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 137.84,
+                "end": 138.28,
+                "score": 0.397,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shit",
+                "start": 138.301,
+                "end": 138.481,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 138.521,
+                "end": 138.701,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 138.761,
+                "end": 138.881,
+                "score": 0.127,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 138.941,
+                "end": 139.161,
+                "score": 0.508,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 139.181,
+                "end": 139.281,
+                "score": 0.213,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 139.321,
+                "end": 139.561,
+                "score": 0.634,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off",
+                "start": 139.641,
+                "end": 139.802,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 139.882,
+                "end": 139.982,
+                "score": 0.193,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mad",
+                "start": 140.082,
+                "end": 140.422,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 140.702,
+                "end": 140.882,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "above",
+                "start": 140.942,
+                "end": 141.203,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everything",
+                "start": 141.343,
+                "end": 141.723,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 142.023,
+        "end": 162.789,
+        "text": " At any given time and in any given space, I, as a black woman, can suffer from racism, sexism, homophobia, classism, I can be raped, beat, be burned alive, and no one, not a single soul, will look up to acknowledge my absence from this universe because I am insignificant, because I am a black woman, and finally, you see, I have every right to be pissed the fuck off.",
+        "words": [
+            {
+                "word": "At",
+                "start": 142.023,
+                "end": 142.103,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "any",
+                "start": 142.163,
+                "end": 142.303,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "given",
+                "start": 142.323,
+                "end": 142.563,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time",
+                "start": 142.603,
+                "end": 142.863,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 142.923,
+                "end": 143.023,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 143.063,
+                "end": 143.103,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "any",
+                "start": 143.203,
+                "end": 143.363,
+                "score": 0.407,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "given",
+                "start": 143.383,
+                "end": 143.644,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "space,",
+                "start": 143.664,
+                "end": 143.984,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I,",
+                "start": 144.244,
+                "end": 144.324,
+                "score": 0.585,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 144.604,
+                "end": 144.684,
+                "score": 0.526,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 144.744,
+                "end": 144.784,
+                "score": 0.386,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 144.824,
+                "end": 145.084,
+                "score": 0.975,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman,",
+                "start": 145.144,
+                "end": 145.384,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 145.404,
+                "end": 145.524,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "suffer",
+                "start": 145.544,
+                "end": 145.764,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 145.804,
+                "end": 145.944,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racism,",
+                "start": 146.004,
+                "end": 146.464,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sexism,",
+                "start": 146.784,
+                "end": 147.285,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "homophobia,",
+                "start": 147.525,
+                "end": 148.145,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "classism,",
+                "start": 148.185,
+                "end": 148.685,
+                "score": 0.612,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 148.765,
+                "end": 148.865,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 148.885,
+                "end": 149.005,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 149.025,
+                "end": 149.145,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "raped,",
+                "start": 149.265,
+                "end": 149.525,
+                "score": 0.533,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beat,",
+                "start": 149.845,
+                "end": 150.065,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 150.125,
+                "end": 150.285,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "burned",
+                "start": 150.425,
+                "end": 150.725,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "alive,",
+                "start": 150.785,
+                "end": 151.126,
+                "score": 0.664,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 151.206,
+                "end": 151.306,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no",
+                "start": 151.386,
+                "end": 151.566,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one,",
+                "start": 151.666,
+                "end": 151.766,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 152.006,
+                "end": 152.126,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 152.166,
+                "end": 152.206,
+                "score": 0.495,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "single",
+                "start": 152.286,
+                "end": 152.606,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "soul,",
+                "start": 152.686,
+                "end": 152.926,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 152.946,
+                "end": 153.066,
+                "score": 0.554,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look",
+                "start": 153.086,
+                "end": 153.226,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 153.326,
+                "end": 153.446,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 153.466,
+                "end": 153.586,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "acknowledge",
+                "start": 153.626,
+                "end": 154.026,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 154.086,
+                "end": 154.226,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "absence",
+                "start": 154.346,
+                "end": 154.707,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 154.927,
+                "end": 155.067,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 155.087,
+                "end": 155.207,
+                "score": 0.559,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "universe",
+                "start": 155.327,
+                "end": 155.707,
+                "score": 0.568,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 155.727,
+                "end": 155.987,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 156.247,
+                "end": 156.327,
+                "score": 0.528,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 156.567,
+                "end": 156.647,
+                "score": 0.421,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "insignificant,",
+                "start": 156.687,
+                "end": 157.387,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 157.407,
+                "end": 157.667,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 157.947,
+                "end": 158.027,
+                "score": 0.43,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 158.248,
+                "end": 158.348,
+                "score": 0.57,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 158.388,
+                "end": 158.428,
+                "score": 0.216,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 158.488,
+                "end": 158.768,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman,",
+                "start": 158.828,
+                "end": 159.068,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 159.128,
+                "end": 159.208,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "finally,",
+                "start": 159.308,
+                "end": 159.688,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 159.728,
+                "end": 159.868,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see,",
+                "start": 159.908,
+                "end": 160.048,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 160.208,
+                "end": 160.228,
+                "score": 0.417,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 160.248,
+                "end": 160.348,
+                "score": 0.053,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "every",
+                "start": 160.568,
+                "end": 160.828,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "right",
+                "start": 160.908,
+                "end": 161.128,
+                "score": 0.736,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 161.168,
+                "end": 161.308,
+                "score": 0.773,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 161.348,
+                "end": 161.608,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pissed",
+                "start": 161.849,
+                "end": 162.109,
+                "score": 0.448,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 162.149,
+                "end": 162.249,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fuck",
+                "start": 162.309,
+                "end": 162.569,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off.",
+                "start": 162.649,
+                "end": 162.789,
+                "score": 0.298,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 166.07,
+        "end": 170.011,
+        "text": "But most of the times, despite what you believe,",
+        "words": [
+            {
+                "word": "But",
+                "start": 166.07,
+                "end": 166.21,
+                "score": 0.429,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "most",
+                "start": 166.25,
+                "end": 166.53,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 166.57,
+                "end": 166.61,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 166.63,
+                "end": 166.71,
+                "score": 0.359,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "times,",
+                "start": 166.75,
+                "end": 167.17,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "despite",
+                "start": 168.71,
+                "end": 169.211,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 169.231,
+                "end": 169.411,
+                "score": 0.492,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 169.451,
+                "end": 169.591,
+                "score": 0.986,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "believe,",
+                "start": 169.631,
+                "end": 170.011,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 171.098,
+        "end": 173.322,
+        "text": " I'm really, really sweet.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 171.098,
+                "end": 171.238,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really,",
+                "start": 171.339,
+                "end": 171.699,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really",
+                "start": 171.719,
+                "end": 172.541,
+                "score": 0.532,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sweet.",
+                "start": 173.062,
+                "end": 173.322,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

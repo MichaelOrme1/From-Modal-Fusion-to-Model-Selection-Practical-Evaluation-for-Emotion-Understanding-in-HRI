@@ -1,0 +1,1836 @@
+[
+    {
+        "start": 0.089,
+        "end": 1.69,
+        "text": " Why do you keep asking me?",
+        "words": [
+            {
+                "word": "Why",
+                "start": 0.089,
+                "end": 0.269,
+                "score": 0.913,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "do",
+                "start": 0.289,
+                "end": 0.409,
+                "score": 0.828,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 0.429,
+                "end": 0.509,
+                "score": 0.252,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "keep",
+                "start": 0.529,
+                "end": 0.609,
+                "score": 0.008,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "asking",
+                "start": 0.689,
+                "end": 0.989,
+                "score": 0.77,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me?",
+                "start": 1.17,
+                "end": 1.69,
+                "score": 0.38,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 2.29,
+        "end": 2.75,
+        "text": "What is it?",
+        "words": [
+            {
+                "word": "What",
+                "start": 2.29,
+                "end": 2.43,
+                "score": 0.938,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 2.47,
+                "end": 2.57,
+                "score": 0.84,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it?",
+                "start": 2.67,
+                "end": 2.75,
+                "score": 0.587,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 2.77,
+        "end": 3.911,
+        "text": "I don't know.",
+        "words": [
+            {
+                "word": "I",
+                "start": 2.77,
+                "end": 2.79,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 3.451,
+                "end": 3.611,
+                "score": 0.827,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know.",
+                "start": 3.651,
+                "end": 3.911,
+                "score": 0.395,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 4.391,
+        "end": 5.712,
+        "text": "I said 10 minutes and you said no.",
+        "words": [
+            {
+                "word": "I",
+                "start": 4.391,
+                "end": 4.511,
+                "score": 0.798,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 4.531,
+                "end": 4.891,
+                "score": 0.532,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "10"
+            },
+            {
+                "word": "minutes",
+                "start": 4.931,
+                "end": 5.171,
+                "score": 0.312,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 5.231,
+                "end": 5.311,
+                "score": 0.606,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 5.331,
+                "end": 5.431,
+                "score": 0.305,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 5.451,
+                "end": 5.571,
+                "score": 0.273,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "no.",
+                "start": 5.591,
+                "end": 5.712,
+                "score": 0.962,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 5.732,
+        "end": 7.372,
+        "text": "Then I said 80 minutes and you said no.",
+        "words": [
+            {
+                "word": "Then",
+                "start": 5.732,
+                "end": 5.852,
+                "score": 0.331,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 5.932,
+                "end": 6.032,
+                "score": 0.437,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 6.052,
+                "end": 6.172,
+                "score": 0.341,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "minutes",
+                "start": 6.492,
+                "end": 6.712,
+                "score": 0.393,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 6.772,
+                "end": 6.832,
+                "score": 0.722,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 6.872,
+                "end": 6.992,
+                "score": 0.33,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 7.012,
+                "end": 7.132,
+                "score": 0.324,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "no.",
+                "start": 7.192,
+                "end": 7.372,
+                "score": 0.831,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 7.392,
+        "end": 10.233,
+        "text": "Then I said 8 minutes and you said no.",
+        "words": [
+            {
+                "word": "Then",
+                "start": 7.392,
+                "end": 7.572,
+                "score": 0.297,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 7.632,
+                "end": 7.692,
+                "score": 0.394,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 7.712,
+                "end": 7.973,
+                "score": 0.246,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "8"
+            },
+            {
+                "word": "minutes",
+                "start": 8.033,
+                "end": 8.293,
+                "score": 0.898,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "and",
+                "start": 8.353,
+                "end": 8.413,
+                "score": 0.708,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 8.433,
+                "end": 8.573,
+                "score": 0.458,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "said",
+                "start": 8.593,
+                "end": 8.713,
+                "score": 0.441,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "no.",
+                "start": 8.733,
+                "end": 10.233,
+                "score": 0.764,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 10.254,
+        "end": 11.214,
+        "text": "80 miles per hour.",
+        "words": [
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 10.274,
+                "end": 10.654,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 10.734,
+                "end": 10.894,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour.",
+                "start": 10.934,
+                "end": 11.214,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.234,
+        "end": 13.855,
+        "text": "How long will it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "How",
+                "start": 11.234,
+                "end": 11.294,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 12.034,
+                "end": 12.194,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 12.214,
+                "end": 12.354,
+                "score": 0.765,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 12.394,
+                "end": 12.434,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 12.454,
+                "end": 12.655,
+                "score": 0.737,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 12.695,
+                "end": 12.875,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 12.935,
+                "end": 13.015,
+                "score": 0.668,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 13.035,
+                "end": 13.175,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 13.475,
+                "end": 13.855,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 13.875,
+        "end": 17.977,
+        "text": "What?",
+        "words": [
+            {
+                "word": "What?",
+                "start": 13.875,
+                "end": 17.977,
+                "score": 0.716,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 18.217,
+        "end": 19.718,
+        "text": "Okay, if you're going 80 miles per hour.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 18.217,
+                "end": 18.377,
+                "score": 0.43,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "if",
+                "start": 18.397,
+                "end": 18.437,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you're",
+                "start": 18.457,
+                "end": 18.617,
+                "score": 0.098,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "going",
+                "start": 19.097,
+                "end": 19.217,
+                "score": 0.104,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 19.257,
+                "end": 19.478,
+                "score": 0.366,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "per",
+                "start": 19.498,
+                "end": 19.578,
+                "score": 0.083,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour.",
+                "start": 19.598,
+                "end": 19.718,
+                "score": 0.401,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 23.183,
+        "end": 24.944,
+        "text": " How long will it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "How",
+                "start": 23.183,
+                "end": 23.343,
+                "score": 0.757,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "long",
+                "start": 23.363,
+                "end": 23.463,
+                "score": 0.495,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "will",
+                "start": 23.503,
+                "end": 23.603,
+                "score": 0.435,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 23.623,
+                "end": 23.663,
+                "score": 0.004,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "take",
+                "start": 23.683,
+                "end": 23.763,
+                "score": 0.335,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 23.783,
+                "end": 23.903,
+                "score": 0.592,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 23.943,
+                "end": 24.064,
+                "score": 0.331,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "go",
+                "start": 24.204,
+                "end": 24.364,
+                "score": 0.396,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 24.444,
+                "end": 24.944,
+                "score": 0.703,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 24.964,
+        "end": 25.044,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 24.964,
+                "end": 25.044,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 25.064,
+        "end": 27.366,
+        "text": "I don't understand.",
+        "words": [
+            {
+                "word": "I",
+                "start": 25.064,
+                "end": 25.084,
+                "score": 0.001,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 25.184,
+                "end": 26.245,
+                "score": 0.771,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "understand.",
+                "start": 26.425,
+                "end": 27.366,
+                "score": 0.842,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 33.889,
+        "end": 37.452,
+        "text": "I can't open my lips to this.",
+        "words": [
+            {
+                "word": "I",
+                "start": 33.889,
+                "end": 34.01,
+                "score": 0.666,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "can't",
+                "start": 34.03,
+                "end": 34.31,
+                "score": 0.435,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "open",
+                "start": 34.33,
+                "end": 34.51,
+                "score": 0.458,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "my",
+                "start": 34.53,
+                "end": 34.65,
+                "score": 0.316,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "lips",
+                "start": 34.69,
+                "end": 34.91,
+                "score": 0.572,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 37.091,
+                "end": 37.191,
+                "score": 0.694,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this.",
+                "start": 37.211,
+                "end": 37.452,
+                "score": 0.322,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 38.832,
+        "end": 39.193,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 38.832,
+                "end": 39.193,
+                "score": 0.487,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 39.213,
+        "end": 39.193,
+        "text": "80.",
+        "words": [
+            {
+                "word": "80."
+            }
+        ]
+    },
+    {
+        "start": 39.993,
+        "end": 41.814,
+        "text": "So do I like divide something?",
+        "words": [
+            {
+                "word": "So",
+                "start": 39.993,
+                "end": 40.193,
+                "score": 0.91,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "do",
+                "start": 40.213,
+                "end": 40.313,
+                "score": 0.658,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 40.413,
+                "end": 40.473,
+                "score": 0.665,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "like",
+                "start": 40.493,
+                "end": 40.694,
+                "score": 0.5,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "divide",
+                "start": 40.994,
+                "end": 41.394,
+                "score": 0.923,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "something?",
+                "start": 41.434,
+                "end": 41.814,
+                "score": 0.937,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 43.275,
+        "end": 45.336,
+        "text": "No.",
+        "words": [
+            {
+                "word": "No.",
+                "start": 43.275,
+                "end": 45.336,
+                "score": 0.936,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 45.356,
+        "end": 46.377,
+        "text": "80 miles per hour.",
+        "words": [
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 45.416,
+                "end": 45.757,
+                "score": 0.881,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "per",
+                "start": 45.817,
+                "end": 45.937,
+                "score": 0.88,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour.",
+                "start": 45.977,
+                "end": 46.377,
+                "score": 0.832,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 46.397,
+        "end": 48.378,
+        "text": "How long does it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "How",
+                "start": 46.397,
+                "end": 46.457,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "long",
+                "start": 46.477,
+                "end": 47.017,
+                "score": 0.374,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "does",
+                "start": 47.037,
+                "end": 47.138,
+                "score": 0.149,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it",
+                "start": 47.158,
+                "end": 47.198,
+                "score": 0.012,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "take",
+                "start": 47.218,
+                "end": 47.358,
+                "score": 0.595,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 47.398,
+                "end": 47.478,
+                "score": 0.844,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 47.498,
+                "end": 47.698,
+                "score": 0.648,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "go",
+                "start": 47.818,
+                "end": 47.978,
+                "score": 0.5,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 48.038,
+                "end": 48.378,
+                "score": 0.858,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 49.139,
+        "end": 49.319,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 49.139,
+                "end": 49.319,
+                "score": 0.568,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 57.592,
+        "end": 58.713,
+        "text": " I don't know, dude.",
+        "words": [
+            {
+                "word": "I",
+                "start": 57.592,
+                "end": 57.652,
+                "score": 0.997,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 57.692,
+                "end": 57.892,
+                "score": 0.729,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know,",
+                "start": 57.932,
+                "end": 58.152,
+                "score": 0.895,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "dude.",
+                "start": 58.252,
+                "end": 58.713,
+                "score": 0.531,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 60.754,
+        "end": 61.554,
+        "text": "What is it?",
+        "words": [
+            {
+                "word": "What",
+                "start": 60.754,
+                "end": 60.994,
+                "score": 0.545,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 61.114,
+                "end": 61.214,
+                "score": 0.294,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it?",
+                "start": 61.234,
+                "end": 61.554,
+                "score": 0.686,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.155,
+        "end": 69.379,
+        "text": "If you're going 80 miles per hour, how long will it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "If",
+                "start": 62.155,
+                "end": 62.255,
+                "score": 0.446,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 62.315,
+                "end": 62.555,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 62.595,
+                "end": 63.616,
+                "score": 0.535,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 64.136,
+                "end": 64.676,
+                "score": 0.691,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 65.176,
+                "end": 65.417,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour,",
+                "start": 65.477,
+                "end": 65.957,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 66.457,
+                "end": 66.637,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 66.677,
+                "end": 66.997,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 67.158,
+                "end": 67.318,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 67.338,
+                "end": 67.378,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 67.398,
+                "end": 67.538,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 67.558,
+                "end": 67.678,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 67.718,
+                "end": 67.778,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 67.818,
+                "end": 67.978,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 68.879,
+                "end": 69.379,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 75.802,
+        "end": 77.283,
+        "text": "Dude, I don't know.",
+        "words": [
+            {
+                "word": "Dude,",
+                "start": 75.802,
+                "end": 76.283,
+                "score": 0.51,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "I",
+                "start": 76.423,
+                "end": 76.503,
+                "score": 0.988,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 76.603,
+                "end": 76.923,
+                "score": 0.854,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know.",
+                "start": 76.963,
+                "end": 77.283,
+                "score": 0.672,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 77.303,
+        "end": 79.765,
+        "text": "If you're going 80 miles per hour.",
+        "words": [
+            {
+                "word": "If",
+                "start": 77.303,
+                "end": 77.343,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you're",
+                "start": 77.463,
+                "end": 77.643,
+                "score": 0.629,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 77.684,
+                "end": 77.864,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 78.564,
+                "end": 79.084,
+                "score": 0.671,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 79.244,
+                "end": 79.465,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour.",
+                "start": 79.525,
+                "end": 79.765,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 79.805,
+        "end": 80.205,
+        "text": "No, listen.",
+        "words": [
+            {
+                "word": "No,",
+                "start": 79.805,
+                "end": 79.865,
+                "score": 0.31,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "listen.",
+                "start": 79.925,
+                "end": 80.205,
+                "score": 0.559,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 80.245,
+        "end": 86.188,
+        "text": "If you're going 80 miles per hour, how long will it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "If",
+                "start": 80.245,
+                "end": 80.305,
+                "score": 0.513,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 80.325,
+                "end": 80.485,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 80.505,
+                "end": 80.685,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 81.186,
+                "end": 81.626,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 82.346,
+                "end": 82.666,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour,",
+                "start": 82.926,
+                "end": 83.407,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 84.287,
+                "end": 84.487,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 84.587,
+                "end": 84.908,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 84.948,
+                "end": 85.128,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 85.168,
+                "end": 85.208,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 85.248,
+                "end": 85.448,
+                "score": 0.636,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 85.508,
+                "end": 85.648,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 85.688,
+                "end": 85.788,
+                "score": 0.432,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 85.828,
+                "end": 85.928,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 85.968,
+                "end": 86.188,
+                "score": 0.363,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 89.502,
+        "end": 89.942,
+        "text": " per hour?",
+        "words": [
+            {
+                "word": "per",
+                "start": 89.502,
+                "end": 89.642,
+                "score": 0.933,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour?",
+                "start": 89.682,
+                "end": 89.942,
+                "score": 0.848,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 89.962,
+        "end": 90.022,
+        "text": "Mhm.",
+        "words": [
+            {
+                "word": "Mhm.",
+                "start": 89.962,
+                "end": 90.022,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 92.864,
+        "end": 93.864,
+        "text": "I don't know!",
+        "words": [
+            {
+                "word": "I",
+                "start": 92.864,
+                "end": 92.904,
+                "score": 0.985,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 92.944,
+                "end": 93.124,
+                "score": 0.713,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know!",
+                "start": 93.184,
+                "end": 93.864,
+                "score": 0.757,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 93.964,
+        "end": 94.345,
+        "text": "What?!",
+        "words": [
+            {
+                "word": "What?!",
+                "start": 93.964,
+                "end": 94.345,
+                "score": 0.522,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 97.927,
+        "end": 100.468,
+        "text": "I don't get it!",
+        "words": [
+            {
+                "word": "I",
+                "start": 97.927,
+                "end": 98.007,
+                "score": 0.783,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 98.027,
+                "end": 98.287,
+                "score": 0.825,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "get",
+                "start": 98.347,
+                "end": 98.967,
+                "score": 0.786,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it!",
+                "start": 100.228,
+                "end": 100.468,
+                "score": 0.58,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 100.488,
+        "end": 102.869,
+        "text": "80 miles per hour.",
+        "words": [
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 100.568,
+                "end": 101.088,
+                "score": 0.755,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 101.528,
+                "end": 101.889,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour.",
+                "start": 102.369,
+                "end": 102.869,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 102.889,
+        "end": 103.67,
+        "text": "Okay?",
+        "words": [
+            {
+                "word": "Okay?",
+                "start": 102.889,
+                "end": 103.67,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 103.99,
+        "end": 105.731,
+        "text": "So you're 80 miles per hour.",
+        "words": [
+            {
+                "word": "So",
+                "start": 103.99,
+                "end": 104.11,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 104.15,
+                "end": 104.89,
+                "score": 0.57,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles",
+                "start": 104.95,
+                "end": 105.23,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "per",
+                "start": 105.29,
+                "end": 105.431,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour.",
+                "start": 105.471,
+                "end": 105.731,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 105.751,
+        "end": 106.531,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 105.751,
+                "end": 106.531,
+                "score": 0.429,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 106.551,
+        "end": 107.892,
+        "text": "So an hour, 80 miles.",
+        "words": [
+            {
+                "word": "So",
+                "start": 106.551,
+                "end": 106.671,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 106.691,
+                "end": 106.771,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hour,",
+                "start": 106.811,
+                "end": 107.071,
+                "score": 0.6,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles.",
+                "start": 107.552,
+                "end": 107.892,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 107.912,
+        "end": 108.472,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 107.912,
+                "end": 108.472,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 108.512,
+        "end": 110.853,
+        "text": "So how long will it take you to go 80 miles?",
+        "words": [
+            {
+                "word": "So",
+                "start": 108.512,
+                "end": 108.652,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 108.712,
+                "end": 108.832,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "long",
+                "start": 108.872,
+                "end": 109.033,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 109.073,
+                "end": 109.173,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 109.193,
+                "end": 109.233,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 109.253,
+                "end": 109.433,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 109.473,
+                "end": 109.613,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 109.713,
+                "end": 110.053,
+                "score": 0.74,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 110.073,
+                "end": 110.113,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "miles?",
+                "start": 110.493,
+                "end": 110.853,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 111.694,
+        "end": 112.054,
+        "text": "An hour?",
+        "words": [
+            {
+                "word": "An",
+                "start": 111.694,
+                "end": 111.754,
+                "score": 0.795,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour?",
+                "start": 111.794,
+                "end": 112.054,
+                "score": 0.818,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 112.514,
+        "end": 112.855,
+        "text": "Yes!",
+        "words": [
+            {
+                "word": "Yes!",
+                "start": 112.514,
+                "end": 112.855,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 116.316,
+        "end": 116.957,
+        "text": "An hour?",
+        "words": [
+            {
+                "word": "An",
+                "start": 116.316,
+                "end": 116.396,
+                "score": 0.759,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour?",
+                "start": 116.456,
+                "end": 116.957,
+                "score": 0.688,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 117.177,
+        "end": 117.457,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 117.177,
+                "end": 117.457,
+                "score": 0.9,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 117.817,
+        "end": 118.498,
+        "text": "It'll take you an hour.",
+        "words": [
+            {
+                "word": "It'll",
+                "start": 117.817,
+                "end": 117.917,
+                "score": 0.092,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "take",
+                "start": 117.937,
+                "end": 118.017,
+                "score": 0.109,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 118.037,
+                "end": 118.157,
+                "score": 0.288,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "an",
+                "start": 118.177,
+                "end": 118.237,
+                "score": 0.71,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "hour.",
+                "start": 118.277,
+                "end": 118.498,
+                "score": 0.823,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 118.518,
+        "end": 118.598,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 118.518,
+                "end": 118.598,
+                "score": 0.0,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 120.62,
+        "end": 122.947,
+        "text": " Not 80 minutes, not 8 minutes, not 10 minutes.",
+        "words": [
+            {
+                "word": "Not",
+                "start": 120.62,
+                "end": 120.821,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "80"
+            },
+            {
+                "word": "minutes,",
+                "start": 121.082,
+                "end": 121.483,
+                "score": 0.417,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 121.563,
+                "end": 121.764,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "8"
+            },
+            {
+                "word": "minutes,",
+                "start": 121.924,
+                "end": 122.325,
+                "score": 0.473,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 122.385,
+                "end": 122.546,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "10"
+            },
+            {
+                "word": "minutes.",
+                "start": 122.646,
+                "end": 122.947,
+                "score": 0.216,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

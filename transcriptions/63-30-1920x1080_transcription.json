@@ -1,0 +1,2454 @@
+[
+    {
+        "start": 0.269,
+        "end": 21.16,
+        "text": "\u4eca\u65e5\u306e\u30c6\u30fc\u30de\u306f\u3053\u3061\u3089\u3067\u30fc\u3059\u3058\u3083\u3089\u3089\u3089\u3089\u30b3\u30e2\u30f3\u30b9\u30e9\u30f3\u30b0\u30a8\u30af\u30b9\u30d7\u30ec\u30c3\u30b7\u30e7\u30f3\u30ba \u30b3\u30e2\u30f3\u30b9\u30e9\u30f3\u30b0\u30a8\u30af\u30b9\u30d7\u30ec\u30c3\u30b7\u30e7\u30f3\u30ba\u6700\u521d\u306e\u8a00\u8449\u306f\u3053\u3061\u3089\u3067\u3059\u3076\u3063\u3061\u3083\u3051 to be honest \u3057\u304b\u3076\u3063\u3061\u3083\u3051\u3055\u3042\u3053\u3053\u72ed\u304f\u306a\u3044?",
+        "words": [
+            {
+                "word": "\u4eca",
+                "start": 0.269,
+                "end": 0.349,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u65e5",
+                "start": 0.349,
+                "end": 0.509,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306e",
+                "start": 0.509,
+                "end": 0.649,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c6",
+                "start": 0.649,
+                "end": 0.749,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30fc",
+                "start": 0.749,
+                "end": 0.849,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30de",
+                "start": 0.849,
+                "end": 0.969,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306f",
+                "start": 0.969,
+                "end": 1.43,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 1.43,
+                "end": 1.75,
+                "score": 0.915,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 1.75,
+                "end": 1.87,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 1.87,
+                "end": 2.01,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 2.01,
+                "end": 2.41,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30fc",
+                "start": 2.41,
+                "end": 2.57,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 2.57,
+                "end": 2.83,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3058",
+                "start": 2.83,
+                "end": 2.87,
+                "score": 0.453,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 2.87,
+                "end": 2.95,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 2.95,
+                "end": 3.071,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 3.071,
+                "end": 3.311,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 3.311,
+                "end": 3.431,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 3.431,
+                "end": 3.591,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b3",
+                "start": 3.591,
+                "end": 3.771,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e2",
+                "start": 3.771,
+                "end": 4.051,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 4.051,
+                "end": 4.211,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b9",
+                "start": 4.211,
+                "end": 4.331,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e9",
+                "start": 4.331,
+                "end": 4.671,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 4.671,
+                "end": 4.691,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b0",
+                "start": 4.691,
+                "end": 4.791,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30a8",
+                "start": 4.791,
+                "end": 4.932,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30af",
+                "start": 4.932,
+                "end": 4.992,
+                "score": 0.404,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b9",
+                "start": 4.992,
+                "end": 5.092,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30d7",
+                "start": 5.092,
+                "end": 5.192,
+                "score": 0.691,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30ec",
+                "start": 5.192,
+                "end": 5.212,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 5.212,
+                "end": 5.332,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 5.332,
+                "end": 5.412,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e7",
+                "start": 5.412,
+                "end": 5.492,
+                "score": 0.03,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 5.492,
+                "end": 5.632,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30ba",
+                "start": 5.632,
+                "end": 6.312,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b3",
+                "start": 6.312,
+                "end": 6.512,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e2",
+                "start": 6.512,
+                "end": 6.652,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 6.652,
+                "end": 6.772,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b9",
+                "start": 6.772,
+                "end": 6.872,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e9",
+                "start": 6.872,
+                "end": 6.993,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 6.993,
+                "end": 7.073,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b0",
+                "start": 7.073,
+                "end": 7.173,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30a8",
+                "start": 7.173,
+                "end": 7.293,
+                "score": 0.986,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30af",
+                "start": 7.293,
+                "end": 7.353,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b9",
+                "start": 7.353,
+                "end": 7.493,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30d7",
+                "start": 7.493,
+                "end": 7.553,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30ec",
+                "start": 7.553,
+                "end": 7.653,
+                "score": 0.645,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 7.653,
+                "end": 7.773,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 7.773,
+                "end": 7.833,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e7",
+                "start": 7.833,
+                "end": 7.893,
+                "score": 0.322,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 7.893,
+                "end": 8.033,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30ba",
+                "start": 8.033,
+                "end": 8.713,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6700",
+                "start": 8.713,
+                "end": 9.074,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u521d",
+                "start": 9.074,
+                "end": 9.274,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306e",
+                "start": 9.274,
+                "end": 10.074,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u8a00",
+                "start": 10.074,
+                "end": 10.394,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u8449",
+                "start": 10.394,
+                "end": 10.534,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306f",
+                "start": 10.534,
+                "end": 10.774,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 10.774,
+                "end": 10.955,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 10.955,
+                "end": 11.075,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 11.075,
+                "end": 11.235,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 11.235,
+                "end": 11.395,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 11.395,
+                "end": 11.895,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3076",
+                "start": 11.895,
+                "end": 12.195,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 12.195,
+                "end": 12.235,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 12.235,
+                "end": 12.295,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 12.295,
+                "end": 12.475,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3051",
+                "start": 12.475,
+                "end": 15.117,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "t"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "b"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "h"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "n"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "s"
+            },
+            {
+                "word": "t"
+            },
+            {
+                "word": "\u3057",
+                "start": 15.117,
+                "end": 15.257,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 15.257,
+                "end": 15.397,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3076",
+                "start": 15.397,
+                "end": 15.617,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 15.617,
+                "end": 15.657,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 15.657,
+                "end": 15.697,
+                "score": 0.647,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 15.697,
+                "end": 15.857,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3051",
+                "start": 15.857,
+                "end": 16.017,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 16.017,
+                "end": 16.097,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3042",
+                "start": 16.097,
+                "end": 16.217,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 16.217,
+                "end": 16.397,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 16.397,
+                "end": 18.478,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u72ed",
+                "start": 18.478,
+                "end": 18.779,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304f",
+                "start": 18.779,
+                "end": 18.859,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306a",
+                "start": 18.859,
+                "end": 18.999,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 18.999,
+                "end": 21.16,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "?"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.16,
+        "end": 22.961,
+        "text": "\u6b21\u304c\u304a\u3072\u3055",
+        "words": [
+            {
+                "word": "\u6b21",
+                "start": 21.16,
+                "end": 21.5,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304c",
+                "start": 21.5,
+                "end": 22.52,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304a",
+                "start": 22.52,
+                "end": 22.701,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3072",
+                "start": 22.701,
+                "end": 22.941,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 22.941,
+                "end": 22.961,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 24.676,
+        "end": 41.697,
+        "text": "it's been a while\u304a\u3072\u3055\u304a\u3072\u3055\u3067\u3059\u304a\u3072\u3055\u4e45\u3057\u3076\u308a\u3055\u305b\u3093sorry\u3055\u305b\u3093\u3053\u308c\u3092\u771f\u9762\u76ee\u306a\u30b7\u30c1\u30e5\u30a8\u30fc\u30b7\u30e7\u30f3\u3067\u4f7f\u3046\u3068\u591a\u5206\u3076\u3093\u6bb4\u3089\u308c\u307e\u3059\u30c0\u30c3\u30b7\u30e5\u3067",
+        "words": [
+            {
+                "word": "i"
+            },
+            {
+                "word": "t"
+            },
+            {
+                "word": "'"
+            },
+            {
+                "word": "s"
+            },
+            {
+                "word": "b"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "n"
+            },
+            {
+                "word": "a",
+                "start": 24.676,
+                "end": 26.177,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "w"
+            },
+            {
+                "word": "h"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "l"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "\u304a",
+                "start": 26.177,
+                "end": 26.318,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3072",
+                "start": 26.318,
+                "end": 26.438,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 26.438,
+                "end": 27.239,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304a",
+                "start": 27.239,
+                "end": 27.419,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3072",
+                "start": 27.419,
+                "end": 27.559,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 27.559,
+                "end": 27.699,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 27.699,
+                "end": 28.24,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 28.24,
+                "end": 29.502,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304a",
+                "start": 29.502,
+                "end": 29.642,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3072",
+                "start": 29.642,
+                "end": 29.762,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 29.762,
+                "end": 31.064,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u4e45",
+                "start": 31.064,
+                "end": 31.184,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3057",
+                "start": 31.184,
+                "end": 31.304,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3076",
+                "start": 31.304,
+                "end": 31.384,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308a",
+                "start": 31.384,
+                "end": 32.345,
+                "score": 0.979,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 32.345,
+                "end": 32.586,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305b",
+                "start": 32.586,
+                "end": 33.767,
+                "score": 0.983,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 33.767,
+                "end": 35.189,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "s"
+            },
+            {
+                "word": "o"
+            },
+            {
+                "word": "r"
+            },
+            {
+                "word": "r"
+            },
+            {
+                "word": "y"
+            },
+            {
+                "word": "\u3055",
+                "start": 35.189,
+                "end": 35.429,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305b",
+                "start": 35.429,
+                "end": 35.529,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 35.529,
+                "end": 36.13,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 36.13,
+                "end": 36.23,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308c",
+                "start": 36.23,
+                "end": 36.35,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3092",
+                "start": 36.35,
+                "end": 36.611,
+                "score": 0.985,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u771f",
+                "start": 36.611,
+                "end": 36.751,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u9762",
+                "start": 36.751,
+                "end": 36.851,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u76ee",
+                "start": 36.851,
+                "end": 36.951,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306a",
+                "start": 36.951,
+                "end": 37.151,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 37.151,
+                "end": 37.211,
+                "score": 0.667,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c1",
+                "start": 37.211,
+                "end": 37.271,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 37.271,
+                "end": 37.312,
+                "score": 0.638,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30a8",
+                "start": 37.312,
+                "end": 37.332,
+                "score": 0.137,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30fc",
+                "start": 37.332,
+                "end": 37.412,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 37.412,
+                "end": 37.452,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e7",
+                "start": 37.452,
+                "end": 37.472,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30f3",
+                "start": 37.472,
+                "end": 37.512,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 37.512,
+                "end": 37.692,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u4f7f",
+                "start": 37.692,
+                "end": 37.812,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3046",
+                "start": 37.812,
+                "end": 37.952,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3068",
+                "start": 37.952,
+                "end": 38.293,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u591a",
+                "start": 38.293,
+                "end": 38.433,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u5206",
+                "start": 38.433,
+                "end": 39.374,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3076",
+                "start": 39.374,
+                "end": 39.474,
+                "score": 0.797,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 39.474,
+                "end": 39.494,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6bb4",
+                "start": 39.494,
+                "end": 39.715,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 39.715,
+                "end": 39.815,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308c",
+                "start": 39.815,
+                "end": 39.915,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307e",
+                "start": 39.915,
+                "end": 40.075,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 40.075,
+                "end": 40.155,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c0",
+                "start": 40.155,
+                "end": 40.255,
+                "score": 0.797,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 40.255,
+                "end": 41.156,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 41.156,
+                "end": 41.497,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 41.497,
+                "end": 41.677,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 41.677,
+                "end": 41.697,
+                "score": 0.984,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.694,
+        "end": 57.504,
+        "text": "in a hurry\u30c0\u30c3\u30b7\u30e5\u3067\u6025\u3044\u3067\u3053\u308c\u306f\u7d50\u69cb\u4f7f\u3044\u307e\u3059\u30c0\u30c3\u30b7\u30e5\u3067\u5411\u304b\u3046\u3068\u304b\u81ea\u5206\u304c\u4f55\u304b\u9045\u523b\u3057\u3066\u3044\u308b\u6642\u3068\u304b\u30c0\u30c3\u30b7\u30e5\u3067\u5411\u304b\u3044\u307e\u3059\u307f\u305f\u3044\u306a\u30c0\u30c3\u30b7\u30e5\u3081\u3061\u3083\u3081\u3061\u3083quite\u3081\u3061\u3083\u3081\u3061\u3083",
+        "words": [
+            {
+                "word": "i"
+            },
+            {
+                "word": "n"
+            },
+            {
+                "word": "a",
+                "start": 42.694,
+                "end": 43.655,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "h"
+            },
+            {
+                "word": "u"
+            },
+            {
+                "word": "r"
+            },
+            {
+                "word": "r"
+            },
+            {
+                "word": "y"
+            },
+            {
+                "word": "\u30c0",
+                "start": 43.655,
+                "end": 43.795,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 43.795,
+                "end": 43.835,
+                "score": 0.501,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 43.835,
+                "end": 43.915,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 43.915,
+                "end": 44.795,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 44.795,
+                "end": 44.956,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6025",
+                "start": 44.956,
+                "end": 45.056,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 45.056,
+                "end": 45.116,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 45.116,
+                "end": 45.476,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 45.476,
+                "end": 45.576,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308c",
+                "start": 45.576,
+                "end": 45.676,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306f",
+                "start": 45.676,
+                "end": 45.796,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u7d50",
+                "start": 45.796,
+                "end": 45.956,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u69cb",
+                "start": 45.956,
+                "end": 46.216,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u4f7f",
+                "start": 46.216,
+                "end": 46.316,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 46.316,
+                "end": 46.376,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307e",
+                "start": 46.376,
+                "end": 46.497,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 46.497,
+                "end": 46.597,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c0",
+                "start": 46.597,
+                "end": 46.757,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 46.757,
+                "end": 46.777,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 46.777,
+                "end": 46.857,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 46.857,
+                "end": 46.917,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 46.917,
+                "end": 47.397,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u5411",
+                "start": 47.397,
+                "end": 47.537,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 47.537,
+                "end": 47.737,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3046",
+                "start": 47.737,
+                "end": 47.857,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3068",
+                "start": 47.857,
+                "end": 47.998,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 47.998,
+                "end": 48.538,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u81ea",
+                "start": 48.538,
+                "end": 48.638,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u5206",
+                "start": 48.638,
+                "end": 48.878,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304c",
+                "start": 48.878,
+                "end": 49.078,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u4f55",
+                "start": 49.078,
+                "end": 49.258,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 49.258,
+                "end": 49.398,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u9045",
+                "start": 49.398,
+                "end": 49.458,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u523b",
+                "start": 49.458,
+                "end": 50.059,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3057",
+                "start": 50.059,
+                "end": 50.139,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3066",
+                "start": 50.139,
+                "end": 50.219,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 50.219,
+                "end": 50.239,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308b",
+                "start": 50.239,
+                "end": 50.499,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6642",
+                "start": 50.499,
+                "end": 50.579,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3068",
+                "start": 50.579,
+                "end": 50.759,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 50.759,
+                "end": 51.36,
+                "score": 0.986,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c0",
+                "start": 51.36,
+                "end": 51.48,
+                "score": 0.977,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 51.48,
+                "end": 51.52,
+                "score": 0.501,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 51.52,
+                "end": 51.58,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 51.58,
+                "end": 51.64,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 51.64,
+                "end": 51.76,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u5411",
+                "start": 51.76,
+                "end": 51.84,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 51.84,
+                "end": 51.94,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 51.94,
+                "end": 52.04,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307e",
+                "start": 52.04,
+                "end": 52.22,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 52.22,
+                "end": 52.3,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307f",
+                "start": 52.3,
+                "end": 52.42,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305f",
+                "start": 52.42,
+                "end": 52.5,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 52.5,
+                "end": 52.561,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306a",
+                "start": 52.561,
+                "end": 53.141,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c0",
+                "start": 53.141,
+                "end": 53.281,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30c3",
+                "start": 53.281,
+                "end": 53.321,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30b7",
+                "start": 53.321,
+                "end": 53.441,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30e5",
+                "start": 53.441,
+                "end": 54.202,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 54.202,
+                "end": 54.422,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 54.422,
+                "end": 54.502,
+                "score": 0.289,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 54.502,
+                "end": 54.622,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 54.622,
+                "end": 54.802,
+                "score": 0.69,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 54.802,
+                "end": 54.842,
+                "score": 0.485,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 54.842,
+                "end": 57.023,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "q"
+            },
+            {
+                "word": "u"
+            },
+            {
+                "word": "i"
+            },
+            {
+                "word": "t"
+            },
+            {
+                "word": "e"
+            },
+            {
+                "word": "\u3081",
+                "start": 57.023,
+                "end": 57.184,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 57.184,
+                "end": 57.224,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 57.224,
+                "end": 57.304,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 57.304,
+                "end": 57.444,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 57.444,
+                "end": 57.484,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 57.484,
+                "end": 57.504,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 58.322,
+        "end": 80.112,
+        "text": "\u3042\u30fc\u3042\u306e\u732b\u3061\u3083\u3093\u3081\u3061\u3083\u3081\u3061\u3083\u304b\u308f\u3044\u3044\u307f\u305f\u3044\u306a\u611f\u3058\u3067\u3081\u3061\u3083\u3081\u3061\u3083\u3059\u3054\u3044\u3059\u3054\u304f\u307f\u305f\u3044\u306a\u3081\u3061\u3083\u3081\u3061\u3083\u3063\u3066\u3044\u3046\u3053\u3068\u3067\u3059\u3082\u3057\u7686\u3055\u3093\u304c\u65e5\u672c\u306b\u6765\u3066\u53cb\u9054\u306b\u7a81\u7136\u3053\u306e\u8a00\u8449\u3092\u4f7f\u3063\u305f\u3089\u7b11\u3063\u3066\u3082\u3089\u3048\u308b\u304b\u3082\u3057\u308c\u307e\u305b\u3093\u3058\u3083\u3042\u307e\u305f\u6765\u9031\u30d0\u30a4\u30d0\u30a4\u306f\u3063\u3061\u3083\u3051\u3088",
+        "words": [
+            {
+                "word": "\u3042",
+                "start": 58.322,
+                "end": 58.562,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30fc",
+                "start": 58.562,
+                "end": 58.682,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3042",
+                "start": 58.682,
+                "end": 58.822,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306e",
+                "start": 58.822,
+                "end": 59.242,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u732b",
+                "start": 59.242,
+                "end": 59.402,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 59.402,
+                "end": 59.443,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 59.443,
+                "end": 59.483,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 59.483,
+                "end": 59.603,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 59.603,
+                "end": 59.803,
+                "score": 0.688,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 59.803,
+                "end": 59.863,
+                "score": 0.525,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 59.863,
+                "end": 59.943,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 59.943,
+                "end": 60.063,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 60.063,
+                "end": 60.123,
+                "score": 0.556,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 60.123,
+                "end": 60.183,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 60.183,
+                "end": 60.343,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308f",
+                "start": 60.343,
+                "end": 60.443,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 60.443,
+                "end": 60.463,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 60.463,
+                "end": 60.683,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307f",
+                "start": 60.683,
+                "end": 60.783,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305f",
+                "start": 60.783,
+                "end": 60.903,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 60.903,
+                "end": 60.983,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306a",
+                "start": 60.983,
+                "end": 61.143,
+                "score": 0.967,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u611f",
+                "start": 61.143,
+                "end": 61.323,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3058",
+                "start": 61.323,
+                "end": 61.403,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 61.403,
+                "end": 62.084,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 62.084,
+                "end": 62.224,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 62.224,
+                "end": 62.284,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 62.284,
+                "end": 62.364,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 62.364,
+                "end": 62.524,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 62.524,
+                "end": 62.564,
+                "score": 0.527,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 62.564,
+                "end": 63.004,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 63.004,
+                "end": 63.144,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3054",
+                "start": 63.144,
+                "end": 63.284,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 63.284,
+                "end": 63.784,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 63.784,
+                "end": 63.905,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3054",
+                "start": 63.905,
+                "end": 64.085,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304f",
+                "start": 64.085,
+                "end": 64.225,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307f",
+                "start": 64.225,
+                "end": 64.325,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305f",
+                "start": 64.325,
+                "end": 64.665,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 64.665,
+                "end": 64.785,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306a",
+                "start": 64.785,
+                "end": 65.845,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 65.845,
+                "end": 66.025,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 66.025,
+                "end": 66.066,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 66.066,
+                "end": 66.166,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3081",
+                "start": 66.166,
+                "end": 66.326,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 66.326,
+                "end": 66.366,
+                "score": 0.517,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 66.366,
+                "end": 66.386,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 66.386,
+                "end": 66.706,
+                "score": 0.937,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3066",
+                "start": 66.706,
+                "end": 66.826,
+                "score": 0.513,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3044",
+                "start": 66.826,
+                "end": 66.846,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3046",
+                "start": 66.846,
+                "end": 66.906,
+                "score": 0.668,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 66.906,
+                "end": 67.066,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3068",
+                "start": 67.066,
+                "end": 67.166,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3067",
+                "start": 67.166,
+                "end": 67.366,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3059",
+                "start": 67.366,
+                "end": 67.866,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3082",
+                "start": 67.866,
+                "end": 68.006,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3057",
+                "start": 68.006,
+                "end": 68.146,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u7686",
+                "start": 68.146,
+                "end": 68.387,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3055",
+                "start": 68.387,
+                "end": 68.447,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 68.447,
+                "end": 68.547,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304c",
+                "start": 68.547,
+                "end": 68.667,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u65e5",
+                "start": 68.667,
+                "end": 68.767,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u672c",
+                "start": 68.767,
+                "end": 68.927,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306b",
+                "start": 68.927,
+                "end": 69.067,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6765",
+                "start": 69.067,
+                "end": 69.167,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3066",
+                "start": 69.167,
+                "end": 69.987,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u53cb",
+                "start": 69.987,
+                "end": 70.247,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u9054",
+                "start": 70.247,
+                "end": 70.568,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306b",
+                "start": 70.568,
+                "end": 71.388,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u7a81",
+                "start": 71.388,
+                "end": 71.628,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u7136",
+                "start": 71.628,
+                "end": 71.788,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3053",
+                "start": 71.788,
+                "end": 71.928,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306e",
+                "start": 71.928,
+                "end": 72.048,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u8a00",
+                "start": 72.048,
+                "end": 72.268,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u8449",
+                "start": 72.268,
+                "end": 72.388,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3092",
+                "start": 72.388,
+                "end": 72.568,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u4f7f",
+                "start": 72.568,
+                "end": 72.729,
+                "score": 0.95,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 72.729,
+                "end": 72.769,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305f",
+                "start": 72.769,
+                "end": 72.869,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 72.869,
+                "end": 73.749,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u7b11",
+                "start": 73.749,
+                "end": 73.849,
+                "score": 0.981,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 73.849,
+                "end": 73.889,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3066",
+                "start": 73.889,
+                "end": 73.989,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3082",
+                "start": 73.989,
+                "end": 74.069,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3089",
+                "start": 74.069,
+                "end": 74.149,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3048",
+                "start": 74.149,
+                "end": 74.189,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308b",
+                "start": 74.189,
+                "end": 74.289,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u304b",
+                "start": 74.289,
+                "end": 74.389,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3082",
+                "start": 74.389,
+                "end": 74.489,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3057",
+                "start": 74.489,
+                "end": 74.569,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u308c",
+                "start": 74.569,
+                "end": 74.649,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307e",
+                "start": 74.649,
+                "end": 74.769,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305b",
+                "start": 74.769,
+                "end": 74.869,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3093",
+                "start": 74.869,
+                "end": 76.33,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3058",
+                "start": 76.33,
+                "end": 76.37,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 76.37,
+                "end": 76.39,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3042",
+                "start": 76.39,
+                "end": 76.51,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u307e",
+                "start": 76.51,
+                "end": 76.63,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u305f",
+                "start": 76.63,
+                "end": 77.191,
+                "score": 0.964,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u6765",
+                "start": 77.191,
+                "end": 77.471,
+                "score": 1.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u9031",
+                "start": 77.471,
+                "end": 77.951,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30d0",
+                "start": 77.951,
+                "end": 78.051,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30a4",
+                "start": 78.051,
+                "end": 78.111,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30d0",
+                "start": 78.111,
+                "end": 78.251,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u30a4",
+                "start": 78.251,
+                "end": 79.592,
+                "score": 0.985,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u306f",
+                "start": 79.592,
+                "end": 79.792,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3063",
+                "start": 79.792,
+                "end": 79.812,
+                "score": 0.033,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3061",
+                "start": 79.812,
+                "end": 79.872,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3083",
+                "start": 79.872,
+                "end": 79.972,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3051",
+                "start": 79.972,
+                "end": 80.092,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u3088",
+                "start": 80.092,
+                "end": 80.112,
+                "score": 0.085,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

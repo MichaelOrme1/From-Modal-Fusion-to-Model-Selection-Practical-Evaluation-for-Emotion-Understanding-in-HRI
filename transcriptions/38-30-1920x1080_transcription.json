@@ -1,0 +1,1307 @@
+[
+    {
+        "start": 3.095,
+        "end": 6.397,
+        "text": " I'm Chloe, and I'll be doing tooth fairy sanitizer.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 3.095,
+                "end": 3.195,
+                "score": 0.219,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Chloe,",
+                "start": 3.275,
+                "end": 3.876,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 4.036,
+                "end": 4.136,
+                "score": 0.95,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'll",
+                "start": 4.256,
+                "end": 4.396,
+                "score": 0.437,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 4.436,
+                "end": 4.616,
+                "score": 0.626,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "doing",
+                "start": 4.636,
+                "end": 4.956,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 5.016,
+                "end": 5.277,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fairy",
+                "start": 5.337,
+                "end": 5.597,
+                "score": 0.613,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sanitizer.",
+                "start": 5.637,
+                "end": 6.397,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 8.359,
+        "end": 17.625,
+        "text": "The other day, I lost a tooth, and my mom told me to put it under my pillow so in the middle of the night the tooth fairy could come and take my tooth and replace it with some cash.",
+        "words": [
+            {
+                "word": "The",
+                "start": 8.359,
+                "end": 8.439,
+                "score": 0.425,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 8.479,
+                "end": 8.739,
+                "score": 0.529,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "day,",
+                "start": 8.779,
+                "end": 9.119,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 9.139,
+                "end": 9.159,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lost",
+                "start": 9.8,
+                "end": 10.04,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 10.16,
+                "end": 10.22,
+                "score": 0.529,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth,",
+                "start": 10.24,
+                "end": 10.56,
+                "score": 0.559,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 11.08,
+                "end": 11.16,
+                "score": 0.795,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 11.2,
+                "end": 11.301,
+                "score": 0.408,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mom",
+                "start": 11.321,
+                "end": 11.541,
+                "score": 0.669,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "told",
+                "start": 11.561,
+                "end": 11.721,
+                "score": 0.487,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 11.741,
+                "end": 11.901,
+                "score": 0.573,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 11.921,
+                "end": 11.961,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 11.981,
+                "end": 12.101,
+                "score": 0.383,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 12.121,
+                "end": 12.181,
+                "score": 0.235,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "under",
+                "start": 12.201,
+                "end": 12.381,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 12.421,
+                "end": 12.581,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pillow",
+                "start": 12.621,
+                "end": 13.002,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 13.102,
+                "end": 13.222,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 13.242,
+                "end": 13.302,
+                "score": 0.231,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 13.322,
+                "end": 13.422,
+                "score": 0.377,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "middle",
+                "start": 13.442,
+                "end": 13.602,
+                "score": 0.277,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 13.622,
+                "end": 13.682,
+                "score": 0.212,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 13.702,
+                "end": 13.822,
+                "score": 0.361,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "night",
+                "start": 13.842,
+                "end": 13.982,
+                "score": 0.317,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 14.002,
+                "end": 14.142,
+                "score": 0.345,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 14.182,
+                "end": 14.383,
+                "score": 0.649,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fairy",
+                "start": 14.443,
+                "end": 14.703,
+                "score": 0.593,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "could",
+                "start": 14.743,
+                "end": 14.883,
+                "score": 0.254,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "come",
+                "start": 14.923,
+                "end": 15.143,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 15.683,
+                "end": 15.783,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 15.824,
+                "end": 16.024,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 16.044,
+                "end": 16.184,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 16.204,
+                "end": 16.384,
+                "score": 0.326,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 16.464,
+                "end": 16.584,
+                "score": 0.325,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "replace",
+                "start": 16.604,
+                "end": 16.804,
+                "score": 0.292,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 16.864,
+                "end": 16.924,
+                "score": 0.377,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 16.944,
+                "end": 17.084,
+                "score": 0.456,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 17.104,
+                "end": 17.224,
+                "score": 0.2,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cash.",
+                "start": 17.264,
+                "end": 17.625,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 18.525,
+        "end": 21.267,
+        "text": "Okay, I have some questions and concerns here.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 18.525,
+                "end": 18.625,
+                "score": 0.242,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 18.645,
+                "end": 18.665,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 19.106,
+                "end": 19.246,
+                "score": 0.335,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 19.266,
+                "end": 19.486,
+                "score": 0.33,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "questions",
+                "start": 19.546,
+                "end": 19.986,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 20.106,
+                "end": 20.286,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "concerns",
+                "start": 20.327,
+                "end": 21.027,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "here.",
+                "start": 21.067,
+                "end": 21.267,
+                "score": 0.518,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.667,
+        "end": 26.09,
+        "text": "One, what does this little tooth freak do with all these teeth?",
+        "words": [
+            {
+                "word": "One,",
+                "start": 21.667,
+                "end": 21.807,
+                "score": 0.415
+            },
+            {
+                "word": "what",
+                "start": 22.268,
+                "end": 22.488,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 22.508,
+                "end": 23.349,
+                "score": 0.396,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 23.389,
+                "end": 23.529,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 23.629,
+                "end": 23.889,
+                "score": 0.683,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 23.969,
+                "end": 24.269,
+                "score": 0.673,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "freak",
+                "start": 24.349,
+                "end": 24.689,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 24.91,
+                "end": 25.13,
+                "score": 0.928,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 25.15,
+                "end": 25.31,
+                "score": 0.526,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 25.39,
+                "end": 25.49,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "these",
+                "start": 25.51,
+                "end": 25.71,
+                "score": 0.453,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teeth?",
+                "start": 25.81,
+                "end": 26.09,
+                "score": 0.497,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 26.591,
+        "end": 28.212,
+        "text": "According to my calculations,",
+        "words": [
+            {
+                "word": "According",
+                "start": 26.591,
+                "end": 27.091,
+                "score": 0.36,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 27.111,
+                "end": 27.151,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 27.171,
+                "end": 27.351,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "calculations,",
+                "start": 27.371,
+                "end": 28.212,
+                "score": 0.918,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.833,
+        "end": 35.935,
+        "text": " A child loses a tooth every .08 seconds in different parts of the world.",
+        "words": [
+            {
+                "word": "A",
+                "start": 29.833,
+                "end": 29.893,
+                "score": 0.655,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "child",
+                "start": 29.913,
+                "end": 30.293,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "loses",
+                "start": 30.333,
+                "end": 30.573,
+                "score": 0.539,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 30.633,
+                "end": 30.693,
+                "score": 0.398,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 30.753,
+                "end": 31.033,
+                "score": 0.562,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "every",
+                "start": 31.413,
+                "end": 31.694,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": ".08"
+            },
+            {
+                "word": "seconds",
+                "start": 32.934,
+                "end": 33.434,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 34.634,
+                "end": 34.774,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "different",
+                "start": 34.794,
+                "end": 35.075,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "parts",
+                "start": 35.095,
+                "end": 35.335,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 35.375,
+                "end": 35.435,
+                "score": 0.742,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 35.475,
+                "end": 35.555,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world.",
+                "start": 35.615,
+                "end": 35.935,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 37.515,
+        "end": 40.176,
+        "text": "Which brings me to number two.",
+        "words": [
+            {
+                "word": "Which",
+                "start": 37.515,
+                "end": 37.695,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brings",
+                "start": 37.755,
+                "end": 38.035,
+                "score": 0.788,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 38.075,
+                "end": 38.216,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 38.256,
+                "end": 38.556,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "number",
+                "start": 39.036,
+                "end": 39.436,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "two.",
+                "start": 39.896,
+                "end": 40.176,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.597,
+        "end": 46.158,
+        "text": "How does this little tooth freak get from place to place?",
+        "words": [
+            {
+                "word": "How",
+                "start": 42.597,
+                "end": 42.677,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 42.697,
+                "end": 42.777,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 42.797,
+                "end": 42.937,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 43.017,
+                "end": 43.297,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth",
+                "start": 43.397,
+                "end": 43.757,
+                "score": 0.701,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "freak",
+                "start": 43.957,
+                "end": 44.317,
+                "score": 0.695,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 44.717,
+                "end": 44.958,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 44.998,
+                "end": 45.198,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "place",
+                "start": 45.218,
+                "end": 45.578,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 45.598,
+                "end": 45.638,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "place?",
+                "start": 45.818,
+                "end": 46.158,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 46.178,
+        "end": 50.259,
+        "text": "I mean, I get how Santa does it, but at least he has a route.",
+        "words": [
+            {
+                "word": "I",
+                "start": 46.178,
+                "end": 46.198,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mean,",
+                "start": 47.458,
+                "end": 47.598,
+                "score": 0.462,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 47.678,
+                "end": 47.738,
+                "score": 0.531,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 47.858,
+                "end": 48.018,
+                "score": 0.388,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "how",
+                "start": 48.078,
+                "end": 48.218,
+                "score": 0.346,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Santa",
+                "start": 48.258,
+                "end": 48.599,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does",
+                "start": 48.639,
+                "end": 48.799,
+                "score": 0.609,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it,",
+                "start": 48.839,
+                "end": 48.899,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "but",
+                "start": 48.959,
+                "end": 49.079,
+                "score": 0.542,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 49.099,
+                "end": 49.139,
+                "score": 0.046,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "least",
+                "start": 49.179,
+                "end": 49.359,
+                "score": 0.348,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 49.419,
+                "end": 49.619,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "has",
+                "start": 49.639,
+                "end": 49.799,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 49.859,
+                "end": 49.879,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "route.",
+                "start": 49.959,
+                "end": 50.259,
+                "score": 0.657,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 53.16,
+        "end": 53.86,
+        "text": "And number three.",
+        "words": [
+            {
+                "word": "And",
+                "start": 53.16,
+                "end": 53.24,
+                "score": 0.512,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "number",
+                "start": 53.28,
+                "end": 53.58,
+                "score": 0.706,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "three.",
+                "start": 53.68,
+                "end": 53.86,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.159,
+        "end": 61.383,
+        "text": " tooth fairy is touching other people's teeth all night?",
+        "words": [
+            {
+                "word": "tooth",
+                "start": 57.159,
+                "end": 57.419,
+                "score": 0.525,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fairy",
+                "start": 57.519,
+                "end": 57.96,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 58.22,
+                "end": 58.34,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "touching",
+                "start": 58.4,
+                "end": 58.801,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 58.881,
+                "end": 59.101,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "people's",
+                "start": 59.121,
+                "end": 59.481,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teeth",
+                "start": 59.722,
+                "end": 60.202,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 60.462,
+                "end": 60.622,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "night?",
+                "start": 61.003,
+                "end": 61.383,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.404,
+        "end": 63.505,
+        "text": "What about the germs?",
+        "words": [
+            {
+                "word": "What",
+                "start": 62.404,
+                "end": 62.524,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "about",
+                "start": 62.544,
+                "end": 62.745,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 62.765,
+                "end": 62.925,
+                "score": 0.26,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "germs?",
+                "start": 63.025,
+                "end": 63.505,
+                "score": 0.6,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 63.706,
+        "end": 68.51,
+        "text": "I mean, some of these kids are obviously losing their teeth because they don't take good care of them.",
+        "words": [
+            {
+                "word": "I",
+                "start": 63.706,
+                "end": 63.806,
+                "score": 0.2,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mean,",
+                "start": 63.826,
+                "end": 63.986,
+                "score": 0.334,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 64.246,
+                "end": 64.566,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 64.586,
+                "end": 64.627,
+                "score": 0.01,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "these",
+                "start": 64.647,
+                "end": 64.847,
+                "score": 0.412,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kids",
+                "start": 64.927,
+                "end": 65.127,
+                "score": 0.456,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 65.227,
+                "end": 65.307,
+                "score": 0.41,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "obviously",
+                "start": 65.467,
+                "end": 66.008,
+                "score": 0.429,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "losing",
+                "start": 66.048,
+                "end": 66.328,
+                "score": 0.606,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 66.348,
+                "end": 66.488,
+                "score": 0.17,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teeth",
+                "start": 66.548,
+                "end": 66.849,
+                "score": 0.602,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 66.889,
+                "end": 67.089,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 67.109,
+                "end": 67.209,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 67.249,
+                "end": 67.409,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 67.469,
+                "end": 67.67,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "good",
+                "start": 67.69,
+                "end": 67.85,
+                "score": 0.277,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "care",
+                "start": 67.89,
+                "end": 68.21,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 68.23,
+                "end": 68.27,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them.",
+                "start": 68.35,
+                "end": 68.51,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.051,
+        "end": 69.411,
+        "text": "So, eww!",
+        "words": [
+            {
+                "word": "So,",
+                "start": 69.051,
+                "end": 69.191,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eww!",
+                "start": 69.251,
+                "end": 69.411,
+                "score": 0.521,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.431,
+        "end": 75.898,
+        "text": "Instead of I lose a tooth, I'm going to put some antibacterial hand sanitizer",
+        "words": [
+            {
+                "word": "Instead",
+                "start": 69.431,
+                "end": 70.272,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 70.292,
+                "end": 70.332,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 70.352,
+                "end": 70.372,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lose",
+                "start": 71.914,
+                "end": 72.314,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 72.334,
+                "end": 72.354,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tooth,",
+                "start": 72.374,
+                "end": 72.675,
+                "score": 0.342,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 72.715,
+                "end": 72.775,
+                "score": 0.169,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 72.795,
+                "end": 72.915,
+                "score": 0.207,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 72.955,
+                "end": 73.155,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 73.175,
+                "end": 74.036,
+                "score": 0.497,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 74.076,
+                "end": 74.316,
+                "score": 0.527,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "antibacterial",
+                "start": 74.336,
+                "end": 75.217,
+                "score": 0.644,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 75.277,
+                "end": 75.457,
+                "score": 0.278,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sanitizer",
+                "start": 75.477,
+                "end": 75.898,
+                "score": 0.362,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

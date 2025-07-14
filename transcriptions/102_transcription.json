@@ -1,0 +1,32 @@
+[
+    {
+        "start": 20.367,
+        "end": 20.85,
+        "text": " Meow.",
+        "words": [
+            {
+                "word": "Meow.",
+                "start": 20.367,
+                "end": 20.85,
+                "score": 0.573,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    },
+    {
+        "start": 20.87,
+        "end": 22.944,
+        "text": "Meow.",
+        "words": [
+            {
+                "word": "Meow.",
+                "start": 20.87,
+                "end": 22.944,
+                "score": 0.72,
+                "speaker": "SPEAKER_03"
+            }
+        ],
+        "speaker": "SPEAKER_03"
+    }
+]

@@ -1,0 +1,180 @@
+[
+    {
+        "start": 2.617,
+        "end": 7.682,
+        "text": " Okay, it's kind of easy so with this eye you focus straight and this eye goes perpendicular Okay.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 2.617,
+                "end": 2.757,
+                "score": 0.196,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it's",
+                "start": 2.797,
+                "end": 2.877,
+                "score": 0.097,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kind",
+                "start": 2.897,
+                "end": 3.098,
+                "score": 0.331,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 3.138,
+                "end": 3.178,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "easy",
+                "start": 3.198,
+                "end": 3.278,
+                "score": 0.119,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 3.298,
+                "end": 3.338,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 3.358,
+                "end": 3.498,
+                "score": 0.307,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 3.518,
+                "end": 3.658,
+                "score": 0.24,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eye",
+                "start": 3.738,
+                "end": 3.918,
+                "score": 0.655,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 3.978,
+                "end": 4.099,
+                "score": 0.282,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "focus",
+                "start": 4.399,
+                "end": 4.539,
+                "score": 0.206,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "straight",
+                "start": 4.559,
+                "end": 4.799,
+                "score": 0.164,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 5.22,
+                "end": 5.28,
+                "score": 0.332,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 5.3,
+                "end": 5.46,
+                "score": 0.328,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "eye",
+                "start": 5.48,
+                "end": 5.58,
+                "score": 0.473,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "goes",
+                "start": 5.62,
+                "end": 5.78,
+                "score": 0.431,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "perpendicular",
+                "start": 5.8,
+                "end": 7.042,
+                "score": 0.424,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Okay.",
+                "start": 7.342,
+                "end": 7.682,
+                "score": 0.45,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 7.702,
+        "end": 8.283,
+        "text": "All right ready?",
+        "words": [
+            {
+                "word": "All",
+                "start": 7.702,
+                "end": 7.802,
+                "score": 0.462,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "right",
+                "start": 7.822,
+                "end": 7.962,
+                "score": 0.263,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "ready?",
+                "start": 8.002,
+                "end": 8.283,
+                "score": 0.53,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 8.303,
+        "end": 8.383,
+        "text": "Yeah",
+        "words": [
+            {
+                "word": "Yeah",
+                "start": 8.303,
+                "end": 8.383,
+                "score": 0.023,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    }
+]

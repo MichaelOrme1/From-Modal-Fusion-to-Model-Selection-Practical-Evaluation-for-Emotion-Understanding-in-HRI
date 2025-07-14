@@ -1,0 +1,4661 @@
+[
+    {
+        "start": 0.529,
+        "end": 19.821,
+        "text": " We pledge allegiance to your flag of the United States of America and to your Republic for which it stands, one nation under God, indivisible, with liberty and justice for who?",
+        "words": [
+            {
+                "word": "We",
+                "start": 0.529,
+                "end": 0.669,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pledge",
+                "start": 0.689,
+                "end": 0.95,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allegiance",
+                "start": 0.97,
+                "end": 1.41,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 3.011,
+                "end": 3.131,
+                "score": 0.747,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 3.151,
+                "end": 3.331,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flag",
+                "start": 3.411,
+                "end": 3.811,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 5.192,
+                "end": 5.252,
+                "score": 0.323,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 5.292,
+                "end": 5.392,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "United",
+                "start": 5.432,
+                "end": 5.772,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "States",
+                "start": 5.833,
+                "end": 6.133,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 6.213,
+                "end": 6.293,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "America",
+                "start": 6.353,
+                "end": 6.753,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 6.773,
+                "end": 6.833,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 8.394,
+                "end": 8.514,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 8.534,
+                "end": 8.714,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Republic",
+                "start": 8.754,
+                "end": 9.295,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 10.295,
+                "end": 10.435,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "which",
+                "start": 10.455,
+                "end": 10.635,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 10.715,
+                "end": 10.776,
+                "score": 0.717,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stands,",
+                "start": 10.796,
+                "end": 11.236,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 12.437,
+                "end": 12.537,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nation",
+                "start": 12.577,
+                "end": 12.977,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "under",
+                "start": 14.098,
+                "end": 14.278,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "God,",
+                "start": 14.318,
+                "end": 14.678,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "indivisible,",
+                "start": 15.919,
+                "end": 16.559,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 17.4,
+                "end": 17.54,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "liberty",
+                "start": 17.58,
+                "end": 18.0,
+                "score": 0.97,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 18.88,
+                "end": 18.96,
+                "score": 0.53,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "justice",
+                "start": 19.001,
+                "end": 19.421,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 19.461,
+                "end": 19.581,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who?",
+                "start": 19.621,
+                "end": 19.821,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.962,
+        "end": 21.222,
+        "text": "For you,",
+        "words": [
+            {
+                "word": "For",
+                "start": 20.962,
+                "end": 21.102,
+                "score": 0.768,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you,",
+                "start": 21.122,
+                "end": 21.222,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 22.349,
+        "end": 30.074,
+        "text": " For some, not for us, not for our people, so please stop saying we equal with your flag of red, white, and blue in one hand.",
+        "words": [
+            {
+                "word": "For",
+                "start": 22.349,
+                "end": 22.469,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some,",
+                "start": 22.529,
+                "end": 22.829,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 23.73,
+                "end": 23.89,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 23.91,
+                "end": 24.05,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us,",
+                "start": 24.19,
+                "end": 24.29,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 24.991,
+                "end": 25.131,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 25.151,
+                "end": 25.271,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 25.311,
+                "end": 25.431,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "people,",
+                "start": 25.471,
+                "end": 25.751,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 25.811,
+                "end": 25.991,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "please",
+                "start": 26.312,
+                "end": 26.532,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stop",
+                "start": 26.572,
+                "end": 26.792,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "saying",
+                "start": 26.832,
+                "end": 27.092,
+                "score": 0.563,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 27.112,
+                "end": 27.232,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "equal",
+                "start": 27.332,
+                "end": 27.552,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 27.572,
+                "end": 27.672,
+                "score": 0.174,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 27.753,
+                "end": 27.913,
+                "score": 0.075,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flag",
+                "start": 27.953,
+                "end": 28.293,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 28.313,
+                "end": 28.393,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "red,",
+                "start": 28.513,
+                "end": 28.733,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "white,",
+                "start": 28.793,
+                "end": 29.013,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 29.053,
+                "end": 29.133,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blue",
+                "start": 29.173,
+                "end": 29.414,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 29.454,
+                "end": 29.554,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 29.674,
+                "end": 29.794,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand.",
+                "start": 29.854,
+                "end": 30.074,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 30.114,
+        "end": 37.339,
+        "text": "You beat us until we're black and blue with the other beaters, until we're non-beaters, until we can't walk straight, then you put us in chains if we lucky.",
+        "words": [
+            {
+                "word": "You",
+                "start": 30.114,
+                "end": 30.274,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beat",
+                "start": 30.314,
+                "end": 30.534,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us",
+                "start": 30.594,
+                "end": 30.694,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 31.015,
+                "end": 31.235,
+                "score": 0.34,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 31.255,
+                "end": 31.415,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 31.455,
+                "end": 31.775,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 31.795,
+                "end": 31.875,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blue",
+                "start": 31.895,
+                "end": 32.095,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 32.115,
+                "end": 32.235,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 32.255,
+                "end": 32.336,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 32.396,
+                "end": 32.576,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beaters,",
+                "start": 32.636,
+                "end": 32.956,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 33.236,
+                "end": 33.456,
+                "score": 0.287,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 33.476,
+                "end": 33.636,
+                "score": 0.684,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "non-beaters,",
+                "start": 33.696,
+                "end": 34.297,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 34.537,
+                "end": 34.777,
+                "score": 0.351,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 34.797,
+                "end": 34.897,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 34.937,
+                "end": 35.157,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "walk",
+                "start": 35.217,
+                "end": 35.438,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "straight,",
+                "start": 35.478,
+                "end": 35.738,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 35.778,
+                "end": 35.958,
+                "score": 0.383,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 35.978,
+                "end": 36.118,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 36.138,
+                "end": 36.278,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us",
+                "start": 36.318,
+                "end": 36.398,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 36.438,
+                "end": 36.518,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chains",
+                "start": 36.558,
+                "end": 36.818,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "if",
+                "start": 36.859,
+                "end": 36.919,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 36.959,
+                "end": 37.059,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lucky.",
+                "start": 37.099,
+                "end": 37.339,
+                "score": 0.976,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 38.902,
+        "end": 44.543,
+        "text": " But for the ones of us who are so lucky, you tell us to put our hands up as some type of sick tribute to your privilege.",
+        "words": [
+            {
+                "word": "But",
+                "start": 38.902,
+                "end": 39.002,
+                "score": 0.372,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 39.022,
+                "end": 39.142,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 39.182,
+                "end": 39.262,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ones",
+                "start": 39.322,
+                "end": 39.482,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 39.542,
+                "end": 39.642,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us",
+                "start": 39.682,
+                "end": 39.742,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "who",
+                "start": 39.762,
+                "end": 39.902,
+                "score": 0.457,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 39.922,
+                "end": 40.042,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 40.082,
+                "end": 40.222,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lucky,",
+                "start": 40.262,
+                "end": 40.422,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 40.442,
+                "end": 40.602,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tell",
+                "start": 40.622,
+                "end": 40.762,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us",
+                "start": 40.802,
+                "end": 40.882,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 40.902,
+                "end": 40.982,
+                "score": 0.544,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 41.023,
+                "end": 41.143,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 41.183,
+                "end": 41.283,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 41.323,
+                "end": 41.523,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 41.543,
+                "end": 41.843,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 41.863,
+                "end": 41.963,
+                "score": 0.602,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "some",
+                "start": 42.223,
+                "end": 42.383,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "type",
+                "start": 42.463,
+                "end": 42.683,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 42.743,
+                "end": 42.843,
+                "score": 0.262,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sick",
+                "start": 42.943,
+                "end": 43.163,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tribute",
+                "start": 43.223,
+                "end": 43.623,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 43.643,
+                "end": 43.683,
+                "score": 0.069,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 43.723,
+                "end": 43.943,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "privilege.",
+                "start": 44.163,
+                "end": 44.543,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.563,
+        "end": 48.684,
+        "text": "And then you pull the trigger, pull the trigger until our bodies lay down on your ground.",
+        "words": [
+            {
+                "word": "And",
+                "start": 44.563,
+                "end": 44.623,
+                "score": 0.735,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 44.683,
+                "end": 44.883,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 45.103,
+                "end": 45.263,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pull",
+                "start": 45.284,
+                "end": 45.484,
+                "score": 0.454,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 45.524,
+                "end": 45.604,
+                "score": 0.97,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trigger,",
+                "start": 45.664,
+                "end": 45.964,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pull",
+                "start": 46.204,
+                "end": 46.384,
+                "score": 0.475,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 46.404,
+                "end": 46.504,
+                "score": 0.669,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trigger",
+                "start": 46.544,
+                "end": 46.844,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 46.864,
+                "end": 47.084,
+                "score": 0.46,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 47.144,
+                "end": 47.244,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bodies",
+                "start": 47.324,
+                "end": 47.644,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lay",
+                "start": 47.704,
+                "end": 47.884,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down",
+                "start": 47.924,
+                "end": 48.104,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 48.164,
+                "end": 48.204,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 48.244,
+                "end": 48.404,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ground.",
+                "start": 48.444,
+                "end": 48.684,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 48.884,
+        "end": 50.585,
+        "text": "Pull the trigger until your clip is empty.",
+        "words": [
+            {
+                "word": "Pull",
+                "start": 48.884,
+                "end": 49.044,
+                "score": 0.406,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 49.064,
+                "end": 49.144,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trigger",
+                "start": 49.184,
+                "end": 49.424,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 49.444,
+                "end": 49.605,
+                "score": 0.386,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 49.625,
+                "end": 49.785,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clip",
+                "start": 49.865,
+                "end": 50.025,
+                "score": 0.983,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 50.105,
+                "end": 50.205,
+                "score": 0.449,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "empty.",
+                "start": 50.325,
+                "end": 50.585,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 50.625,
+        "end": 52.905,
+        "text": "Pull the trigger until we make your evening news.",
+        "words": [
+            {
+                "word": "Pull",
+                "start": 50.625,
+                "end": 50.805,
+                "score": 0.436,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 50.825,
+                "end": 50.925,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trigger",
+                "start": 50.985,
+                "end": 51.265,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "until",
+                "start": 51.445,
+                "end": 51.645,
+                "score": 0.461,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 51.685,
+                "end": 51.805,
+                "score": 0.984,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "make",
+                "start": 51.845,
+                "end": 51.985,
+                "score": 0.965,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 52.025,
+                "end": 52.185,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "evening",
+                "start": 52.285,
+                "end": 52.565,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "news.",
+                "start": 52.625,
+                "end": 52.905,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.945,
+        "end": 59.247,
+        "text": "And then when our children cry, we have to look our children in the eyes and tell them that they have to be cautious.",
+        "words": [
+            {
+                "word": "And",
+                "start": 52.945,
+                "end": 53.045,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 53.065,
+                "end": 53.225,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 53.245,
+                "end": 53.365,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 53.385,
+                "end": 53.505,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "children",
+                "start": 53.545,
+                "end": 53.926,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cry,",
+                "start": 53.966,
+                "end": 54.186,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 54.226,
+                "end": 54.326,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 54.366,
+                "end": 54.486,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 54.506,
+                "end": 54.586,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look",
+                "start": 54.626,
+                "end": 54.806,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 54.846,
+                "end": 54.946,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "children",
+                "start": 55.006,
+                "end": 55.326,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 55.366,
+                "end": 55.426,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 55.466,
+                "end": 55.546,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eyes",
+                "start": 55.646,
+                "end": 55.766,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 55.826,
+                "end": 55.906,
+                "score": 0.966,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tell",
+                "start": 55.946,
+                "end": 56.146,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 56.166,
+                "end": 56.286,
+                "score": 0.504,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 58.107,
+                "end": 58.247,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 58.267,
+                "end": 58.387,
+                "score": 0.903,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 58.427,
+                "end": 58.547,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 58.567,
+                "end": 58.627,
+                "score": 0.721,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 58.667,
+                "end": 58.747,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cautious.",
+                "start": 58.787,
+                "end": 59.247,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 60.667,
+        "end": 68.529,
+        "text": "That when they walk your streets, they have to do so in fear that they have to spend an entirety of their life looking over their shoulder because you will hunt them down.",
+        "words": [
+            {
+                "word": "That",
+                "start": 60.667,
+                "end": 60.787,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 60.827,
+                "end": 60.907,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 60.927,
+                "end": 61.047,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "walk",
+                "start": 61.087,
+                "end": 61.327,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 61.347,
+                "end": 61.527,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "streets,",
+                "start": 61.567,
+                "end": 61.847,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 61.887,
+                "end": 62.027,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 62.047,
+                "end": 62.187,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 62.207,
+                "end": 62.267,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 62.327,
+                "end": 62.468,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 62.528,
+                "end": 62.648,
+                "score": 0.986,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 62.728,
+                "end": 62.808,
+                "score": 0.408,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fear",
+                "start": 62.868,
+                "end": 63.088,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 63.128,
+                "end": 63.268,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 63.528,
+                "end": 63.668,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 63.688,
+                "end": 63.828,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 63.848,
+                "end": 63.928,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "spend",
+                "start": 63.968,
+                "end": 64.168,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 64.188,
+                "end": 64.248,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "entirety",
+                "start": 64.308,
+                "end": 64.888,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 64.908,
+                "end": 64.968,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 65.008,
+                "end": 65.208,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "life",
+                "start": 65.248,
+                "end": 65.448,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "looking",
+                "start": 65.468,
+                "end": 65.728,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "over",
+                "start": 65.788,
+                "end": 65.928,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 65.968,
+                "end": 66.128,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shoulder",
+                "start": 66.188,
+                "end": 66.548,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 67.429,
+                "end": 67.669,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 67.709,
+                "end": 67.809,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 67.849,
+                "end": 67.989,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hunt",
+                "start": 68.009,
+                "end": 68.129,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 68.169,
+                "end": 68.289,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down.",
+                "start": 68.329,
+                "end": 68.529,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 70.014,
+        "end": 76.796,
+        "text": " and you will bury them, either in a prison system that aims to disenfranchise them or the dirt beneath their feet.",
+        "words": [
+            {
+                "word": "and",
+                "start": 70.014,
+                "end": 70.094,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 70.114,
+                "end": 70.194,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 70.234,
+                "end": 70.374,
+                "score": 0.518,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bury",
+                "start": 70.394,
+                "end": 70.654,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them,",
+                "start": 70.694,
+                "end": 70.814,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "either",
+                "start": 72.515,
+                "end": 72.715,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 72.775,
+                "end": 72.855,
+                "score": 0.387,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 72.895,
+                "end": 72.955,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "prison",
+                "start": 72.975,
+                "end": 73.335,
+                "score": 0.659,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "system",
+                "start": 73.375,
+                "end": 73.675,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 73.695,
+                "end": 73.815,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "aims",
+                "start": 73.875,
+                "end": 74.055,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 74.095,
+                "end": 74.195,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "disenfranchise",
+                "start": 74.235,
+                "end": 75.055,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 75.095,
+                "end": 75.215,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 75.295,
+                "end": 75.415,
+                "score": 0.613,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 75.496,
+                "end": 75.556,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dirt",
+                "start": 75.656,
+                "end": 75.876,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beneath",
+                "start": 75.936,
+                "end": 76.236,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 76.296,
+                "end": 76.456,
+                "score": 0.97,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "feet.",
+                "start": 76.556,
+                "end": 76.796,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 76.816,
+        "end": 81.737,
+        "text": "And this is all because of that same racism that you love to say no longer exists.",
+        "words": [
+            {
+                "word": "And",
+                "start": 76.816,
+                "end": 76.876,
+                "score": 0.288,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 77.076,
+                "end": 77.236,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 77.296,
+                "end": 77.416,
+                "score": 0.668,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 77.576,
+                "end": 77.716,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "because",
+                "start": 78.276,
+                "end": 78.516,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 78.536,
+                "end": 78.576,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 78.636,
+                "end": 78.756,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 78.856,
+                "end": 79.117,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racism",
+                "start": 79.197,
+                "end": 79.637,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 79.677,
+                "end": 79.817,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 79.857,
+                "end": 80.017,
+                "score": 0.969,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "love",
+                "start": 80.057,
+                "end": 80.317,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 80.357,
+                "end": 80.517,
+                "score": 0.536,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 80.577,
+                "end": 80.817,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no",
+                "start": 80.857,
+                "end": 80.997,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "longer",
+                "start": 81.037,
+                "end": 81.337,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "exists.",
+                "start": 81.397,
+                "end": 81.737,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 81.777,
+        "end": 87.239,
+        "text": "But we all know that that same racism is the reason that when we want to put a hood on, we resist.",
+        "words": [
+            {
+                "word": "But",
+                "start": 81.777,
+                "end": 81.897,
+                "score": 0.985,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 81.937,
+                "end": 82.077,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 82.177,
+                "end": 82.337,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 82.417,
+                "end": 82.657,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 83.278,
+                "end": 83.398,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 83.438,
+                "end": 83.598,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 83.698,
+                "end": 83.958,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racism",
+                "start": 84.018,
+                "end": 84.478,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 84.518,
+                "end": 84.598,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 84.618,
+                "end": 84.698,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reason",
+                "start": 84.758,
+                "end": 85.018,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 85.058,
+                "end": 85.158,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 85.198,
+                "end": 85.318,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 85.358,
+                "end": 85.498,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "want",
+                "start": 85.518,
+                "end": 85.658,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 85.678,
+                "end": 85.738,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 85.778,
+                "end": 85.918,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 85.938,
+                "end": 85.978,
+                "score": 0.498,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hood",
+                "start": 85.998,
+                "end": 86.178,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on,",
+                "start": 86.298,
+                "end": 86.419,
+                "score": 0.238,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 86.619,
+                "end": 86.759,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "resist.",
+                "start": 86.799,
+                "end": 87.239,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 87.459,
+        "end": 90.8,
+        "text": "The reason that when we go to get these jobs, we're dismissed at the door.",
+        "words": [
+            {
+                "word": "The",
+                "start": 87.459,
+                "end": 87.539,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reason",
+                "start": 87.579,
+                "end": 87.819,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 87.839,
+                "end": 87.939,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 87.979,
+                "end": 88.099,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 88.139,
+                "end": 88.279,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 88.299,
+                "end": 88.419,
+                "score": 0.628,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 88.439,
+                "end": 88.479,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 88.539,
+                "end": 88.639,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "these",
+                "start": 88.679,
+                "end": 88.839,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "jobs,",
+                "start": 88.919,
+                "end": 89.259,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 89.459,
+                "end": 89.619,
+                "score": 0.569,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dismissed",
+                "start": 89.659,
+                "end": 90.08,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 90.32,
+                "end": 90.4,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 90.42,
+                "end": 90.5,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "door.",
+                "start": 90.56,
+                "end": 90.8,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 90.84,
+        "end": 93.42,
+        "text": "The reason that when we go to shop, we're watched in your stores.",
+        "words": [
+            {
+                "word": "The",
+                "start": 90.84,
+                "end": 90.92,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reason",
+                "start": 90.96,
+                "end": 91.2,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 91.22,
+                "end": 91.32,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 91.36,
+                "end": 91.48,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 91.52,
+                "end": 91.62,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 91.66,
+                "end": 91.76,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 91.8,
+                "end": 91.86,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shop,",
+                "start": 91.96,
+                "end": 92.2,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 92.24,
+                "end": 92.44,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "watched",
+                "start": 92.5,
+                "end": 92.74,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 92.82,
+                "end": 92.88,
+                "score": 0.543,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 92.92,
+                "end": 93.08,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stores.",
+                "start": 93.12,
+                "end": 93.42,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 93.46,
+        "end": 94.981,
+        "text": "That racism is the reason.",
+        "words": [
+            {
+                "word": "That",
+                "start": 93.46,
+                "end": 93.641,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racism",
+                "start": 93.721,
+                "end": 94.181,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 94.401,
+                "end": 94.501,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 94.521,
+                "end": 94.601,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reason.",
+                "start": 94.661,
+                "end": 94.981,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 95.461,
+        "end": 106.088,
+        "text": " that us saying your Pledge of Allegiance feels a lot like a root canal or a whip's impact against our flesh or a baton to our head or a bullet in our back or tear gas at a Black Lives Matter protest.",
+        "words": [
+            {
+                "word": "that",
+                "start": 95.461,
+                "end": 95.601,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us",
+                "start": 95.701,
+                "end": 95.801,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "saying",
+                "start": 95.861,
+                "end": 96.101,
+                "score": 0.509,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 96.121,
+                "end": 96.282,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Pledge",
+                "start": 96.342,
+                "end": 96.562,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 96.602,
+                "end": 96.682,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Allegiance",
+                "start": 96.722,
+                "end": 97.182,
+                "score": 0.821,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "feels",
+                "start": 97.382,
+                "end": 97.602,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 97.642,
+                "end": 97.662,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lot",
+                "start": 97.723,
+                "end": 97.883,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 97.923,
+                "end": 98.083,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 98.123,
+                "end": 98.163,
+                "score": 0.469,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "root",
+                "start": 98.223,
+                "end": 98.403,
+                "score": 0.62,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "canal",
+                "start": 98.443,
+                "end": 98.843,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 99.184,
+                "end": 99.304,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 99.324,
+                "end": 99.344,
+                "score": 0.269,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whip's",
+                "start": 99.404,
+                "end": 99.644,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "impact",
+                "start": 99.704,
+                "end": 100.104,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "against",
+                "start": 100.164,
+                "end": 100.404,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 100.484,
+                "end": 100.604,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flesh",
+                "start": 100.684,
+                "end": 100.945,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 101.205,
+                "end": 101.285,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 101.305,
+                "end": 101.325,
+                "score": 0.028,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "baton",
+                "start": 101.345,
+                "end": 101.785,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 101.965,
+                "end": 102.085,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 102.125,
+                "end": 102.226,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "head",
+                "start": 102.286,
+                "end": 102.446,
+                "score": 0.982,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 102.506,
+                "end": 102.606,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 102.626,
+                "end": 102.646,
+                "score": 0.381,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bullet",
+                "start": 102.726,
+                "end": 102.966,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 103.126,
+                "end": 103.186,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 103.246,
+                "end": 103.326,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 103.406,
+                "end": 103.626,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 103.686,
+                "end": 103.787,
+                "score": 0.701,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tear",
+                "start": 103.867,
+                "end": 104.107,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gas",
+                "start": 104.127,
+                "end": 104.387,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 104.547,
+                "end": 104.627,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 104.667,
+                "end": 104.707,
+                "score": 0.447,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Black",
+                "start": 104.767,
+                "end": 105.027,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Lives",
+                "start": 105.067,
+                "end": 105.308,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Matter",
+                "start": 105.348,
+                "end": 105.588,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "protest.",
+                "start": 105.628,
+                "end": 106.088,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 106.148,
+        "end": 112.953,
+        "text": "That racism is the reason that three women clenched their purses as I walked through the entrance of this very building.",
+        "words": [
+            {
+                "word": "That",
+                "start": 106.148,
+                "end": 106.288,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "racism",
+                "start": 106.368,
+                "end": 106.849,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 106.889,
+                "end": 106.969,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 106.989,
+                "end": 107.069,
+                "score": 0.786,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reason",
+                "start": 107.129,
+                "end": 107.409,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 109.23,
+                "end": 109.39,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "three",
+                "start": 109.43,
+                "end": 109.65,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "women",
+                "start": 109.69,
+                "end": 109.911,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clenched",
+                "start": 109.951,
+                "end": 110.191,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 110.211,
+                "end": 110.371,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "purses",
+                "start": 110.411,
+                "end": 110.811,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 110.851,
+                "end": 110.911,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 110.971,
+                "end": 111.091,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "walked",
+                "start": 111.111,
+                "end": 111.312,
+                "score": 0.261,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "through",
+                "start": 111.332,
+                "end": 111.472,
+                "score": 0.192,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 111.492,
+                "end": 111.552,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "entrance",
+                "start": 111.612,
+                "end": 111.912,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 111.972,
+                "end": 112.052,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 112.092,
+                "end": 112.232,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "very",
+                "start": 112.292,
+                "end": 112.532,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "building.",
+                "start": 112.632,
+                "end": 112.953,
+                "score": 0.558,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 112.993,
+        "end": 119.917,
+        "text": "It hurts that I have to remember that the system I was born into was built to work against me.",
+        "words": [
+            {
+                "word": "It",
+                "start": 112.993,
+                "end": 113.093,
+                "score": 0.605,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hurts",
+                "start": 113.113,
+                "end": 113.373,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 115.354,
+                "end": 115.494,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 115.514,
+                "end": 115.554,
+                "score": 0.557,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 115.614,
+                "end": 115.754,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 115.794,
+                "end": 115.875,
+                "score": 0.984,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remember",
+                "start": 115.915,
+                "end": 116.295,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 117.175,
+                "end": 117.295,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 117.315,
+                "end": 117.436,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "system",
+                "start": 117.496,
+                "end": 117.856,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 117.916,
+                "end": 117.936,
+                "score": 0.403,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 118.016,
+                "end": 118.136,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "born",
+                "start": 118.176,
+                "end": 118.376,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 118.416,
+                "end": 118.676,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 118.696,
+                "end": 118.836,
+                "score": 0.668,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "built",
+                "start": 118.877,
+                "end": 119.077,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 119.097,
+                "end": 119.177,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "work",
+                "start": 119.217,
+                "end": 119.417,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "against",
+                "start": 119.477,
+                "end": 119.757,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me.",
+                "start": 119.817,
+                "end": 119.917,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 121.158,
+        "end": 122.359,
+        "text": "Hurts that I have to remember",
+        "words": [
+            {
+                "word": "Hurts",
+                "start": 121.158,
+                "end": 121.378,
+                "score": 0.593,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 121.398,
+                "end": 121.538,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 121.578,
+                "end": 121.618,
+                "score": 0.493,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 121.658,
+                "end": 121.818,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 121.838,
+                "end": 121.939,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remember",
+                "start": 121.979,
+                "end": 122.359,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 125.114,
+        "end": 126.655,
+        "text": " Hearst, that I have to remember.",
+        "words": [
+            {
+                "word": "Hearst,",
+                "start": 125.114,
+                "end": 125.314,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 125.334,
+                "end": 125.494,
+                "score": 0.655,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 125.574,
+                "end": 125.654,
+                "score": 0.977,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 125.714,
+                "end": 125.955,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 125.975,
+                "end": 126.175,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remember.",
+                "start": 126.235,
+                "end": 126.655,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 129.517,
+        "end": 141.226,
+        "text": "Hearst, that I have to... Hearst, that I actually have to remember that you will happily invest more money into the preservation of wildlife than you ever will into the preservation of black life.",
+        "words": [
+            {
+                "word": "Hearst,",
+                "start": 129.517,
+                "end": 129.737,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 129.757,
+                "end": 129.917,
+                "score": 0.585,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 129.957,
+                "end": 130.018,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 130.058,
+                "end": 130.258,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to...",
+                "start": 130.278,
+                "end": 130.418,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Hearst,",
+                "start": 132.739,
+                "end": 133.0,
+                "score": 0.606,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 133.02,
+                "end": 133.2,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 133.38,
+                "end": 133.46,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "actually",
+                "start": 133.6,
+                "end": 133.96,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "have",
+                "start": 134.0,
+                "end": 134.12,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 134.16,
+                "end": 134.241,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remember",
+                "start": 134.281,
+                "end": 134.641,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 134.681,
+                "end": 134.801,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 134.841,
+                "end": 134.981,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 135.001,
+                "end": 135.181,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "happily",
+                "start": 135.221,
+                "end": 135.642,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "invest",
+                "start": 135.682,
+                "end": 136.062,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "more",
+                "start": 136.102,
+                "end": 136.282,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "money",
+                "start": 136.342,
+                "end": 136.522,
+                "score": 0.907,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 136.562,
+                "end": 136.762,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 136.802,
+                "end": 136.882,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "preservation",
+                "start": 136.942,
+                "end": 137.563,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 137.583,
+                "end": 137.643,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wildlife",
+                "start": 137.703,
+                "end": 138.223,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "than",
+                "start": 138.604,
+                "end": 138.764,
+                "score": 0.686,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 138.784,
+                "end": 138.944,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ever",
+                "start": 139.064,
+                "end": 139.284,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will",
+                "start": 139.344,
+                "end": 139.544,
+                "score": 0.982,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 139.584,
+                "end": 139.765,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 139.805,
+                "end": 139.885,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "preservation",
+                "start": 139.945,
+                "end": 140.525,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 140.585,
+                "end": 140.645,
+                "score": 0.614,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 140.725,
+                "end": 140.965,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "life.",
+                "start": 141.025,
+                "end": 141.226,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 141.266,
+        "end": 142.587,
+        "text": "Let me ask y'all a question.",
+        "words": [
+            {
+                "word": "Let",
+                "start": 141.266,
+                "end": 141.406,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 141.426,
+                "end": 141.546,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ask",
+                "start": 141.646,
+                "end": 141.786,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y'all",
+                "start": 141.806,
+                "end": 142.006,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 142.066,
+                "end": 142.106,
+                "score": 0.368,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "question.",
+                "start": 142.146,
+                "end": 142.587,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 145.108,
+        "end": 149.832,
+        "text": "When y'all turn on your TVs and witness another black body laid on your concrete, what do y'all see?",
+        "words": [
+            {
+                "word": "When",
+                "start": 145.108,
+                "end": 145.248,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y'all",
+                "start": 145.268,
+                "end": 145.489,
+                "score": 0.32,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 145.529,
+                "end": 145.749,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 145.789,
+                "end": 145.849,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 145.889,
+                "end": 146.049,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "TVs",
+                "start": 146.109,
+                "end": 146.629,
+                "score": 0.698,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 146.689,
+                "end": 146.79,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "witness",
+                "start": 146.83,
+                "end": 147.15,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 147.19,
+                "end": 147.49,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 147.53,
+                "end": 147.77,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body",
+                "start": 147.83,
+                "end": 148.05,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "laid",
+                "start": 148.09,
+                "end": 148.291,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 148.331,
+                "end": 148.431,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 148.491,
+                "end": 148.651,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "concrete,",
+                "start": 148.731,
+                "end": 149.151,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what",
+                "start": 149.171,
+                "end": 149.271,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 149.291,
+                "end": 149.351,
+                "score": 0.428,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y'all",
+                "start": 149.371,
+                "end": 149.592,
+                "score": 0.367,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see?",
+                "start": 149.632,
+                "end": 149.832,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 150.472,
+        "end": 151.033,
+        "text": "Another murder?",
+        "words": [
+            {
+                "word": "Another",
+                "start": 150.472,
+                "end": 150.752,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "murder?",
+                "start": 150.792,
+                "end": 151.033,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 152.17,
+        "end": 153.15,
+        "text": " Another sad story.",
+        "words": [
+            {
+                "word": "Another",
+                "start": 152.17,
+                "end": 152.43,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sad",
+                "start": 152.49,
+                "end": 152.75,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "story.",
+                "start": 152.81,
+                "end": 153.15,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 153.571,
+        "end": 154.211,
+        "text": "Another funeral.",
+        "words": [
+            {
+                "word": "Another",
+                "start": 153.571,
+                "end": 153.871,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "funeral.",
+                "start": 153.931,
+                "end": 154.211,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 154.371,
+        "end": 155.551,
+        "text": "Do you see the aftermath?",
+        "words": [
+            {
+                "word": "Do",
+                "start": 154.371,
+                "end": 154.411,
+                "score": 0.058,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 154.451,
+                "end": 154.571,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 154.611,
+                "end": 154.791,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 154.811,
+                "end": 154.891,
+                "score": 0.671,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "aftermath?",
+                "start": 155.031,
+                "end": 155.551,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 155.611,
+        "end": 157.892,
+        "text": "I see another child that lost their father.",
+        "words": [
+            {
+                "word": "I",
+                "start": 155.611,
+                "end": 155.711,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 155.771,
+                "end": 155.971,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 156.252,
+                "end": 156.532,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "child",
+                "start": 156.592,
+                "end": 156.852,
+                "score": 0.971,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 156.892,
+                "end": 157.072,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lost",
+                "start": 157.112,
+                "end": 157.312,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 157.332,
+                "end": 157.492,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "father.",
+                "start": 157.552,
+                "end": 157.892,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 158.152,
+        "end": 160.133,
+        "text": "Another single woman trying to raise a man.",
+        "words": [
+            {
+                "word": "Another",
+                "start": 158.152,
+                "end": 158.412,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "single",
+                "start": 158.472,
+                "end": 158.793,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman",
+                "start": 158.853,
+                "end": 159.093,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trying",
+                "start": 159.133,
+                "end": 159.333,
+                "score": 0.404,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 159.353,
+                "end": 159.433,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "raise",
+                "start": 159.473,
+                "end": 159.673,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 159.753,
+                "end": 159.793,
+                "score": 0.39,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "man.",
+                "start": 159.833,
+                "end": 160.133,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 160.373,
+        "end": 166.035,
+        "text": "Another broken home which leads to another child that grows up and suffers the same fate as their father.",
+        "words": [
+            {
+                "word": "Another",
+                "start": 160.373,
+                "end": 160.673,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "broken",
+                "start": 160.753,
+                "end": 161.113,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "home",
+                "start": 161.153,
+                "end": 161.334,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "which",
+                "start": 161.374,
+                "end": 161.534,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leads",
+                "start": 161.614,
+                "end": 161.874,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 162.094,
+                "end": 162.234,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 162.274,
+                "end": 162.554,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "child",
+                "start": 162.594,
+                "end": 162.874,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 162.914,
+                "end": 163.074,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "grows",
+                "start": 163.114,
+                "end": 163.414,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 163.514,
+                "end": 163.594,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 163.795,
+                "end": 163.895,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "suffers",
+                "start": 163.935,
+                "end": 164.255,
+                "score": 0.724,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 164.295,
+                "end": 164.415,
+                "score": 0.736,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "same",
+                "start": 164.455,
+                "end": 164.675,
+                "score": 0.976,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fate",
+                "start": 164.795,
+                "end": 164.995,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 165.215,
+                "end": 165.315,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "their",
+                "start": 165.355,
+                "end": 165.555,
+                "score": 0.703,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "father.",
+                "start": 165.635,
+                "end": 166.035,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 166.295,
+        "end": 169.757,
+        "text": "Which means another black woman that outlives her adolescent son.",
+        "words": [
+            {
+                "word": "Which",
+                "start": 166.295,
+                "end": 166.476,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "means",
+                "start": 166.556,
+                "end": 166.756,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 166.816,
+                "end": 167.096,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 167.176,
+                "end": 167.416,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "woman",
+                "start": 167.516,
+                "end": 167.776,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 167.796,
+                "end": 167.936,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "outlives",
+                "start": 168.076,
+                "end": 168.516,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "her",
+                "start": 168.556,
+                "end": 168.696,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "adolescent",
+                "start": 168.856,
+                "end": 169.457,
+                "score": 0.676,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "son.",
+                "start": 169.497,
+                "end": 169.757,
+                "score": 0.618,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 169.797,
+        "end": 173.378,
+        "text": "This country practices a culture that lacks equal rights for blacks.",
+        "words": [
+            {
+                "word": "This",
+                "start": 169.797,
+                "end": 169.957,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "country",
+                "start": 170.017,
+                "end": 170.397,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "practices",
+                "start": 170.677,
+                "end": 171.157,
+                "score": 0.617,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 171.197,
+                "end": 171.237,
+                "score": 0.504,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "culture",
+                "start": 171.297,
+                "end": 171.678,
+                "score": 0.692,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 171.878,
+                "end": 172.018,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lacks",
+                "start": 172.078,
+                "end": 172.318,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "equal",
+                "start": 172.398,
+                "end": 172.618,
+                "score": 0.445,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rights",
+                "start": 172.638,
+                "end": 172.838,
+                "score": 0.557,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 172.858,
+                "end": 173.018,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blacks.",
+                "start": 173.078,
+                "end": 173.378,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 173.538,
+        "end": 177.74,
+        "text": "And we love to say that black don't crack meanwhile y'all shatter our melanin like glass.",
+        "words": [
+            {
+                "word": "And",
+                "start": 173.538,
+                "end": 173.618,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 173.658,
+                "end": 173.778,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "love",
+                "start": 173.798,
+                "end": 173.978,
+                "score": 0.698,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 173.998,
+                "end": 174.138,
+                "score": 0.618,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 174.158,
+                "end": 174.319,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 174.339,
+                "end": 174.479,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "black",
+                "start": 174.559,
+                "end": 174.779,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 174.819,
+                "end": 174.999,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "crack",
+                "start": 175.039,
+                "end": 175.279,
+                "score": 0.985,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "meanwhile",
+                "start": 175.339,
+                "end": 175.759,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y'all",
+                "start": 175.799,
+                "end": 175.999,
+                "score": 0.448,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "shatter",
+                "start": 176.059,
+                "end": 176.339,
+                "score": 0.775,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 176.379,
+                "end": 176.479,
+                "score": 0.521,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "melanin",
+                "start": 176.519,
+                "end": 176.9,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 177.12,
+                "end": 177.3,
+                "score": 0.934,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "glass.",
+                "start": 177.34,
+                "end": 177.74,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 185.424,
+        "end": 187.645,
+        "text": " My back breaks for everybody you lay at our feet.",
+        "words": [
+            {
+                "word": "My",
+                "start": 185.424,
+                "end": 185.564,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 185.664,
+                "end": 185.924,
+                "score": 0.745,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breaks",
+                "start": 185.964,
+                "end": 186.184,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 186.224,
+                "end": 186.344,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "everybody",
+                "start": 186.404,
+                "end": 186.865,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 186.885,
+                "end": 187.005,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lay",
+                "start": 187.025,
+                "end": 187.145,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 187.185,
+                "end": 187.245,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "our",
+                "start": 187.285,
+                "end": 187.385,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "feet.",
+                "start": 187.425,
+                "end": 187.645,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 189.126,
+        "end": 191.847,
+        "text": "For every memory I try to erase within your war zones.",
+        "words": [
+            {
+                "word": "For",
+                "start": 189.126,
+                "end": 189.246,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "every",
+                "start": 189.306,
+                "end": 189.486,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "memory",
+                "start": 189.526,
+                "end": 189.866,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 189.926,
+                "end": 190.006,
+                "score": 0.687,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "try",
+                "start": 190.026,
+                "end": 190.266,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 190.286,
+                "end": 190.386,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "erase",
+                "start": 190.466,
+                "end": 190.767,
+                "score": 0.629,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "within",
+                "start": 190.787,
+                "end": 191.027,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 191.047,
+                "end": 191.227,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "war",
+                "start": 191.247,
+                "end": 191.467,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "zones.",
+                "start": 191.487,
+                "end": 191.847,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 193.228,
+        "end": 196.709,
+        "text": "Late nights reveal that my PTSD has found its way to the surface.",
+        "words": [
+            {
+                "word": "Late",
+                "start": 193.228,
+                "end": 193.368,
+                "score": 0.653,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nights",
+                "start": 193.428,
+                "end": 193.668,
+                "score": 0.284,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reveal",
+                "start": 193.728,
+                "end": 194.088,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 194.108,
+                "end": 194.208,
+                "score": 0.398,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 194.228,
+                "end": 194.388,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "PTSD",
+                "start": 194.428,
+                "end": 195.229,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "has",
+                "start": 195.269,
+                "end": 195.369,
+                "score": 0.294,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "found",
+                "start": 195.509,
+                "end": 195.669,
+                "score": 0.424,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "its",
+                "start": 195.749,
+                "end": 195.829,
+                "score": 0.542,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "way",
+                "start": 195.869,
+                "end": 196.009,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 196.049,
+                "end": 196.149,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 196.169,
+                "end": 196.289,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "surface.",
+                "start": 196.309,
+                "end": 196.709,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 198.79,
+        "end": 202.152,
+        "text": "And my hate for this country reminds me that I'm far from patriotic, so.",
+        "words": [
+            {
+                "word": "And",
+                "start": 198.79,
+                "end": 198.85,
+                "score": 0.6,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 198.89,
+                "end": 199.03,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hate",
+                "start": 199.07,
+                "end": 199.211,
+                "score": 0.445,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 199.231,
+                "end": 199.371,
+                "score": 0.509,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 199.391,
+                "end": 199.531,
+                "score": 0.462,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "country",
+                "start": 199.591,
+                "end": 199.951,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "reminds",
+                "start": 200.031,
+                "end": 200.371,
+                "score": 0.48,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "me",
+                "start": 200.411,
+                "end": 200.531,
+                "score": 0.598,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 200.551,
+                "end": 200.691,
+                "score": 0.38,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I'm",
+                "start": 200.751,
+                "end": 200.871,
+                "score": 0.185,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "far",
+                "start": 200.931,
+                "end": 201.171,
+                "score": 0.736,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 201.191,
+                "end": 201.332,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "patriotic,",
+                "start": 201.372,
+                "end": 201.992,
+                "score": 0.963,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so.",
+                "start": 202.032,
+                "end": 202.152,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 203.024,
+        "end": 219.891,
+        "text": " It's a little ironic that I pledge allegiance to your flag of the United States of America and to your republic for which it stands, one nation, under God, indivisible, with liberty and justice for all.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 203.024,
+                "end": 203.144,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 203.184,
+                "end": 203.224,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 203.264,
+                "end": 203.484,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ironic",
+                "start": 203.584,
+                "end": 204.024,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 204.064,
+                "end": 204.285,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 205.145,
+                "end": 205.265,
+                "score": 0.65,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pledge",
+                "start": 205.305,
+                "end": 205.565,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allegiance",
+                "start": 205.605,
+                "end": 206.085,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 206.986,
+                "end": 207.106,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 207.126,
+                "end": 207.326,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flag",
+                "start": 207.406,
+                "end": 207.786,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 208.486,
+                "end": 208.546,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 208.586,
+                "end": 208.666,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "United",
+                "start": 208.746,
+                "end": 209.127,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "States",
+                "start": 209.207,
+                "end": 209.507,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 209.587,
+                "end": 209.667,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "America",
+                "start": 209.747,
+                "end": 210.227,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 210.987,
+                "end": 211.087,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 211.107,
+                "end": 211.227,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 211.267,
+                "end": 211.467,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "republic",
+                "start": 211.507,
+                "end": 212.088,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 212.588,
+                "end": 212.728,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "which",
+                "start": 212.788,
+                "end": 212.988,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 213.068,
+                "end": 213.148,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stands,",
+                "start": 213.188,
+                "end": 213.668,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 214.409,
+                "end": 214.509,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nation,",
+                "start": 214.589,
+                "end": 214.989,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "under",
+                "start": 215.529,
+                "end": 215.749,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "God,",
+                "start": 215.829,
+                "end": 216.169,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "indivisible,",
+                "start": 216.83,
+                "end": 217.51,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "with",
+                "start": 217.97,
+                "end": 218.15,
+                "score": 0.697,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "liberty",
+                "start": 218.19,
+                "end": 218.61,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 218.911,
+                "end": 218.991,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "justice",
+                "start": 219.071,
+                "end": 219.491,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "for",
+                "start": 219.551,
+                "end": 219.671,
+                "score": 0.987,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all.",
+                "start": 219.791,
+                "end": 219.891,
+                "score": 0.397,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

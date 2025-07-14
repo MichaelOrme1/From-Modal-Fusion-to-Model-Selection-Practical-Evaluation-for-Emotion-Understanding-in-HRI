@@ -1,0 +1,95 @@
+[
+    {
+        "start": 3.684,
+        "end": 4.565,
+        "text": " do do do do do",
+        "words": [
+            {
+                "word": "do",
+                "start": 3.684,
+                "end": 3.824,
+                "score": 0.611,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 3.944,
+                "end": 3.984,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 4.004,
+                "end": 4.184,
+                "score": 0.67,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 4.224,
+                "end": 4.465,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 4.505,
+                "end": 4.565,
+                "score": 0.206,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.749,
+        "end": 35.211,
+        "text": " do do do do do do",
+        "words": [
+            {
+                "word": "do",
+                "start": 33.749,
+                "end": 34.069,
+                "score": 0.65,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 34.109,
+                "end": 34.27,
+                "score": 0.61,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 34.29,
+                "end": 34.47,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 34.53,
+                "end": 34.93,
+                "score": 0.696,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 34.95,
+                "end": 35.09,
+                "score": 0.551,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "do",
+                "start": 35.13,
+                "end": 35.211,
+                "score": 0.387,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

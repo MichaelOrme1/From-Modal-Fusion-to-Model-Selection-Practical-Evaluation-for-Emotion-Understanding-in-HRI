@@ -1,0 +1,3755 @@
+[
+    {
+        "start": 0.009,
+        "end": 3.97,
+        "text": " Dwi hefyd eisiau ddiolch i Unesco am ei gefnogaeth.",
+        "words": [
+            {
+                "word": "Dwi",
+                "start": 0.009,
+                "end": 0.109,
+                "score": 0.024,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hefyd",
+                "start": 0.149,
+                "end": 0.389,
+                "score": 0.077,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eisiau",
+                "start": 0.409,
+                "end": 0.989,
+                "score": 0.017,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddiolch",
+                "start": 1.109,
+                "end": 1.449,
+                "score": 0.083,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 1.549,
+                "end": 1.589,
+                "score": 0.327,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Unesco",
+                "start": 1.629,
+                "end": 2.289,
+                "score": 0.135,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 2.329,
+                "end": 2.41,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 2.43,
+                "end": 2.51,
+                "score": 0.162,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gefnogaeth.",
+                "start": 2.55,
+                "end": 3.97,
+                "score": 0.136,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 3.99,
+        "end": 6.81,
+        "text": "Mae'n golygu lawer i ni.",
+        "words": [
+            {
+                "word": "Mae'n",
+                "start": 3.99,
+                "end": 4.13,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "golygu",
+                "start": 4.15,
+                "end": 4.43,
+                "score": 0.106,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lawer",
+                "start": 4.51,
+                "end": 6.55,
+                "score": 0.037,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 6.59,
+                "end": 6.61,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni.",
+                "start": 6.63,
+                "end": 6.81,
+                "score": 0.221,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.83,
+        "end": 10.611,
+        "text": "Diolch i chi i gyd am fod yma ar hyn o bryd pwysig.",
+        "words": [
+            {
+                "word": "Diolch",
+                "start": 6.83,
+                "end": 7.031,
+                "score": 0.083,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 7.051,
+                "end": 7.091,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi",
+                "start": 7.111,
+                "end": 7.231,
+                "score": 0.149,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 7.251,
+                "end": 7.291,
+                "score": 0.023,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyd",
+                "start": 7.331,
+                "end": 7.391,
+                "score": 0.332,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "am",
+                "start": 7.471,
+                "end": 7.671,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fod",
+                "start": 7.691,
+                "end": 8.031,
+                "score": 0.268,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yma",
+                "start": 8.071,
+                "end": 8.151,
+                "score": 0.281,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 8.291,
+                "end": 8.371,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hyn",
+                "start": 8.391,
+                "end": 8.451,
+                "score": 0.205,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 8.531,
+                "end": 8.571,
+                "score": 0.308,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bryd",
+                "start": 8.591,
+                "end": 9.531,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pwysig.",
+                "start": 9.551,
+                "end": 10.611,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 10.631,
+        "end": 15.512,
+        "text": "Mae'r dynion o'r holl byd wedi penderfynu i wneud cymdeithas gynhyrchol mewn eu bywydau a'u brifysgolaethau.",
+        "words": [
+            {
+                "word": "Mae'r",
+                "start": 10.631,
+                "end": 10.791,
+                "score": 0.4,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dynion",
+                "start": 10.811,
+                "end": 11.011,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 11.031,
+                "end": 11.131,
+                "score": 0.068,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "holl",
+                "start": 11.151,
+                "end": 11.351,
+                "score": 0.382,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byd",
+                "start": 11.431,
+                "end": 11.551,
+                "score": 0.106,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 11.591,
+                "end": 11.892,
+                "score": 0.334,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "penderfynu",
+                "start": 11.912,
+                "end": 12.112,
+                "score": 0.153,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 12.312,
+                "end": 12.332,
+                "score": 0.977,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 12.352,
+                "end": 12.452,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymdeithas",
+                "start": 12.472,
+                "end": 12.972,
+                "score": 0.137,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gynhyrchol",
+                "start": 12.992,
+                "end": 13.372,
+                "score": 0.176,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mewn",
+                "start": 13.432,
+                "end": 13.672,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 13.712,
+                "end": 13.772,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bywydau",
+                "start": 13.812,
+                "end": 14.412,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a'u",
+                "start": 14.512,
+                "end": 14.572,
+                "score": 0.335,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgolaethau.",
+                "start": 14.632,
+                "end": 15.512,
+                "score": 0.159,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.532,
+        "end": 17.793,
+        "text": "Diolch i chi i wneud y cyfrifiad hwn.",
+        "words": [
+            {
+                "word": "Diolch",
+                "start": 15.532,
+                "end": 15.812,
+                "score": 0.16,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 15.832,
+                "end": 15.852,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi",
+                "start": 15.872,
+                "end": 15.992,
+                "score": 0.04,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 16.112,
+                "end": 16.172,
+                "score": 0.198,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 16.252,
+                "end": 17.013,
+                "score": 0.084,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 17.073,
+                "end": 17.153,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cyfrifiad",
+                "start": 17.173,
+                "end": 17.653,
+                "score": 0.109,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hwn.",
+                "start": 17.693,
+                "end": 17.793,
+                "score": 0.476,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.813,
+        "end": 20.853,
+        "text": "Dwi wedi graddio o brifysgolaeth yn \u00f4l blynyddoedd.",
+        "words": [
+            {
+                "word": "Dwi",
+                "start": 17.813,
+                "end": 18.033,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 18.053,
+                "end": 18.193,
+                "score": 0.021,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "graddio",
+                "start": 18.213,
+                "end": 19.713,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 19.753,
+                "end": 19.913,
+                "score": 0.012,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgolaeth",
+                "start": 19.953,
+                "end": 20.373,
+                "score": 0.082,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 20.393,
+                "end": 20.433,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u00f4l",
+                "start": 20.453,
+                "end": 20.493,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blynyddoedd.",
+                "start": 20.513,
+                "end": 20.853,
+                "score": 0.102,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.873,
+        "end": 26.935,
+        "text": "Roeddwn i bob amser yn meddwl y byddwn i'n mynd, ac rwy'n gwybod pa mor ddiogel i gael y cyfle i wneud hynny.",
+        "words": [
+            {
+                "word": "Roeddwn",
+                "start": 20.873,
+                "end": 21.014,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 21.074,
+                "end": 21.134,
+                "score": 0.201,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bob",
+                "start": 21.154,
+                "end": 21.414,
+                "score": 0.065,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amser",
+                "start": 21.474,
+                "end": 21.734,
+                "score": 0.116,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 21.794,
+                "end": 22.634,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "meddwl",
+                "start": 22.674,
+                "end": 22.854,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 22.874,
+                "end": 22.894,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byddwn",
+                "start": 22.934,
+                "end": 23.534,
+                "score": 0.08,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'n",
+                "start": 23.614,
+                "end": 23.734,
+                "score": 0.136,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mynd,",
+                "start": 23.874,
+                "end": 24.714,
+                "score": 0.107,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 24.754,
+                "end": 24.794,
+                "score": 0.353,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rwy'n",
+                "start": 24.814,
+                "end": 24.954,
+                "score": 0.291,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwybod",
+                "start": 24.974,
+                "end": 25.094,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pa",
+                "start": 25.114,
+                "end": 25.234,
+                "score": 0.154,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mor",
+                "start": 25.254,
+                "end": 25.454,
+                "score": 0.14,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddiogel",
+                "start": 25.474,
+                "end": 25.695,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 25.795,
+                "end": 25.835,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gael",
+                "start": 25.855,
+                "end": 26.035,
+                "score": 0.063,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 26.055,
+                "end": 26.075,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cyfle",
+                "start": 26.095,
+                "end": 26.455,
+                "score": 0.1,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 26.495,
+                "end": 26.535,
+                "score": 0.369,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 26.575,
+                "end": 26.735,
+                "score": 0.174,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hynny.",
+                "start": 26.755,
+                "end": 26.935,
+                "score": 0.381,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.138,
+        "end": 43.002,
+        "text": " Roedd Brown yn fy nhaf, yn fy gymuned, ac roeddwn i'n cymryd y syniadau a'r profiadau rydw i wedi'u cael yno i'r holl gyfathrebuau cymdeithasol, i'r lle gwaith, i'r gwleidyddiaeth, i'r holl aspectau o'n bywyd.",
+        "words": [
+            {
+                "word": "Roedd",
+                "start": 29.138,
+                "end": 29.458,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Brown",
+                "start": 29.478,
+                "end": 29.818,
+                "score": 0.099,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 29.838,
+                "end": 29.878,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fy",
+                "start": 29.918,
+                "end": 29.998,
+                "score": 0.082,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhaf,",
+                "start": 30.018,
+                "end": 30.858,
+                "score": 0.064,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 30.878,
+                "end": 30.918,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fy",
+                "start": 30.958,
+                "end": 31.059,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gymuned,",
+                "start": 31.099,
+                "end": 32.179,
+                "score": 0.24,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 32.219,
+                "end": 32.439,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "roeddwn",
+                "start": 32.479,
+                "end": 32.739,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'n",
+                "start": 32.799,
+                "end": 32.879,
+                "score": 0.137,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymryd",
+                "start": 32.899,
+                "end": 33.379,
+                "score": 0.093,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 33.439,
+                "end": 33.479,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "syniadau",
+                "start": 33.599,
+                "end": 33.979,
+                "score": 0.154,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a'r",
+                "start": 33.999,
+                "end": 34.059,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiadau",
+                "start": 34.079,
+                "end": 35.16,
+                "score": 0.197,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydw",
+                "start": 35.18,
+                "end": 35.36,
+                "score": 0.118,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 35.38,
+                "end": 35.4,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi'u",
+                "start": 35.46,
+                "end": 35.66,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cael",
+                "start": 35.7,
+                "end": 35.8,
+                "score": 0.272,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yno",
+                "start": 35.82,
+                "end": 36.02,
+                "score": 0.064,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 36.04,
+                "end": 36.22,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "holl",
+                "start": 36.24,
+                "end": 36.32,
+                "score": 0.238,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyfathrebuau",
+                "start": 36.34,
+                "end": 37.22,
+                "score": 0.018,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymdeithasol,",
+                "start": 37.24,
+                "end": 37.64,
+                "score": 0.088,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 37.66,
+                "end": 37.9,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lle",
+                "start": 37.94,
+                "end": 38.621,
+                "score": 0.129,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwaith,",
+                "start": 38.641,
+                "end": 38.921,
+                "score": 0.061,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 38.981,
+                "end": 39.041,
+                "score": 0.069,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwleidyddiaeth,",
+                "start": 39.081,
+                "end": 40.321,
+                "score": 0.098,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 40.341,
+                "end": 40.481,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "holl",
+                "start": 40.501,
+                "end": 40.681,
+                "score": 0.302,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "aspectau",
+                "start": 40.741,
+                "end": 41.241,
+                "score": 0.23,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'n",
+                "start": 41.321,
+                "end": 41.401,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bywyd.",
+                "start": 41.421,
+                "end": 43.002,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 43.042,
+        "end": 51.384,
+        "text": "Rwy'n gwybod bod fy mhrofiad o'r brifysgol wedi'i ffynnu i'r rhai rydw i, ac wrth gwrs mae'n ei wneud ar gyfer llawer o bobl.",
+        "words": [
+            {
+                "word": "Rwy'n",
+                "start": 43.042,
+                "end": 43.242,
+                "score": 0.118,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwybod",
+                "start": 43.262,
+                "end": 43.462,
+                "score": 0.167,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 43.482,
+                "end": 43.542,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fy",
+                "start": 43.562,
+                "end": 43.682,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mhrofiad",
+                "start": 43.722,
+                "end": 44.102,
+                "score": 0.084,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 44.162,
+                "end": 44.222,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 44.442,
+                "end": 45.202,
+                "score": 0.174,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi'i",
+                "start": 45.222,
+                "end": 45.582,
+                "score": 0.186,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ffynnu",
+                "start": 45.622,
+                "end": 45.782,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 45.802,
+                "end": 45.923,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhai",
+                "start": 45.943,
+                "end": 46.063,
+                "score": 0.126,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydw",
+                "start": 46.083,
+                "end": 47.343,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i,",
+                "start": 47.363,
+                "end": 47.383,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 47.403,
+                "end": 47.483,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wrth",
+                "start": 47.503,
+                "end": 47.603,
+                "score": 0.178,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwrs",
+                "start": 47.623,
+                "end": 47.943,
+                "score": 0.186,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mae'n",
+                "start": 48.343,
+                "end": 48.443,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 48.463,
+                "end": 48.523,
+                "score": 0.012,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 48.543,
+                "end": 48.703,
+                "score": 0.099,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 48.723,
+                "end": 48.763,
+                "score": 0.024,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyfer",
+                "start": 48.783,
+                "end": 49.083,
+                "score": 0.098,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "llawer",
+                "start": 49.383,
+                "end": 51.084,
+                "score": 0.172,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 51.144,
+                "end": 51.184,
+                "score": 0.012,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bobl.",
+                "start": 51.224,
+                "end": 51.384,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 51.424,
+        "end": 54.885,
+        "text": "Ond beth os bydd ein profiad o'r brifysgol yn ei ddangos i ni yw nad yw menywod yn ymddiriedol?",
+        "words": [
+            {
+                "word": "Ond",
+                "start": 51.424,
+                "end": 51.524,
+                "score": 0.107,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beth",
+                "start": 51.744,
+                "end": 51.924,
+                "score": 0.268,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "os",
+                "start": 51.964,
+                "end": 52.084,
+                "score": 0.208,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 52.104,
+                "end": 52.184,
+                "score": 0.272,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ein",
+                "start": 52.204,
+                "end": 52.284,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiad",
+                "start": 52.304,
+                "end": 52.504,
+                "score": 0.144,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 52.524,
+                "end": 52.584,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 52.624,
+                "end": 52.984,
+                "score": 0.19,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 53.004,
+                "end": 53.044,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 53.064,
+                "end": 53.104,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddangos",
+                "start": 53.124,
+                "end": 53.325,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 53.345,
+                "end": 53.365,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 53.385,
+                "end": 53.445,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw",
+                "start": 53.525,
+                "end": 53.565,
+                "score": 0.461,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nad",
+                "start": 53.585,
+                "end": 53.725,
+                "score": 0.239,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw",
+                "start": 53.785,
+                "end": 53.885,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "menywod",
+                "start": 53.925,
+                "end": 54.285,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 54.305,
+                "end": 54.345,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymddiriedol?",
+                "start": 54.365,
+                "end": 54.885,
+                "score": 0.096,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 56.305,
+        "end": 62.887,
+        "text": " Beth os yw'n ddangos i ni fod, ie, y gallan nhw ystudio, ond nad ydyn nhw'n gynllunio'r seminar?",
+        "words": [
+            {
+                "word": "Beth",
+                "start": 56.305,
+                "end": 56.545,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "os",
+                "start": 56.565,
+                "end": 56.725,
+                "score": 0.176,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw'n",
+                "start": 56.765,
+                "end": 56.885,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddangos",
+                "start": 56.905,
+                "end": 57.085,
+                "score": 0.221,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 57.225,
+                "end": 57.245,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 57.285,
+                "end": 57.345,
+                "score": 0.226,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fod,",
+                "start": 57.385,
+                "end": 58.105,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ie,",
+                "start": 58.125,
+                "end": 58.205,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 58.225,
+                "end": 58.245,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gallan",
+                "start": 58.285,
+                "end": 58.405,
+                "score": 0.077,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhw",
+                "start": 58.425,
+                "end": 58.586,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ystudio,",
+                "start": 58.606,
+                "end": 58.926,
+                "score": 0.12,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ond",
+                "start": 58.946,
+                "end": 59.906,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nad",
+                "start": 59.926,
+                "end": 59.986,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ydyn",
+                "start": 60.006,
+                "end": 60.086,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhw'n",
+                "start": 60.106,
+                "end": 60.246,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gynllunio'r",
+                "start": 60.266,
+                "end": 60.646,
+                "score": 0.109,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "seminar?",
+                "start": 60.666,
+                "end": 62.887,
+                "score": 0.17,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 62.907,
+        "end": 67.948,
+        "text": "Beth os, fel yw'n dal mewn llawer o leoed o'r byd, mae'n dweud i ni nad yw'r bleidlais yno'n ymwneud \u00e2 hyn.",
+        "words": [
+            {
+                "word": "Beth",
+                "start": 62.907,
+                "end": 63.087,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "os,",
+                "start": 63.147,
+                "end": 63.307,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fel",
+                "start": 63.367,
+                "end": 63.727,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw'n",
+                "start": 63.767,
+                "end": 63.887,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dal",
+                "start": 63.947,
+                "end": 64.067,
+                "score": 0.388,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mewn",
+                "start": 64.087,
+                "end": 64.167,
+                "score": 0.248,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "llawer",
+                "start": 64.187,
+                "end": 64.407,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 64.427,
+                "end": 64.447,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leoed",
+                "start": 64.487,
+                "end": 64.667,
+                "score": 0.152,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 64.687,
+                "end": 64.787,
+                "score": 0.299,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byd,",
+                "start": 64.807,
+                "end": 64.867,
+                "score": 0.054,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mae'n",
+                "start": 64.887,
+                "end": 65.107,
+                "score": 0.067,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dweud",
+                "start": 65.127,
+                "end": 65.967,
+                "score": 0.097,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 65.987,
+                "end": 66.007,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 66.047,
+                "end": 66.107,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nad",
+                "start": 66.147,
+                "end": 66.427,
+                "score": 0.077,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw'r",
+                "start": 66.447,
+                "end": 66.547,
+                "score": 0.032,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bleidlais",
+                "start": 66.567,
+                "end": 67.328,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yno'n",
+                "start": 67.348,
+                "end": 67.448,
+                "score": 0.205,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymwneud",
+                "start": 67.508,
+                "end": 67.828,
+                "score": 0.257,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u00e2",
+                "start": 67.848,
+                "end": 67.868,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hyn.",
+                "start": 67.888,
+                "end": 67.948,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 67.968,
+        "end": 76.87,
+        "text": "Beth os, fel yw'r sylwadau, mewn llawer mwy o brifysgolion, rydyn ni'n cael y sylwadau nad yw ymwneud ag ysgolion sexual yn ymwneud ag ysgolion.",
+        "words": [
+            {
+                "word": "Beth",
+                "start": 67.968,
+                "end": 68.088,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "os,",
+                "start": 68.208,
+                "end": 70.008,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fel",
+                "start": 70.048,
+                "end": 70.208,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw'r",
+                "start": 70.268,
+                "end": 70.508,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sylwadau,",
+                "start": 70.528,
+                "end": 70.848,
+                "score": 0.052,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mewn",
+                "start": 70.868,
+                "end": 71.388,
+                "score": 0.104,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "llawer",
+                "start": 71.408,
+                "end": 71.649,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mwy",
+                "start": 71.669,
+                "end": 71.729,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 71.749,
+                "end": 71.769,
+                "score": 0.101,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgolion,",
+                "start": 71.789,
+                "end": 72.129,
+                "score": 0.083,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydyn",
+                "start": 72.149,
+                "end": 72.369,
+                "score": 0.026,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni'n",
+                "start": 72.389,
+                "end": 73.189,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cael",
+                "start": 73.209,
+                "end": 73.289,
+                "score": 0.087,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 73.309,
+                "end": 73.329,
+                "score": 0.017,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sylwadau",
+                "start": 73.349,
+                "end": 73.529,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nad",
+                "start": 73.549,
+                "end": 73.609,
+                "score": 0.378,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw",
+                "start": 73.649,
+                "end": 73.689,
+                "score": 0.013,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymwneud",
+                "start": 73.709,
+                "end": 74.509,
+                "score": 0.063,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ag",
+                "start": 74.569,
+                "end": 74.649,
+                "score": 0.128,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ysgolion",
+                "start": 74.669,
+                "end": 75.069,
+                "score": 0.188,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sexual",
+                "start": 75.089,
+                "end": 75.369,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 75.409,
+                "end": 75.95,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymwneud",
+                "start": 75.99,
+                "end": 76.25,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ag",
+                "start": 76.27,
+                "end": 76.31,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ysgolion.",
+                "start": 76.35,
+                "end": 76.87,
+                "score": 0.195,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 79.991,
+        "end": 93.58,
+        "text": " Ond rydyn ni'n gwybod bod os byddwch chi'n newid profiadau'r myfyrwyr, fel bod ganddyn nhw adnoddau gwahanol o'r byd o gwmpas nhw, adnoddau'r cydraddoldeb, bydd cymdeithas yn newid.",
+        "words": [
+            {
+                "word": "Ond",
+                "start": 79.991,
+                "end": 81.332,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydyn",
+                "start": 81.392,
+                "end": 81.652,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni'n",
+                "start": 81.672,
+                "end": 81.892,
+                "score": 0.249,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwybod",
+                "start": 82.012,
+                "end": 83.033,
+                "score": 0.069,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 83.053,
+                "end": 83.113,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "os",
+                "start": 83.153,
+                "end": 83.193,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byddwch",
+                "start": 83.213,
+                "end": 83.513,
+                "score": 0.349,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi'n",
+                "start": 83.533,
+                "end": 83.854,
+                "score": 0.2,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "newid",
+                "start": 83.874,
+                "end": 84.014,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiadau'r",
+                "start": 84.034,
+                "end": 84.594,
+                "score": 0.063,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "myfyrwyr,",
+                "start": 84.614,
+                "end": 85.054,
+                "score": 0.032,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fel",
+                "start": 85.074,
+                "end": 85.254,
+                "score": 0.167,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 85.355,
+                "end": 85.915,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ganddyn",
+                "start": 85.935,
+                "end": 86.155,
+                "score": 0.09,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhw",
+                "start": 86.175,
+                "end": 86.235,
+                "score": 0.332,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "adnoddau",
+                "start": 86.275,
+                "end": 86.815,
+                "score": 0.12,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwahanol",
+                "start": 86.956,
+                "end": 87.996,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 88.036,
+                "end": 88.096,
+                "score": 0.34,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byd",
+                "start": 88.116,
+                "end": 88.176,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 88.196,
+                "end": 88.216,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwmpas",
+                "start": 88.236,
+                "end": 88.437,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhw,",
+                "start": 88.477,
+                "end": 88.537,
+                "score": 0.33,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "adnoddau'r",
+                "start": 88.577,
+                "end": 89.577,
+                "score": 0.266,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cydraddoldeb,",
+                "start": 89.697,
+                "end": 91.158,
+                "score": 0.081,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 91.178,
+                "end": 91.318,
+                "score": 0.076,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymdeithas",
+                "start": 91.358,
+                "end": 92.979,
+                "score": 0.149,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 93.04,
+                "end": 93.16,
+                "score": 0.162,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "newid.",
+                "start": 93.22,
+                "end": 93.58,
+                "score": 0.132,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 93.64,
+        "end": 105.167,
+        "text": "Wrth i ni'n mynd i'r wahanol i'r un pryd i astudio ar y leoedd y byddwn ni wedi gweithio'n anodd iawn i'w gael, byddwn ni ddim yn rhaid i ni weld neu profiadu cydraddoldeb.",
+        "words": [
+            {
+                "word": "Wrth",
+                "start": 93.64,
+                "end": 93.76,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 93.78,
+                "end": 93.8,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni'n",
+                "start": 93.92,
+                "end": 94.18,
+                "score": 0.266,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mynd",
+                "start": 94.2,
+                "end": 95.841,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 95.861,
+                "end": 95.941,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wahanol",
+                "start": 95.961,
+                "end": 96.302,
+                "score": 0.048,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 96.322,
+                "end": 96.382,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "un",
+                "start": 96.462,
+                "end": 96.522,
+                "score": 0.328,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pryd",
+                "start": 96.602,
+                "end": 96.862,
+                "score": 0.165,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 96.882,
+                "end": 96.902,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "astudio",
+                "start": 97.022,
+                "end": 97.562,
+                "score": 0.09,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 97.582,
+                "end": 97.643,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 97.663,
+                "end": 97.723,
+                "score": 0.172,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leoedd",
+                "start": 97.763,
+                "end": 98.183,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 98.223,
+                "end": 98.263,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byddwn",
+                "start": 98.283,
+                "end": 98.423,
+                "score": 0.021,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 98.523,
+                "end": 98.723,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 98.823,
+                "end": 99.544,
+                "score": 0.055,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gweithio'n",
+                "start": 99.564,
+                "end": 99.964,
+                "score": 0.15,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "anodd",
+                "start": 100.004,
+                "end": 100.504,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "iawn",
+                "start": 100.524,
+                "end": 100.745,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 100.765,
+                "end": 100.925,
+                "score": 0.129,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gael,",
+                "start": 100.945,
+                "end": 101.365,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byddwn",
+                "start": 101.565,
+                "end": 102.806,
+                "score": 0.088,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 102.826,
+                "end": 102.866,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddim",
+                "start": 102.886,
+                "end": 103.026,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 103.046,
+                "end": 103.086,
+                "score": 0.484,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhaid",
+                "start": 103.106,
+                "end": 103.246,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 103.266,
+                "end": 103.286,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 103.306,
+                "end": 103.666,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "weld",
+                "start": 103.727,
+                "end": 103.827,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "neu",
+                "start": 103.847,
+                "end": 103.987,
+                "score": 0.109,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiadu",
+                "start": 104.087,
+                "end": 104.527,
+                "score": 0.082,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cydraddoldeb.",
+                "start": 104.567,
+                "end": 105.167,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 105.207,
+        "end": 108.149,
+        "text": "Rhaid i ni weld gydraddoldeb.",
+        "words": [
+            {
+                "word": "Rhaid",
+                "start": 105.207,
+                "end": 106.849,
+                "score": 0.236,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 106.869,
+                "end": 106.889,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni",
+                "start": 106.909,
+                "end": 107.109,
+                "score": 0.142,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "weld",
+                "start": 107.129,
+                "end": 107.529,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gydraddoldeb.",
+                "start": 107.549,
+                "end": 108.149,
+                "score": 0.113,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 109.172,
+        "end": 113.494,
+        "text": " Llywodraeth a'r pwyllgor.",
+        "words": [
+            {
+                "word": "Llywodraeth",
+                "start": 109.172,
+                "end": 110.513,
+                "score": 0.058,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a'r",
+                "start": 110.553,
+                "end": 110.693,
+                "score": 0.258,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pwyllgor.",
+                "start": 110.713,
+                "end": 113.494,
+                "score": 0.016,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 113.534,
+        "end": 120.196,
+        "text": "Mae'r profiad y brifysgol yn rhaid i'w ddweud i'w ddynion y bydd eu hawliau bywydau'n werthfawr, ac nid dim ond hynny, ond eu bod nhw'n ymwneud \u00e2'r brifysgol ei hunain.",
+        "words": [
+            {
+                "word": "Mae'r",
+                "start": 113.534,
+                "end": 113.674,
+                "score": 0.214,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiad",
+                "start": 113.694,
+                "end": 113.934,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 113.954,
+                "end": 113.974,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 114.074,
+                "end": 114.594,
+                "score": 0.164,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 114.614,
+                "end": 114.654,
+                "score": 0.024,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhaid",
+                "start": 114.674,
+                "end": 114.814,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 114.834,
+                "end": 114.894,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddweud",
+                "start": 114.914,
+                "end": 115.174,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 115.194,
+                "end": 115.274,
+                "score": 0.165,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddynion",
+                "start": 115.294,
+                "end": 115.574,
+                "score": 0.037,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 115.594,
+                "end": 115.614,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 115.634,
+                "end": 115.774,
+                "score": 0.43,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 115.794,
+                "end": 115.895,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hawliau",
+                "start": 115.915,
+                "end": 116.195,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bywydau'n",
+                "start": 116.235,
+                "end": 116.575,
+                "score": 0.105,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "werthfawr,",
+                "start": 116.595,
+                "end": 116.835,
+                "score": 0.057,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 116.875,
+                "end": 116.975,
+                "score": 0.124,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nid",
+                "start": 116.995,
+                "end": 117.215,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dim",
+                "start": 117.255,
+                "end": 117.395,
+                "score": 0.313,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ond",
+                "start": 117.415,
+                "end": 117.735,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hynny,",
+                "start": 117.755,
+                "end": 117.895,
+                "score": 0.315,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ond",
+                "start": 117.975,
+                "end": 118.115,
+                "score": 0.069,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 118.155,
+                "end": 118.375,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 118.395,
+                "end": 118.515,
+                "score": 0.088,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nhw'n",
+                "start": 118.616,
+                "end": 119.356,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymwneud",
+                "start": 119.376,
+                "end": 119.536,
+                "score": 0.133,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "\u00e2'r",
+                "start": 119.556,
+                "end": 119.636,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 119.656,
+                "end": 119.896,
+                "score": 0.229,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 119.916,
+                "end": 119.996,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hunain.",
+                "start": 120.036,
+                "end": 120.196,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 120.216,
+        "end": 131.22,
+        "text": "Ac yn hollbwysig ar hyn o bryd, mae'r profiad yn rhaid i'w gwneud yn glir y bydd y safbwynt o ddynion a phobl sy'n gallu bod yn anodd yn hawliau, nid ymdrech.",
+        "words": [
+            {
+                "word": "Ac",
+                "start": 120.216,
+                "end": 120.296,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 120.316,
+                "end": 120.396,
+                "score": 0.663,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hollbwysig",
+                "start": 120.416,
+                "end": 121.176,
+                "score": 0.14,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 121.196,
+                "end": 121.257,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hyn",
+                "start": 121.317,
+                "end": 121.497,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 121.537,
+                "end": 121.577,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bryd,",
+                "start": 121.617,
+                "end": 121.917,
+                "score": 0.039,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mae'r",
+                "start": 122.017,
+                "end": 122.297,
+                "score": 0.094,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "profiad",
+                "start": 122.317,
+                "end": 123.978,
+                "score": 0.07,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 124.018,
+                "end": 124.158,
+                "score": 0.275,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhaid",
+                "start": 124.218,
+                "end": 124.658,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 124.718,
+                "end": 124.798,
+                "score": 0.208,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwneud",
+                "start": 124.818,
+                "end": 125.038,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 125.078,
+                "end": 125.158,
+                "score": 0.25,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "glir",
+                "start": 125.178,
+                "end": 125.358,
+                "score": 0.119,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 125.378,
+                "end": 125.398,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 125.458,
+                "end": 125.578,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 125.598,
+                "end": 125.618,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "safbwynt",
+                "start": 125.638,
+                "end": 126.599,
+                "score": 0.036,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 126.619,
+                "end": 126.679,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddynion",
+                "start": 126.859,
+                "end": 127.939,
+                "score": 0.065,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 127.959,
+                "end": 127.979,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "phobl",
+                "start": 128.019,
+                "end": 128.259,
+                "score": 0.021,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sy'n",
+                "start": 128.299,
+                "end": 128.579,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gallu",
+                "start": 128.599,
+                "end": 129.139,
+                "score": 0.238,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 129.199,
+                "end": 129.72,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 129.74,
+                "end": 129.8,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "anodd",
+                "start": 129.82,
+                "end": 129.94,
+                "score": 0.148,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 129.96,
+                "end": 130.04,
+                "score": 0.076,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hawliau,",
+                "start": 130.08,
+                "end": 130.46,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nid",
+                "start": 130.48,
+                "end": 130.86,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymdrech.",
+                "start": 130.9,
+                "end": 131.22,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 138.933,
+        "end": 157.18,
+        "text": " Y rhaid y bydd yn cael ei ysgrifennu gan gymuned sy'n credu ac yn cefnogi'r bywyr, ac sy'n cydnabod y bydd, pan fydd safbwynt un o'r bobl wedi'i gynhyrchu, bydd pawb yn teimlo bod eu safbwynt eu hunain wedi'i gynhyrchu.",
+        "words": [
+            {
+                "word": "Y",
+                "start": 138.933,
+                "end": 139.033,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhaid",
+                "start": 139.093,
+                "end": 139.273,
+                "score": 0.452,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 139.293,
+                "end": 139.313,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 139.333,
+                "end": 139.413,
+                "score": 0.249,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 139.433,
+                "end": 139.473,
+                "score": 0.235,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cael",
+                "start": 139.493,
+                "end": 139.613,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ei",
+                "start": 139.653,
+                "end": 139.773,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ysgrifennu",
+                "start": 139.853,
+                "end": 140.634,
+                "score": 0.029,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gan",
+                "start": 140.654,
+                "end": 140.874,
+                "score": 0.11,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gymuned",
+                "start": 140.894,
+                "end": 141.354,
+                "score": 0.344,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sy'n",
+                "start": 141.414,
+                "end": 141.534,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "credu",
+                "start": 141.554,
+                "end": 141.974,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 141.994,
+                "end": 142.094,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 142.134,
+                "end": 142.254,
+                "score": 0.166,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cefnogi'r",
+                "start": 142.294,
+                "end": 142.834,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bywyr,",
+                "start": 143.014,
+                "end": 143.455,
+                "score": 0.125,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 143.475,
+                "end": 144.475,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sy'n",
+                "start": 144.495,
+                "end": 144.735,
+                "score": 0.154,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cydnabod",
+                "start": 144.955,
+                "end": 145.756,
+                "score": 0.12,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 145.876,
+                "end": 145.896,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd,",
+                "start": 145.916,
+                "end": 146.096,
+                "score": 0.079,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pan",
+                "start": 146.116,
+                "end": 146.256,
+                "score": 0.111,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fydd",
+                "start": 146.316,
+                "end": 146.516,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "safbwynt",
+                "start": 146.556,
+                "end": 146.956,
+                "score": 0.044,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "un",
+                "start": 147.356,
+                "end": 147.436,
+                "score": 0.108,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 147.476,
+                "end": 147.576,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bobl",
+                "start": 147.636,
+                "end": 147.896,
+                "score": 0.292,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi'i",
+                "start": 147.916,
+                "end": 148.937,
+                "score": 0.051,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gynhyrchu,",
+                "start": 149.077,
+                "end": 149.677,
+                "score": 0.036,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 149.697,
+                "end": 149.957,
+                "score": 0.018,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pawb",
+                "start": 150.017,
+                "end": 150.257,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 150.317,
+                "end": 150.697,
+                "score": 0.053,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "teimlo",
+                "start": 150.757,
+                "end": 151.398,
+                "score": 0.149,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 151.418,
+                "end": 151.698,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 151.738,
+                "end": 151.778,
+                "score": 0.18,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "safbwynt",
+                "start": 151.818,
+                "end": 152.298,
+                "score": 0.383,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 152.358,
+                "end": 155.099,
+                "score": 0.108,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hunain",
+                "start": 155.159,
+                "end": 155.379,
+                "score": 0.153,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi'i",
+                "start": 155.419,
+                "end": 155.939,
+                "score": 0.056,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gynhyrchu.",
+                "start": 156.7,
+                "end": 157.18,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 157.2,
+        "end": 162.362,
+        "text": "Bydd y brifysgol yn lefel ymddygiad sy'n cymryd ymddygiad ar gyfer pob ffyrdd o'r gynhyrchu.",
+        "words": [
+            {
+                "word": "Bydd",
+                "start": 157.2,
+                "end": 157.4,
+                "score": 0.083,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 157.42,
+                "end": 157.48,
+                "score": 0.327,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 157.5,
+                "end": 157.92,
+                "score": 0.111,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 157.96,
+                "end": 158.04,
+                "score": 0.454,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lefel",
+                "start": 158.1,
+                "end": 158.38,
+                "score": 0.094,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymddygiad",
+                "start": 158.4,
+                "end": 159.381,
+                "score": 0.033,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sy'n",
+                "start": 159.421,
+                "end": 159.521,
+                "score": 0.042,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymryd",
+                "start": 159.541,
+                "end": 159.821,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ymddygiad",
+                "start": 159.841,
+                "end": 160.381,
+                "score": 0.036,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 160.421,
+                "end": 160.461,
+                "score": 0.404,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyfer",
+                "start": 160.501,
+                "end": 160.701,
+                "score": 0.1,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pob",
+                "start": 160.841,
+                "end": 161.321,
+                "score": 0.045,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ffyrdd",
+                "start": 161.341,
+                "end": 161.681,
+                "score": 0.212,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o'r",
+                "start": 161.701,
+                "end": 161.761,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gynhyrchu.",
+                "start": 161.781,
+                "end": 162.362,
+                "score": 0.03,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 164.821,
+        "end": 174.389,
+        "text": " Dyna pam rydyn ni'n credu y bydd y myfyrwyr yn rhaid i'r brifysgol ddod allan, yn credu, yn ystyried ac yn gobeithio cymdeithasau gwirioneddol.",
+        "words": [
+            {
+                "word": "Dyna",
+                "start": 164.821,
+                "end": 165.201,
+                "score": 0.096,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pam",
+                "start": 165.261,
+                "end": 166.042,
+                "score": 0.067,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydyn",
+                "start": 166.102,
+                "end": 166.402,
+                "score": 0.125,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni'n",
+                "start": 166.422,
+                "end": 167.283,
+                "score": 0.018,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "credu",
+                "start": 167.303,
+                "end": 167.423,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 167.443,
+                "end": 167.463,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bydd",
+                "start": 167.543,
+                "end": 167.723,
+                "score": 0.18,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 167.743,
+                "end": 167.803,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "myfyrwyr",
+                "start": 167.823,
+                "end": 168.004,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 168.144,
+                "end": 168.224,
+                "score": 0.004,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rhaid",
+                "start": 168.244,
+                "end": 168.384,
+                "score": 0.027,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 168.404,
+                "end": 168.464,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgol",
+                "start": 168.484,
+                "end": 168.964,
+                "score": 0.059,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddod",
+                "start": 168.984,
+                "end": 169.245,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "allan,",
+                "start": 169.265,
+                "end": 169.605,
+                "score": 0.237,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 169.645,
+                "end": 169.685,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "credu,",
+                "start": 169.705,
+                "end": 170.526,
+                "score": 0.032,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 170.546,
+                "end": 170.586,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ystyried",
+                "start": 170.606,
+                "end": 171.006,
+                "score": 0.135,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 171.026,
+                "end": 171.066,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 171.086,
+                "end": 171.126,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gobeithio",
+                "start": 171.146,
+                "end": 172.067,
+                "score": 0.087,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cymdeithasau",
+                "start": 172.087,
+                "end": 172.767,
+                "score": 0.105,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwirioneddol.",
+                "start": 172.787,
+                "end": 174.389,
+                "score": 0.032,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 174.449,
+        "end": 180.994,
+        "text": "Cymdeithasau gwirioneddol mewn pob syniad, ac mae'r brifysgolaethau'n gallu bod yn gatalyst bwysig i'r newid hwnnw.",
+        "words": [
+            {
+                "word": "Cymdeithasau",
+                "start": 174.449,
+                "end": 177.391,
+                "score": 0.16,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwirioneddol",
+                "start": 177.431,
+                "end": 177.812,
+                "score": 0.197,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mewn",
+                "start": 177.852,
+                "end": 178.052,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pob",
+                "start": 178.092,
+                "end": 178.192,
+                "score": 0.444,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "syniad,",
+                "start": 178.212,
+                "end": 178.472,
+                "score": 0.122,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 178.492,
+                "end": 178.572,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mae'r",
+                "start": 178.592,
+                "end": 178.712,
+                "score": 0.199,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "brifysgolaethau'n",
+                "start": 178.732,
+                "end": 179.473,
+                "score": 0.083,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gallu",
+                "start": 179.493,
+                "end": 179.873,
+                "score": 0.067,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bod",
+                "start": 179.893,
+                "end": 179.953,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 179.973,
+                "end": 180.033,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gatalyst",
+                "start": 180.053,
+                "end": 180.214,
+                "score": 0.182,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bwysig",
+                "start": 180.254,
+                "end": 180.414,
+                "score": 0.139,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'r",
+                "start": 180.474,
+                "end": 180.554,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "newid",
+                "start": 180.614,
+                "end": 180.714,
+                "score": 0.196,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hwnnw.",
+                "start": 180.774,
+                "end": 180.994,
+                "score": 0.2,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 185.725,
+        "end": 197.536,
+        "text": " Mae'r 10 o Gymhwysterau Gweithredu wedi gwneud y cyfathrebu hwn, ac ar gyfer eu gwaith, rydyn ni'n gwybod y byddent yn ysbrydoli myfyrwyr a sefydliadau ac ysgolion eraill y byd i'w wneud yn well.",
+        "words": [
+            {
+                "word": "Mae'r",
+                "start": 185.725,
+                "end": 185.925,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "10"
+            },
+            {
+                "word": "o",
+                "start": 185.965,
+                "end": 185.985,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Gymhwysterau",
+                "start": 186.005,
+                "end": 186.406,
+                "score": 0.017,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Gweithredu",
+                "start": 186.426,
+                "end": 186.766,
+                "score": 0.106,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wedi",
+                "start": 186.786,
+                "end": 186.866,
+                "score": 0.014,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwneud",
+                "start": 186.886,
+                "end": 187.647,
+                "score": 0.222,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 187.667,
+                "end": 187.687,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cyfathrebu",
+                "start": 187.707,
+                "end": 188.328,
+                "score": 0.106,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hwn,",
+                "start": 188.348,
+                "end": 188.448,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 188.648,
+                "end": 188.828,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 188.868,
+                "end": 188.948,
+                "score": 0.129,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyfer",
+                "start": 189.008,
+                "end": 189.409,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 189.489,
+                "end": 190.249,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwaith,",
+                "start": 190.269,
+                "end": 190.63,
+                "score": 0.007,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rydyn",
+                "start": 190.69,
+                "end": 190.87,
+                "score": 0.203,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ni'n",
+                "start": 190.89,
+                "end": 190.97,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gwybod",
+                "start": 190.99,
+                "end": 191.23,
+                "score": 0.098,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 191.25,
+                "end": 191.27,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byddent",
+                "start": 191.37,
+                "end": 191.751,
+                "score": 0.114,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 191.891,
+                "end": 192.031,
+                "score": 0.469,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ysbrydoli",
+                "start": 192.151,
+                "end": 192.872,
+                "score": 0.147,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "myfyrwyr",
+                "start": 192.892,
+                "end": 193.292,
+                "score": 0.132,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 193.312,
+                "end": 193.372,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sefydliadau",
+                "start": 193.412,
+                "end": 193.993,
+                "score": 0.185,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 194.013,
+                "end": 194.053,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ysgolion",
+                "start": 194.073,
+                "end": 194.473,
+                "score": 0.022,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eraill",
+                "start": 194.493,
+                "end": 195.374,
+                "score": 0.169,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "y",
+                "start": 195.394,
+                "end": 195.414,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "byd",
+                "start": 195.434,
+                "end": 195.534,
+                "score": 0.167,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i'w",
+                "start": 195.575,
+                "end": 195.715,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wneud",
+                "start": 195.735,
+                "end": 195.875,
+                "score": 0.237,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 195.895,
+                "end": 196.015,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "well.",
+                "start": 196.055,
+                "end": 197.536,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 197.556,
+        "end": 202.761,
+        "text": "Rwy'n ddiolchgar i gyflwyno'r adroddiad hwn ar eu cynyddu, ac rwy'n ddiddorol o glywed beth yw'r nesaf.",
+        "words": [
+            {
+                "word": "Rwy'n",
+                "start": 197.556,
+                "end": 197.837,
+                "score": 0.109,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddiolchgar",
+                "start": 197.857,
+                "end": 198.678,
+                "score": 0.044,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "i",
+                "start": 198.698,
+                "end": 198.718,
+                "score": 0.008,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gyflwyno'r",
+                "start": 198.738,
+                "end": 199.078,
+                "score": 0.047,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "adroddiad",
+                "start": 199.098,
+                "end": 199.518,
+                "score": 0.006,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hwn",
+                "start": 199.558,
+                "end": 199.658,
+                "score": 0.088,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ar",
+                "start": 199.819,
+                "end": 200.159,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "eu",
+                "start": 200.219,
+                "end": 200.279,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cynyddu,",
+                "start": 200.299,
+                "end": 200.479,
+                "score": 0.058,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ac",
+                "start": 200.499,
+                "end": 200.559,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rwy'n",
+                "start": 200.579,
+                "end": 200.88,
+                "score": 0.108,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ddiddorol",
+                "start": 201.04,
+                "end": 201.781,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "o",
+                "start": 201.841,
+                "end": 201.921,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "glywed",
+                "start": 201.961,
+                "end": 202.161,
+                "score": 0.205,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "beth",
+                "start": 202.181,
+                "end": 202.261,
+                "score": 0.25,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yw'r",
+                "start": 202.321,
+                "end": 202.601,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nesaf.",
+                "start": 202.641,
+                "end": 202.761,
+                "score": 0.009,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 202.802,
+        "end": 204.123,
+        "text": "Diolch yn fawr iawn.",
+        "words": [
+            {
+                "word": "Diolch",
+                "start": 202.802,
+                "end": 203.002,
+                "score": 0.089,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yn",
+                "start": 203.062,
+                "end": 203.122,
+                "score": 0.222,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fawr",
+                "start": 203.142,
+                "end": 203.943,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "iawn.",
+                "start": 204.003,
+                "end": 204.123,
+                "score": 0.374,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

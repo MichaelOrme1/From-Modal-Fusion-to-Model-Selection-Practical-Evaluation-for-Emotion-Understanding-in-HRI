@@ -1,0 +1,59 @@
+[
+    {
+        "start": 2.84,
+        "end": 5.84,
+        "text": " Lavender body wash make my pores tingle.",
+        "words": [
+            {
+                "word": "Lavender",
+                "start": 2.84,
+                "end": 3.363,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body",
+                "start": 3.504,
+                "end": 3.847,
+                "score": 0.958,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wash",
+                "start": 3.907,
+                "end": 4.269,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "make",
+                "start": 4.612,
+                "end": 4.773,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "my",
+                "start": 4.813,
+                "end": 4.974,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pores",
+                "start": 5.055,
+                "end": 5.457,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tingle.",
+                "start": 5.538,
+                "end": 5.84,
+                "score": 0.533,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

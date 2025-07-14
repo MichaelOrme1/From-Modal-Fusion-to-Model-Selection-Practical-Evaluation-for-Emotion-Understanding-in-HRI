@@ -1,0 +1,964 @@
+[
+    {
+        "start": 9.377,
+        "end": 10.378,
+        "text": " Can you see what's inside the box?",
+        "words": [
+            {
+                "word": "Can",
+                "start": 9.377,
+                "end": 9.437,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 9.457,
+                "end": 9.557,
+                "score": 0.589,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 9.597,
+                "end": 9.717,
+                "score": 0.959,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "what's",
+                "start": 9.757,
+                "end": 9.897,
+                "score": 0.646,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 9.918,
+                "end": 10.138,
+                "score": 0.361,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 10.158,
+                "end": 10.298,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "box?",
+                "start": 10.318,
+                "end": 10.378,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 10.398,
+        "end": 13.141,
+        "text": "You can take the lid off.",
+        "words": [
+            {
+                "word": "You",
+                "start": 10.398,
+                "end": 10.858,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 12.14,
+                "end": 12.28,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 12.3,
+                "end": 12.5,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 12.54,
+                "end": 12.66,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lid",
+                "start": 12.7,
+                "end": 12.88,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "off.",
+                "start": 12.98,
+                "end": 13.141,
+                "score": 0.63,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 16.183,
+        "end": 21.228,
+        "text": "Is there something in there?",
+        "words": [
+            {
+                "word": "Is",
+                "start": 16.183,
+                "end": 16.264,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "there",
+                "start": 16.304,
+                "end": 16.444,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "something",
+                "start": 16.484,
+                "end": 16.804,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 16.884,
+                "end": 16.984,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "there?",
+                "start": 17.024,
+                "end": 21.228,
+                "score": 0.755,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.989,
+        "end": 23.09,
+        "text": "There's a green cone.",
+        "words": [
+            {
+                "word": "There's",
+                "start": 21.989,
+                "end": 22.189,
+                "score": 0.479,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 22.269,
+                "end": 22.349,
+                "score": 0.474,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "green",
+                "start": 22.369,
+                "end": 22.65,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cone.",
+                "start": 22.73,
+                "end": 23.09,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 23.951,
+        "end": 29.676,
+        "text": "I'm going to put it back inside the box and put the lid back on the box and close it up.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 23.951,
+                "end": 24.031,
+                "score": 0.172,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 24.051,
+                "end": 24.191,
+                "score": 0.287,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 24.211,
+                "end": 24.291,
+                "score": 0.169,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 24.331,
+                "end": 24.431,
+                "score": 0.307,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 24.451,
+                "end": 24.491,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 24.511,
+                "end": 24.691,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 24.752,
+                "end": 25.092,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 25.112,
+                "end": 25.212,
+                "score": 0.525,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "box",
+                "start": 25.252,
+                "end": 25.612,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 26.393,
+                "end": 26.473,
+                "score": 0.488,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "put",
+                "start": 26.493,
+                "end": 26.613,
+                "score": 0.296,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 26.633,
+                "end": 26.773,
+                "score": 0.725,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lid",
+                "start": 26.813,
+                "end": 26.974,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 27.014,
+                "end": 27.214,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 27.274,
+                "end": 27.354,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 27.394,
+                "end": 27.474,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "box",
+                "start": 27.514,
+                "end": 27.834,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 28.976,
+                "end": 29.076,
+                "score": 0.243,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "close",
+                "start": 29.096,
+                "end": 29.356,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 29.396,
+                "end": 29.476,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up.",
+                "start": 29.556,
+                "end": 29.676,
+                "score": 0.686,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 30.837,
+        "end": 31.438,
+        "text": "Can I see that?",
+        "words": [
+            {
+                "word": "Can",
+                "start": 30.837,
+                "end": 30.977,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 31.017,
+                "end": 31.098,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 31.138,
+                "end": 31.298,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 31.338,
+                "end": 31.438,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.349,
+        "end": 53.07,
+        "text": " Look at this.",
+        "words": [
+            {
+                "word": "Look",
+                "start": 52.349,
+                "end": 52.509,
+                "score": 0.483,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 52.569,
+                "end": 52.669,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this.",
+                "start": 52.729,
+                "end": 53.07,
+                "score": 0.61,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.293,
+        "end": 57.914,
+        "text": "There.",
+        "words": [
+            {
+                "word": "There.",
+                "start": 57.293,
+                "end": 57.914,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 64.4,
+        "end": 65.04,
+        "text": "Hi, Teresa.",
+        "words": [
+            {
+                "word": "Hi,",
+                "start": 64.4,
+                "end": 64.56,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Teresa.",
+                "start": 64.58,
+                "end": 65.04,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 65.12,
+        "end": 66.441,
+        "text": "I'm going to sit here and read a magazine.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 65.12,
+                "end": 65.2,
+                "score": 0.528,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 65.22,
+                "end": 65.32,
+                "score": 0.333,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 65.36,
+                "end": 65.4,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sit",
+                "start": 65.42,
+                "end": 65.561,
+                "score": 0.652,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "here",
+                "start": 65.581,
+                "end": 65.701,
+                "score": 0.409,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 65.721,
+                "end": 65.781,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "read",
+                "start": 65.801,
+                "end": 65.901,
+                "score": 0.091,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 65.921,
+                "end": 65.941,
+                "score": 0.028,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "magazine.",
+                "start": 65.981,
+                "end": 66.441,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 66.762,
+        "end": 67.162,
+        "text": "OK.",
+        "words": [
+            {
+                "word": "OK.",
+                "start": 66.762,
+                "end": 67.162,
+                "score": 0.715,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 67.883,
+        "end": 68.543,
+        "text": "That's Kelly.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 67.883,
+                "end": 68.123,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Kelly.",
+                "start": 68.223,
+                "end": 68.543,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 68.563,
+        "end": 71.065,
+        "text": "Kelly's going to sit and read a magazine.",
+        "words": [
+            {
+                "word": "Kelly's",
+                "start": 68.563,
+                "end": 69.444,
+                "score": 0.51,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 69.484,
+                "end": 69.704,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 69.724,
+                "end": 69.764,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sit",
+                "start": 69.804,
+                "end": 70.044,
+                "score": 0.712,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 70.125,
+                "end": 70.205,
+                "score": 0.24,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "read",
+                "start": 70.245,
+                "end": 70.385,
+                "score": 0.405,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 70.425,
+                "end": 70.505,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "magazine.",
+                "start": 70.525,
+                "end": 71.065,
+                "score": 0.735,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 71.085,
+        "end": 78.232,
+        "text": "Kelly, look at this.",
+        "words": [
+            {
+                "word": "Kelly,",
+                "start": 71.085,
+                "end": 76.59,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "look",
+                "start": 77.731,
+                "end": 77.871,
+                "score": 0.328,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 77.931,
+                "end": 78.011,
+                "score": 0.58,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this.",
+                "start": 78.051,
+                "end": 78.232,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 81.82,
+        "end": 82.701,
+        "text": " That's aggravating.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 81.82,
+                "end": 82.06,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "aggravating.",
+                "start": 82.241,
+                "end": 82.701,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 82.721,
+        "end": 83.823,
+        "text": "That's so annoying.",
+        "words": [
+            {
+                "word": "That's",
+                "start": 82.721,
+                "end": 82.901,
+                "score": 0.691,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "so",
+                "start": 83.022,
+                "end": 83.242,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "annoying.",
+                "start": 83.342,
+                "end": 83.823,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 84.343,
+        "end": 86.106,
+        "text": "Oh, I thought it was really interesting.",
+        "words": [
+            {
+                "word": "Oh,",
+                "start": 84.343,
+                "end": 84.443,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 84.684,
+                "end": 84.744,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "thought",
+                "start": 84.804,
+                "end": 84.984,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 85.004,
+                "end": 85.044,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 85.084,
+                "end": 85.184,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "really",
+                "start": 85.224,
+                "end": 85.425,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "interesting.",
+                "start": 85.505,
+                "end": 86.106,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 86.286,
+        "end": 87.547,
+        "text": "Well, that's just your opinion.",
+        "words": [
+            {
+                "word": "Well,",
+                "start": 86.286,
+                "end": 86.426,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that's",
+                "start": 86.446,
+                "end": 86.666,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 86.706,
+                "end": 86.907,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 86.947,
+                "end": 87.107,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "opinion.",
+                "start": 87.167,
+                "end": 87.547,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 87.748,
+        "end": 88.569,
+        "text": "It's aggravating.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 87.748,
+                "end": 87.888,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "aggravating.",
+                "start": 88.068,
+                "end": 88.569,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 117.386,
+        "end": 118.089,
+        "text": " Can I see that?",
+        "words": [
+            {
+                "word": "Can",
+                "start": 117.386,
+                "end": 117.507,
+                "score": 0.419,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "I",
+                "start": 117.547,
+                "end": 117.627,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 117.667,
+                "end": 117.828,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 117.868,
+                "end": 118.089,
+                "score": 0.652,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 119.173,
+        "end": 119.836,
+        "text": "Thank you.",
+        "words": [
+            {
+                "word": "Thank",
+                "start": 119.173,
+                "end": 119.535,
+                "score": 0.536,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you.",
+                "start": 119.675,
+                "end": 119.836,
+                "score": 0.734,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 119.936,
+        "end": 121.562,
+        "text": "I'm gonna go now, Teresa.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 119.936,
+                "end": 120.177,
+                "score": 0.583,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "gonna",
+                "start": 120.458,
+                "end": 120.739,
+                "score": 0.392,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go",
+                "start": 120.759,
+                "end": 120.88,
+                "score": 0.436,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now,",
+                "start": 120.92,
+                "end": 121.04,
+                "score": 0.614,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Teresa.",
+                "start": 121.061,
+                "end": 121.562,
+                "score": 0.643,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 121.823,
+        "end": 122.486,
+        "text": "Kelly's going.",
+        "words": [
+            {
+                "word": "Kelly's",
+                "start": 121.823,
+                "end": 122.185,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going.",
+                "start": 122.205,
+                "end": 122.486,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 122.546,
+        "end": 123.088,
+        "text": "Bye-bye.",
+        "words": [
+            {
+                "word": "Bye-bye.",
+                "start": 122.546,
+                "end": 123.088,
+                "score": 0.619,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

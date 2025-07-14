@@ -1,0 +1,748 @@
+[
+    {
+        "start": 0.384,
+        "end": 1.505,
+        "text": " He said he was First Ranger.",
+        "words": [
+            {
+                "word": "He",
+                "start": 0.384,
+                "end": 0.504,
+                "score": 0.4,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said",
+                "start": 0.524,
+                "end": 0.664,
+                "score": 0.596,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 0.684,
+                "end": 0.744,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 0.764,
+                "end": 0.864,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "First",
+                "start": 0.904,
+                "end": 1.145,
+                "score": 0.363,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Ranger.",
+                "start": 1.165,
+                "end": 1.505,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 2.886,
+        "end": 3.226,
+        "text": "Bullshit.",
+        "words": [
+            {
+                "word": "Bullshit.",
+                "start": 2.886,
+                "end": 3.226,
+                "score": 0.321,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 3.986,
+        "end": 5.507,
+        "text": "He said he knows where to find him.",
+        "words": [
+            {
+                "word": "He",
+                "start": 3.986,
+                "end": 4.166,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said",
+                "start": 4.307,
+                "end": 4.467,
+                "score": 0.439,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 4.507,
+                "end": 4.567,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "knows",
+                "start": 4.587,
+                "end": 4.807,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "where",
+                "start": 4.867,
+                "end": 4.967,
+                "score": 0.091,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 5.007,
+                "end": 5.107,
+                "score": 0.643,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "find",
+                "start": 5.147,
+                "end": 5.327,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him.",
+                "start": 5.367,
+                "end": 5.507,
+                "score": 0.691,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 5.527,
+        "end": 6.108,
+        "text": "Bullshit.",
+        "words": [
+            {
+                "word": "Bullshit.",
+                "start": 5.527,
+                "end": 6.108,
+                "score": 0.657,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 6.928,
+        "end": 7.629,
+        "text": "Don't trust him.",
+        "words": [
+            {
+                "word": "Don't",
+                "start": 6.928,
+                "end": 7.088,
+                "score": 0.203,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trust",
+                "start": 7.128,
+                "end": 7.369,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "him.",
+                "start": 7.429,
+                "end": 7.629,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 12.792,
+        "end": 15.794,
+        "text": "Hans says he saw your uncle at Havard on the last full moon.",
+        "words": [
+            {
+                "word": "Hans",
+                "start": 12.792,
+                "end": 12.992,
+                "score": 0.527,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "says",
+                "start": 13.012,
+                "end": 13.232,
+                "score": 0.336,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he",
+                "start": 13.273,
+                "end": 13.373,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "saw",
+                "start": 13.433,
+                "end": 13.593,
+                "score": 0.54,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 13.613,
+                "end": 13.773,
+                "score": 0.349,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "uncle",
+                "start": 13.813,
+                "end": 13.933,
+                "score": 0.141,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 14.013,
+                "end": 14.093,
+                "score": 0.316,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Havard",
+                "start": 14.153,
+                "end": 14.473,
+                "score": 0.518,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 14.513,
+                "end": 14.753,
+                "score": 0.629,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 14.834,
+                "end": 14.934,
+                "score": 0.222,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "last",
+                "start": 14.974,
+                "end": 15.174,
+                "score": 0.482,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "full",
+                "start": 15.234,
+                "end": 15.514,
+                "score": 0.369,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "moon.",
+                "start": 15.534,
+                "end": 15.794,
+                "score": 0.32,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 15.974,
+        "end": 16.875,
+        "text": "Don't trust them!",
+        "words": [
+            {
+                "word": "Don't",
+                "start": 15.974,
+                "end": 16.194,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trust",
+                "start": 16.274,
+                "end": 16.575,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them!",
+                "start": 16.615,
+                "end": 16.875,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.015,
+        "end": 18.096,
+        "text": "Could be lying, could be.",
+        "words": [
+            {
+                "word": "Could",
+                "start": 17.015,
+                "end": 17.155,
+                "score": 0.457,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 17.195,
+                "end": 17.275,
+                "score": 0.903,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lying,",
+                "start": 17.315,
+                "end": 17.675,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "could",
+                "start": 17.695,
+                "end": 17.896,
+                "score": 0.363,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be.",
+                "start": 17.936,
+                "end": 18.096,
+                "score": 0.716,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 18.176,
+        "end": 19.697,
+        "text": "I don't trust them at all.",
+        "words": [
+            {
+                "word": "I",
+                "start": 18.176,
+                "end": 18.276,
+                "score": 0.446,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 18.296,
+                "end": 18.396,
+                "score": 0.369,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "trust",
+                "start": 18.436,
+                "end": 18.636,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 18.656,
+                "end": 18.796,
+                "score": 0.55,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "at",
+                "start": 18.896,
+                "end": 19.016,
+                "score": 0.511,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all.",
+                "start": 19.136,
+                "end": 19.697,
+                "score": 0.482,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 19.937,
+        "end": 20.337,
+        "text": "Where is he?",
+        "words": [
+            {
+                "word": "Where",
+                "start": 19.937,
+                "end": 20.097,
+                "score": 0.37,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 20.157,
+                "end": 20.237,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "he?",
+                "start": 20.277,
+                "end": 20.337,
+                "score": 0.316,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 20.417,
+        "end": 21.218,
+        "text": "Over there.",
+        "words": [
+            {
+                "word": "Over",
+                "start": 20.417,
+                "end": 20.757,
+                "score": 0.474
+            },
+            {
+                "word": "there.",
+                "start": 20.838,
+                "end": 21.218,
+                "score": 0.569,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.615,
+        "end": 42.876,
+        "text": " No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 42.615,
+                "end": 42.876,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 44.165,
+        "end": 44.326,
+        "text": "No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 44.165,
+                "end": 44.326,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 77.637,
+        "end": 81.902,
+        "text": " No, not John.",
+        "words": [
+            {
+                "word": "No,",
+                "start": 77.637,
+                "end": 80.86,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "not",
+                "start": 80.88,
+                "end": 81.081,
+                "score": 0.52,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "John.",
+                "start": 81.121,
+                "end": 81.902,
+                "score": 0.628,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 110.765,
+        "end": 113.566,
+        "text": " No, no, you fucking can't.",
+        "words": [
+            {
+                "word": "No,",
+                "start": 110.765,
+                "end": 111.245,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no,",
+                "start": 111.305,
+                "end": 112.306,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 112.546,
+                "end": 112.686,
+                "score": 0.541
+            },
+            {
+                "word": "fucking",
+                "start": 112.746,
+                "end": 113.186,
+                "score": 0.646,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't.",
+                "start": 113.206,
+                "end": 113.566,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 113.786,
+        "end": 114.367,
+        "text": "You can't.",
+        "words": [
+            {
+                "word": "You",
+                "start": 113.786,
+                "end": 113.946,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't.",
+                "start": 114.006,
+                "end": 114.367,
+                "score": 0.571,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 114.867,
+        "end": 116.087,
+        "text": "You can't kill John Snow.",
+        "words": [
+            {
+                "word": "You",
+                "start": 114.867,
+                "end": 114.987,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't",
+                "start": 115.027,
+                "end": 115.327,
+                "score": 0.608,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kill",
+                "start": 115.387,
+                "end": 115.587,
+                "score": 0.496,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "John",
+                "start": 115.607,
+                "end": 115.827,
+                "score": 0.474,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Snow.",
+                "start": 115.847,
+                "end": 116.087,
+                "score": 0.486,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 116.107,
+        "end": 116.828,
+        "text": "Yeah, you can't.",
+        "words": [
+            {
+                "word": "Yeah,",
+                "start": 116.107,
+                "end": 116.187,
+                "score": 0.031,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 116.267,
+                "end": 116.547,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't.",
+                "start": 116.587,
+                "end": 116.828,
+                "score": 0.424,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 117.308,
+        "end": 119.629,
+        "text": "You can't.",
+        "words": [
+            {
+                "word": "You",
+                "start": 117.308,
+                "end": 119.169,
+                "score": 0.755,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can't.",
+                "start": 119.329,
+                "end": 119.629,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 119.749,
+        "end": 123.75,
+        "text": "You can't.",
+        "words": [
+            {
+                "word": "You",
+                "start": 119.749,
+                "end": 123.13,
+                "score": 0.633
+            },
+            {
+                "word": "can't.",
+                "start": 123.31,
+                "end": 123.75,
+                "score": 0.474
+            }
+        ]
+    },
+    {
+        "start": 140.331,
+        "end": 142.173,
+        "text": " Oh no, no, no.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 140.331,
+                "end": 140.732,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no,",
+                "start": 140.772,
+                "end": 141.352,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no,",
+                "start": 141.413,
+                "end": 141.833,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "no.",
+                "start": 142.073,
+                "end": 142.173,
+                "score": 0.35,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 179.516,
+        "end": 179.879,
+        "text": " No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 179.516,
+                "end": 179.879,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 179.899,
+        "end": 179.94,
+        "text": "No!",
+        "words": [
+            {
+                "word": "No!",
+                "start": 179.899,
+                "end": 179.94,
+                "score": 0.025,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

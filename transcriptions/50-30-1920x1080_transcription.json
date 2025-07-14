@@ -1,0 +1,459 @@
+[
+    {
+        "start": 0.029,
+        "end": 0.309,
+        "text": " Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 0.029,
+                "end": 0.309,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 0.389,
+        "end": 1.189,
+        "text": "Hi baby.",
+        "words": [
+            {
+                "word": "Hi",
+                "start": 0.389,
+                "end": 0.609,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "baby.",
+                "start": 0.649,
+                "end": 1.189,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 1.57,
+        "end": 1.67,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 1.57,
+                "end": 1.67,
+                "score": 0.478
+            }
+        ]
+    },
+    {
+        "start": 27.503,
+        "end": 28.203,
+        "text": " Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 27.503,
+                "end": 28.203,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 28.323,
+        "end": 29.304,
+        "text": "She said it.",
+        "words": [
+            {
+                "word": "She",
+                "start": 28.323,
+                "end": 28.584,
+                "score": 0.641,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "said",
+                "start": 28.704,
+                "end": 29.124,
+                "score": 0.632,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it.",
+                "start": 29.204,
+                "end": 29.304,
+                "score": 0.502,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.404,
+        "end": 30.284,
+        "text": "I know.",
+        "words": [
+            {
+                "word": "I",
+                "start": 29.404,
+                "end": 29.484,
+                "score": 0.618,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know.",
+                "start": 29.504,
+                "end": 30.284,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 30.745,
+        "end": 30.885,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 30.745,
+                "end": 30.885,
+                "score": 0.634,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 31.165,
+        "end": 32.045,
+        "text": "One more time.",
+        "words": [
+            {
+                "word": "One",
+                "start": 31.165,
+                "end": 31.345,
+                "score": 0.194,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "more",
+                "start": 31.505,
+                "end": 31.745,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time.",
+                "start": 31.805,
+                "end": 32.045,
+                "score": 0.475,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 32.105,
+        "end": 32.205,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 32.105,
+                "end": 32.205,
+                "score": 0.312,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 32.265,
+        "end": 33.206,
+        "text": "Hi, Carly.",
+        "words": [
+            {
+                "word": "Hi,",
+                "start": 32.265,
+                "end": 32.345,
+                "score": 0.348,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Carly.",
+                "start": 32.425,
+                "end": 33.206,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.266,
+        "end": 33.406,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 33.266,
+                "end": 33.406,
+                "score": 0.329,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.866,
+        "end": 34.446,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 33.866,
+                "end": 34.446,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 36.167,
+        "end": 37.088,
+        "text": "Hi, Carly.",
+        "words": [
+            {
+                "word": "Hi,",
+                "start": 36.167,
+                "end": 36.407,
+                "score": 0.812
+            },
+            {
+                "word": "Carly.",
+                "start": 36.527,
+                "end": 37.088,
+                "score": 0.533
+            }
+        ]
+    },
+    {
+        "start": 37.288,
+        "end": 42.05,
+        "text": "Come on, one more time, baby.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 37.288,
+                "end": 37.968,
+                "score": 0.678,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on,",
+                "start": 40.029,
+                "end": 40.129,
+                "score": 0.544
+            },
+            {
+                "word": "one",
+                "start": 40.569,
+                "end": 40.909,
+                "score": 0.691
+            },
+            {
+                "word": "more",
+                "start": 41.109,
+                "end": 41.55,
+                "score": 0.633,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 41.57,
+                "end": 41.75,
+                "score": 0.253,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "baby.",
+                "start": 41.79,
+                "end": 42.05,
+                "score": 0.548,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.47,
+        "end": 42.85,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 42.47,
+                "end": 42.85,
+                "score": 0.831
+            }
+        ]
+    },
+    {
+        "start": 44.791,
+        "end": 45.732,
+        "text": "Hi, Carly.",
+        "words": [
+            {
+                "word": "Hi,",
+                "start": 44.791,
+                "end": 44.991,
+                "score": 0.79
+            },
+            {
+                "word": "Carly.",
+                "start": 45.091,
+                "end": 45.732,
+                "score": 0.724
+            }
+        ]
+    },
+    {
+        "start": 47.653,
+        "end": 48.093,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 47.653,
+                "end": 48.093,
+                "score": 0.879
+            }
+        ]
+    },
+    {
+        "start": 49.734,
+        "end": 50.214,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 49.734,
+                "end": 50.214,
+                "score": 0.48,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 59.232,
+        "end": 60.113,
+        "text": " Hi Kylie.",
+        "words": [
+            {
+                "word": "Hi",
+                "start": 59.232,
+                "end": 59.412,
+                "score": 0.765,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Kylie.",
+                "start": 59.472,
+                "end": 60.113,
+                "score": 0.671,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 66.68,
+        "end": 67.441,
+        "text": "Kylie, hi.",
+        "words": [
+            {
+                "word": "Kylie,",
+                "start": 66.68,
+                "end": 67.121,
+                "score": 0.594,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hi.",
+                "start": 67.261,
+                "end": 67.441,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 67.501,
+        "end": 67.841,
+        "text": "Hi.",
+        "words": [
+            {
+                "word": "Hi.",
+                "start": 67.501,
+                "end": 67.841,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 69.163,
+        "end": 74.489,
+        "text": "Hi mama, hi.",
+        "words": [
+            {
+                "word": "Hi",
+                "start": 69.163,
+                "end": 69.743,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mama,",
+                "start": 73.187,
+                "end": 73.988,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hi.",
+                "start": 74.068,
+                "end": 74.489,
+                "score": 0.64,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 89.558,
+        "end": 89.721,
+        "text": " Oh.",
+        "words": [
+            {
+                "word": "Oh.",
+                "start": 89.558,
+                "end": 89.721,
+                "score": 0.418,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]

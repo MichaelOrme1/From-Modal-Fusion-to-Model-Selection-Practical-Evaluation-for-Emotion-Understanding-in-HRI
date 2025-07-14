@@ -1,0 +1,1709 @@
+[
+    {
+        "start": 1.172,
+        "end": 7.775,
+        "text": " All right, babe.",
+        "words": [
+            {
+                "word": "All",
+                "start": 1.172,
+                "end": 1.492,
+                "score": 0.754,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "right,",
+                "start": 1.832,
+                "end": 2.072,
+                "score": 0.316,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "babe.",
+                "start": 7.455,
+                "end": 7.775,
+                "score": 0.584,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 7.815,
+        "end": 7.975,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 7.815,
+                "end": 7.975,
+                "score": 0.698,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 8.135,
+        "end": 9.676,
+        "text": "What does Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 8.135,
+                "end": 8.515,
+                "score": 0.773,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 8.575,
+                "end": 8.755,
+                "score": 0.456,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "Y-E-S",
+                "start": 8.815,
+                "end": 9.056,
+                "score": 0.49,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 9.076,
+                "end": 9.676,
+                "score": 0.933,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 9.856,
+        "end": 10.196,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 9.856,
+                "end": 10.196,
+                "score": 0.802,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 10.576,
+        "end": 11.056,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 10.576,
+                "end": 11.056,
+                "score": 0.768,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 11.857,
+        "end": 13.958,
+        "text": "What does E-Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 11.857,
+                "end": 11.997,
+                "score": 0.868,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 12.017,
+                "end": 12.197,
+                "score": 0.631,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "E-Y-E-S",
+                "start": 12.217,
+                "end": 13.597,
+                "score": 0.644,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 13.617,
+                "end": 13.958,
+                "score": 0.959,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 16.179,
+        "end": 16.339,
+        "text": "E-S.",
+        "words": [
+            {
+                "word": "E-S.",
+                "start": 16.179,
+                "end": 16.339,
+                "score": 0.857,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 17.579,
+        "end": 19.24,
+        "text": "All right, babe.",
+        "words": [
+            {
+                "word": "All",
+                "start": 17.579,
+                "end": 17.699,
+                "score": 0.278,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "right,",
+                "start": 17.779,
+                "end": 18.52,
+                "score": 0.707,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "babe.",
+                "start": 18.64,
+                "end": 19.24,
+                "score": 0.712,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 19.5,
+        "end": 20.761,
+        "text": "Did you got it yet?",
+        "words": [
+            {
+                "word": "Did",
+                "start": 19.5,
+                "end": 19.94,
+                "score": 0.711,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "you",
+                "start": 19.98,
+                "end": 20.06,
+                "score": 0.268,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "got",
+                "start": 20.1,
+                "end": 20.32,
+                "score": 0.663,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "it",
+                "start": 20.36,
+                "end": 20.42,
+                "score": 0.308,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "yet?",
+                "start": 20.46,
+                "end": 20.761,
+                "score": 0.825,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 21.041,
+        "end": 21.341,
+        "text": "No.",
+        "words": [
+            {
+                "word": "No.",
+                "start": 21.041,
+                "end": 21.341,
+                "score": 0.94,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 21.521,
+        "end": 23.342,
+        "text": "What does Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 21.521,
+                "end": 21.701,
+                "score": 0.881,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 21.721,
+                "end": 21.921,
+                "score": 0.543,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "Y-E-S",
+                "start": 22.381,
+                "end": 22.962,
+                "score": 0.559,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 22.982,
+                "end": 23.342,
+                "score": 0.857,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 24.302,
+        "end": 24.642,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 24.302,
+                "end": 24.642,
+                "score": 0.854,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 26.203,
+        "end": 28.044,
+        "text": "What does E-Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 26.203,
+                "end": 26.363,
+                "score": 0.823,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 26.403,
+                "end": 26.623,
+                "score": 0.639,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "E-Y-E-S",
+                "start": 26.643,
+                "end": 27.664,
+                "score": 0.566,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 27.704,
+                "end": 28.044,
+                "score": 0.935,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 31.118,
+        "end": 31.439,
+        "text": " Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 31.118,
+                "end": 31.439,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 33.101,
+        "end": 33.561,
+        "text": "Yes.",
+        "words": [
+            {
+                "word": "Yes.",
+                "start": 33.101,
+                "end": 33.561,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 34.062,
+        "end": 34.743,
+        "text": "No.",
+        "words": [
+            {
+                "word": "No.",
+                "start": 34.062,
+                "end": 34.743,
+                "score": 0.926,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 34.763,
+        "end": 36.805,
+        "text": "Okay, babe.",
+        "words": [
+            {
+                "word": "Okay,",
+                "start": 34.763,
+                "end": 34.843,
+                "score": 0.002,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "babe.",
+                "start": 34.863,
+                "end": 36.805,
+                "score": 0.634,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 37.005,
+        "end": 38.647,
+        "text": "Think about this.",
+        "words": [
+            {
+                "word": "Think",
+                "start": 37.005,
+                "end": 37.206,
+                "score": 0.767,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "about",
+                "start": 37.306,
+                "end": 38.547,
+                "score": 0.578,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "this.",
+                "start": 38.567,
+                "end": 38.647,
+                "score": 0.004,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 38.788,
+        "end": 40.249,
+        "text": "What does Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 38.788,
+                "end": 39.168,
+                "score": 0.644,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 39.188,
+                "end": 39.268,
+                "score": 0.0,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "Y-E-S",
+                "start": 39.328,
+                "end": 39.689,
+                "score": 0.672,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 39.789,
+                "end": 40.249,
+                "score": 0.73,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 41.691,
+        "end": 45.296,
+        "text": "It spells yes.",
+        "words": [
+            {
+                "word": "It",
+                "start": 41.691,
+                "end": 42.372,
+                "score": 0.751
+            },
+            {
+                "word": "spells",
+                "start": 44.254,
+                "end": 44.735,
+                "score": 0.681,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "yes.",
+                "start": 44.955,
+                "end": 45.296,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 45.356,
+        "end": 45.736,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 45.356,
+                "end": 45.736,
+                "score": 0.74,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 46.016,
+        "end": 48.68,
+        "text": "What does E-Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 46.016,
+                "end": 46.157,
+                "score": 0.679,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 46.197,
+                "end": 46.437,
+                "score": 0.452,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "E-Y-E-S",
+                "start": 47.058,
+                "end": 48.139,
+                "score": 0.693,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 48.199,
+                "end": 48.68,
+                "score": 0.802,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 59.27,
+        "end": 60.09,
+        "text": " E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 59.27,
+                "end": 60.09,
+                "score": 0.804,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 67.073,
+        "end": 68.214,
+        "text": "E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 67.073,
+                "end": 68.214,
+                "score": 0.628,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 68.974,
+        "end": 70.214,
+        "text": "Is that a Spanish word?",
+        "words": [
+            {
+                "word": "Is",
+                "start": 68.974,
+                "end": 69.054,
+                "score": 0.752,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 69.074,
+                "end": 69.374,
+                "score": 0.441,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 69.414,
+                "end": 69.454,
+                "score": 0.244,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Spanish",
+                "start": 69.534,
+                "end": 69.914,
+                "score": 0.477,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "word?",
+                "start": 69.954,
+                "end": 70.214,
+                "score": 0.89,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 70.234,
+        "end": 76.417,
+        "text": "You know I don't know Spanish.",
+        "words": [
+            {
+                "word": "You",
+                "start": 70.234,
+                "end": 70.294,
+                "score": 0.002,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know",
+                "start": 70.475,
+                "end": 74.136,
+                "score": 0.836
+            },
+            {
+                "word": "I",
+                "start": 74.896,
+                "end": 74.996,
+                "score": 0.703,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "don't",
+                "start": 75.517,
+                "end": 75.797,
+                "score": 0.484,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "know",
+                "start": 75.817,
+                "end": 76.077,
+                "score": 0.389,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Spanish.",
+                "start": 76.097,
+                "end": 76.417,
+                "score": 0.385,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 76.457,
+        "end": 78.518,
+        "text": "What does Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 76.457,
+                "end": 76.617,
+                "score": 0.696,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 76.637,
+                "end": 76.777,
+                "score": 0.383,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "Y-E-S",
+                "start": 77.337,
+                "end": 77.898,
+                "score": 0.629,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 77.938,
+                "end": 78.518,
+                "score": 0.857,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 79.038,
+        "end": 81.659,
+        "text": "Y-E-S spells yes.",
+        "words": [
+            {
+                "word": "Y-E-S",
+                "start": 79.038,
+                "end": 80.038,
+                "score": 0.616,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spells",
+                "start": 80.499,
+                "end": 81.019,
+                "score": 0.627,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes.",
+                "start": 81.159,
+                "end": 81.659,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 83.22,
+        "end": 86.161,
+        "text": "What does E-Y-E-S spell?",
+        "words": [
+            {
+                "word": "What",
+                "start": 83.22,
+                "end": 83.38,
+                "score": 0.65,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "does",
+                "start": 83.4,
+                "end": 83.68,
+                "score": 0.61,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "E-Y-E-S",
+                "start": 83.94,
+                "end": 85.721,
+                "score": 0.515,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell?",
+                "start": 85.821,
+                "end": 86.161,
+                "score": 0.427,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 88.527,
+        "end": 89.488,
+        "text": " E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 88.527,
+                "end": 89.488,
+                "score": 0.539,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 90.488,
+        "end": 91.369,
+        "text": "E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 90.488,
+                "end": 91.369,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 95.591,
+        "end": 97.212,
+        "text": "The last part of that is yes.",
+        "words": [
+            {
+                "word": "The",
+                "start": 95.591,
+                "end": 95.691,
+                "score": 0.725,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "last",
+                "start": 95.731,
+                "end": 96.031,
+                "score": 0.851,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "part",
+                "start": 96.071,
+                "end": 96.271,
+                "score": 0.61,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 96.291,
+                "end": 96.331,
+                "score": 0.283,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "that",
+                "start": 96.351,
+                "end": 96.531,
+                "score": 0.65,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 96.591,
+                "end": 96.731,
+                "score": 0.67,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes.",
+                "start": 96.791,
+                "end": 97.212,
+                "score": 0.946,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 98.292,
+        "end": 99.573,
+        "text": "E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 98.292,
+                "end": 99.573,
+                "score": 0.684,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 99.593,
+        "end": 101.594,
+        "text": "E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 99.593,
+                "end": 101.594,
+                "score": 0.809,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 106.056,
+        "end": 107.117,
+        "text": "I don't get it.",
+        "words": [
+            {
+                "word": "I",
+                "start": 106.056,
+                "end": 106.196,
+                "score": 0.753,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "don't",
+                "start": 106.236,
+                "end": 106.497,
+                "score": 0.346,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "get",
+                "start": 106.557,
+                "end": 106.837,
+                "score": 0.729,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it.",
+                "start": 107.017,
+                "end": 107.117,
+                "score": 0.602,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 108.198,
+        "end": 109.878,
+        "text": "Oh gosh, I'm gonna die.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 108.198,
+                "end": 108.378,
+                "score": 0.833,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "gosh,",
+                "start": 108.518,
+                "end": 109.298,
+                "score": 0.59,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "I'm",
+                "start": 109.318,
+                "end": 109.518,
+                "score": 0.417,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "gonna",
+                "start": 109.558,
+                "end": 109.798,
+                "score": 0.379,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "die.",
+                "start": 109.818,
+                "end": 109.878,
+                "score": 0.266,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 110.219,
+        "end": 111.96,
+        "text": "I'm gonna pop a disc.",
+        "words": [
+            {
+                "word": "I'm",
+                "start": 110.219,
+                "end": 110.399,
+                "score": 0.451,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "gonna",
+                "start": 110.939,
+                "end": 111.159,
+                "score": 0.373,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "pop",
+                "start": 111.219,
+                "end": 111.419,
+                "score": 0.73,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "a",
+                "start": 111.499,
+                "end": 111.579,
+                "score": 0.513,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "disc.",
+                "start": 111.599,
+                "end": 111.96,
+                "score": 0.832,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 112.28,
+        "end": 114.181,
+        "text": "You need to tell me the trick to this question.",
+        "words": [
+            {
+                "word": "You",
+                "start": 112.28,
+                "end": 112.44,
+                "score": 0.849,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "need",
+                "start": 112.46,
+                "end": 112.6,
+                "score": 0.318,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 112.64,
+                "end": 112.74,
+                "score": 0.536,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "tell",
+                "start": 112.78,
+                "end": 113.0,
+                "score": 0.578,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 113.02,
+                "end": 113.12,
+                "score": 0.648,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 113.16,
+                "end": 113.24,
+                "score": 0.825,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "trick",
+                "start": 113.26,
+                "end": 113.52,
+                "score": 0.6,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 113.56,
+                "end": 113.7,
+                "score": 0.67,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "this",
+                "start": 113.72,
+                "end": 113.841,
+                "score": 0.241,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "question.",
+                "start": 113.881,
+                "end": 114.181,
+                "score": 0.301,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 117.892,
+        "end": 119.894,
+        "text": " There is a trick to it.",
+        "words": [
+            {
+                "word": "There",
+                "start": 117.892,
+                "end": 118.093,
+                "score": 0.511,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "is",
+                "start": 118.193,
+                "end": 118.413,
+                "score": 0.838,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 118.913,
+                "end": 118.973,
+                "score": 0.629,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "trick",
+                "start": 119.013,
+                "end": 119.494,
+                "score": 0.601,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "to",
+                "start": 119.514,
+                "end": 119.714,
+                "score": 0.643,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "it.",
+                "start": 119.794,
+                "end": 119.894,
+                "score": 0.676,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 120.415,
+        "end": 122.416,
+        "text": "There is a trick?",
+        "words": [
+            {
+                "word": "There",
+                "start": 120.415,
+                "end": 120.935,
+                "score": 0.565,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "is",
+                "start": 121.035,
+                "end": 121.075,
+                "score": 0.083,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 121.115,
+                "end": 121.155,
+                "score": 0.514,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "trick?",
+                "start": 121.175,
+                "end": 122.416,
+                "score": 0.677,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 122.536,
+        "end": 123.397,
+        "text": "Yeah.",
+        "words": [
+            {
+                "word": "Yeah.",
+                "start": 122.536,
+                "end": 123.397,
+                "score": 0.723,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 123.497,
+        "end": 125.579,
+        "text": "You do not know how to spell.",
+        "words": [
+            {
+                "word": "You",
+                "start": 123.497,
+                "end": 124.038,
+                "score": 0.691,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "do",
+                "start": 124.058,
+                "end": 124.218,
+                "score": 0.671,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "not",
+                "start": 124.238,
+                "end": 124.378,
+                "score": 0.451,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "know",
+                "start": 124.398,
+                "end": 124.578,
+                "score": 0.605,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "how",
+                "start": 124.618,
+                "end": 124.758,
+                "score": 0.543,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "to",
+                "start": 124.778,
+                "end": 124.858,
+                "score": 0.5,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spell.",
+                "start": 124.918,
+                "end": 125.579,
+                "score": 0.834,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 129.362,
+        "end": 136.648,
+        "text": "E-Y-E-S spells E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S",
+                "start": 129.362,
+                "end": 132.004,
+                "score": 0.71,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "spells",
+                "start": 132.965,
+                "end": 133.485,
+                "score": 0.627,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "E-S.",
+                "start": 136.448,
+                "end": 136.648,
+                "score": 0.731,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 137.509,
+        "end": 139.37,
+        "text": "Oh my God.",
+        "words": [
+            {
+                "word": "Oh",
+                "start": 137.509,
+                "end": 137.849,
+                "score": 0.689,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "my",
+                "start": 137.909,
+                "end": 138.109,
+                "score": 0.729,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "God.",
+                "start": 138.249,
+                "end": 139.37,
+                "score": 0.808,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 139.951,
+        "end": 142.112,
+        "text": "Babe.",
+        "words": [
+            {
+                "word": "Babe.",
+                "start": 139.951,
+                "end": 142.112,
+                "score": 0.867,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 142.192,
+        "end": 142.713,
+        "text": "Why?",
+        "words": [
+            {
+                "word": "Why?",
+                "start": 142.192,
+                "end": 142.713,
+                "score": 0.893,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 142.853,
+        "end": 143.293,
+        "text": "E-Y-E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S.",
+                "start": 142.853,
+                "end": 143.293,
+                "score": 0.574,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 143.333,
+        "end": 144.294,
+        "text": "Give me a pencil.",
+        "words": [
+            {
+                "word": "Give",
+                "start": 143.333,
+                "end": 143.453,
+                "score": 0.171,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "me",
+                "start": 143.594,
+                "end": 143.754,
+                "score": 0.673,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "a",
+                "start": 143.854,
+                "end": 143.934,
+                "score": 0.572,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "pencil.",
+                "start": 143.954,
+                "end": 144.294,
+                "score": 0.531,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 144.314,
+        "end": 145.075,
+        "text": "Give me a pencil.",
+        "words": [
+            {
+                "word": "Give",
+                "start": 144.314,
+                "end": 144.474,
+                "score": 0.372,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "me",
+                "start": 144.494,
+                "end": 144.534,
+                "score": 0.006,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "a",
+                "start": 144.554,
+                "end": 144.634,
+                "score": 0.631,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "pencil.",
+                "start": 144.674,
+                "end": 145.075,
+                "score": 0.485,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 145.095,
+        "end": 146.336,
+        "text": "I don't have one.",
+        "words": [
+            {
+                "word": "I",
+                "start": 145.095,
+                "end": 145.115,
+                "score": 0.001,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "don't",
+                "start": 145.135,
+                "end": 145.935,
+                "score": 0.457,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "have",
+                "start": 145.996,
+                "end": 146.176,
+                "score": 0.544,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "one.",
+                "start": 146.256,
+                "end": 146.336,
+                "score": 0.232,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 148.275,
+        "end": 150.696,
+        "text": " Y-E-S spells yes.",
+        "words": [
+            {
+                "word": "Y-E-S",
+                "start": 148.275,
+                "end": 149.375,
+                "score": 0.679,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "spells",
+                "start": 149.435,
+                "end": 149.915,
+                "score": 0.652,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "yes.",
+                "start": 150.135,
+                "end": 150.696,
+                "score": 0.805,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 150.836,
+        "end": 151.196,
+        "text": "Right.",
+        "words": [
+            {
+                "word": "Right.",
+                "start": 150.836,
+                "end": 151.196,
+                "score": 0.433,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 151.996,
+        "end": 162.018,
+        "text": "E-Y-E-S spells... Why are you putting the E in front of the Y?",
+        "words": [
+            {
+                "word": "E-Y-E-S",
+                "start": 151.996,
+                "end": 153.576,
+                "score": 0.754,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "spells...",
+                "start": 153.636,
+                "end": 154.196,
+                "score": 0.765,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Why",
+                "start": 156.077,
+                "end": 156.177,
+                "score": 0.38,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "are",
+                "start": 156.197,
+                "end": 156.317,
+                "score": 0.7,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "you",
+                "start": 156.357,
+                "end": 156.457,
+                "score": 0.926,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "putting",
+                "start": 156.477,
+                "end": 156.637,
+                "score": 0.161,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 156.677,
+                "end": 156.777,
+                "score": 0.809,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "E",
+                "start": 156.957,
+                "end": 157.257,
+                "score": 0.888,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "in",
+                "start": 157.357,
+                "end": 157.477,
+                "score": 0.43,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "front",
+                "start": 157.557,
+                "end": 157.897,
+                "score": 0.598,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "of",
+                "start": 157.937,
+                "end": 158.097,
+                "score": 0.426,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "the",
+                "start": 161.758,
+                "end": 161.838,
+                "score": 0.199,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "Y?",
+                "start": 161.918,
+                "end": 162.018,
+                "score": 0.985,
+                "speaker": "SPEAKER_01"
+            }
+        ],
+        "speaker": "SPEAKER_01"
+    },
+    {
+        "start": 162.038,
+        "end": 163.218,
+        "text": "It's E-S.",
+        "words": [
+            {
+                "word": "It's",
+                "start": 162.038,
+                "end": 162.178,
+                "score": 0.393,
+                "speaker": "SPEAKER_01"
+            },
+            {
+                "word": "E-S.",
+                "start": 163.138,
+                "end": 163.218,
+                "score": 0.52,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 163.238,
+        "end": 163.698,
+        "text": "Okay.",
+        "words": [
+            {
+                "word": "Okay.",
+                "start": 163.238,
+                "end": 163.698,
+                "score": 0.85,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 164.799,
+        "end": 167.159,
+        "text": "We've learned the solution, people.",
+        "words": [
+            {
+                "word": "We've",
+                "start": 164.799,
+                "end": 165.039,
+                "score": 0.852,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "learned",
+                "start": 165.099,
+                "end": 165.459,
+                "score": 0.577,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "the",
+                "start": 165.659,
+                "end": 166.039,
+                "score": 0.575,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "solution,",
+                "start": 166.079,
+                "end": 166.659,
+                "score": 0.871,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "people.",
+                "start": 166.739,
+                "end": 167.159,
+                "score": 0.828,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    },
+    {
+        "start": 167.179,
+        "end": 170.7,
+        "text": "E-Y-E-S spells E-S.",
+        "words": [
+            {
+                "word": "E-Y-E-S",
+                "start": 167.179,
+                "end": 168.999,
+                "score": 0.567,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "spells",
+                "start": 169.94,
+                "end": 170.38,
+                "score": 0.5,
+                "speaker": "SPEAKER_02"
+            },
+            {
+                "word": "E-S.",
+                "start": 170.56,
+                "end": 170.7,
+                "score": 0.566,
+                "speaker": "SPEAKER_02"
+            }
+        ],
+        "speaker": "SPEAKER_02"
+    }
+]

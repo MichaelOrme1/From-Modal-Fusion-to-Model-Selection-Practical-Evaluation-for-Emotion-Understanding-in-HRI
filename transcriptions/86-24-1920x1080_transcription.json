@@ -1,0 +1,3022 @@
+[
+    {
+        "start": 0.61,
+        "end": 8.339,
+        "text": " You take a Lagrangian that can describe the motion of a one-dimensional entity through spacetime.",
+        "words": [
+            {
+                "word": "You",
+                "start": 0.61,
+                "end": 0.81,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 0.93,
+                "end": 1.29,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 1.971,
+                "end": 2.011,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Lagrangian",
+                "start": 2.051,
+                "end": 2.712,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 3.293,
+                "end": 3.573,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 3.653,
+                "end": 3.793,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "describe",
+                "start": 3.813,
+                "end": 4.494,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 4.835,
+                "end": 4.935,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "motion",
+                "start": 4.995,
+                "end": 5.355,
+                "score": 0.945,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 5.395,
+                "end": 5.475,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 5.535,
+                "end": 5.555,
+                "score": 0.531,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one-dimensional",
+                "start": 5.756,
+                "end": 6.516,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "entity",
+                "start": 6.657,
+                "end": 7.137,
+                "score": 0.929,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "through",
+                "start": 7.217,
+                "end": 7.478,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "spacetime.",
+                "start": 7.578,
+                "end": 8.339,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 11.122,
+        "end": 20.472,
+        "text": "And you take that two-dimensional Lagrangian and within it there's a field, x, that maps the world sheet of the string into the ambient spacetime.",
+        "words": [
+            {
+                "word": "And",
+                "start": 11.122,
+                "end": 11.202,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 11.242,
+                "end": 11.342,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 11.382,
+                "end": 11.522,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 11.562,
+                "end": 11.702,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "two-dimensional",
+                "start": 11.762,
+                "end": 12.523,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Lagrangian",
+                "start": 12.764,
+                "end": 13.484,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 13.965,
+                "end": 14.125,
+                "score": 0.514,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "within",
+                "start": 14.646,
+                "end": 14.946,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 15.026,
+                "end": 15.106,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "there's",
+                "start": 15.267,
+                "end": 15.507,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 15.547,
+                "end": 15.567,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "field,",
+                "start": 15.667,
+                "end": 16.067,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "x,",
+                "start": 16.468,
+                "end": 16.608,
+                "score": 0.945,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 16.668,
+                "end": 16.828,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "maps",
+                "start": 16.928,
+                "end": 17.269,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 17.309,
+                "end": 17.409,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 17.469,
+                "end": 17.769,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sheet",
+                "start": 17.809,
+                "end": 18.05,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 18.09,
+                "end": 18.15,
+                "score": 0.766,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 18.19,
+                "end": 18.27,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 18.31,
+                "end": 18.69,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 18.811,
+                "end": 19.051,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 19.091,
+                "end": 19.191,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ambient",
+                "start": 19.331,
+                "end": 19.732,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "spacetime.",
+                "start": 19.812,
+                "end": 20.472,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 21.184,
+        "end": 30.566,
+        "text": " And the action that describes this motion is basically the area of the world sheet, using the pullback metric from the ambient space time to the world sheet of the string.",
+        "words": [
+            {
+                "word": "And",
+                "start": 21.184,
+                "end": 21.284,
+                "score": 0.944,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 21.324,
+                "end": 21.404,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "action",
+                "start": 21.584,
+                "end": 21.964,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 22.224,
+                "end": 22.364,
+                "score": 0.955,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "describes",
+                "start": 22.404,
+                "end": 22.924,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 22.944,
+                "end": 23.104,
+                "score": 0.448,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "motion",
+                "start": 23.184,
+                "end": 23.504,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 23.545,
+                "end": 23.625,
+                "score": 0.534,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "basically",
+                "start": 23.665,
+                "end": 24.345,
+                "score": 0.726,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 24.645,
+                "end": 24.765,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "area",
+                "start": 24.965,
+                "end": 25.265,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 25.325,
+                "end": 25.385,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 25.425,
+                "end": 25.485,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 25.545,
+                "end": 25.805,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sheet,",
+                "start": 25.845,
+                "end": 26.065,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "using",
+                "start": 26.205,
+                "end": 26.445,
+                "score": 0.907,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 26.485,
+                "end": 26.565,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pullback",
+                "start": 26.665,
+                "end": 27.245,
+                "score": 0.893,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "metric",
+                "start": 27.385,
+                "end": 27.785,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 27.865,
+                "end": 28.025,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 28.065,
+                "end": 28.145,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ambient",
+                "start": 28.265,
+                "end": 28.626,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "space",
+                "start": 28.686,
+                "end": 29.006,
+                "score": 0.949,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time",
+                "start": 29.066,
+                "end": 29.246,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 29.286,
+                "end": 29.386,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 29.406,
+                "end": 29.466,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 29.506,
+                "end": 29.726,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sheet",
+                "start": 29.746,
+                "end": 29.906,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 29.926,
+                "end": 29.986,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 30.006,
+                "end": 30.086,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string.",
+                "start": 30.126,
+                "end": 30.566,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 30.946,
+        "end": 41.548,
+        "text": "And then by using, of course, the standard sum over paths approach to quantum mechanics developed by Richard Feynman, we can work out correlation functions in this two-dimensional field theory.",
+        "words": [
+            {
+                "word": "And",
+                "start": 30.946,
+                "end": 31.026,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 31.066,
+                "end": 31.226,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "by",
+                "start": 31.266,
+                "end": 31.426,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "using,",
+                "start": 31.546,
+                "end": 31.826,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 31.866,
+                "end": 31.906,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "course,",
+                "start": 31.966,
+                "end": 32.166,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 32.206,
+                "end": 32.326,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "standard",
+                "start": 32.346,
+                "end": 32.826,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sum",
+                "start": 33.667,
+                "end": 33.847,
+                "score": 0.737,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "over",
+                "start": 33.927,
+                "end": 34.107,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "paths",
+                "start": 34.187,
+                "end": 34.587,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "approach",
+                "start": 34.687,
+                "end": 35.047,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 35.087,
+                "end": 35.167,
+                "score": 0.395,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "quantum",
+                "start": 35.247,
+                "end": 35.587,
+                "score": 0.599,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "mechanics",
+                "start": 35.607,
+                "end": 36.067,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "developed",
+                "start": 36.087,
+                "end": 36.487,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "by",
+                "start": 36.507,
+                "end": 36.607,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Richard",
+                "start": 36.667,
+                "end": 36.947,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "Feynman,",
+                "start": 36.987,
+                "end": 37.387,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 37.847,
+                "end": 38.027,
+                "score": 0.994,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 38.067,
+                "end": 38.248,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "work",
+                "start": 38.308,
+                "end": 38.548,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 38.628,
+                "end": 38.748,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "correlation",
+                "start": 38.828,
+                "end": 39.468,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "functions",
+                "start": 39.548,
+                "end": 40.028,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 40.108,
+                "end": 40.188,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 40.208,
+                "end": 40.328,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "two-dimensional",
+                "start": 40.368,
+                "end": 41.008,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "field",
+                "start": 41.048,
+                "end": 41.288,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "theory.",
+                "start": 41.308,
+                "end": 41.548,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 41.568,
+        "end": 48.65,
+        "text": "And those, in principle, would be the observables that describe the scattering amplitudes of strings in string theory.",
+        "words": [
+            {
+                "word": "And",
+                "start": 41.568,
+                "end": 41.648,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those,",
+                "start": 41.688,
+                "end": 42.008,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 42.068,
+                "end": 42.148,
+                "score": 0.655,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "principle,",
+                "start": 42.208,
+                "end": 42.708,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "would",
+                "start": 42.748,
+                "end": 42.928,
+                "score": 0.947,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 43.049,
+                "end": 43.209,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 43.249,
+                "end": 43.349,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "observables",
+                "start": 43.429,
+                "end": 44.089,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 44.749,
+                "end": 44.909,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "describe",
+                "start": 44.949,
+                "end": 45.409,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 45.429,
+                "end": 45.489,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "scattering",
+                "start": 45.549,
+                "end": 46.049,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "amplitudes",
+                "start": 46.189,
+                "end": 46.809,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 47.149,
+                "end": 47.249,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "strings",
+                "start": 47.349,
+                "end": 47.829,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 47.909,
+                "end": 48.01,
+                "score": 0.339,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 48.05,
+                "end": 48.33,
+                "score": 0.638,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "theory.",
+                "start": 48.35,
+                "end": 48.65,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 49.87,
+        "end": 50.17,
+        "text": "How was that?",
+        "words": [
+            {
+                "word": "How",
+                "start": 49.87,
+                "end": 49.95,
+                "score": 0.165,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "was",
+                "start": 49.97,
+                "end": 50.07,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that?",
+                "start": 50.09,
+                "end": 50.17,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 55.043,
+        "end": 56.564,
+        "text": " What is stuff made of?",
+        "words": [
+            {
+                "word": "What",
+                "start": 55.043,
+                "end": 55.243,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 55.343,
+                "end": 55.423,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stuff",
+                "start": 55.503,
+                "end": 55.924,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "made",
+                "start": 56.124,
+                "end": 56.344,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of?",
+                "start": 56.464,
+                "end": 56.564,
+                "score": 0.595,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 57.325,
+        "end": 64.309,
+        "text": "What are the basic fundamental ingredients inside of all of the matter that we encounter in the world around us?",
+        "words": [
+            {
+                "word": "What",
+                "start": 57.325,
+                "end": 57.485,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 57.525,
+                "end": 57.625,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 57.665,
+                "end": 57.785,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "basic",
+                "start": 58.245,
+                "end": 58.685,
+                "score": 0.945,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fundamental",
+                "start": 58.865,
+                "end": 59.586,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ingredients",
+                "start": 59.706,
+                "end": 60.527,
+                "score": 0.924,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 60.807,
+                "end": 61.387,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 61.467,
+                "end": 61.527,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 61.907,
+                "end": 62.128,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 62.168,
+                "end": 62.208,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 62.288,
+                "end": 62.348,
+                "score": 0.975,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "matter",
+                "start": 62.428,
+                "end": 62.788,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 62.848,
+                "end": 62.968,
+                "score": 0.936,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 62.988,
+                "end": 63.108,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "encounter",
+                "start": 63.128,
+                "end": 63.488,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 63.528,
+                "end": 63.568,
+                "score": 0.52,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 63.588,
+                "end": 63.648,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 63.668,
+                "end": 63.849,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around",
+                "start": 63.889,
+                "end": 64.169,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "us?",
+                "start": 64.229,
+                "end": 64.309,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 64.629,
+        "end": 72.194,
+        "text": "If you take any piece of matter, say a block of wood, if you cut it in half, cut that remaining piece in half again and keep on cutting ever smaller,",
+        "words": [
+            {
+                "word": "If",
+                "start": 64.629,
+                "end": 64.689,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 64.709,
+                "end": 64.849,
+                "score": 0.937,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 64.869,
+                "end": 65.089,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "any",
+                "start": 65.73,
+                "end": 65.89,
+                "score": 0.73,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "piece",
+                "start": 65.95,
+                "end": 66.25,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 66.27,
+                "end": 66.33,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "matter,",
+                "start": 66.41,
+                "end": 66.71,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say",
+                "start": 66.73,
+                "end": 66.931,
+                "score": 0.218,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 66.951,
+                "end": 66.971,
+                "score": 0.099,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "block",
+                "start": 66.991,
+                "end": 67.311,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 67.351,
+                "end": 67.411,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wood,",
+                "start": 67.491,
+                "end": 67.751,
+                "score": 0.711,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "if",
+                "start": 67.791,
+                "end": 67.851,
+                "score": 0.998,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 67.871,
+                "end": 68.011,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cut",
+                "start": 68.091,
+                "end": 68.291,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 68.331,
+                "end": 68.371,
+                "score": 0.915,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 68.431,
+                "end": 68.532,
+                "score": 0.285,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "half,",
+                "start": 68.632,
+                "end": 68.852,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cut",
+                "start": 68.952,
+                "end": 69.132,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 69.172,
+                "end": 69.372,
+                "score": 0.552,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "remaining",
+                "start": 69.432,
+                "end": 69.792,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "piece",
+                "start": 69.852,
+                "end": 70.032,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 70.072,
+                "end": 70.153,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "half",
+                "start": 70.193,
+                "end": 70.353,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "again",
+                "start": 70.373,
+                "end": 70.573,
+                "score": 0.423,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 70.593,
+                "end": 70.653,
+                "score": 0.043,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "keep",
+                "start": 70.673,
+                "end": 70.893,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 71.013,
+                "end": 71.133,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cutting",
+                "start": 71.213,
+                "end": 71.513,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ever",
+                "start": 71.573,
+                "end": 71.754,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "smaller,",
+                "start": 71.814,
+                "end": 72.194,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 72.734,
+        "end": 77.539,
+        "text": " We all pretty much know that you get to molecules, and then you get to atoms, which make up molecules.",
+        "words": [
+            {
+                "word": "We",
+                "start": 72.734,
+                "end": 72.854,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 72.974,
+                "end": 73.135,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pretty",
+                "start": 73.235,
+                "end": 73.435,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "much",
+                "start": 73.475,
+                "end": 73.615,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 73.675,
+                "end": 73.815,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 73.855,
+                "end": 73.935,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 73.955,
+                "end": 74.055,
+                "score": 0.969,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 74.075,
+                "end": 74.176,
+                "score": 0.644,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 74.196,
+                "end": 74.276,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "molecules,",
+                "start": 74.336,
+                "end": 74.936,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 75.116,
+                "end": 75.176,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 75.216,
+                "end": 75.297,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 75.337,
+                "end": 75.417,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 75.437,
+                "end": 75.537,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 75.557,
+                "end": 75.617,
+                "score": 0.576,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "atoms,",
+                "start": 75.797,
+                "end": 76.177,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "which",
+                "start": 76.378,
+                "end": 76.538,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "make",
+                "start": 76.598,
+                "end": 76.758,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 76.818,
+                "end": 76.918,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "molecules.",
+                "start": 76.958,
+                "end": 77.539,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 77.619,
+        "end": 90.05,
+        "text": "And we also know that the atoms are made of finer constituents, electrons that are in these quantum orbits, these quantum clouds around the nucleus, which itself has particles, protons and neutrons.",
+        "words": [
+            {
+                "word": "And",
+                "start": 77.619,
+                "end": 77.719,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 77.759,
+                "end": 77.859,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "also",
+                "start": 77.919,
+                "end": 78.159,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 78.199,
+                "end": 78.319,
+                "score": 0.895,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 78.359,
+                "end": 78.459,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 78.499,
+                "end": 78.58,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "atoms",
+                "start": 78.74,
+                "end": 79.06,
+                "score": 0.817,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 79.56,
+                "end": 79.641,
+                "score": 0.659,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "made",
+                "start": 79.661,
+                "end": 79.801,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 79.821,
+                "end": 79.881,
+                "score": 0.716,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "finer",
+                "start": 79.981,
+                "end": 80.301,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "constituents,",
+                "start": 80.361,
+                "end": 81.142,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "electrons",
+                "start": 81.702,
+                "end": 82.463,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 82.503,
+                "end": 82.723,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 83.044,
+                "end": 83.144,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 83.184,
+                "end": 83.224,
+                "score": 0.99,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "these",
+                "start": 83.264,
+                "end": 83.404,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "quantum",
+                "start": 83.564,
+                "end": 84.085,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "orbits,",
+                "start": 84.265,
+                "end": 84.585,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "these",
+                "start": 84.605,
+                "end": 84.765,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "quantum",
+                "start": 84.885,
+                "end": 85.346,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clouds",
+                "start": 85.426,
+                "end": 85.846,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around",
+                "start": 85.906,
+                "end": 86.106,
+                "score": 0.819,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 86.126,
+                "end": 86.207,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "nucleus,",
+                "start": 86.307,
+                "end": 86.827,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "which",
+                "start": 87.308,
+                "end": 87.448,
+                "score": 0.95,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "itself",
+                "start": 87.508,
+                "end": 87.888,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "has",
+                "start": 87.928,
+                "end": 88.068,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "particles,",
+                "start": 88.168,
+                "end": 88.649,
+                "score": 0.951,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "protons",
+                "start": 88.769,
+                "end": 89.349,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 89.389,
+                "end": 89.469,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "neutrons.",
+                "start": 89.53,
+                "end": 90.05,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 90.47,
+        "end": 94.374,
+        "text": "And inside the protons and neutrons, we found that there are even smaller particles.",
+        "words": [
+            {
+                "word": "And",
+                "start": 90.47,
+                "end": 90.571,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 90.611,
+                "end": 90.891,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 90.931,
+                "end": 91.011,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "protons",
+                "start": 91.071,
+                "end": 91.551,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 91.591,
+                "end": 91.672,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "neutrons,",
+                "start": 91.712,
+                "end": 92.112,
+                "score": 0.817,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 92.152,
+                "end": 92.272,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "found",
+                "start": 92.312,
+                "end": 92.452,
+                "score": 0.904,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 92.472,
+                "end": 92.592,
+                "score": 0.535,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "there",
+                "start": 92.612,
+                "end": 92.712,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 92.773,
+                "end": 92.873,
+                "score": 0.511,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "even",
+                "start": 93.053,
+                "end": 93.273,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "smaller",
+                "start": 93.393,
+                "end": 93.894,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "particles.",
+                "start": 93.974,
+                "end": 94.374,
+                "score": 0.768,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 94.79,
+        "end": 95.21,
+        "text": " quarks.",
+        "words": [
+            {
+                "word": "quarks.",
+                "start": 94.79,
+                "end": 95.21,
+                "score": 0.741,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 95.671,
+        "end": 98.192,
+        "text": "String theory comes along and challenges that.",
+        "words": [
+            {
+                "word": "String",
+                "start": 95.671,
+                "end": 96.031,
+                "score": 0.801,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "theory",
+                "start": 96.071,
+                "end": 96.371,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "comes",
+                "start": 96.431,
+                "end": 96.671,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "along",
+                "start": 96.771,
+                "end": 97.112,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 97.272,
+                "end": 97.372,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "challenges",
+                "start": 97.452,
+                "end": 97.952,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that.",
+                "start": 98.012,
+                "end": 98.192,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 98.773,
+        "end": 107.138,
+        "text": "It says that those little tiny dot particles that we envisioned as being the basic ingredients, there's something else further inside of them.",
+        "words": [
+            {
+                "word": "It",
+                "start": 98.773,
+                "end": 98.853,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "says",
+                "start": 98.913,
+                "end": 99.093,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 99.133,
+                "end": 99.233,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 99.273,
+                "end": 99.433,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 99.493,
+                "end": 99.733,
+                "score": 0.737,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tiny",
+                "start": 99.793,
+                "end": 100.154,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "dot",
+                "start": 100.334,
+                "end": 100.634,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "particles",
+                "start": 100.734,
+                "end": 101.294,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 101.374,
+                "end": 101.535,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 101.575,
+                "end": 101.755,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "envisioned",
+                "start": 101.795,
+                "end": 102.315,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 102.375,
+                "end": 102.475,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "being",
+                "start": 102.535,
+                "end": 102.795,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 102.895,
+                "end": 103.056,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "basic",
+                "start": 103.236,
+                "end": 103.596,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ingredients,",
+                "start": 103.636,
+                "end": 104.156,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "there's",
+                "start": 104.977,
+                "end": 105.137,
+                "score": 0.721,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "something",
+                "start": 105.157,
+                "end": 105.417,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "else",
+                "start": 105.497,
+                "end": 105.677,
+                "score": 0.679,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "further",
+                "start": 106.078,
+                "end": 106.398,
+                "score": 0.818,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 106.438,
+                "end": 106.838,
+                "score": 0.923,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 106.858,
+                "end": 106.898,
+                "score": 0.98,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them.",
+                "start": 106.958,
+                "end": 107.138,
+                "score": 0.817,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 107.599,
+        "end": 110.881,
+        "text": "Look deeply inside an electron, deeply inside a quark.",
+        "words": [
+            {
+                "word": "Look",
+                "start": 107.599,
+                "end": 107.799,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "deeply",
+                "start": 107.899,
+                "end": 108.239,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 108.279,
+                "end": 108.599,
+                "score": 0.97,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 108.639,
+                "end": 108.699,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "electron,",
+                "start": 108.739,
+                "end": 109.42,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "deeply",
+                "start": 109.74,
+                "end": 110.06,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "inside",
+                "start": 110.08,
+                "end": 110.38,
+                "score": 0.937,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 110.42,
+                "end": 110.46,
+                "score": 0.491,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "quark.",
+                "start": 110.541,
+                "end": 110.881,
+                "score": 0.714,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 111.281,
+        "end": 112.542,
+        "text": "String theory posits",
+        "words": [
+            {
+                "word": "String",
+                "start": 111.281,
+                "end": 111.621,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "theory",
+                "start": 111.661,
+                "end": 111.901,
+                "score": 0.981,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "posits",
+                "start": 112.042,
+                "end": 112.542,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 113.51,
+        "end": 122.717,
+        "text": " hypothesizes that you'll see a little tiny string-like filament of vibrating energy, like a string on a violin.",
+        "words": [
+            {
+                "word": "hypothesizes",
+                "start": 113.51,
+                "end": 114.551,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 115.031,
+                "end": 115.151,
+                "score": 0.96,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you'll",
+                "start": 115.171,
+                "end": 115.371,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "see",
+                "start": 115.412,
+                "end": 115.532,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 115.572,
+                "end": 115.612,
+                "score": 0.496,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 115.672,
+                "end": 115.952,
+                "score": 0.688,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tiny",
+                "start": 116.112,
+                "end": 116.572,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string-like",
+                "start": 117.613,
+                "end": 118.374,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "filament",
+                "start": 118.534,
+                "end": 119.034,
+                "score": 0.932,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 119.675,
+                "end": 119.735,
+                "score": 0.646,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "vibrating",
+                "start": 119.895,
+                "end": 120.576,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "energy,",
+                "start": 120.696,
+                "end": 121.076,
+                "score": 0.725,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 121.336,
+                "end": 121.496,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 121.536,
+                "end": 121.556,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 121.616,
+                "end": 121.917,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 121.957,
+                "end": 122.037,
+                "score": 0.503,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 122.077,
+                "end": 122.117,
+                "score": 0.499,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "violin.",
+                "start": 122.157,
+                "end": 122.717,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 122.757,
+        "end": 124.359,
+        "text": "This little tiny string can vibrate.",
+        "words": [
+            {
+                "word": "This",
+                "start": 122.757,
+                "end": 122.917,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 122.958,
+                "end": 123.158,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tiny",
+                "start": 123.198,
+                "end": 123.458,
+                "score": 0.821,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 123.478,
+                "end": 123.718,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 123.738,
+                "end": 123.858,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "vibrate.",
+                "start": 123.898,
+                "end": 124.359,
+                "score": 0.889,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 124.999,
+        "end": 128.842,
+        "text": "And one vibration will, say, be an electron.",
+        "words": [
+            {
+                "word": "And",
+                "start": 124.999,
+                "end": 125.099,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 125.299,
+                "end": 125.419,
+                "score": 0.613,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "vibration",
+                "start": 125.48,
+                "end": 126.2,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "will,",
+                "start": 126.821,
+                "end": 127.021,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "say,",
+                "start": 127.061,
+                "end": 127.321,
+                "score": 0.993,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 127.421,
+                "end": 127.701,
+                "score": 0.907,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 128.202,
+                "end": 128.262,
+                "score": 0.772,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "electron.",
+                "start": 128.302,
+                "end": 128.842,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 129.062,
+        "end": 136.849,
+        "text": "A different kind of vibration, a different note, to use the musical analogy, would be an electron, a quark, or a neutrino.",
+        "words": [
+            {
+                "word": "A",
+                "start": 129.062,
+                "end": 129.122,
+                "score": 0.61,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "different",
+                "start": 129.242,
+                "end": 129.563,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kind",
+                "start": 129.623,
+                "end": 129.843,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 129.863,
+                "end": 129.923,
+                "score": 0.756,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "vibration,",
+                "start": 129.963,
+                "end": 130.483,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 130.524,
+                "end": 130.544,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "different",
+                "start": 130.584,
+                "end": 130.864,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "note,",
+                "start": 131.004,
+                "end": 131.284,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 131.484,
+                "end": 131.564,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "use",
+                "start": 131.684,
+                "end": 131.865,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 131.905,
+                "end": 132.045,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "musical",
+                "start": 132.225,
+                "end": 132.705,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "analogy,",
+                "start": 133.066,
+                "end": 133.626,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "would",
+                "start": 134.166,
+                "end": 134.347,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "be",
+                "start": 134.407,
+                "end": 134.707,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 135.127,
+                "end": 135.187,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "electron,",
+                "start": 135.227,
+                "end": 135.668,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 135.708,
+                "end": 135.748,
+                "score": 0.461,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "quark,",
+                "start": 135.788,
+                "end": 136.088,
+                "score": 0.5,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "or",
+                "start": 136.148,
+                "end": 136.208,
+                "score": 0.867,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 136.228,
+                "end": 136.248,
+                "score": 0.292,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "neutrino.",
+                "start": 136.308,
+                "end": 136.849,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 137.569,
+        "end": 146.692,
+        "text": " So in that way, all the different kinds of particles arise from the different notes that this hypothetical entity called the string can play.",
+        "words": [
+            {
+                "word": "So",
+                "start": 137.569,
+                "end": 137.709,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 137.749,
+                "end": 137.829,
+                "score": 0.824,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 137.869,
+                "end": 138.069,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "way,",
+                "start": 138.149,
+                "end": 138.329,
+                "score": 0.614,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "all",
+                "start": 138.569,
+                "end": 138.709,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 138.769,
+                "end": 138.85,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "different",
+                "start": 138.93,
+                "end": 139.23,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kinds",
+                "start": 139.33,
+                "end": 139.71,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 139.77,
+                "end": 139.83,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "particles",
+                "start": 139.93,
+                "end": 140.51,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "arise",
+                "start": 140.93,
+                "end": 141.29,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "from",
+                "start": 141.31,
+                "end": 141.43,
+                "score": 0.88,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 141.47,
+                "end": 141.53,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "different",
+                "start": 141.671,
+                "end": 142.011,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "notes",
+                "start": 142.151,
+                "end": 142.431,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 143.191,
+                "end": 143.391,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 143.471,
+                "end": 143.731,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hypothetical",
+                "start": 143.971,
+                "end": 144.732,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "entity",
+                "start": 144.832,
+                "end": 145.272,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "called",
+                "start": 145.412,
+                "end": 145.632,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 145.652,
+                "end": 145.732,
+                "score": 0.995,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 145.792,
+                "end": 146.112,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 146.172,
+                "end": 146.332,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play.",
+                "start": 146.392,
+                "end": 146.692,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 147.233,
+        "end": 150.794,
+        "text": "Everything, in a sense, is a kind of cosmic symphony.",
+        "words": [
+            {
+                "word": "Everything,",
+                "start": 147.233,
+                "end": 147.673,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 148.013,
+                "end": 148.073,
+                "score": 0.89,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 148.133,
+                "end": 148.153,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sense,",
+                "start": 148.213,
+                "end": 148.533,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 148.593,
+                "end": 148.713,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 148.793,
+                "end": 148.833,
+                "score": 0.519,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "kind",
+                "start": 148.913,
+                "end": 149.173,
+                "score": 0.693,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 149.233,
+                "end": 149.313,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "cosmic",
+                "start": 149.834,
+                "end": 150.314,
+                "score": 0.988,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "symphony.",
+                "start": 150.374,
+                "end": 150.794,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 150.974,
+        "end": 159.177,
+        "text": "All the particles of the world are just the notes that this ingredient, if it exists, we don't know that it does, that this little tiny string can play.",
+        "words": [
+            {
+                "word": "All",
+                "start": 150.974,
+                "end": 151.134,
+                "score": 0.584,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 151.194,
+                "end": 151.274,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "particles",
+                "start": 151.394,
+                "end": 151.774,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 151.814,
+                "end": 151.854,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 151.894,
+                "end": 151.954,
+                "score": 0.999,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "world",
+                "start": 152.034,
+                "end": 152.274,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 152.555,
+                "end": 152.635,
+                "score": 0.828,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 152.675,
+                "end": 152.835,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 152.875,
+                "end": 152.975,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "notes",
+                "start": 153.095,
+                "end": 153.375,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 153.895,
+                "end": 154.075,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 154.135,
+                "end": 154.355,
+                "score": 0.805,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ingredient,",
+                "start": 154.775,
+                "end": 155.416,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "if",
+                "start": 155.536,
+                "end": 155.636,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 155.696,
+                "end": 155.776,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "exists,",
+                "start": 155.836,
+                "end": 156.256,
+                "score": 0.815,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we",
+                "start": 156.276,
+                "end": 156.356,
+                "score": 0.416,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "don't",
+                "start": 156.396,
+                "end": 156.496,
+                "score": 0.905,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "know",
+                "start": 156.516,
+                "end": 156.636,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 156.676,
+                "end": 156.796,
+                "score": 0.91,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 156.816,
+                "end": 156.876,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "does,",
+                "start": 156.936,
+                "end": 157.196,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "that",
+                "start": 157.516,
+                "end": 157.656,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 157.696,
+                "end": 157.816,
+                "score": 0.84,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "little",
+                "start": 157.836,
+                "end": 158.057,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tiny",
+                "start": 158.097,
+                "end": 158.417,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "string",
+                "start": 158.457,
+                "end": 158.757,
+                "score": 0.799,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "can",
+                "start": 158.797,
+                "end": 158.937,
+                "score": 0.954,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "play.",
+                "start": 158.977,
+                "end": 159.177,
+                "score": 0.937,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]
