@@ -1,0 +1,4430 @@
+[
+    {
+        "start": 2.059,
+        "end": 3.6,
+        "text": " Waving hands like clouds.",
+        "words": [
+            {
+                "word": "Waving",
+                "start": 2.059,
+                "end": 2.439,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 2.499,
+                "end": 2.8,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 2.86,
+                "end": 3.02,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clouds.",
+                "start": 3.08,
+                "end": 3.6,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 4.321,
+        "end": 4.941,
+        "text": "Let's begin.",
+        "words": [
+            {
+                "word": "Let's",
+                "start": 4.321,
+                "end": 4.541,
+                "score": 0.841,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "begin.",
+                "start": 4.581,
+                "end": 4.941,
+                "score": 0.653,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 5.942,
+        "end": 8.964,
+        "text": "First, we'll start by raising the hands out to the side.",
+        "words": [
+            {
+                "word": "First,",
+                "start": 5.942,
+                "end": 6.182,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we'll",
+                "start": 6.202,
+                "end": 6.362,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "start",
+                "start": 6.402,
+                "end": 6.763,
+                "score": 0.853,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "by",
+                "start": 6.803,
+                "end": 6.923,
+                "score": 0.729,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "raising",
+                "start": 6.983,
+                "end": 7.363,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 7.403,
+                "end": 7.503,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 7.543,
+                "end": 7.884,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 7.964,
+                "end": 8.084,
+                "score": 0.938,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 8.124,
+                "end": 8.244,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 8.264,
+                "end": 8.324,
+                "score": 0.981,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "side.",
+                "start": 8.404,
+                "end": 8.964,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.024,
+        "end": 9.765,
+        "text": "Breathe in.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 9.024,
+                "end": 9.705,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 9.725,
+                "end": 9.765,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 9.785,
+        "end": 14.889,
+        "text": "Imagine you're floating like a bird flying in the sky.",
+        "words": [
+            {
+                "word": "Imagine",
+                "start": 9.785,
+                "end": 10.826,
+                "score": 0.694,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 11.626,
+                "end": 11.847,
+                "score": 0.863,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "floating",
+                "start": 11.927,
+                "end": 12.527,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 12.587,
+                "end": 12.747,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 12.787,
+                "end": 12.827,
+                "score": 0.493,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bird",
+                "start": 12.867,
+                "end": 13.268,
+                "score": 0.77,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "flying",
+                "start": 13.368,
+                "end": 13.948,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 13.988,
+                "end": 14.068,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 14.088,
+                "end": 14.168,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "sky.",
+                "start": 14.249,
+                "end": 14.889,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 16.03,
+        "end": 17.151,
+        "text": "Breathe in.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 16.03,
+                "end": 17.091,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 17.111,
+                "end": 17.151,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 17.171,
+        "end": 19.833,
+        "text": "And breathe out.",
+        "words": [
+            {
+                "word": "And",
+                "start": 17.171,
+                "end": 18.812,
+                "score": 0.318,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 18.832,
+                "end": 19.152,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 19.433,
+                "end": 19.833,
+                "score": 0.768,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 23.256,
+        "end": 24.396,
+        "text": "And breathe in.",
+        "words": [
+            {
+                "word": "And",
+                "start": 23.256,
+                "end": 23.376,
+                "score": 0.539,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 23.416,
+                "end": 23.756,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 24.196,
+                "end": 24.396,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 24.417,
+        "end": 28.92,
+        "text": "And breathe out.",
+        "words": [
+            {
+                "word": "And",
+                "start": 24.417,
+                "end": 24.477,
+                "score": 0.003,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 28.019,
+                "end": 28.34,
+                "score": 0.702,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 28.5,
+                "end": 28.92,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 29.14,
+        "end": 31.042,
+        "text": "Now we're going to open the door.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 29.14,
+                "end": 29.34,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 29.38,
+                "end": 29.48,
+                "score": 0.023,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 29.5,
+                "end": 29.641,
+                "score": 0.485,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 29.661,
+                "end": 29.701,
+                "score": 0.02,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "open",
+                "start": 30.161,
+                "end": 30.461,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 30.481,
+                "end": 30.541,
+                "score": 0.963,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "door.",
+                "start": 30.601,
+                "end": 31.042,
+                "score": 0.989,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 32.312,
+        "end": 42.875,
+        "text": " Open your leg, take the hands, collect the chi, bring it to the heart, push it down into the belly.",
+        "words": [
+            {
+                "word": "Open",
+                "start": 32.312,
+                "end": 32.452,
+                "score": 0.459,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 32.492,
+                "end": 32.652,
+                "score": 0.901,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leg,",
+                "start": 32.692,
+                "end": 33.272,
+                "score": 0.942,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "take",
+                "start": 34.292,
+                "end": 34.493,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 34.553,
+                "end": 34.653,
+                "score": 0.956,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 34.693,
+                "end": 35.353,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collect",
+                "start": 35.693,
+                "end": 36.993,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 37.953,
+                "end": 38.053,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi,",
+                "start": 38.153,
+                "end": 38.774,
+                "score": 0.591,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bring",
+                "start": 38.794,
+                "end": 38.894,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 39.454,
+                "end": 39.654,
+                "score": 0.446,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 39.694,
+                "end": 39.774,
+                "score": 0.656,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 39.794,
+                "end": 39.914,
+                "score": 0.716,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "heart,",
+                "start": 39.954,
+                "end": 40.454,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push",
+                "start": 40.474,
+                "end": 40.554,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 40.754,
+                "end": 41.034,
+                "score": 0.614,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down",
+                "start": 41.094,
+                "end": 41.654,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 41.894,
+                "end": 42.114,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 42.154,
+                "end": 42.234,
+                "score": 0.962,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "belly.",
+                "start": 42.274,
+                "end": 42.875,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 42.895,
+        "end": 51.617,
+        "text": "One more time, breathe in, collect the chi, breathe out, push it into the belly.",
+        "words": [
+            {
+                "word": "One",
+                "start": 42.895,
+                "end": 42.955,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "more",
+                "start": 44.615,
+                "end": 44.795,
+                "score": 0.725,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 44.875,
+                "end": 45.475,
+                "score": 0.742,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 45.535,
+                "end": 46.495,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 46.535,
+                "end": 46.575,
+                "score": 0.03,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collect",
+                "start": 46.656,
+                "end": 46.976,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 46.996,
+                "end": 47.096,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "chi,",
+                "start": 47.196,
+                "end": 47.956,
+                "score": 0.274,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 49.036,
+                "end": 49.436,
+                "score": 0.805,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out,",
+                "start": 49.876,
+                "end": 50.116,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push",
+                "start": 50.156,
+                "end": 50.376,
+                "score": 0.69,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "it",
+                "start": 50.416,
+                "end": 50.496,
+                "score": 0.588,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "into",
+                "start": 50.516,
+                "end": 50.737,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 50.777,
+                "end": 50.857,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "belly.",
+                "start": 50.937,
+                "end": 51.617,
+                "score": 0.686,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 52.597,
+        "end": 55.778,
+        "text": "Now this time, breathe in and hold the tree.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 52.597,
+                "end": 52.717,
+                "score": 0.872,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 52.777,
+                "end": 52.977,
+                "score": 0.743,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 53.037,
+                "end": 53.317,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 53.377,
+                "end": 53.637,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 53.997,
+                "end": 54.177,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 54.277,
+                "end": 54.377,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hold",
+                "start": 54.497,
+                "end": 55.018,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 55.078,
+                "end": 55.158,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tree.",
+                "start": 55.238,
+                "end": 55.778,
+                "score": 0.657,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 58.999,
+        "end": 60.399,
+        "text": "This hand goes underneath.",
+        "words": [
+            {
+                "word": "This",
+                "start": 58.999,
+                "end": 59.199,
+                "score": 0.894,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 59.239,
+                "end": 59.519,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 59.579,
+                "end": 59.779,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "underneath.",
+                "start": 59.839,
+                "end": 60.399,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 61.087,
+        "end": 62.569,
+        "text": " to embrace the moon.",
+        "words": [
+            {
+                "word": "to",
+                "start": 61.087,
+                "end": 61.227,
+                "score": 0.877,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "embrace",
+                "start": 61.287,
+                "end": 61.688,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 61.728,
+                "end": 61.848,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "moon.",
+                "start": 61.948,
+                "end": 62.569,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 63.47,
+        "end": 74.507,
+        "text": "Breathe in, rotate the hands, embracing the moon, breathe out, breathe in, and breathe out.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 63.47,
+                "end": 63.871,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 64.312,
+                "end": 64.532,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "rotate",
+                "start": 64.672,
+                "end": 65.073,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 65.113,
+                "end": 65.213,
+                "score": 0.724,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 65.253,
+                "end": 65.934,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "embracing",
+                "start": 66.335,
+                "end": 66.875,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 66.936,
+                "end": 66.996,
+                "score": 0.997,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "moon,",
+                "start": 67.076,
+                "end": 67.536,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 67.877,
+                "end": 68.197,
+                "score": 0.809,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out,",
+                "start": 68.558,
+                "end": 68.918,
+                "score": 0.857,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 70.22,
+                "end": 71.582,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 71.602,
+                "end": 71.642,
+                "score": 0.001,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 73.245,
+                "end": 73.405,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 73.445,
+                "end": 73.786,
+                "score": 0.677,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 74.126,
+                "end": 74.507,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 75.007,
+        "end": 77.09,
+        "text": "Now we're going to turn to the side.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 75.007,
+                "end": 75.208,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "we're",
+                "start": 75.228,
+                "end": 75.348,
+                "score": 0.163,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 75.368,
+                "end": 75.488,
+                "score": 0.284,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 75.508,
+                "end": 75.608,
+                "score": 0.468,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 75.648,
+                "end": 76.029,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 76.049,
+                "end": 76.109,
+                "score": 0.577,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 76.189,
+                "end": 76.309,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "side.",
+                "start": 76.429,
+                "end": 77.09,
+                "score": 0.624,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 78.775,
+        "end": 82.456,
+        "text": " And you want to change the hands, one goes up and one goes down.",
+        "words": [
+            {
+                "word": "And",
+                "start": 78.775,
+                "end": 78.875,
+                "score": 0.884,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 78.915,
+                "end": 79.055,
+                "score": 0.915,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "want",
+                "start": 79.095,
+                "end": 79.315,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 79.335,
+                "end": 79.435,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "change",
+                "start": 79.475,
+                "end": 79.815,
+                "score": 0.664,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 79.875,
+                "end": 79.975,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 80.015,
+                "end": 80.456,
+                "score": 0.657,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 80.596,
+                "end": 80.716,
+                "score": 0.784,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 80.756,
+                "end": 80.956,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 81.056,
+                "end": 81.156,
+                "score": 0.552,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 81.216,
+                "end": 81.316,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 81.396,
+                "end": 81.516,
+                "score": 0.637,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 81.576,
+                "end": 81.796,
+                "score": 0.718,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down.",
+                "start": 81.876,
+                "end": 82.456,
+                "score": 0.774,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 82.476,
+        "end": 88.338,
+        "text": "And then they float across in front of the body just like clouds floating in the wind.",
+        "words": [
+            {
+                "word": "And",
+                "start": 82.476,
+                "end": 82.536,
+                "score": 0.015,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "then",
+                "start": 83.236,
+                "end": 83.356,
+                "score": 0.913,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 83.376,
+                "end": 83.516,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 83.596,
+                "end": 83.977,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "across",
+                "start": 84.037,
+                "end": 84.597,
+                "score": 0.705,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 84.677,
+                "end": 84.777,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 84.857,
+                "end": 85.077,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 85.117,
+                "end": 85.177,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 85.217,
+                "end": 85.297,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body",
+                "start": 85.377,
+                "end": 85.817,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "just",
+                "start": 85.877,
+                "end": 86.057,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 86.097,
+                "end": 86.277,
+                "score": 0.713,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clouds",
+                "start": 86.357,
+                "end": 86.897,
+                "score": 0.821,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "floating",
+                "start": 87.098,
+                "end": 87.598,
+                "score": 0.878,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 87.658,
+                "end": 87.758,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 87.778,
+                "end": 87.878,
+                "score": 0.749,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wind.",
+                "start": 87.938,
+                "end": 88.338,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 89.038,
+        "end": 96.38,
+        "text": "Now change the hands, one goes up, the other goes down, and they float across part of the body.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 89.038,
+                "end": 89.238,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "change",
+                "start": 89.318,
+                "end": 89.678,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 89.738,
+                "end": 89.838,
+                "score": 0.699,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 89.878,
+                "end": 90.519,
+                "score": 0.616,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 90.759,
+                "end": 90.879,
+                "score": 0.778,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 90.919,
+                "end": 91.179,
+                "score": 0.651,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up,",
+                "start": 91.339,
+                "end": 91.499,
+                "score": 0.538,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 91.539,
+                "end": 91.619,
+                "score": 0.847,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 91.679,
+                "end": 91.839,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 91.879,
+                "end": 92.079,
+                "score": 0.783,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down,",
+                "start": 92.179,
+                "end": 92.679,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 93.259,
+                "end": 93.359,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 93.399,
+                "end": 93.559,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 93.7,
+                "end": 94.18,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "across",
+                "start": 94.24,
+                "end": 94.94,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "part",
+                "start": 94.96,
+                "end": 95.58,
+                "score": 0.53,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 95.6,
+                "end": 95.66,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 95.7,
+                "end": 95.78,
+                "score": 0.822,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 95.84,
+                "end": 96.38,
+                "score": 0.808,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 97.321,
+        "end": 100.342,
+        "text": "This time, breathe in when you change the hands.",
+        "words": [
+            {
+                "word": "This",
+                "start": 97.321,
+                "end": 97.501,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 97.561,
+                "end": 97.841,
+                "score": 0.795,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 97.981,
+                "end": 98.581,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 98.841,
+                "end": 98.981,
+                "score": 0.73,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "when",
+                "start": 99.041,
+                "end": 99.181,
+                "score": 0.814,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you",
+                "start": 99.221,
+                "end": 99.341,
+                "score": 0.446,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "change",
+                "start": 99.421,
+                "end": 99.741,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 99.801,
+                "end": 99.901,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands.",
+                "start": 99.941,
+                "end": 100.342,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 101.522,
+        "end": 105.763,
+        "text": "Breathe out, float across the body like clouds in the wind.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 101.522,
+                "end": 101.942,
+                "score": 0.576,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out,",
+                "start": 102.222,
+                "end": 102.462,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 103.062,
+                "end": 103.322,
+                "score": 0.885,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "across",
+                "start": 103.362,
+                "end": 103.763,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 103.803,
+                "end": 103.883,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body",
+                "start": 103.943,
+                "end": 104.283,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 104.323,
+                "end": 104.523,
+                "score": 0.546,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clouds",
+                "start": 104.603,
+                "end": 105.143,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 105.223,
+                "end": 105.323,
+                "score": 0.566,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 105.343,
+                "end": 105.403,
+                "score": 0.87,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wind.",
+                "start": 105.483,
+                "end": 105.763,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 106.843,
+        "end": 108.084,
+        "text": "And breathe in.",
+        "words": [
+            {
+                "word": "And",
+                "start": 106.843,
+                "end": 106.944,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 107.024,
+                "end": 107.384,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 107.964,
+                "end": 108.084,
+                "score": 0.855,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 109.702,
+        "end": 112.144,
+        "text": " and float and breathe out.",
+        "words": [
+            {
+                "word": "and",
+                "start": 109.702,
+                "end": 109.882,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 110.122,
+                "end": 111.083,
+                "score": 0.762,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 111.123,
+                "end": 111.243,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 111.263,
+                "end": 112.064,
+                "score": 0.651,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 112.084,
+                "end": 112.144,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 113.265,
+        "end": 116.347,
+        "text": "Now this time, breathe in and lean back.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 113.265,
+                "end": 113.425,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 113.485,
+                "end": 113.665,
+                "score": 0.914,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 113.765,
+                "end": 114.065,
+                "score": 0.715,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 114.165,
+                "end": 114.486,
+                "score": 0.769,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 114.646,
+                "end": 114.766,
+                "score": 0.723,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 114.786,
+                "end": 114.846,
+                "score": 0.005,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lean",
+                "start": 115.366,
+                "end": 115.706,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back.",
+                "start": 115.767,
+                "end": 116.347,
+                "score": 0.912,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 116.367,
+        "end": 120.81,
+        "text": "Let the hands float in front of the body.",
+        "words": [
+            {
+                "word": "Let",
+                "start": 116.367,
+                "end": 116.427,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 117.588,
+                "end": 117.688,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 117.708,
+                "end": 118.028,
+                "score": 0.827,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 118.048,
+                "end": 118.148,
+                "score": 0.116,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 118.889,
+                "end": 119.109,
+                "score": 0.506,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 119.809,
+                "end": 120.01,
+                "score": 0.413,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 120.05,
+                "end": 120.11,
+                "score": 0.171,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 120.13,
+                "end": 120.23,
+                "score": 0.792,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 120.29,
+                "end": 120.81,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 122.752,
+        "end": 130.897,
+        "text": "Breathe in, lean back, breathe out, float in front of the body.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 122.752,
+                "end": 123.972,
+                "score": 0.776,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 123.992,
+                "end": 124.032,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lean",
+                "start": 124.753,
+                "end": 125.053,
+                "score": 0.793,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back,",
+                "start": 125.113,
+                "end": 125.894,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 127.035,
+                "end": 127.415,
+                "score": 0.709,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out,",
+                "start": 128.135,
+                "end": 128.416,
+                "score": 0.546,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 129.116,
+                "end": 129.817,
+                "score": 0.691,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 129.857,
+                "end": 129.917,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 129.977,
+                "end": 130.157,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 130.177,
+                "end": 130.237,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 130.277,
+                "end": 130.377,
+                "score": 0.675,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 130.437,
+                "end": 130.897,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 131.538,
+        "end": 133.399,
+        "text": "Now breathe in and lean back.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 131.538,
+                "end": 131.698,
+                "score": 0.925,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 131.758,
+                "end": 132.078,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 132.138,
+                "end": 132.258,
+                "score": 0.806,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 132.298,
+                "end": 132.398,
+                "score": 0.704,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lean",
+                "start": 132.418,
+                "end": 132.639,
+                "score": 0.896,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back.",
+                "start": 132.719,
+                "end": 133.399,
+                "score": 0.946,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 134.18,
+        "end": 138.543,
+        "text": "And now turn your body as they float across.",
+        "words": [
+            {
+                "word": "And",
+                "start": 134.18,
+                "end": 134.28,
+                "score": 0.921,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now",
+                "start": 134.32,
+                "end": 134.52,
+                "score": 0.919,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 134.68,
+                "end": 135.601,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 135.661,
+                "end": 135.821,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body",
+                "start": 135.861,
+                "end": 136.401,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 136.461,
+                "end": 136.541,
+                "score": 0.188,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 136.601,
+                "end": 136.802,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 136.902,
+                "end": 137.902,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "across.",
+                "start": 137.922,
+                "end": 138.543,
+                "score": 0.578,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 140.0,
+        "end": 143.383,
+        "text": " Breathe in, lean back in.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 140.0,
+                "end": 140.4,
+                "score": 0.484,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 141.101,
+                "end": 141.421,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "lean",
+                "start": 142.562,
+                "end": 142.802,
+                "score": 0.751,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back",
+                "start": 142.842,
+                "end": 143.103,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 143.223,
+                "end": 143.383,
+                "score": 0.575,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 143.803,
+        "end": 145.905,
+        "text": "Breathe out and turn your body.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 143.803,
+                "end": 144.063,
+                "score": 0.419,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 144.444,
+                "end": 144.664,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 144.984,
+                "end": 145.084,
+                "score": 0.336,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "turn",
+                "start": 145.124,
+                "end": 145.364,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 145.384,
+                "end": 145.524,
+                "score": 0.978,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 145.565,
+                "end": 145.905,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 145.985,
+        "end": 149.127,
+        "text": "Now watch, your hand is going to stop.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 145.985,
+                "end": 146.225,
+                "score": 0.935,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "watch,",
+                "start": 146.325,
+                "end": 146.866,
+                "score": 0.849,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 147.426,
+                "end": 147.606,
+                "score": 0.865,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 147.686,
+                "end": 148.067,
+                "score": 0.86,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "is",
+                "start": 148.147,
+                "end": 148.227,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 148.267,
+                "end": 148.447,
+                "score": 0.573,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 148.467,
+                "end": 148.507,
+                "score": 0.754,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stop.",
+                "start": 148.627,
+                "end": 149.127,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 149.788,
+        "end": 158.835,
+        "text": "All the fingers are going to come together in a single whip as your other hand goes around in a full circle and pushes out to the side.",
+        "words": [
+            {
+                "word": "All",
+                "start": 149.788,
+                "end": 149.928,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 149.988,
+                "end": 150.068,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fingers",
+                "start": 150.128,
+                "end": 150.388,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "are",
+                "start": 150.428,
+                "end": 150.488,
+                "score": 0.996,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 150.508,
+                "end": 150.609,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 150.629,
+                "end": 150.669,
+                "score": 0.953,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "come",
+                "start": 150.729,
+                "end": 150.849,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "together",
+                "start": 150.889,
+                "end": 151.369,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 151.409,
+                "end": 151.489,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 151.509,
+                "end": 151.549,
+                "score": 0.491,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "single",
+                "start": 151.629,
+                "end": 151.97,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whip",
+                "start": 152.07,
+                "end": 152.39,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "as",
+                "start": 153.911,
+                "end": 154.011,
+                "score": 0.631,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 154.051,
+                "end": 154.211,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 154.271,
+                "end": 154.472,
+                "score": 0.74,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 154.512,
+                "end": 154.712,
+                "score": 0.922,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 154.752,
+                "end": 154.952,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around",
+                "start": 155.012,
+                "end": 155.332,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 155.372,
+                "end": 155.452,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 155.472,
+                "end": 155.512,
+                "score": 0.483,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "full",
+                "start": 155.633,
+                "end": 156.093,
+                "score": 0.968,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "circle",
+                "start": 156.193,
+                "end": 156.673,
+                "score": 0.781,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 157.034,
+                "end": 157.194,
+                "score": 0.645,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pushes",
+                "start": 157.314,
+                "end": 157.714,
+                "score": 0.789,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 157.834,
+                "end": 157.954,
+                "score": 0.957,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 157.994,
+                "end": 158.155,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 158.195,
+                "end": 158.255,
+                "score": 0.984,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "side.",
+                "start": 158.355,
+                "end": 158.835,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 159.476,
+        "end": 168.123,
+        "text": "Imagine you're collecting leaves, a pile of leaves on an autumn day, and whoosh, you're throwing them away.",
+        "words": [
+            {
+                "word": "Imagine",
+                "start": 159.476,
+                "end": 160.016,
+                "score": 0.915,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 160.036,
+                "end": 160.236,
+                "score": 0.688,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collecting",
+                "start": 160.296,
+                "end": 161.177,
+                "score": 0.952,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves,",
+                "start": 161.337,
+                "end": 161.878,
+                "score": 0.577,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 161.898,
+                "end": 162.018,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pile",
+                "start": 162.158,
+                "end": 162.538,
+                "score": 0.835,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 162.598,
+                "end": 162.738,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves",
+                "start": 162.798,
+                "end": 163.179,
+                "score": 0.562,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 163.339,
+                "end": 163.419,
+                "score": 0.748,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "an",
+                "start": 163.439,
+                "end": 163.479,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "autumn",
+                "start": 163.759,
+                "end": 164.019,
+                "score": 0.927,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "day,",
+                "start": 164.079,
+                "end": 164.52,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 165.4,
+                "end": 165.5,
+                "score": 0.707,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoosh,",
+                "start": 165.52,
+                "end": 165.741,
+                "score": 0.195,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "you're",
+                "start": 165.761,
+                "end": 166.441,
+                "score": 0.622,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "throwing",
+                "start": 166.962,
+                "end": 167.462,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 167.502,
+                "end": 167.622,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "away.",
+                "start": 167.682,
+                "end": 168.123,
+                "score": 0.852,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 169.37,
+        "end": 175.794,
+        "text": " And breathe in, collect the leaves, and whoosh, breathe out.",
+        "words": [
+            {
+                "word": "And",
+                "start": 169.37,
+                "end": 169.51,
+                "score": 0.62,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 169.55,
+                "end": 170.731,
+                "score": 0.687,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 170.751,
+                "end": 170.791,
+                "score": 0.013,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collect",
+                "start": 171.691,
+                "end": 172.132,
+                "score": 0.797,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 172.212,
+                "end": 172.332,
+                "score": 0.447,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves,",
+                "start": 172.372,
+                "end": 173.132,
+                "score": 0.757,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 173.953,
+                "end": 174.113,
+                "score": 0.777,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoosh,",
+                "start": 174.133,
+                "end": 174.833,
+                "score": 0.528,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 175.053,
+                "end": 175.513,
+                "score": 0.761,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 175.653,
+                "end": 175.794,
+                "score": 0.973,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 175.874,
+        "end": 179.736,
+        "text": "Now release the hook, bring the hand down and around.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 175.874,
+                "end": 176.114,
+                "score": 0.837,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "release",
+                "start": 176.254,
+                "end": 176.754,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 176.814,
+                "end": 176.914,
+                "score": 0.879,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hook,",
+                "start": 176.954,
+                "end": 177.314,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "bring",
+                "start": 177.955,
+                "end": 178.115,
+                "score": 0.535,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 178.135,
+                "end": 178.195,
+                "score": 0.048,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 178.235,
+                "end": 178.515,
+                "score": 0.715,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down",
+                "start": 178.555,
+                "end": 178.975,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 179.015,
+                "end": 179.115,
+                "score": 0.72,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around.",
+                "start": 179.135,
+                "end": 179.736,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 179.756,
+        "end": 187.66,
+        "text": "Change the hands, let them float in front of your body.",
+        "words": [
+            {
+                "word": "Change",
+                "start": 179.756,
+                "end": 181.376,
+                "score": 0.408,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 181.437,
+                "end": 181.557,
+                "score": 0.972,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 181.597,
+                "end": 182.097,
+                "score": 0.667,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "let",
+                "start": 183.097,
+                "end": 183.177,
+                "score": 0.167
+            },
+            {
+                "word": "them",
+                "start": 183.518,
+                "end": 183.858,
+                "score": 0.49,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 183.878,
+                "end": 184.458,
+                "score": 0.598,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 184.498,
+                "end": 184.578,
+                "score": 0.722,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 184.638,
+                "end": 184.798,
+                "score": 0.943,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 184.838,
+                "end": 184.878,
+                "score": 0.985,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "your",
+                "start": 184.938,
+                "end": 185.078,
+                "score": 0.939,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 185.138,
+                "end": 187.66,
+                "score": 0.892,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 187.72,
+        "end": 193.583,
+        "text": "Change the hands and breathe in, back, float, get ready, this hand.",
+        "words": [
+            {
+                "word": "Change",
+                "start": 187.72,
+                "end": 188.0,
+                "score": 0.948,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 188.02,
+                "end": 188.14,
+                "score": 0.846,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 188.18,
+                "end": 188.38,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 188.44,
+                "end": 188.54,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 188.56,
+                "end": 189.381,
+                "score": 0.738,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 189.401,
+                "end": 189.441,
+                "score": 0.002,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "back,",
+                "start": 189.961,
+                "end": 190.621,
+                "score": 0.798,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float,",
+                "start": 191.442,
+                "end": 192.002,
+                "score": 0.627,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 192.042,
+                "end": 192.222,
+                "score": 0.992,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ready,",
+                "start": 192.322,
+                "end": 192.802,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "this",
+                "start": 192.883,
+                "end": 193.043,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand.",
+                "start": 193.103,
+                "end": 193.583,
+                "score": 0.714,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 194.358,
+        "end": 202.28,
+        "text": " All the fingers come together in a single whip while the other hand continues in a circle and pushes out to the side.",
+        "words": [
+            {
+                "word": "All",
+                "start": 194.358,
+                "end": 194.458,
+                "score": 0.319,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 194.478,
+                "end": 194.678,
+                "score": 0.544,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fingers",
+                "start": 194.718,
+                "end": 195.098,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "come",
+                "start": 195.178,
+                "end": 195.378,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "together",
+                "start": 195.418,
+                "end": 195.918,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 195.978,
+                "end": 196.078,
+                "score": 0.604,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 196.118,
+                "end": 196.138,
+                "score": 0.92,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "single",
+                "start": 196.198,
+                "end": 196.618,
+                "score": 0.753,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whip",
+                "start": 196.678,
+                "end": 197.059,
+                "score": 0.759,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "while",
+                "start": 197.099,
+                "end": 197.339,
+                "score": 0.635,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 197.379,
+                "end": 197.459,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "other",
+                "start": 197.499,
+                "end": 197.659,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 197.699,
+                "end": 197.939,
+                "score": 0.662,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "continues",
+                "start": 198.099,
+                "end": 198.879,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 198.939,
+                "end": 199.039,
+                "score": 0.859,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 199.079,
+                "end": 199.099,
+                "score": 0.897,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "circle",
+                "start": 199.199,
+                "end": 199.719,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 200.439,
+                "end": 200.599,
+                "score": 0.183,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pushes",
+                "start": 200.679,
+                "end": 201.119,
+                "score": 0.741,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 201.199,
+                "end": 201.339,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 201.379,
+                "end": 201.479,
+                "score": 0.66,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 201.499,
+                "end": 201.599,
+                "score": 0.504,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "side.",
+                "start": 201.699,
+                "end": 202.28,
+                "score": 0.79,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 203.04,
+        "end": 212.081,
+        "text": "Collect a pile of leaves, breathe in, breathe out and whoosh, let them go.",
+        "words": [
+            {
+                "word": "Collect",
+                "start": 203.04,
+                "end": 203.74,
+                "score": 0.618,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 203.82,
+                "end": 203.92,
+                "score": 0.569,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "pile",
+                "start": 204.06,
+                "end": 204.86,
+                "score": 0.899,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 204.92,
+                "end": 205.04,
+                "score": 0.642,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves,",
+                "start": 205.1,
+                "end": 205.46,
+                "score": 0.431,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 206.62,
+                "end": 207.461,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 207.481,
+                "end": 207.521,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 208.461,
+                "end": 208.821,
+                "score": 0.666,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 209.041,
+                "end": 209.201,
+                "score": 0.933,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 209.281,
+                "end": 209.381,
+                "score": 0.622,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoosh,",
+                "start": 209.401,
+                "end": 211.041,
+                "score": 0.505,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "let",
+                "start": 211.081,
+                "end": 211.221,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 211.261,
+                "end": 211.441,
+                "score": 0.811,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "go.",
+                "start": 211.481,
+                "end": 212.081,
+                "score": 0.714,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 212.101,
+        "end": 220.343,
+        "text": "Again, breathe in and whoosh, throw them away.",
+        "words": [
+            {
+                "word": "Again,",
+                "start": 212.101,
+                "end": 213.922,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 213.982,
+                "end": 214.942,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 214.962,
+                "end": 215.342,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 217.442,
+                "end": 217.722,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoosh,",
+                "start": 217.983,
+                "end": 219.303,
+                "score": 0.661,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "throw",
+                "start": 219.343,
+                "end": 219.643,
+                "score": 0.969,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 219.663,
+                "end": 219.783,
+                "score": 0.126,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "away.",
+                "start": 219.823,
+                "end": 220.343,
+                "score": 0.961,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 221.138,
+        "end": 231.184,
+        "text": " the last time, breathe in, collect the leaves, and whoosh, release the hook.",
+        "words": [
+            {
+                "word": "the",
+                "start": 221.138,
+                "end": 221.258,
+                "score": 0.264,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "last",
+                "start": 221.298,
+                "end": 221.698,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 221.818,
+                "end": 222.699,
+                "score": 0.868,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 223.499,
+                "end": 224.94,
+                "score": 0.73,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 225.901,
+                "end": 225.981,
+                "score": 0.489,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "collect",
+                "start": 226.021,
+                "end": 226.341,
+                "score": 0.701,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 226.401,
+                "end": 226.541,
+                "score": 0.78,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves,",
+                "start": 226.621,
+                "end": 227.362,
+                "score": 0.794,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 228.383,
+                "end": 228.523,
+                "score": 0.771,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whoosh,",
+                "start": 228.543,
+                "end": 229.383,
+                "score": 0.536,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "release",
+                "start": 230.184,
+                "end": 230.684,
+                "score": 0.876,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 230.724,
+                "end": 230.824,
+                "score": 0.803,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hook.",
+                "start": 230.844,
+                "end": 231.184,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 231.665,
+        "end": 243.392,
+        "text": "Bring the hand down, front of the body, now they change, one up and one down, and now the hands blow like clouds in the wind, in front of the body.",
+        "words": [
+            {
+                "word": "Bring",
+                "start": 231.665,
+                "end": 232.165,
+                "score": 0.533,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 232.205,
+                "end": 232.305,
+                "score": 0.663,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 232.345,
+                "end": 232.605,
+                "score": 0.823,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down,",
+                "start": 232.665,
+                "end": 233.546,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 234.826,
+                "end": 234.987,
+                "score": 0.357,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 235.027,
+                "end": 235.127,
+                "score": 0.19,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 235.147,
+                "end": 235.247,
+                "score": 0.771,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body,",
+                "start": 235.287,
+                "end": 235.767,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now",
+                "start": 235.827,
+                "end": 236.007,
+                "score": 0.744,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "they",
+                "start": 236.027,
+                "end": 236.167,
+                "score": 0.68,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "change,",
+                "start": 236.267,
+                "end": 236.828,
+                "score": 0.916,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 237.048,
+                "end": 237.188,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 237.248,
+                "end": 237.348,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 237.408,
+                "end": 237.488,
+                "score": 0.816,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 237.608,
+                "end": 237.768,
+                "score": 0.854,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down,",
+                "start": 237.848,
+                "end": 238.409,
+                "score": 0.976,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 238.489,
+                "end": 238.569,
+                "score": 0.561,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now",
+                "start": 238.609,
+                "end": 238.769,
+                "score": 0.546,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 238.789,
+                "end": 238.929,
+                "score": 0.856,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands",
+                "start": 238.989,
+                "end": 239.409,
+                "score": 0.741,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "blow",
+                "start": 239.449,
+                "end": 239.69,
+                "score": 0.382,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "like",
+                "start": 239.73,
+                "end": 239.89,
+                "score": 0.873,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "clouds",
+                "start": 239.97,
+                "end": 240.51,
+                "score": 0.858,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 240.53,
+                "end": 240.57,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 240.89,
+                "end": 241.05,
+                "score": 0.682,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "wind,",
+                "start": 241.13,
+                "end": 241.491,
+                "score": 0.869,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 242.231,
+                "end": 242.491,
+                "score": 0.434
+            },
+            {
+                "word": "front",
+                "start": 242.531,
+                "end": 242.711,
+                "score": 0.597,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 242.751,
+                "end": 242.811,
+                "score": 0.742,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 242.851,
+                "end": 242.932,
+                "score": 0.721,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 242.972,
+                "end": 243.392,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 244.121,
+        "end": 248.043,
+        "text": " Change the hands, breathe in, breathe out.",
+        "words": [
+            {
+                "word": "Change",
+                "start": 244.121,
+                "end": 244.541,
+                "score": 0.63,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 244.641,
+                "end": 244.761,
+                "score": 0.891,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 244.801,
+                "end": 245.562,
+                "score": 0.83,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 245.582,
+                "end": 246.702,
+                "score": 0.658,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in,",
+                "start": 246.722,
+                "end": 246.762,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "breathe",
+                "start": 247.042,
+                "end": 247.362,
+                "score": 0.813,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out.",
+                "start": 247.823,
+                "end": 248.043,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 248.763,
+        "end": 253.845,
+        "text": "Get ready, fingers together in a single whip, stand on one foot.",
+        "words": [
+            {
+                "word": "Get",
+                "start": 248.763,
+                "end": 249.023,
+                "score": 0.93,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ready,",
+                "start": 249.163,
+                "end": 249.864,
+                "score": 0.903,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "fingers",
+                "start": 249.884,
+                "end": 250.824,
+                "score": 0.582,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "together",
+                "start": 250.884,
+                "end": 251.404,
+                "score": 0.845,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 251.444,
+                "end": 251.544,
+                "score": 0.566,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 251.564,
+                "end": 251.604,
+                "score": 0.483,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "single",
+                "start": 251.664,
+                "end": 252.004,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "whip,",
+                "start": 252.084,
+                "end": 252.325,
+                "score": 0.882,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "stand",
+                "start": 252.345,
+                "end": 252.805,
+                "score": 0.883,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "on",
+                "start": 252.885,
+                "end": 252.965,
+                "score": 0.881,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "one",
+                "start": 253.105,
+                "end": 253.245,
+                "score": 0.851,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "foot.",
+                "start": 253.405,
+                "end": 253.845,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 254.826,
+        "end": 258.527,
+        "text": "Now step out and push.",
+        "words": [
+            {
+                "word": "Now",
+                "start": 254.826,
+                "end": 255.046,
+                "score": 0.886,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "step",
+                "start": 255.206,
+                "end": 255.706,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "out",
+                "start": 255.926,
+                "end": 256.186,
+                "score": 0.911,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 257.607,
+                "end": 257.807,
+                "score": 0.728,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push.",
+                "start": 257.927,
+                "end": 258.527,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 260.108,
+        "end": 266.051,
+        "text": "We're going to scoop up those leaves and push.",
+        "words": [
+            {
+                "word": "We're",
+                "start": 260.108,
+                "end": 260.288,
+                "score": 0.449,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "going",
+                "start": 260.328,
+                "end": 260.588,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "to",
+                "start": 260.628,
+                "end": 260.728,
+                "score": 0.672,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "scoop",
+                "start": 260.848,
+                "end": 261.369,
+                "score": 0.874,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "up",
+                "start": 261.449,
+                "end": 261.589,
+                "score": 0.359,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "those",
+                "start": 261.709,
+                "end": 262.089,
+                "score": 0.826,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves",
+                "start": 262.229,
+                "end": 263.109,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 265.05,
+                "end": 265.37,
+                "score": 0.564,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push.",
+                "start": 265.59,
+                "end": 266.051,
+                "score": 0.8,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 268.492,
+        "end": 271.553,
+        "text": "One more time, scoop the leaves.",
+        "words": [
+            {
+                "word": "One",
+                "start": 268.492,
+                "end": 268.632,
+                "score": 0.861,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "more",
+                "start": 268.692,
+                "end": 268.892,
+                "score": 0.866,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "time,",
+                "start": 269.012,
+                "end": 269.892,
+                "score": 0.802,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "scoop",
+                "start": 269.912,
+                "end": 270.272,
+                "score": 0.587,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 270.412,
+                "end": 270.553,
+                "score": 0.456,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "leaves.",
+                "start": 270.633,
+                "end": 271.553,
+                "score": 0.764,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 273.595,
+        "end": 286.039,
+        "text": " Push, get ready, release the hook, hand comes down, switch the hands, let them float in front of the body.",
+        "words": [
+            {
+                "word": "Push,",
+                "start": 273.595,
+                "end": 274.135,
+                "score": 0.908,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "get",
+                "start": 275.256,
+                "end": 275.396,
+                "score": 0.829,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "ready,",
+                "start": 275.496,
+                "end": 275.756,
+                "score": 0.791,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "release",
+                "start": 275.816,
+                "end": 276.296,
+                "score": 0.9,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 276.376,
+                "end": 276.516,
+                "score": 0.85,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hook,",
+                "start": 276.556,
+                "end": 277.196,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 278.317,
+                "end": 278.577,
+                "score": 0.763,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "comes",
+                "start": 278.657,
+                "end": 278.957,
+                "score": 0.787,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down,",
+                "start": 279.097,
+                "end": 279.917,
+                "score": 0.839,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "switch",
+                "start": 281.078,
+                "end": 281.578,
+                "score": 0.917,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 281.658,
+                "end": 281.778,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 281.838,
+                "end": 282.718,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "let",
+                "start": 283.619,
+                "end": 283.799,
+                "score": 0.838,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 283.839,
+                "end": 283.999,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 284.139,
+                "end": 284.619,
+                "score": 0.767,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 284.659,
+                "end": 284.719,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 284.779,
+                "end": 284.959,
+                "score": 0.733,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 284.979,
+                "end": 285.039,
+                "score": 0.746,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 285.079,
+                "end": 285.159,
+                "score": 0.76,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 285.219,
+                "end": 286.039,
+                "score": 0.888,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 287.46,
+        "end": 293.202,
+        "text": "And now, again, switch the hands, let them float in front of the body.",
+        "words": [
+            {
+                "word": "And",
+                "start": 287.46,
+                "end": 287.62,
+                "score": 0.875,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now,",
+                "start": 287.7,
+                "end": 288.36,
+                "score": 0.903,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "again,",
+                "start": 288.88,
+                "end": 289.621,
+                "score": 0.909,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "switch",
+                "start": 289.741,
+                "end": 290.101,
+                "score": 0.59,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 290.121,
+                "end": 290.241,
+                "score": 0.373,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands,",
+                "start": 290.361,
+                "end": 290.761,
+                "score": 0.862,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "let",
+                "start": 290.821,
+                "end": 290.941,
+                "score": 0.941,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "them",
+                "start": 290.981,
+                "end": 291.101,
+                "score": 0.991,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "float",
+                "start": 291.261,
+                "end": 291.802,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 291.842,
+                "end": 291.902,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 291.942,
+                "end": 292.122,
+                "score": 0.836,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 292.142,
+                "end": 292.202,
+                "score": 0.752,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 292.242,
+                "end": 292.342,
+                "score": 0.81,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 292.422,
+                "end": 293.202,
+                "score": 0.82,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 293.862,
+        "end": 301.185,
+        "text": "And now, another hook, hand goes around in a circle, and push.",
+        "words": [
+            {
+                "word": "And",
+                "start": 293.862,
+                "end": 293.962,
+                "score": 0.719,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "now,",
+                "start": 294.062,
+                "end": 294.643,
+                "score": 0.94,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "another",
+                "start": 295.463,
+                "end": 295.863,
+                "score": 0.788,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hook,",
+                "start": 295.963,
+                "end": 296.503,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hand",
+                "start": 297.444,
+                "end": 297.884,
+                "score": 0.368,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "goes",
+                "start": 297.924,
+                "end": 298.104,
+                "score": 0.727,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around",
+                "start": 298.164,
+                "end": 298.644,
+                "score": 0.844,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 298.684,
+                "end": 298.784,
+                "score": 0.601,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "a",
+                "start": 298.824,
+                "end": 298.844,
+                "score": 0.974,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "circle,",
+                "start": 298.964,
+                "end": 299.744,
+                "score": 0.7,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "and",
+                "start": 300.365,
+                "end": 300.605,
+                "score": 0.755,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push.",
+                "start": 300.925,
+                "end": 301.185,
+                "score": 0.928,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 316.13,
+        "end": 318.732,
+        "text": " And push, release the hook.",
+        "words": [
+            {
+                "word": "And",
+                "start": 316.13,
+                "end": 316.27,
+                "score": 0.902,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "push,",
+                "start": 316.37,
+                "end": 316.931,
+                "score": 0.898,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "release",
+                "start": 317.551,
+                "end": 317.931,
+                "score": 0.782,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 317.951,
+                "end": 318.111,
+                "score": 0.541,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hook.",
+                "start": 318.191,
+                "end": 318.732,
+                "score": 0.906,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 319.692,
+        "end": 321.073,
+        "text": "Come around.",
+        "words": [
+            {
+                "word": "Come",
+                "start": 319.692,
+                "end": 319.892,
+                "score": 0.871,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "around.",
+                "start": 319.972,
+                "end": 321.073,
+                "score": 0.843,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 321.934,
+        "end": 323.414,
+        "text": "Change the hands.",
+        "words": [
+            {
+                "word": "Change",
+                "start": 321.934,
+                "end": 322.274,
+                "score": 0.833,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 322.334,
+                "end": 322.434,
+                "score": 0.674,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands.",
+                "start": 322.474,
+                "end": 323.414,
+                "score": 0.842,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 324.095,
+        "end": 325.816,
+        "text": "Float in front of the body.",
+        "words": [
+            {
+                "word": "Float",
+                "start": 324.095,
+                "end": 324.375,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 324.395,
+                "end": 324.455,
+                "score": 0.926,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front",
+                "start": 324.515,
+                "end": 324.695,
+                "score": 0.758,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "of",
+                "start": 324.715,
+                "end": 324.775,
+                "score": 0.75,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 324.815,
+                "end": 324.895,
+                "score": 0.834,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "body.",
+                "start": 324.955,
+                "end": 325.816,
+                "score": 0.931,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 326.916,
+        "end": 328.197,
+        "text": "Change the hands.",
+        "words": [
+            {
+                "word": "Change",
+                "start": 326.916,
+                "end": 327.257,
+                "score": 0.812,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 327.317,
+                "end": 327.417,
+                "score": 0.685,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "hands.",
+                "start": 327.457,
+                "end": 328.197,
+                "score": 0.825,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 328.317,
+        "end": 329.678,
+        "text": "Stop in front.",
+        "words": [
+            {
+                "word": "Stop",
+                "start": 328.317,
+                "end": 328.758,
+                "score": 0.779,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in",
+                "start": 328.818,
+                "end": 328.918,
+                "score": 0.807,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "front.",
+                "start": 329.098,
+                "end": 329.678,
+                "score": 0.887,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 330.419,
+        "end": 332.059,
+        "text": "Embrace the moon.",
+        "words": [
+            {
+                "word": "Embrace",
+                "start": 330.419,
+                "end": 330.939,
+                "score": 0.831,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 330.999,
+                "end": 331.099,
+                "score": 0.671,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "moon.",
+                "start": 331.159,
+                "end": 332.059,
+                "score": 0.195,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 332.9,
+        "end": 334.161,
+        "text": "Breathe in.",
+        "words": [
+            {
+                "word": "Breathe",
+                "start": 332.9,
+                "end": 334.101,
+                "score": 0.351,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "in.",
+                "start": 334.121,
+                "end": 334.161,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 335.241,
+        "end": 336.502,
+        "text": "Hold the tree.",
+        "words": [
+            {
+                "word": "Hold",
+                "start": 335.241,
+                "end": 335.522,
+                "score": 0.665,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 335.542,
+                "end": 335.642,
+                "score": 0.804,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "tree.",
+                "start": 335.742,
+                "end": 336.502,
+                "score": 0.864,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 338.123,
+        "end": 339.364,
+        "text": "Push down.",
+        "words": [
+            {
+                "word": "Push",
+                "start": 338.123,
+                "end": 338.443,
+                "score": 0.745,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "down.",
+                "start": 338.523,
+                "end": 339.364,
+                "score": 0.796,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    },
+    {
+        "start": 339.384,
+        "end": 342.466,
+        "text": "And close the door.",
+        "words": [
+            {
+                "word": "And",
+                "start": 339.384,
+                "end": 339.444,
+                "score": 0.0,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "close",
+                "start": 341.445,
+                "end": 341.785,
+                "score": 0.785,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "the",
+                "start": 341.845,
+                "end": 341.945,
+                "score": 0.832,
+                "speaker": "SPEAKER_00"
+            },
+            {
+                "word": "door.",
+                "start": 342.005,
+                "end": 342.466,
+                "score": 0.848,
+                "speaker": "SPEAKER_00"
+            }
+        ],
+        "speaker": "SPEAKER_00"
+    }
+]
