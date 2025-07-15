@@ -1,5 +1,5 @@
 # From-Modal-Fusion-to-Model-Selection-Practical-Evaluation-for-Emotion-Understanding-in-HRI
-
+![Framework Diagram](shapes-1752079181104.png)
 This is the repository for the paper:
 From Modal Fusion to Model Selection: Practical Evaluation for Emotion Understanding in HRI
 
