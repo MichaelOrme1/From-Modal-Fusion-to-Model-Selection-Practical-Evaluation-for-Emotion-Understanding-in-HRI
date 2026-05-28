@@ -1,5 +1,5 @@
 # From-Modal-Fusion-to-Model-Selection-Practical-Evaluation-for-Emotion-Understanding-in-HRI
-![Framework Diagram](shapes-1752584169137.png)
+![Framework Diagram](shapes-1778755426761.png)
 This is the repository for the paper:
 From Modal Fusion to Model Selection: Practical Evaluation for Emotion Understanding in HRI
 
@@ -11,4 +11,4 @@ The framework has an autoencoder function that can encode the features for you, 
 
 Once the autoencoders are set up, the framework can be used to test any numbers of combinations of modalities and classifiers.
 
-The full data can be found at: https://www.dropbox.com/scl/fi/yhdrhnlhyhgqlk8e0n6vx/IEMOCAP-AFFWILD.csv?rlkey=zf0yjyy2wuq8t6677d88akkim&st=kov9awt6&dl=0
+The full data will be released upon publication
